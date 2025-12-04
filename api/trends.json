@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-04T22:29:32.054528+08:00",
-  "total_titles_processed": 1893,
+  "generated_at": "2025-12-04T23:31:53.513619+08:00",
+  "total_titles_processed": 2001,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[17时31分 ~ 22时29分]"
+          "appearance_count": 10,
+          "time_info": "[17时31分 ~ 23时31分]"
         },
         {
           "title": "Deepseek 团队为什么把大量精力花在 IMO 这种对普通人和商业应用都没有用途的地方？",
