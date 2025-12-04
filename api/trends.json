@@ -1,71 +1,8 @@
 {
-  "generated_at": "2025-12-04T20:58:45.673818+08:00",
-  "total_titles_processed": 1729,
+  "generated_at": "2025-12-04T21:43:02.968010+08:00",
+  "total_titles_processed": 1799,
   "failed_sources": [],
   "trends": [
-    {
-      "keyword_group": "苹果",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "市场消息：苹果(AAPL.O)设计主管艾伦·戴伊被Meta挖走，其将于12月31日加入Meta担任首席设计官，苹果将用资深设计师斯蒂芬·勒梅取代艾伦·戴伊。",
-          "url": "https://flash.jin10.com/detail/20251204033530628800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时32分"
-        },
-        {
-          "title": "苹果股价下跌0.6%。彭博报道称，该公司用户界面设计团队负责人艾伦·戴伊（Alan Dye） 携副手Billy Sorrentino跳槽到Meta。",
-          "url": "https://wallstreetcn.com/livenews/3014612",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时32分 ~ 05时24分]"
-        },
-        {
-          "title": "重大“挖角”：苹果设计高管艾伦·戴伊被扎克伯格招至麾下Meta",
-          "url": "https://wallstreetcn.com/livenews/3014609",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时32分 ~ 05时24分]"
-        },
-        {
-          "title": "商品期货收盘，集运欧线主力合约涨超3%，国际铜涨近3%，沪铜、沪锡涨超2%，纸浆、焦炭、硅铁、玉米、淀粉、焦煤涨超1%。BR橡胶、烧碱跌近2%，沪银、玻璃、碳酸锂、橡胶、氧化铝、苹果跌超1%。",
-          "url": "https://wallstreetcn.com/livenews/3014985",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时50分"
-        },
-        {
-          "title": "早盘收盘，国内期货主力合约涨跌不一。沪锡、国际铜涨超3%，沪铜涨超2%，纸浆、硅铁涨超1%。跌幅方面，合成橡胶、碳酸锂、苹果、烧碱跌超2%，橡胶、玻璃、氧化铝跌超1%。",
-          "url": "https://flash.jin10.com/detail/20251204113030985800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时37分"
-        }
-      ]
-    },
     {
       "keyword_group": "Deepseek",
       "match_count": 2,
@@ -95,8 +32,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时31分 ~ 20时58分]"
+          "appearance_count": 8,
+          "time_info": "[17时31分 ~ 21时43分]"
         }
       ]
     },
