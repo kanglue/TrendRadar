@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-06T12:30:52.077864+08:00",
-  "total_titles_processed": 864,
+  "generated_at": "2025-12-06T13:26:02.654281+08:00",
+  "total_titles_processed": 935,
   "failed_sources": [],
   "trends": [
     {
@@ -25,11 +25,12 @@
           "source": "金十数据",
           "ranks": [
             8,
-            17
+            17,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时15分 ~ 12时30分]"
+          "appearance_count": 3,
+          "time_info": "[11时15分 ~ 13时26分]"
         },
         {
           "title": "OpenAI最快将于下周发布GPT-5.2",
@@ -100,11 +101,12 @@
           "source": "知乎",
           "ranks": [
             20,
-            13
+            13,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时15分 ~ 12时30分]"
+          "appearance_count": 4,
+          "time_info": "[11时15分 ~ 13时26分]"
         }
       ]
     }
