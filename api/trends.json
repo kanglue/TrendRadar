@@ -1,65 +1,7 @@
 {
-  "generated_at": "2025-12-07T23:23:59.189032+08:00",
-  "total_titles_processed": 1342,
+  "generated_at": "2025-12-08T00:30:51.513318+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "GPT",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "预计下周二！OpenAI“紧急提前”发布GPT 5.2，应对Gemini 3的火爆",
-          "url": "https://wallstreetcn.com/articles/3760832",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时30分 ~ 07时24分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "Gemini",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "OpenAI 暂停广告业务，全力「死磕」谷歌 Gemini，这一战略调整将如何影响 AI 行业格局？",
-          "url": "https://www.zhihu.com/question/1979223676378447995",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时20分 ~ 07时24分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "Deepseek",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "第二波DeepSeek冲击：V3.2 改写中国云生态与芯片生态",
-          "url": "https://wallstreetcn.com/articles/3760844",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6,
-            5,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时30分 ~ 15时24分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://kanglue.github.io/TrendRadar/img/news.jpg"
 }
