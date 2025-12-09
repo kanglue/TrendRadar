@@ -1,8 +1,25 @@
 {
-  "generated_at": "2025-12-10T01:47:15.141061+08:00",
-  "total_titles_processed": 402,
+  "generated_at": "2025-12-10T02:36:41.627303+08:00",
+  "total_titles_processed": 464,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "短剧",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "短剧可以不要虐待老人吗",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%9F%AD%E5%89%A7%E5%8F%AF%E4%BB%A5%E4%B8%8D%E8%A6%81%E8%99%90%E5%BE%85%E8%80%81%E4%BA%BA%E5%90%97%23&t=31&band_rank=13&Refer=top",
+          "source": "微博",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时36分"
+        }
+      ]
+    },
     {
       "keyword_group": "GPT",
       "match_count": 1,
@@ -32,8 +49,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时35分 ~ 01时47分]"
+          "appearance_count": 4,
+          "time_info": "[00时35分 ~ 02时36分]"
         }
       ]
     }
