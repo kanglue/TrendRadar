@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-09T21:42:04.479472+08:00",
-  "total_titles_processed": 1886,
+  "generated_at": "2025-12-09T22:31:03.801337+08:00",
+  "total_titles_processed": 1976,
   "failed_sources": [],
   "trends": [
     {
@@ -129,8 +129,25 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时38分 ~ 21时42分]"
+          "appearance_count": 9,
+          "time_info": "[16时38分 ~ 22时31分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "大模型",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "Meta可能在明年初推出新AI大模型Avocado",
+          "url": "https://flash.jin10.com/detail/20251209214816921800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时31分"
         }
       ]
     }
