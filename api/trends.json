@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-10T06:26:10.344590+08:00",
-  "total_titles_processed": 662,
+  "generated_at": "2025-12-10T07:26:41.838653+08:00",
+  "total_titles_processed": 729,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "Gemini",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "谷歌云：推出由Gemini驱动的编码智能体AlphaEvolve，可用于设计高级算法，现已开启私密预览。",
@@ -18,6 +18,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时20分 ~ 04时27分]"
+        },
+        {
+          "title": "美国国防部表示，已选择谷歌(GOOG.O)公司的Gemini for Government系统，为其约300万文职和军事雇员提供人工智能服务。",
+          "url": "https://flash.jin10.com/detail/20251210063207113800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时26分"
         },
         {
           "title": "谷歌云：推出由Gemini驱动的编码智能体AlphaEvolve，可用于设计高级算法，现已开启私密预览。",
@@ -47,8 +58,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时36分 ~ 06时26分]"
+          "appearance_count": 7,
+          "time_info": "[02时36分 ~ 07时26分]"
         }
       ]
     },
@@ -78,11 +89,12 @@
           "url": "https://wallstreetcn.com/articles/3760976",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时35分 ~ 06时26分]"
+          "appearance_count": 10,
+          "time_info": "[00时35分 ~ 07时26分]"
         }
       ]
     }
