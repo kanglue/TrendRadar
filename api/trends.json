@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-10T21:43:27.323575+08:00",
-  "total_titles_processed": 1903,
+  "generated_at": "2025-12-10T22:31:00.259250+08:00",
+  "total_titles_processed": 1979,
   "failed_sources": [],
   "trends": [
     {
@@ -26,11 +26,12 @@
           "url": "https://wallstreetcn.com/livenews/3018469",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            7,
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时43分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时43分 ~ 22时31分]"
         },
         {
           "title": "ChatGPT整合Adobe Photoshop等部分软件功能",
@@ -39,7 +40,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时43分"
         },
@@ -61,7 +62,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时43分"
         }
@@ -71,6 +72,18 @@
       "keyword_group": "短剧",
       "match_count": 3,
       "titles": [
+        {
+          "title": "濮存昕连续发文支持外孙女演短剧遭炮轰，如何看待这件事？",
+          "url": "https://www.zhihu.com/question/1981706810995009104",
+          "source": "知乎",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[16时37分 ~ 22时31分]"
+        },
         {
           "title": "短剧可以不要虐待老人吗",
           "url": "https://s.weibo.com/weibo?q=%23%E7%9F%AD%E5%89%A7%E5%8F%AF%E4%BB%A5%E4%B8%8D%E8%A6%81%E8%99%90%E5%BE%85%E8%80%81%E4%BA%BA%E5%90%97%23&t=31&band_rank=13&Refer=top",
@@ -86,27 +99,16 @@
           "time_info": "[02时36分 ~ 07时26分]"
         },
         {
-          "title": "濮存昕连续发文支持外孙女演短剧遭炮轰，如何看待这件事？",
-          "url": "https://www.zhihu.com/question/1981706810995009104",
-          "source": "知乎",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时37分 ~ 21时43分]"
-        },
-        {
           "title": "国内短剧收入已经超过院线电影，这意味着什么？将对影视行业带来哪些改变？",
           "url": "https://www.zhihu.com/question/1972594299431527963",
           "source": "知乎",
           "ranks": [
-            20
+            20,
+            15
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时57分"
+          "appearance_count": 3,
+          "time_info": "[20时57分 ~ 22时31分]"
         }
       ]
     },
@@ -152,8 +154,19 @@
     },
     {
       "keyword_group": "千问",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "报道：Meta使用了阿里巴巴通义千问QWEN来优化其新的AI模型",
+          "url": "https://wallstreetcn.com/livenews/3018493",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时31分"
+        },
         {
           "title": "阿里千问公测23天月活突破3000万",
           "url": "https://wallstreetcn.com/livenews/3018061",
@@ -175,6 +188,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时42分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "阿里",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "知情人士称，Meta公司使用阿里巴巴的通义大模型对新AI模型进行了微调。 阿里巴巴(BABA.N)盘前涨逾4%，Meta Platforms(META.O)跌超1%。",
+          "url": "https://flash.jin10.com/detail/20251210220349529800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时31分"
+        },
+        {
+          "title": "周靖人成为阿里合伙人，通义实验室持续调整应对激烈竞争",
+          "url": "https://wallstreetcn.com/livenews/3018285",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时37分"
         }
       ]
     },
@@ -242,23 +283,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时42分 ~ 15时29分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "阿里",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "周靖人成为阿里合伙人，通义实验室持续调整应对激烈竞争",
-          "url": "https://wallstreetcn.com/livenews/3018285",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时37分"
         }
       ]
     },
