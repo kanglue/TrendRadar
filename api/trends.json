@@ -1,33 +1,46 @@
 {
-  "generated_at": "2025-12-11T06:27:19.036200+08:00",
-  "total_titles_processed": 649,
+  "generated_at": "2025-12-11T07:24:21.916921+08:00",
+  "total_titles_processed": 720,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "Gemini",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "Gemini获得CFTC关键批准，公司着眼于预测市场",
+          "url": "https://wallstreetcn.com/livenews/3018705",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时24分"
+        },
         {
           "title": "谷歌(GOOG.O)：宣布对我们的Gemini 2.5 Flash和Gemini 2.5 Pro文本转语音（TTS）预览模型进行重大升级。",
           "url": "https://flash.jin10.com/detail/20251211055023100800",
           "source": "金十数据",
           "ranks": [
-            4
+            4,
+            26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时27分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时27分 ~ 07时24分]"
         },
         {
           "title": "Gemini Space Station Inc.（GEMI）美股盘后涨15%。",
           "url": "https://wallstreetcn.com/livenews/3018677",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            10,
+            30
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时27分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时27分 ~ 07时24分]"
         },
         {
           "title": "谷歌(GOOG.O)：将把Gemini 3引入Stitch——我们的实验性AI驱动设计工具。",
@@ -54,11 +67,12 @@
             10,
             13,
             11,
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时40分 ~ 06时27分]"
+          "appearance_count": 9,
+          "time_info": "[00时40分 ~ 07时24分]"
         },
         {
           "title": "濮存昕连续发文支持外孙女演短剧遭炮轰，如何看待这件事？",
@@ -68,8 +82,25 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时40分 ~ 06时27分]"
+          "appearance_count": 9,
+          "time_info": "[00时40分 ~ 07时24分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "GPT",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "OpenAI：ChatGPT用户在安卓设备上遭遇错误率飙升。",
+          "url": "https://flash.jin10.com/detail/20251211064706062800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时24分"
         }
       ]
     },
