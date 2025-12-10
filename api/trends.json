@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-10T12:24:00.967495+08:00",
-  "total_titles_processed": 1055,
+  "generated_at": "2025-12-10T12:41:08.154404+08:00",
+  "total_titles_processed": 1088,
   "failed_sources": [],
   "trends": [
     {
@@ -53,11 +53,12 @@
           "source": "华尔街见闻",
           "ranks": [
             7,
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时42分 ~ 12时24分]"
+          "appearance_count": 5,
+          "time_info": "[10时42分 ~ 12时41分]"
         },
         {
           "title": "ChatGPT周活跃用户数接近9亿。（The Information）",
@@ -122,11 +123,12 @@
           "source": "抖音",
           "ranks": [
             19,
-            8
+            8,
+            20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时42分 ~ 12时24分]"
+          "appearance_count": 5,
+          "time_info": "[10时42分 ~ 12时41分]"
         }
       ]
     },
