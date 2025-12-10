@@ -1,12 +1,26 @@
 {
-  "generated_at": "2025-12-11T04:32:39.090221+08:00",
-  "total_titles_processed": 541,
+  "generated_at": "2025-12-11T05:29:19.997678+08:00",
+  "total_titles_processed": 595,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "短剧",
       "match_count": 2,
       "titles": [
+        {
+          "title": "国内短剧收入已经超过院线电影，这意味着什么？将对影视行业带来哪些改变？",
+          "url": "https://www.zhihu.com/question/1972594299431527963",
+          "source": "知乎",
+          "ranks": [
+            10,
+            13,
+            11,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时40分 ~ 05时29分]"
+        },
         {
           "title": "濮存昕连续发文支持外孙女演短剧遭炮轰，如何看待这件事？",
           "url": "https://www.zhihu.com/question/1981706810995009104",
@@ -15,21 +29,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时40分 ~ 04时32分]"
-        },
-        {
-          "title": "国内短剧收入已经超过院线电影，这意味着什么？将对影视行业带来哪些改变？",
-          "url": "https://www.zhihu.com/question/1972594299431527963",
-          "source": "知乎",
-          "ranks": [
-            10,
-            13,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时40分 ~ 04时32分]"
+          "appearance_count": 7,
+          "time_info": "[00时40分 ~ 05时29分]"
         }
       ]
     },
