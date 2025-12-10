@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-11T01:29:14.865832+08:00",
-  "total_titles_processed": 359,
+  "generated_at": "2025-12-11T02:38:48.522915+08:00",
+  "total_titles_processed": 421,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时40分 ~ 01时29分]"
+          "appearance_count": 4,
+          "time_info": "[00时40分 ~ 02时38分]"
         },
         {
           "title": "国内短剧收入已经超过院线电影，这意味着什么？将对影视行业带来哪些改变？",
@@ -27,8 +27,25 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时40分 ~ 01时29分]"
+          "appearance_count": 4,
+          "time_info": "[00时40分 ~ 02时38分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "Gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "谷歌(GOOG.O)：将把Gemini 3引入Stitch——我们的实验性AI驱动设计工具。",
+          "url": "https://flash.jin10.com/detail/20251211012928783800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时38分"
         }
       ]
     },
@@ -43,7 +60,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时29分"
         }
