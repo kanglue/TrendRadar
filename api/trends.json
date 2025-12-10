@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-11T02:38:48.522915+08:00",
-  "total_titles_processed": 421,
+  "generated_at": "2025-12-11T03:24:30.691802+08:00",
+  "total_titles_processed": 468,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时40分 ~ 02时38分]"
+          "appearance_count": 5,
+          "time_info": "[00时40分 ~ 03时24分]"
         },
         {
           "title": "国内短剧收入已经超过院线电影，这意味着什么？将对影视行业带来哪些改变？",
@@ -27,8 +27,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时40分 ~ 02时38分]"
+          "appearance_count": 5,
+          "time_info": "[00时40分 ~ 03时24分]"
         }
       ]
     },
@@ -43,7 +43,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时38分"
         }
