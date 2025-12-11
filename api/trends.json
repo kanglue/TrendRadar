@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-11T20:59:17.192566+08:00",
-  "total_titles_processed": 1918,
+  "generated_at": "2025-12-11T21:47:35.195622+08:00",
+  "total_titles_processed": 2005,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "短剧",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "濮存昕连续发文支持外孙女演短剧遭炮轰，如何看待这件事？",
@@ -47,13 +47,24 @@
           "time_info": "[12时01分 ~ 13时29分]"
         },
         {
+          "title": "曝短剧演员收入",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%9B%9D%E7%9F%AD%E5%89%A7%E6%BC%94%E5%91%98%E6%94%B6%E5%85%A5%23&t=31&band_rank=11&Refer=top",
+          "source": "微博",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时47分"
+        },
+        {
           "title": "短剧女主京东青春采销直播间热舞炸场",
           "url": "https://s.weibo.com/weibo?q=%23%E7%9F%AD%E5%89%A7%E5%A5%B3%E4%B8%BB%E4%BA%AC%E4%B8%9C%E9%9D%92%E6%98%A5%E9%87%87%E9%94%80%E7%9B%B4%E6%92%AD%E9%97%B4%E7%83%AD%E8%88%9E%E7%82%B8%E5%9C%BA%23&t=31&band_rank=20&Refer=top",
           "source": "微博",
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时59分"
         }
@@ -255,7 +266,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时59分"
         }
