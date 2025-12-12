@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-12T15:29:57.134392+08:00",
-  "total_titles_processed": 1417,
+  "generated_at": "2025-12-12T16:38:29.725294+08:00",
+  "total_titles_processed": 1535,
   "failed_sources": [],
   "trends": [
     {
@@ -27,11 +27,12 @@
           "ranks": [
             8,
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时05分 ~ 15时29分]"
+          "appearance_count": 7,
+          "time_info": "[10时05分 ~ 16时38分]"
         },
         {
           "title": "美联储重新任命11位地区联储主席 OpenAI发布更先进模型GPT-5.2 | 环球市场",
@@ -54,8 +55,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时41分 ~ 15时29分]"
+          "appearance_count": 5,
+          "time_info": "[12时41分 ~ 16时38分]"
         },
         {
           "title": "OpenAI总裁兼联合创始人Greg Brockman发布GPT5.2思维能力测评结果，并表示，模型的基准测试表现非常出色。",
