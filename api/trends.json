@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-12T14:42:16.975206+08:00",
-  "total_titles_processed": 1312,
+  "generated_at": "2025-12-12T15:29:57.134392+08:00",
+  "total_titles_processed": 1417,
   "failed_sources": [],
   "trends": [
     {
@@ -30,8 +30,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时05分 ~ 14时42分]"
+          "appearance_count": 6,
+          "time_info": "[10时05分 ~ 15时29分]"
         },
         {
           "title": "美联储重新任命11位地区联储主席 OpenAI发布更先进模型GPT-5.2 | 环球市场",
@@ -43,8 +43,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时59分 ~ 14时42分]"
+          "appearance_count": 5,
+          "time_info": "[11时59分 ~ 15时29分]"
         },
         {
           "title": "ChatGPT5.2有哪些新升级",
@@ -54,8 +54,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时41分 ~ 14时42分]"
+          "appearance_count": 4,
+          "time_info": "[12时41分 ~ 15时29分]"
         },
         {
           "title": "OpenAI总裁兼联合创始人Greg Brockman发布GPT5.2思维能力测评结果，并表示，模型的基准测试表现非常出色。",
@@ -280,11 +280,12 @@
           "ranks": [
             12,
             15,
-            18
+            18,
+            26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时41分 ~ 14时42分]"
+          "appearance_count": 4,
+          "time_info": "[12时41分 ~ 15时29分]"
         },
         {
           "title": "曝短剧某女演员卸了妆脸上全是闭口",
