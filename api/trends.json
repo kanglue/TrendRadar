@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-13T00:34:23.233269+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-12-13T01:26:55.007212+08:00",
+  "total_titles_processed": 387,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://wallstreetcn.com/articles/3761213",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时34分"
+          "appearance_count": 2,
+          "time_info": "[00时34分 ~ 01时26分]"
         },
         {
           "title": "ChatGPT5.2有哪些新升级",
@@ -26,8 +27,36 @@
             11
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时34分 ~ 01时26分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "Gemini",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "谷歌(GOOG.O)：谷歌翻译搭载Gemini功能的更新即日起在美国和印度陆续推出，支持英语与近20种语言之间的互译。",
+          "url": "https://flash.jin10.com/detail/20251213010649487800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时34分"
+          "time_info": "01时26分"
+        },
+        {
+          "title": "谷歌(GOOG.O)：将Gemini的翻译功能引入谷歌的文本翻译。",
+          "url": "https://flash.jin10.com/detail/20251213010328208800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时26分"
         }
       ]
     }
