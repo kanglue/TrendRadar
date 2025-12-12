@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-12T22:25:38.134658+08:00",
-  "total_titles_processed": 2073,
+  "generated_at": "2025-12-12T23:30:14.024678+08:00",
+  "total_titles_processed": 2174,
   "failed_sources": [],
   "trends": [
     {
@@ -16,11 +16,12 @@
             7,
             6,
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[10时05分 ~ 22时25分]"
+          "appearance_count": 16,
+          "time_info": "[10时05分 ~ 23时30分]"
         },
         {
           "title": "ChatGPT5.2有哪些新升级",
@@ -30,8 +31,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时41分 ~ 22时25分]"
+          "appearance_count": 14,
+          "time_info": "[12时41分 ~ 23时30分]"
         },
         {
           "title": "GPT-5.2来了！OpenAI称其为“最强专业知识工作大模型”",
