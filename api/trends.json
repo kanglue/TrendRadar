@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-13T21:32:27.026897+08:00",
-  "total_titles_processed": 1423,
+  "generated_at": "2025-12-13T22:24:28.639414+08:00",
+  "total_titles_processed": 1492,
   "failed_sources": [],
   "trends": [
     {
@@ -19,6 +19,19 @@
           "time_info": "[00时34分 ~ 12时32分]"
         },
         {
+          "title": "GPT-5.2已上线24小时：差评如潮！",
+          "url": "https://wallstreetcn.com/articles/3761337",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时21分 ~ 22时24分]"
+        },
+        {
           "title": "OpenAI发布GPT-5.2迎战Gemini，号称智能体编码最强，赶超人类专家，Altman料1月解除红色警报",
           "url": "https://wallstreetcn.com/articles/3761213",
           "source": "华尔街见闻",
@@ -29,18 +42,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时34分 ~ 01时26分]"
-        },
-        {
-          "title": "GPT-5.2已上线24小时：差评如潮！",
-          "url": "https://wallstreetcn.com/articles/3761337",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时21分 ~ 21时32分]"
         },
         {
           "title": "GPT-5.2 正式发布，你如何看待 OpenAI 称其为「最强专业知识工作大模型」？",
