@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-13T18:27:01.896530+08:00",
-  "total_titles_processed": 1238,
+  "generated_at": "2025-12-13T19:21:38.577107+08:00",
+  "total_titles_processed": 1295,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "GPT",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "ChatGPT5.2有哪些新升级",
@@ -40,6 +40,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时23分 ~ 04时31分]"
+        },
+        {
+          "title": "GPT-5.2已上线24小时：差评如潮！",
+          "url": "https://wallstreetcn.com/articles/3761337",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时21分"
         }
       ]
     },
@@ -80,11 +91,12 @@
           "url": "https://www.zhihu.com/question/1972374416139743682",
           "source": "知乎",
           "ranks": [
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时26分 ~ 18时27分]"
+          "appearance_count": 3,
+          "time_info": "[18时26分 ~ 19时21分]"
         }
       ]
     }
