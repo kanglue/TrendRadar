@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-13T17:26:29.705097+08:00",
-  "total_titles_processed": 1161,
+  "generated_at": "2025-12-13T18:27:01.896530+08:00",
+  "total_titles_processed": 1238,
   "failed_sources": [],
   "trends": [
     {
@@ -68,6 +68,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时26分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "短剧",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "为什么越来越多的人喜欢看短剧，影视剧的质量真的在下降吗？",
+          "url": "https://www.zhihu.com/question/1972374416139743682",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时26分 ~ 18时27分]"
         }
       ]
     }
