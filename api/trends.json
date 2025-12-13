@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-13T22:24:28.639414+08:00",
-  "total_titles_processed": 1492,
+  "generated_at": "2025-12-13T23:25:40.486689+08:00",
+  "total_titles_processed": 1553,
   "failed_sources": [],
   "trends": [
     {
@@ -28,8 +28,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时21分 ~ 22时24分]"
+          "appearance_count": 6,
+          "time_info": "[19时21分 ~ 23时25分]"
         },
         {
           "title": "OpenAI发布GPT-5.2迎战Gemini，号称智能体编码最强，赶超人类专家，Altman料1月解除红色警报",
