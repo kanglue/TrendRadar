@@ -1,104 +1,22 @@
 {
-  "generated_at": "2025-12-13T23:25:40.486689+08:00",
-  "total_titles_processed": 1553,
+  "generated_at": "2025-12-14T00:31:55.561419+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "GPT",
-      "match_count": 4,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "ChatGPT5.2有哪些新升级",
-          "url": "https://search.bilibili.com/all?keyword=ChatGPT5.2%E6%9C%89%E5%93%AA%E4%BA%9B%E6%96%B0%E5%8D%87%E7%BA%A7",
-          "source": "bilibili 热搜",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时34分 ~ 12时32分]"
-        },
         {
           "title": "GPT-5.2已上线24小时：差评如潮！",
           "url": "https://wallstreetcn.com/articles/3761337",
           "source": "华尔街见闻",
           "ranks": [
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[19时21分 ~ 23时25分]"
-        },
-        {
-          "title": "OpenAI发布GPT-5.2迎战Gemini，号称智能体编码最强，赶超人类专家，Altman料1月解除红色警报",
-          "url": "https://wallstreetcn.com/articles/3761213",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时34分 ~ 01时26分]"
-        },
-        {
-          "title": "GPT-5.2 正式发布，你如何看待 OpenAI 称其为「最强专业知识工作大模型」？",
-          "url": "https://www.zhihu.com/question/1982756499861304580",
-          "source": "知乎",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时23分 ~ 04时31分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "Gemini",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "谷歌(GOOG.O)：谷歌翻译搭载Gemini功能的更新即日起在美国和印度陆续推出，支持英语与近20种语言之间的互译。",
-          "url": "https://flash.jin10.com/detail/20251213010649487800",
-          "source": "金十数据",
-          "ranks": [
             7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时26分"
-        },
-        {
-          "title": "谷歌(GOOG.O)：将Gemini的翻译功能引入谷歌的文本翻译。",
-          "url": "https://flash.jin10.com/detail/20251213010328208800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时26分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "短剧",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "为什么越来越多的人喜欢看短剧，影视剧的质量真的在下降吗？",
-          "url": "https://www.zhihu.com/question/1972374416139743682",
-          "source": "知乎",
-          "ranks": [
-            13,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时26分 ~ 19时21分]"
+          "time_info": "00时31分"
         }
       ]
     }
