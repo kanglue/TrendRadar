@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-14T18:27:06.129886+08:00",
-  "total_titles_processed": 1103,
+  "generated_at": "2025-12-14T19:22:09.159145+08:00",
+  "total_titles_processed": 1159,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            9
+            9,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时26分 ~ 18时27分]"
+          "appearance_count": 6,
+          "time_info": "[17时26分 ~ 19时22分]"
         },
         {
           "title": "重启「混元」、挖字节 Seed 研究员，腾讯能在 AI 领域再度成功上演「敢为人后」的策略吗？",
@@ -84,11 +85,12 @@
           "ranks": [
             6,
             16,
-            25
+            25,
+            29
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时33分 ~ 18时27分]"
+          "appearance_count": 4,
+          "time_info": "[16时33分 ~ 19时22分]"
         }
       ]
     }
