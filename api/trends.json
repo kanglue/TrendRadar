@@ -1,115 +1,22 @@
 {
-  "generated_at": "2025-12-14T23:26:02.789163+08:00",
-  "total_titles_processed": 1428,
+  "generated_at": "2025-12-15T00:31:28.794719+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "字节",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
         {
           "title": "下周重磅日程：超级央行周，中美关键数据，字节火山引擎和摩尔线程大会备受关注",
           "url": "https://wallstreetcn.com/articles/3761256",
           "source": "华尔街见闻",
           "ranks": [
-            10,
-            9,
-            5,
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[17时26分 ~ 23时26分]"
-        },
-        {
-          "title": "重启「混元」、挖字节 Seed 研究员，腾讯能在 AI 领域再度成功上演「敢为人后」的策略吗？",
-          "url": "https://www.zhihu.com/question/1982864642054250698",
-          "source": "知乎",
-          "ranks": [
-            16,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时33分 ~ 17时27分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "短剧",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "第一批短剧受害者出现了",
-          "url": "https://s.weibo.com/weibo?q=%E7%AC%AC%E4%B8%80%E6%89%B9%E7%9F%AD%E5%89%A7%E5%8F%97%E5%AE%B3%E8%80%85%E5%87%BA%E7%8E%B0%E4%BA%86&t=31&band_rank=28&Refer=top",
-          "source": "微博",
-          "ranks": [
-            28,
-            14,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时33分 ~ 18时27分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "GPT",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "GPT-5.2已上线24小时：差评如潮！",
-          "url": "https://wallstreetcn.com/articles/3761337",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6,
-            5,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时31分 ~ 14时38分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "世界模型",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "世界模型 (World Models) 是什么？",
-          "url": "https://www.zhihu.com/question/644725384",
-          "source": "知乎",
-          "ranks": [
-            18,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时51分 ~ 21时32分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "数字人",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "三部门：鼓励有条件的地方运用数字人民币智能合约红包提升促消费政策实施质效",
-          "url": "https://wallstreetcn.com/livenews/3020361",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            16,
-            25,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时33分 ~ 19时22分]"
+          "appearance_count": 1,
+          "time_info": "00时31分"
         }
       ]
     }
