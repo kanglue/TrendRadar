@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-17T04:32:13.377049+08:00",
-  "total_titles_processed": 550,
+  "generated_at": "2025-12-17T05:28:24.060147+08:00",
+  "total_titles_processed": 591,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "GPT",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "OpenAI：全新图像模型和功能今日已在ChatGPT中面向所有用户推出，并作为GPT Image 1.5在API中上线。",
@@ -29,6 +29,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时24分 ~ 04时32分]"
+        },
+        {
+          "title": "OpenAI应用负责人：包括Adobe、Airtable、AppleMusic、Clay、Lovable、Salesforce在内的更多应用程序，将在ChatGPT的新目录中上线。",
+          "url": "https://flash.jin10.com/detail/20251217041047149800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时28分"
         },
         {
           "title": "GPT-5展现出在真实实验室环境中协助科研的能力",
@@ -88,11 +99,12 @@
           "source": "百度热搜",
           "ranks": [
             25,
-            27
+            27,
+            28
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时40分 ~ 04时32分]"
+          "appearance_count": 5,
+          "time_info": "[02时40分 ~ 05时28分]"
         }
       ]
     }
