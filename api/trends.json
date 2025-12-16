@@ -1,12 +1,23 @@
 {
-  "generated_at": "2025-12-17T01:29:45.388972+08:00",
-  "total_titles_processed": 380,
+  "generated_at": "2025-12-17T02:41:04.068703+08:00",
+  "total_titles_processed": 451,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "GPT",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "OpenAI：全新图像模型和功能今日已在ChatGPT中面向所有用户推出，并作为GPT Image 1.5在API中上线。",
+          "url": "https://flash.jin10.com/detail/20251217021028425800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时41分"
+        },
         {
           "title": "GPT-5展现出在真实实验室环境中协助科研的能力",
           "url": "https://flash.jin10.com/detail/20251217002541796800",
@@ -14,7 +25,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时29分"
         }
@@ -35,6 +46,40 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时38分 ~ 01时29分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "Gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美国贸易代表：迄今为止享有市场准入的一些最大欧盟服务提供商包括埃森哲、阿马迪斯（Amadeus）、凯捷（Capgemini）、敦豪（DHL）、Mistral、阳狮集团（Publicis）、SAP、西门子和Spotify。",
+          "url": "https://flash.jin10.com/detail/20251217021002477800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时41分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "数字人",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "央行：数字人民币不具有炒作空间",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%AE%E8%A1%8C%EF%BC%9A%E6%95%B0%E5%AD%97%E4%BA%BA%E6%B0%91%E5%B8%81%E4%B8%8D%E5%85%B7%E6%9C%89%E7%82%92%E4%BD%9C%E7%A9%BA%E9%97%B4",
+          "source": "百度热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时40分 ~ 02时41分]"
         }
       ]
     }
