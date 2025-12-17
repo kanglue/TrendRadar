@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-17T14:42:17.755793+08:00",
-  "total_titles_processed": 1223,
+  "generated_at": "2025-12-17T15:29:21.588590+08:00",
+  "total_titles_processed": 1325,
   "failed_sources": [],
   "trends": [
     {
@@ -64,11 +64,12 @@
           "source": "知乎",
           "ranks": [
             9,
-            15
+            15,
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时01分 ~ 14时42分]"
+          "appearance_count": 7,
+          "time_info": "[10时01分 ~ 15时29分]"
         },
         {
           "title": "小米发布最新MiMo大模型",
@@ -163,7 +164,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时42分"
         }
@@ -180,7 +181,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时42分"
         }
