@@ -1,8 +1,82 @@
 {
-  "generated_at": "2025-12-17T22:31:11.446688+08:00",
-  "total_titles_processed": 2031,
+  "generated_at": "2025-12-17T23:32:08.367035+08:00",
+  "total_titles_processed": 2117,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "GPT",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "OpenAI：全新图像模型和功能今日已在ChatGPT中面向所有用户推出，并作为GPT Image 1.5在API中上线。",
+          "url": "https://flash.jin10.com/detail/20251217021028425800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时41分"
+        },
+        {
+          "title": "如何评价 OpenAI 刚推出的 GPT Image 1.5，有哪些亮点？",
+          "url": "https://www.zhihu.com/question/1984534689147531765",
+          "source": "知乎",
+          "ranks": [
+            11,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[22时30分 ~ 23时32分]"
+        },
+        {
+          "title": "OpenAI：面向所有用户在ChatGPT中推出全新图像模型及功能。 同时，在API端以GPT Image 1.5的形式上线。",
+          "url": "https://wallstreetcn.com/livenews/3021861",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时24分 ~ 04时32分]"
+        },
+        {
+          "title": "ChatGPT找不出美国应对彩虹-7的方法",
+          "url": "https://www.toutiao.com/trending/7584059510923739178/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时31分 ~ 23时32分]"
+        },
+        {
+          "title": "OpenAI应用负责人：包括Adobe、Airtable、AppleMusic、Clay、Lovable、Salesforce在内的更多应用程序，将在ChatGPT的新目录中上线。",
+          "url": "https://flash.jin10.com/detail/20251217041047149800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时28分"
+        },
+        {
+          "title": "GPT-5展现出在真实实验室环境中协助科研的能力",
+          "url": "https://flash.jin10.com/detail/20251217002541796800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时29分"
+        }
+      ]
+    },
     {
       "keyword_group": "大模型",
       "match_count": 6,
@@ -19,6 +93,17 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[10时01分 ~ 18时32分]"
+        },
+        {
+          "title": "小米开源自研AI大模型，罗福莉小米首秀：下一代智能体系统是理解世界并共存的“智能体”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32194390",
+          "source": "澎湃新闻",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[21时39分 ~ 23时32分]"
         },
         {
           "title": "小米发布最新MiMo大模型",
@@ -47,17 +132,6 @@
           "time_info": "[10时01分 ~ 12时39分]"
         },
         {
-          "title": "小米开源自研AI大模型，罗福莉小米首秀：下一代智能体系统是理解世界并共存的“智能体”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32194390",
-          "source": "澎湃新闻",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时39分 ~ 22时31分]"
-        },
-        {
           "title": "腾讯升级大模型研发架构",
           "url": "https://wallstreetcn.com/livenews/3022293",
           "source": "华尔街见闻-快讯",
@@ -78,68 +152,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时39分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "GPT",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "OpenAI：全新图像模型和功能今日已在ChatGPT中面向所有用户推出，并作为GPT Image 1.5在API中上线。",
-          "url": "https://flash.jin10.com/detail/20251217021028425800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时41分"
-        },
-        {
-          "title": "OpenAI：面向所有用户在ChatGPT中推出全新图像模型及功能。 同时，在API端以GPT Image 1.5的形式上线。",
-          "url": "https://wallstreetcn.com/livenews/3021861",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时24分 ~ 04时32分]"
-        },
-        {
-          "title": "如何评价 OpenAI 刚推出的 GPT Image 1.5，有哪些亮点？",
-          "url": "https://www.zhihu.com/question/1984534689147531765",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时30分 ~ 22时31分]"
-        },
-        {
-          "title": "OpenAI应用负责人：包括Adobe、Airtable、AppleMusic、Clay、Lovable、Salesforce在内的更多应用程序，将在ChatGPT的新目录中上线。",
-          "url": "https://flash.jin10.com/detail/20251217041047149800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时28分"
-        },
-        {
-          "title": "GPT-5展现出在真实实验室环境中协助科研的能力",
-          "url": "https://flash.jin10.com/detail/20251217002541796800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时29分"
         }
       ]
     },
