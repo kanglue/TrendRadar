@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-17T07:26:45.100366+08:00",
-  "total_titles_processed": 672,
+  "generated_at": "2025-12-17T10:01:34.522820+08:00",
+  "total_titles_processed": 834,
   "failed_sources": [],
   "trends": [
     {
@@ -51,6 +51,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时29分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "大模型",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "小米发布最新MiMo大模型",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E5%8F%91%E5%B8%83%E6%9C%80%E6%96%B0MiMo%E5%A4%A7%E6%A8%A1%E5%9E%8B%23&t=31&band_rank=7&Refer=top",
+          "source": "微博",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时01分"
+        },
+        {
+          "title": "如何评价小米开源的 MiMo-V2-Flash 大模型，表现如何?",
+          "url": "https://www.zhihu.com/question/1984395856611394540",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时01分"
         }
       ]
     },
