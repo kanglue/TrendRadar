@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-18T01:29:21.227096+08:00",
-  "total_titles_processed": 383,
+  "generated_at": "2025-12-18T02:41:55.575076+08:00",
+  "total_titles_processed": 459,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            16
+            16,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时38分 ~ 01时29分]"
+          "appearance_count": 3,
+          "time_info": "[00时38分 ~ 02时41分]"
         },
         {
           "title": "谷歌DeepMind公司Gemini产品管理高级总监Tulsee Doshi：几周前我们发布了Gemini的Pro版本，其市场反馈令我们感到兴奋。 通过Gemini 3 Flash，我们将把这一模型带给每一个人。",
@@ -25,11 +26,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            17
+            17,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时38分 ~ 01时29分]"
+          "appearance_count": 3,
+          "time_info": "[00时38分 ~ 02时41分]"
         },
         {
           "title": "谷歌在旗下产品中发布更高效的新版Gemini 3 AI模型",
@@ -82,11 +84,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_32194390",
           "source": "澎湃新闻",
           "ranks": [
-            15
+            15,
+            16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时37分 ~ 01时29分]"
+          "appearance_count": 4,
+          "time_info": "[00时37分 ~ 02时41分]"
         }
       ]
     }
