@@ -1,12 +1,23 @@
 {
-  "generated_at": "2025-12-18T21:41:45.656700+08:00",
-  "total_titles_processed": 1930,
+  "generated_at": "2025-12-18T22:31:01.944636+08:00",
+  "total_titles_processed": 2039,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "Gemini",
       "match_count": 6,
       "titles": [
+        {
+          "title": "连月挑战OpenAI！谷歌发布更高效Gemini 3 Flash，App默认模型，上线即加持搜索",
+          "url": "https://wallstreetcn.com/articles/3761592",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时34分 ~ 22时31分]"
+        },
         {
           "title": "谷歌搜索产品副总裁Robby Stein介绍，在谷歌搜索中，新的Gemini Flash模型将帮助用户进行带有多个条件的更精细搜索。例如，用户可以使用它来查找适合带幼儿的父母参加的最佳晚间活动。",
           "url": "https://wallstreetcn.com/livenews/3022530",
@@ -44,17 +55,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时38分 ~ 01时29分]"
-        },
-        {
-          "title": "连月挑战OpenAI！谷歌发布更高效Gemini 3 Flash，App默认模型，上线即加持搜索",
-          "url": "https://wallstreetcn.com/articles/3761592",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时34分 ~ 20时56分]"
         },
         {
           "title": "谷歌发布 Gemini 3 Flash，相比上一代 2.5 Flash 有哪些提升？使用体验如何？",
@@ -138,6 +138,61 @@
       ]
     },
     {
+      "keyword_group": "大模型",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "小米开源自研AI大模型，罗福莉小米首秀：下一代智能体系统是理解世界并共存的“智能体”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32194390",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            16,
+            13,
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 16,
+          "time_info": "[00时37分 ~ 13时31分]"
+        },
+        {
+          "title": "腾讯大模型团队架构调整，前 OpenAI 研究员姚顺雨任要职，这对腾讯 AI 发展意味着什么？",
+          "url": "https://www.zhihu.com/question/1984670354627651255",
+          "source": "知乎",
+          "ranks": [
+            5,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时42分 ~ 17时34分]"
+        },
+        {
+          "title": "姚顺雨出任腾讯首席 AI 科学家，罗福莉担任小米大模型负责人，如何看待 95 后站上舞台中央的趋势？",
+          "url": "https://www.zhihu.com/question/1984925319061267264",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时30分 ~ 22时31分]"
+        },
+        {
+          "title": "小米发布最新MiMo大模型",
+          "url": "https://www.douyin.com/hot/2338852",
+          "source": "抖音",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时01分 ~ 10时02分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "GPT",
       "match_count": 3,
       "titles": [
@@ -177,53 +232,22 @@
       ]
     },
     {
-      "keyword_group": "大模型",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "小米开源自研AI大模型，罗福莉小米首秀：下一代智能体系统是理解世界并共存的“智能体”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32194390",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            16,
-            13,
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时37分 ~ 13时31分]"
-        },
-        {
-          "title": "腾讯大模型团队架构调整，前 OpenAI 研究员姚顺雨任要职，这对腾讯 AI 发展意味着什么？",
-          "url": "https://www.zhihu.com/question/1984670354627651255",
-          "source": "知乎",
-          "ranks": [
-            5,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时42分 ~ 17时34分]"
-        },
-        {
-          "title": "小米发布最新MiMo大模型",
-          "url": "https://www.douyin.com/hot/2338852",
-          "source": "抖音",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时01分 ~ 10时02分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "短剧",
       "match_count": 2,
       "titles": [
+        {
+          "title": "美国UP主在中国给老外演短剧",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BDUP%E4%B8%BB%E5%9C%A8%E4%B8%AD%E5%9B%BD%E7%BB%99%E8%80%81%E5%A4%96%E6%BC%94%E7%9F%AD%E5%89%A7",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3,
+            4,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时25分 ~ 22时31分]"
+        },
         {
           "title": "全资进组拍短剧结果赔了近千万",
           "url": "https://s.weibo.com/weibo?q=%E5%85%A8%E8%B5%84%E8%BF%9B%E7%BB%84%E6%8B%8D%E7%9F%AD%E5%89%A7%E7%BB%93%E6%9E%9C%E8%B5%94%E4%BA%86%E8%BF%91%E5%8D%83%E4%B8%87&t=31&band_rank=17&Refer=top",
@@ -236,19 +260,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[17时34分 ~ 19时25分]"
-        },
-        {
-          "title": "美国UP主在中国给老外演短剧",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BDUP%E4%B8%BB%E5%9C%A8%E4%B8%AD%E5%9B%BD%E7%BB%99%E8%80%81%E5%A4%96%E6%BC%94%E7%9F%AD%E5%89%A7",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3,
-            4,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时25分 ~ 21时41分]"
         }
       ]
     },
