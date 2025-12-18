@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-18T20:56:38.583318+08:00",
-  "total_titles_processed": 1844,
+  "generated_at": "2025-12-18T21:41:45.656700+08:00",
+  "total_titles_processed": 1930,
   "failed_sources": [],
   "trends": [
     {
@@ -225,18 +225,6 @@
       "match_count": 2,
       "titles": [
         {
-          "title": "美国UP主在中国给老外演短剧",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BDUP%E4%B8%BB%E5%9C%A8%E4%B8%AD%E5%9B%BD%E7%BB%99%E8%80%81%E5%A4%96%E6%BC%94%E7%9F%AD%E5%89%A7",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时25分 ~ 20时56分]"
-        },
-        {
           "title": "全资进组拍短剧结果赔了近千万",
           "url": "https://s.weibo.com/weibo?q=%E5%85%A8%E8%B5%84%E8%BF%9B%E7%BB%84%E6%8B%8D%E7%9F%AD%E5%89%A7%E7%BB%93%E6%9E%9C%E8%B5%94%E4%BA%86%E8%BF%91%E5%8D%83%E4%B8%87&t=31&band_rank=17&Refer=top",
           "source": "微博",
@@ -248,6 +236,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[17时34分 ~ 19时25分]"
+        },
+        {
+          "title": "美国UP主在中国给老外演短剧",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BDUP%E4%B8%BB%E5%9C%A8%E4%B8%AD%E5%9B%BD%E7%BB%99%E8%80%81%E5%A4%96%E6%BC%94%E7%9F%AD%E5%89%A7",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3,
+            4,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时25分 ~ 21时41分]"
         }
       ]
     },
