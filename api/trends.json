@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-18T15:29:00.231200+08:00",
-  "total_titles_processed": 1300,
+  "generated_at": "2025-12-18T16:38:08.544771+08:00",
+  "total_titles_processed": 1426,
   "failed_sources": [],
   "trends": [
     {
@@ -114,6 +114,20 @@
       "match_count": 3,
       "titles": [
         {
+          "title": "豆包日均Tokens超50万亿 千问接入阿里生态 AI应用商业化临界点来了？",
+          "url": "https://www.cls.cn/detail/2233153",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时30分 ~ 16时38分]"
+        },
+        {
           "title": "【千问APP开始接入阿里生态场景，第一个是高德】12月18日，阿里千问APP开始接入第一个阿里生态场景——高德，开始具备物理世界理解与行动能力。通过系统级对接，千问APP不再只是生成一段文字建议，而是能够调用高德地图、扫街榜等底层服务，即时生成包含推荐餐厅、酒店、地理位置及出行方案的可视化决策卡片。这仅是开端，阿里旗下的消费、支付等核心业务场景未来将陆续接入，加速构建现实世界服务履约网络。（全天候科技）",
           "url": "https://wallstreetcn.com/livenews/3022743",
           "source": "华尔街见闻-快讯",
@@ -123,19 +137,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时02分"
-        },
-        {
-          "title": "豆包日均Tokens超50万亿 千问接入阿里生态 AI应用商业化临界点来了？",
-          "url": "https://www.cls.cn/detail/2233153",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时30分 ~ 15时29分]"
         },
         {
           "title": "南方航空接入千问打造“天盾”大模型",
@@ -178,8 +179,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时42分 ~ 15时29分]"
+          "appearance_count": 5,
+          "time_info": "[14时42分 ~ 16时38分]"
         },
         {
           "title": "小米发布最新MiMo大模型",
@@ -239,7 +240,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时29分"
         }
