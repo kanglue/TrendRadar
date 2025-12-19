@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-19T15:28:19.844809+08:00",
-  "total_titles_processed": 1382,
+  "generated_at": "2025-12-19T16:38:02.112826+08:00",
+  "total_titles_processed": 1510,
   "failed_sources": [],
   "trends": [
     {
@@ -81,8 +81,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时04分 ~ 15时28分]"
+          "appearance_count": 8,
+          "time_info": "[10时04分 ~ 16时38分]"
         },
         {
           "title": "周受资内部信曝TikTok美国方案：字节保留电商、广告，合资公司负责数据安全",
@@ -112,17 +112,18 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_32209543",
           "source": "澎湃新闻",
           "ranks": [
-            18
+            18,
+            16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时28分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时28分 ~ 16时38分]"
         }
       ]
     },
     {
       "keyword_group": "短剧",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "美国UP主在中国给老外演短剧",
@@ -140,6 +141,18 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[00时38分 ~ 14时40分]"
+        },
+        {
+          "title": "短剧男主都开始跨剧抢女主了",
+          "url": "https://s.weibo.com/weibo?q=%E7%9F%AD%E5%89%A7%E7%94%B7%E4%B8%BB%E9%83%BD%E5%BC%80%E5%A7%8B%E8%B7%A8%E5%89%A7%E6%8A%A2%E5%A5%B3%E4%B8%BB%E4%BA%86&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时37分 ~ 16时38分]"
         }
       ]
     },
