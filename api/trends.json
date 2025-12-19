@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-20T05:25:06.637802+08:00",
-  "total_titles_processed": 587,
+  "generated_at": "2025-12-20T06:26:58.084079+08:00",
+  "total_titles_processed": 618,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时34分 ~ 05时25分]"
+          "appearance_count": 12,
+          "time_info": "[00时34分 ~ 06时26分]"
         },
         {
           "title": "字节砸重金“抢人”：全面提高薪酬与期权激励 内部首次提出“领先于头部水平”",
@@ -97,8 +97,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时31分 ~ 05时25分]"
+          "appearance_count": 3,
+          "time_info": "[04时31分 ~ 06时26分]"
         }
       ]
     }
