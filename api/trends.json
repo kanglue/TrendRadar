@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-20T03:22:09.122266+08:00",
-  "total_titles_processed": 506,
+  "generated_at": "2025-12-20T04:31:00.521541+08:00",
+  "total_titles_processed": 556,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_32209543",
           "source": "澎湃新闻",
           "ranks": [
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时34分 ~ 03时22分]"
+          "appearance_count": 9,
+          "time_info": "[00时34分 ~ 04时31分]"
         },
         {
           "title": "字节砸重金“抢人”：全面提高薪酬与期权激励 内部首次提出“领先于头部水平”",
@@ -78,8 +79,25 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时34分 ~ 03时22分]"
+          "appearance_count": 9,
+          "time_info": "[00时34分 ~ 04时31分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "算法",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "巴西国会批准2026年预算法案。",
+          "url": "https://flash.jin10.com/detail/20251220034551280800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时31分"
         }
       ]
     }
