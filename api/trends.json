@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-19T12:41:35.532926+08:00",
-  "total_titles_processed": 1123,
+  "generated_at": "2025-12-19T13:29:31.864870+08:00",
+  "total_titles_processed": 1186,
   "failed_sources": [],
   "trends": [
     {
@@ -79,8 +79,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时04分 ~ 12时41分]"
+          "appearance_count": 4,
+          "time_info": "[10时04分 ~ 13时29分]"
         },
         {
           "title": "周受资内部信曝TikTok美国方案：字节保留电商、广告，合资公司负责数据安全",
@@ -120,11 +120,12 @@
             10,
             2,
             1,
-            19
+            19,
+            23
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时38分 ~ 11时59分]"
+          "appearance_count": 13,
+          "time_info": "[00时38分 ~ 13时29分]"
         }
       ]
     },
