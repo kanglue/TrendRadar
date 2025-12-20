@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-21T05:22:46.057630+08:00",
-  "total_titles_processed": 412,
+  "generated_at": "2025-12-21T06:25:07.494019+08:00",
+  "total_titles_processed": 439,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时31分 ~ 05时22分]"
+          "appearance_count": 10,
+          "time_info": "[00时31分 ~ 06时25分]"
         },
         {
           "title": "如何看待字节跳动发布涨薪内部邮件，2025 年奖金投入提升 35%？这在业内是什么水平？",
@@ -24,11 +24,12 @@
           "source": "知乎",
           "ranks": [
             12,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时31分 ~ 05时22分]"
+          "appearance_count": 10,
+          "time_info": "[00时31分 ~ 06时25分]"
         }
       ]
     },
@@ -45,8 +46,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时31分 ~ 05时22分]"
+          "appearance_count": 10,
+          "time_info": "[00时31分 ~ 06时25分]"
         },
         {
           "title": "“全球大模型第一股”来了？智谱“家底”曝光 营收3.12亿估值243 亿",
@@ -56,8 +57,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时31分 ~ 05时22分]"
+          "appearance_count": 10,
+          "time_info": "[00时31分 ~ 06时25分]"
         }
       ]
     },
