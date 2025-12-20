@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-20T20:50:44.710412+08:00",
-  "total_titles_processed": 1408,
+  "generated_at": "2025-12-20T21:32:37.767569+08:00",
+  "total_titles_processed": 1476,
   "failed_sources": [],
   "trends": [
     {
@@ -19,8 +19,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[11时22分 ~ 20时50分]"
+          "appearance_count": 14,
+          "time_info": "[11时22分 ~ 21时32分]"
         },
         {
           "title": "TikTok美国业务新进展：字节保留电商、广告等，引入三方组新合资公司负责数据安全",
@@ -42,8 +42,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时58分 ~ 20时50分]"
+          "appearance_count": 15,
+          "time_info": "[09时58分 ~ 21时32分]"
         },
         {
           "title": "字节跳动全年利润500亿美元？知情人士回应",
@@ -175,11 +175,12 @@
             2,
             8,
             17,
-            21
+            21,
+            27
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时26分 ~ 20时50分]"
+          "appearance_count": 5,
+          "time_info": "[17时26分 ~ 21时32分]"
         },
         {
           "title": "蚂蚁数科AI原生事业部总经理王磊：垂直大模型训练成本呈百倍级下降",
@@ -218,11 +219,12 @@
           "url": "https://s.weibo.com/weibo?q=%E6%9B%9D%E7%9F%AD%E5%89%A7%E5%A5%B3%E6%98%9F%E4%B8%8E%E5%8A%A9%E7%90%86%E6%89%93%E6%9E%B6&t=31&band_rank=21&Refer=top",
           "source": "微博",
           "ranks": [
-            21
+            21,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时21分 ~ 20时50分]"
+          "appearance_count": 3,
+          "time_info": "[19时21分 ~ 21时32分]"
         }
       ]
     },
@@ -270,11 +272,12 @@
             13,
             11,
             10,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时32分 ~ 20时50分]"
+          "appearance_count": 8,
+          "time_info": "[16时32分 ~ 21时32分]"
         }
       ]
     }
