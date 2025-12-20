@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-20T18:27:04.365098+08:00",
-  "total_titles_processed": 1288,
+  "generated_at": "2025-12-20T19:21:42.392205+08:00",
+  "total_titles_processed": 1334,
   "failed_sources": [],
   "trends": [
     {
@@ -19,8 +19,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时22分 ~ 18时27分]"
+          "appearance_count": 12,
+          "time_info": "[11时22分 ~ 19时21分]"
         },
         {
           "title": "TikTok美国业务新进展：字节保留电商、广告等，引入三方组新合资公司负责数据安全",
@@ -42,8 +42,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时58分 ~ 18时27分]"
+          "appearance_count": 13,
+          "time_info": "[09时58分 ~ 19时21分]"
         },
         {
           "title": "字节跳动全年利润500亿美元？知情人士回应",
@@ -173,11 +173,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            8
+            8,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时26分 ~ 18时27分]"
+          "appearance_count": 3,
+          "time_info": "[17时26分 ~ 19时21分]"
         },
         {
           "title": "蚂蚁数科AI原生事业部总经理王磊：垂直大模型训练成本呈百倍级下降",
@@ -185,11 +186,41 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             8,
-            14
+            14,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时26分 ~ 18时27分]"
+          "appearance_count": 3,
+          "time_info": "[17时26分 ~ 19时21分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "短剧",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "短剧香蜜男主变润玉",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%9F%AD%E5%89%A7%E9%A6%99%E8%9C%9C%E7%94%B7%E4%B8%BB%E5%8F%98%E6%B6%A6%E7%8E%89%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时38分 ~ 15时24分]"
+        },
+        {
+          "title": "曝短剧女星与助理打架",
+          "url": "https://s.weibo.com/weibo?q=%E6%9B%9D%E7%9F%AD%E5%89%A7%E5%A5%B3%E6%98%9F%E4%B8%8E%E5%8A%A9%E7%90%86%E6%89%93%E6%9E%B6&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时21分"
         }
       ]
     },
@@ -226,24 +257,6 @@
       ]
     },
     {
-      "keyword_group": "短剧",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "短剧香蜜男主变润玉",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%9F%AD%E5%89%A7%E9%A6%99%E8%9C%9C%E7%94%B7%E4%B8%BB%E5%8F%98%E6%B6%A6%E7%8E%89%23&t=31&band_rank=18&Refer=top",
-          "source": "微博",
-          "ranks": [
-            18,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时38分 ~ 15时24分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "智谱",
       "match_count": 1,
       "titles": [
@@ -257,8 +270,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时32分 ~ 18时27分]"
+          "appearance_count": 6,
+          "time_info": "[16时32分 ~ 19时21分]"
         }
       ]
     }
