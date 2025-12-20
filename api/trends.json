@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-21T02:34:23.705078+08:00",
-  "total_titles_processed": 370,
+  "generated_at": "2025-12-21T03:21:12.725814+08:00",
+  "total_titles_processed": 383,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时31分 ~ 02时34分]"
+          "appearance_count": 6,
+          "time_info": "[00时31分 ~ 03时21分]"
         },
         {
           "title": "如何看待字节跳动发布涨薪内部邮件，2025 年奖金投入提升 35%？这在业内是什么水平？",
@@ -27,8 +27,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时31分 ~ 02时34分]"
+          "appearance_count": 6,
+          "time_info": "[00时31分 ~ 03时21分]"
         }
       ]
     },
@@ -44,8 +44,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时31分 ~ 02时34分]"
+          "appearance_count": 6,
+          "time_info": "[00时31分 ~ 03时21分]"
         },
         {
           "title": "“全球大模型第一股”来了？智谱“家底”曝光 营收3.12亿估值243 亿",
@@ -55,8 +55,25 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时31分 ~ 02时34分]"
+          "appearance_count": 6,
+          "time_info": "[00时31分 ~ 03时21分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "短剧",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "曝短剧女星与助理打架",
+          "url": "https://s.weibo.com/weibo?q=%E6%9B%9D%E7%9F%AD%E5%89%A7%E5%A5%B3%E6%98%9F%E4%B8%8E%E5%8A%A9%E7%90%86%E6%89%93%E6%9E%B6&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时20分 ~ 03时21分]"
         }
       ]
     }
