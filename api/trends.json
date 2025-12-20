@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-20T14:38:58.908358+08:00",
-  "total_titles_processed": 1073,
+  "generated_at": "2025-12-20T15:24:03.850053+08:00",
+  "total_titles_processed": 1116,
   "failed_sources": [],
   "trends": [
     {
@@ -29,8 +29,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时22分 ~ 14时38分]"
+          "appearance_count": 6,
+          "time_info": "[11时22分 ~ 15时24分]"
         },
         {
           "title": "如何看待字节跳动发布涨薪内部邮件，2025 年奖金投入提升 35%？这在业内是什么水平？",
@@ -40,8 +40,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时58分 ~ 14时38分]"
+          "appearance_count": 7,
+          "time_info": "[09时58分 ~ 15时24分]"
+        },
+        {
+          "title": "字节跳动宣布加大人才投入：2025年奖金投入提升35%，调薪投入上涨1.5倍",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32211283",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时22分 ~ 15时24分]"
         },
         {
           "title": "字节跳动全年利润500亿美元？知情人士回应",
@@ -51,11 +63,12 @@
             4,
             9,
             16,
-            19
+            19,
+            20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时22分 ~ 14时38分]"
+          "appearance_count": 5,
+          "time_info": "[11时22分 ~ 15时24分]"
         },
         {
           "title": "字节跳动全年利润500亿美元？知情人士回应：数据不实，偏差较大",
@@ -65,11 +78,12 @@
             7,
             18,
             21,
-            23
+            23,
+            28
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时22分 ~ 14时38分]"
+          "appearance_count": 5,
+          "time_info": "[11时22分 ~ 15时24分]"
         },
         {
           "title": "字节砸重金“抢人”：全面提高薪酬与期权激励 内部首次提出“领先于头部水平”",
@@ -82,18 +96,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时34分 ~ 01时24分]"
-        },
-        {
-          "title": "字节跳动宣布加大人才投入：2025年奖金投入提升35%，调薪投入上涨1.5倍",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32211283",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时22分 ~ 14时38分]"
         },
         {
           "title": "报道：字节跳动2025年利润有望达到500亿美元",
@@ -152,11 +154,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时27分 ~ 14时38分]"
+          "appearance_count": 3,
+          "time_info": "[13时27分 ~ 15时24分]"
         }
       ]
     },
@@ -201,11 +204,12 @@
           "url": "https://s.weibo.com/weibo?q=%23%E7%9F%AD%E5%89%A7%E9%A6%99%E8%9C%9C%E7%94%B7%E4%B8%BB%E5%8F%98%E6%B6%A6%E7%8E%89%23&t=31&band_rank=18&Refer=top",
           "source": "微博",
           "ranks": [
-            18
+            18,
+            26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时38分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时38分 ~ 15时24分]"
         }
       ]
     }
