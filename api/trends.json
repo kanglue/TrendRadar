@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-21T06:25:07.494019+08:00",
-  "total_titles_processed": 439,
+  "generated_at": "2025-12-21T07:24:29.369554+08:00",
+  "total_titles_processed": 445,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://wallstreetcn.com/articles/3761747",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时31分 ~ 06时25分]"
+          "appearance_count": 11,
+          "time_info": "[00时31分 ~ 07时24分]"
         },
         {
           "title": "如何看待字节跳动发布涨薪内部邮件，2025 年奖金投入提升 35%？这在业内是什么水平？",
@@ -28,8 +29,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时31分 ~ 06时25分]"
+          "appearance_count": 11,
+          "time_info": "[00时31分 ~ 07时24分]"
         }
       ]
     },
@@ -43,22 +44,24 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时31分 ~ 06时25分]"
+          "appearance_count": 11,
+          "time_info": "[00时31分 ~ 07时24分]"
         },
         {
           "title": "“全球大模型第一股”来了？智谱“家底”曝光 营收3.12亿估值243 亿",
           "url": "https://www.cls.cn/detail/2235451",
           "source": "财联社热门",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时31分 ~ 06时25分]"
+          "appearance_count": 11,
+          "time_info": "[00时31分 ~ 07时24分]"
         }
       ]
     },
@@ -74,8 +77,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时20分 ~ 03时21分]"
+          "appearance_count": 3,
+          "time_info": "[03时20分 ~ 07时24分]"
         }
       ]
     }
