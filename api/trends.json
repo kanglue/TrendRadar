@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-20T22:24:14.202880+08:00",
-  "total_titles_processed": 1524,
+  "generated_at": "2025-12-20T23:25:31.792349+08:00",
+  "total_titles_processed": 1573,
   "failed_sources": [],
   "trends": [
     {
@@ -19,8 +19,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[11时22分 ~ 22时24分]"
+          "appearance_count": 17,
+          "time_info": "[11时22分 ~ 23时25分]"
         },
         {
           "title": "TikTok美国业务新进展：字节保留电商、广告等，引入三方组新合资公司负责数据安全",
@@ -40,11 +40,12 @@
           "source": "知乎",
           "ranks": [
             8,
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[09时58分 ~ 22时24分]"
+          "appearance_count": 18,
+          "time_info": "[09时58分 ~ 23时25分]"
         },
         {
           "title": "字节跳动全年利润500亿美元？知情人士回应",
@@ -241,6 +242,38 @@
       ]
     },
     {
+      "keyword_group": "智谱",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "“全球大模型第一股”来了？智谱“家底”曝光 营收3.12亿估值243 亿",
+          "url": "https://www.cls.cn/detail/2235451",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11,
+            10,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[16时32分 ~ 23时25分]"
+        },
+        {
+          "title": "火线解析智谱AI招股书：年营收3亿增速130%，“中国版OpenAI”率先冲刺全球大模型第一股",
+          "url": "https://wallstreetcn.com/articles/3761776",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时25分"
+        }
+      ]
+    },
+    {
       "keyword_group": "算法",
       "match_count": 2,
       "titles": [
@@ -269,27 +302,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时31分 ~ 07时25分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "智谱",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "“全球大模型第一股”来了？智谱“家底”曝光 营收3.12亿估值243 亿",
-          "url": "https://www.cls.cn/detail/2235451",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            11,
-            10,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[16时32分 ~ 22时24分]"
         }
       ]
     }
