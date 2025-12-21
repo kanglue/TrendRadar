@@ -1,8 +1,36 @@
 {
-  "generated_at": "2025-12-21T12:04:06.319945+08:00",
-  "total_titles_processed": 710,
+  "generated_at": "2025-12-21T13:27:48.100519+08:00",
+  "total_titles_processed": 794,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "短剧",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "曝短剧女星与助理打架",
+          "url": "https://s.weibo.com/weibo?q=%E6%9B%9D%E7%9F%AD%E5%89%A7%E5%A5%B3%E6%98%9F%E4%B8%8E%E5%8A%A9%E7%90%86%E6%89%93%E6%9E%B6&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时20分 ~ 07时24分]"
+        },
+        {
+          "title": "短剧女演员承认对助理动手并致歉",
+          "url": "https://www.toutiao.com/trending/7585945593806602278/",
+          "source": "今日头条",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时27分"
+        }
+      ]
+    },
     {
       "keyword_group": "字节",
       "match_count": 2,
@@ -50,8 +78,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时31分 ~ 12时04分]"
+          "appearance_count": 16,
+          "time_info": "[00时31分 ~ 13时27分]"
         },
         {
           "title": "“全球大模型第一股”来了？智谱“家底”曝光 营收3.12亿估值243 亿",
@@ -62,25 +90,25 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时31分 ~ 12时04分]"
+          "appearance_count": 16,
+          "time_info": "[00时31分 ~ 13时27分]"
         }
       ]
     },
     {
-      "keyword_group": "短剧",
+      "keyword_group": "Gemini",
       "match_count": 1,
       "titles": [
         {
-          "title": "曝短剧女星与助理打架",
-          "url": "https://s.weibo.com/weibo?q=%E6%9B%9D%E7%9F%AD%E5%89%A7%E5%A5%B3%E6%98%9F%E4%B8%8E%E5%8A%A9%E7%90%86%E6%89%93%E6%9E%B6&t=31&band_rank=27&Refer=top",
-          "source": "微博",
+          "title": "Scaling Law没死！Gemini核心大佬爆料，谷歌已有颠覆性密钥",
+          "url": "https://wallstreetcn.com/articles/3761777",
+          "source": "华尔街见闻",
           "ranks": [
-            27
+            9
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时20分 ~ 07时24分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时27分"
         }
       ]
     }
