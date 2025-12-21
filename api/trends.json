@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-21T18:27:27.434384+08:00",
-  "total_titles_processed": 1077,
+  "generated_at": "2025-12-21T19:22:01.267926+08:00",
+  "total_titles_processed": 1135,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             25,
             24,
-            13
+            13,
+            23
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时25分 ~ 18时27分]"
+          "appearance_count": 7,
+          "time_info": "[15时25分 ~ 19时22分]"
         },
         {
           "title": "短剧女演员承认对助理动手并致歉",
@@ -108,8 +109,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时31分 ~ 18时27分]"
+          "appearance_count": 25,
+          "time_info": "[00时31分 ~ 19时22分]"
         }
       ]
     },
