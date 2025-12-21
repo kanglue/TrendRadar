@@ -1,12 +1,25 @@
 {
-  "generated_at": "2025-12-21T17:27:21.252040+08:00",
-  "total_titles_processed": 1024,
+  "generated_at": "2025-12-21T18:27:27.434384+08:00",
+  "total_titles_processed": 1077,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "短剧",
       "match_count": 3,
       "titles": [
+        {
+          "title": "短剧女演员承认对助理动手并致歉",
+          "url": "https://www.baidu.com/s?wd=%E7%9F%AD%E5%89%A7%E5%A5%B3%E6%BC%94%E5%91%98%E6%89%BF%E8%AE%A4%E5%AF%B9%E5%8A%A9%E7%90%86%E5%8A%A8%E6%89%8B%E5%B9%B6%E8%87%B4%E6%AD%89",
+          "source": "百度热搜",
+          "ranks": [
+            25,
+            24,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时25分 ~ 18时27分]"
+        },
         {
           "title": "短剧女演员承认对助理动手并致歉",
           "url": "https://www.toutiao.com/trending/7585945593806602278/",
@@ -19,18 +32,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[13时27分 ~ 15时25分]"
-        },
-        {
-          "title": "短剧女演员承认对助理动手并致歉",
-          "url": "https://www.baidu.com/s?wd=%E7%9F%AD%E5%89%A7%E5%A5%B3%E6%BC%94%E5%91%98%E6%89%BF%E8%AE%A4%E5%AF%B9%E5%8A%A9%E7%90%86%E5%8A%A8%E6%89%8B%E5%B9%B6%E8%87%B4%E6%AD%89",
-          "source": "百度热搜",
-          "ranks": [
-            25,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时25分 ~ 17时27分]"
         },
         {
           "title": "曝短剧女星与助理打架",
@@ -103,11 +104,12 @@
           "ranks": [
             10,
             9,
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时31分 ~ 17时27分]"
+          "appearance_count": 23,
+          "time_info": "[00时31分 ~ 18时27分]"
         }
       ]
     },
