@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-21T16:34:03.122789+08:00",
-  "total_titles_processed": 982,
+  "generated_at": "2025-12-21T17:27:21.252040+08:00",
+  "total_titles_processed": 1024,
   "failed_sources": [],
   "trends": [
     {
@@ -29,8 +29,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时25分 ~ 16时34分]"
+          "appearance_count": 4,
+          "time_info": "[15时25分 ~ 17时27分]"
         },
         {
           "title": "曝短剧女星与助理打架",
@@ -106,8 +106,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时31分 ~ 16时34分]"
+          "appearance_count": 22,
+          "time_info": "[00时31分 ~ 17时27分]"
         }
       ]
     },
