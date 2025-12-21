@@ -1,8 +1,25 @@
 {
-  "generated_at": "2025-12-22T02:36:21.545500+08:00",
-  "total_titles_processed": 382,
+  "generated_at": "2025-12-22T03:21:28.218967+08:00",
+  "total_titles_processed": 391,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "短剧",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "年度短剧之星",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%B9%B4%E5%BA%A6%E7%9F%AD%E5%89%A7%E4%B9%8B%E6%98%9F%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时21分"
+        }
+      ]
+    },
     {
       "keyword_group": "Deepseek",
       "match_count": 1,
@@ -15,8 +32,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时31分 ~ 02时36分]"
+          "appearance_count": 5,
+          "time_info": "[00时31分 ~ 03时21分]"
         }
       ]
     },
@@ -30,11 +47,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             13,
-            21
+            21,
+            23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时31分 ~ 02时36分]"
+          "appearance_count": 4,
+          "time_info": "[00时31分 ~ 03时21分]"
         }
       ]
     },
@@ -51,8 +69,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时31分 ~ 02时36分]"
+          "appearance_count": 5,
+          "time_info": "[00时31分 ~ 03时21分]"
         }
       ]
     }
