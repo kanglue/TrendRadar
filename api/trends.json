@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-23T04:30:58.039477+08:00",
-  "total_titles_processed": 488,
+  "generated_at": "2025-12-23T05:25:15.530477+08:00",
+  "total_titles_processed": 523,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时34分 ~ 04时30分]"
+          "appearance_count": 8,
+          "time_info": "[00时34分 ~ 05时25分]"
         },
         {
           "title": "MiniMax首次披露业绩！将与智谱争夺大模型“第一股”",
@@ -44,8 +44,25 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时34分 ~ 04时30分]"
+          "appearance_count": 8,
+          "time_info": "[00时34分 ~ 05时25分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "Deepseek",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "deepseek崩了",
+          "url": "https://s.weibo.com/weibo?q=deepseek%E5%B4%A9%E4%BA%86&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时24分 ~ 05时25分]"
         }
       ]
     }
