@@ -1,8 +1,36 @@
 {
-  "generated_at": "2025-12-22T10:11:24.216556+08:00",
-  "total_titles_processed": 634,
+  "generated_at": "2025-12-22T12:08:22.173239+08:00",
+  "total_titles_processed": 773,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "短剧",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "短剧拍了嫂子开门我是我哥",
+          "url": "https://s.weibo.com/weibo?q=%E7%9F%AD%E5%89%A7%E6%8B%8D%E4%BA%86%E5%AB%82%E5%AD%90%E5%BC%80%E9%97%A8%E6%88%91%E6%98%AF%E6%88%91%E5%93%A5&t=31&band_rank=4&Refer=top",
+          "source": "微博",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时08分"
+        },
+        {
+          "title": "年度短剧之星",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%B9%B4%E5%BA%A6%E7%9F%AD%E5%89%A7%E4%B9%8B%E6%98%9F%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时21分"
+        }
+      ]
+    },
     {
       "keyword_group": "MiniMax",
       "match_count": 2,
@@ -26,28 +54,12 @@
           "url": "https://www.cls.cn/detail/2235733",
           "source": "财联社热门",
           "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时11分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "短剧",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "年度短剧之星",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%B9%B4%E5%BA%A6%E7%9F%AD%E5%89%A7%E4%B9%8B%E6%98%9F%23&t=31&band_rank=28&Refer=top",
-          "source": "微博",
-          "ranks": [
-            28
+            10,
+            6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时21分"
+          "appearance_count": 2,
+          "time_info": "[10时11分 ~ 12时08分]"
         }
       ]
     },
@@ -62,7 +74,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时11分"
         }
