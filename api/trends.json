@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-22T12:08:22.173239+08:00",
-  "total_titles_processed": 773,
+  "generated_at": "2025-12-22T13:31:39.912440+08:00",
+  "total_titles_processed": 878,
   "failed_sources": [],
   "trends": [
     {
@@ -14,9 +14,9 @@
           "ranks": [
             4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时08分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时08分 ~ 13时31分]"
         },
         {
           "title": "年度短剧之星",
@@ -58,8 +58,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时11分 ~ 12时08分]"
+          "appearance_count": 3,
+          "time_info": "[10时11分 ~ 13时31分]"
         }
       ]
     },
