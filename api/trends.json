@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-22T19:24:57.643378+08:00",
-  "total_titles_processed": 1488,
+  "generated_at": "2025-12-22T20:55:45.386757+08:00",
+  "total_titles_processed": 1593,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "MiniMax",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "MiniMax首次披露业绩！将与智谱争夺大模型“第一股”",
@@ -13,11 +13,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            10
+            10,
+            7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时31分 ~ 19时24分]"
+          "appearance_count": 8,
+          "time_info": "[15时31分 ~ 20时55分]"
         },
         {
           "title": "MiniMax通过港交所聆讯",
@@ -32,6 +33,30 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时31分 ~ 06时26分]"
+        },
+        {
+          "title": "MiniMax Group Inc.港股IPO获中国证监会备案",
+          "url": "https://wallstreetcn.com/livenews/3024970",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时55分"
+        },
+        {
+          "title": "AI大模型独角兽招股书深度拆解：MiniMax to C，智谱 to B",
+          "url": "https://wallstreetcn.com/articles/3761823",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时30分 ~ 20时55分]"
         },
         {
           "title": "MiniMax稀宇科技副总裁薛子钊：Agent智能体已成为内部HR和财务数字同事",
@@ -92,24 +117,12 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时31分 ~ 16时39分]"
-        },
-        {
-          "title": "AI大模型独角兽招股书深度拆解：MiniMax to C，智谱 to B",
-          "url": "https://wallstreetcn.com/articles/3761823",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时30分 ~ 19时24分]"
         }
       ]
     },
     {
       "keyword_group": "短剧",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "短剧拍了嫂子开门我是我哥",
@@ -123,6 +136,17 @@
           "time_info": "[12时08分 ~ 13时31分]"
         },
         {
+          "title": "60岁退休干部拍短剧 成竖店容嬷嬷",
+          "url": "https://www.baidu.com/s?wd=60%E5%B2%81%E9%80%80%E4%BC%91%E5%B9%B2%E9%83%A8%E6%8B%8D%E7%9F%AD%E5%89%A7+%E6%88%90%E7%AB%96%E5%BA%97%E5%AE%B9%E5%AC%B7%E5%AC%B7",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时55分"
+        },
+        {
           "title": "年度短剧之星",
           "url": "https://s.weibo.com/weibo?q=%23%E5%B9%B4%E5%BA%A6%E7%9F%AD%E5%89%A7%E4%B9%8B%E6%98%9F%23&t=31&band_rank=28&Refer=top",
           "source": "微博",
@@ -132,6 +156,46 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时21分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "智谱",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "“全球大模型第一股”来了？智谱“家底”曝光 营收3.12亿估值243 亿",
+          "url": "https://www.cls.cn/detail/2235451",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时31分 ~ 07时24分]"
+        },
+        {
+          "title": "北京智谱华章港股IPO获中国证监会备案",
+          "url": "https://wallstreetcn.com/livenews/3024971",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时55分"
+        },
+        {
+          "title": "凌云光：拟不超过500万美元认购智谱香港IPO",
+          "url": "https://wallstreetcn.com/livenews/3024940",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时55分"
         }
       ]
     },
@@ -162,24 +226,6 @@
           "source": "知乎",
           "ranks": [
             15
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时31分 ~ 07时24分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "智谱",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "“全球大模型第一股”来了？智谱“家底”曝光 营收3.12亿估值243 亿",
-          "url": "https://www.cls.cn/detail/2235451",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            12
           ],
           "is_new": false,
           "appearance_count": 11,
