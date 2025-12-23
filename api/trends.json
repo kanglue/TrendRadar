@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-23T14:42:52.023108+08:00",
-  "total_titles_processed": 1209,
+  "generated_at": "2025-12-23T15:31:05.027154+08:00",
+  "total_titles_processed": 1301,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时06分 ~ 14时42分]"
+          "appearance_count": 6,
+          "time_info": "[10时06分 ~ 15时31分]"
         },
         {
           "title": "快手回应直播间出现色情内容：遭到黑灰产攻击，平台坚决抵制违规内容，已报警",
@@ -28,8 +28,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时06分 ~ 14时42分]"
+          "appearance_count": 6,
+          "time_info": "[10时06分 ~ 15时31分]"
         },
         {
           "title": "叫板新规?快手直播黄片刷屏",
@@ -48,11 +48,12 @@
           "source": "今日头条",
           "ranks": [
             12,
-            17
+            17,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时31分 ~ 14时42分]"
+          "appearance_count": 4,
+          "time_info": "[13时31分 ~ 15时31分]"
         },
         {
           "title": "360专家谈快手被攻击：实名认证与内容审核链路如何被绕过？",
@@ -63,8 +64,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时31分 ~ 14时42分]"
+          "appearance_count": 4,
+          "time_info": "[13时31分 ~ 15时31分]"
         },
         {
           "title": "快手直播间出现大量色情内容，海淀警方称接到多个群众报案，快手回应：平台遭到黑灰产攻击，已报警",
@@ -150,11 +151,12 @@
           "url": "https://www.zhihu.com/question/1986547034866593809",
           "source": "知乎",
           "ranks": [
-            6
+            6,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时31分 ~ 14时42分]"
+          "appearance_count": 4,
+          "time_info": "[13时31分 ~ 15时31分]"
         },
         {
           "title": "报道：字节跳动计划斥资230亿美元大举投资人工智能",
