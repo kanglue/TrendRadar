@@ -1,12 +1,24 @@
 {
-  "generated_at": "2025-12-24T05:26:05.620382+08:00",
-  "total_titles_processed": 528,
+  "generated_at": "2025-12-24T06:26:42.218190+08:00",
+  "total_titles_processed": 590,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "快手",
       "match_count": 4,
       "titles": [
+        {
+          "title": "快手回应直播间出现色情内容：遭到黑灰产攻击，平台坚决抵制违规内容，已报警",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32234690",
+          "source": "澎湃新闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时36分 ~ 06时26分]"
+        },
         {
           "title": "快手直播间出现大量色情内容：警方称接到多个报案，快手称遭到黑灰产攻击",
           "url": "https://m.thepaper.cn/newsDetail_forward_32233989",
@@ -19,27 +31,17 @@
           "time_info": "[00时36分 ~ 05时26分]"
         },
         {
-          "title": "快手回应直播间出现色情内容：遭到黑灰产攻击，平台坚决抵制违规内容，已报警",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32234690",
-          "source": "澎湃新闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时36分 ~ 05时26分]"
-        },
-        {
           "title": "360专家谈快手被攻击：实名认证与内容审核链路如何被绕过？",
           "url": "https://m.thepaper.cn/newsDetail_forward_32235101",
           "source": "澎湃新闻",
           "ranks": [
             4,
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时36分 ~ 05时26分]"
+          "appearance_count": 10,
+          "time_info": "[00时36分 ~ 06时26分]"
         },
         {
           "title": "马上评｜快手被攻陷，安全升维成平台当务之急",
@@ -50,8 +52,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时36分 ~ 05时26分]"
+          "appearance_count": 10,
+          "time_info": "[00时36分 ~ 06时26分]"
         }
       ]
     },
@@ -68,11 +70,12 @@
             4,
             8,
             10,
-            19
+            19,
+            13
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时36分 ~ 05时26分]"
+          "appearance_count": 10,
+          "time_info": "[00时36分 ~ 06时26分]"
         }
       ]
     },
