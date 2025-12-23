@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-24T02:39:56.073902+08:00",
-  "total_titles_processed": 425,
+  "generated_at": "2025-12-24T03:23:04.507960+08:00",
+  "total_titles_processed": 455,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时36分 ~ 02时39分]"
+          "appearance_count": 5,
+          "time_info": "[00时36分 ~ 03时23分]"
         },
         {
           "title": "快手回应直播间出现色情内容：遭到黑灰产攻击，平台坚决抵制违规内容，已报警",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时36分 ~ 02时39分]"
+          "appearance_count": 5,
+          "time_info": "[00时36分 ~ 03时23分]"
         },
         {
           "title": "360专家谈快手被攻击：实名认证与内容审核链路如何被绕过？",
@@ -38,8 +38,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时36分 ~ 02时39分]"
+          "appearance_count": 5,
+          "time_info": "[00时36分 ~ 03时23分]"
         },
         {
           "title": "马上评｜快手被攻陷，安全升维成平台当务之急",
@@ -50,8 +50,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时36分 ~ 02时39分]"
+          "appearance_count": 5,
+          "time_info": "[00时36分 ~ 03时23分]"
         }
       ]
     },
@@ -65,11 +65,12 @@
           "source": "知乎",
           "ranks": [
             1,
-            4
+            4,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时36分 ~ 02时39分]"
+          "appearance_count": 5,
+          "time_info": "[00时36分 ~ 03时23分]"
         }
       ]
     },
