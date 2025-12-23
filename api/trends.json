@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-23T13:31:24.145570+08:00",
-  "total_titles_processed": 1115,
+  "generated_at": "2025-12-23T14:42:52.023108+08:00",
+  "total_titles_processed": 1209,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,21 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时06分 ~ 13时31分]"
+          "appearance_count": 4,
+          "time_info": "[10时06分 ~ 14时42分]"
+        },
+        {
+          "title": "快手回应直播间出现色情内容：遭到黑灰产攻击，平台坚决抵制违规内容，已报警",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32234690",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时06分 ~ 14时42分]"
         },
         {
           "title": "叫板新规?快手直播黄片刷屏",
@@ -30,28 +43,28 @@
           "time_info": "10时06分"
         },
         {
-          "title": "快手回应直播间出现色情内容：遭到黑灰产攻击，平台坚决抵制违规内容，已报警",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32234690",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时06分 ~ 13时31分]"
-        },
-        {
           "title": "快手耗资2995.7万港元回购44.9万股",
           "url": "https://www.toutiao.com/trending/7586648501573337129/",
           "source": "今日头条",
           "ranks": [
-            12
+            12,
+            17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时31分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时31分 ~ 14时42分]"
+        },
+        {
+          "title": "360专家谈快手被攻击：实名认证与内容审核链路如何被绕过？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32235101",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时31分 ~ 14时42分]"
         },
         {
           "title": "快手直播间出现大量色情内容，海淀警方称接到多个群众报案，快手回应：平台遭到黑灰产攻击，已报警",
@@ -63,17 +76,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时26分"
-        },
-        {
-          "title": "360专家谈快手被攻击：实名认证与内容审核链路如何被绕过？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32235101",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时31分"
         },
         {
           "title": "恒指高开0.29%，报25875.85点；恒生科技指数涨0.14%。快手跌3.3%，此前快手称遭到灰黑产攻击，已报警。药明康德涨1.4%；美团、中芯国际涨0.9%。",
@@ -93,7 +95,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时31分"
         }
@@ -133,7 +135,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时31分"
         }
@@ -150,9 +152,9 @@
           "ranks": [
             6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时31分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时31分 ~ 14时42分]"
         },
         {
           "title": "报道：字节跳动计划斥资230亿美元大举投资人工智能",
@@ -205,11 +207,12 @@
           "url": "https://www.zhihu.com/question/1986558985109792573",
           "source": "知乎",
           "ranks": [
-            16
+            16,
+            13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时31分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时31分 ~ 14时42分]"
         }
       ]
     },
