@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-24T01:26:52.114976+08:00",
-  "total_titles_processed": 373,
+  "generated_at": "2025-12-24T02:39:56.073902+08:00",
+  "total_titles_processed": 425,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时36分 ~ 01时26分]"
+          "appearance_count": 3,
+          "time_info": "[00时36分 ~ 02时39分]"
         },
         {
           "title": "快手回应直播间出现色情内容：遭到黑灰产攻击，平台坚决抵制违规内容，已报警",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时36分 ~ 01时26分]"
+          "appearance_count": 3,
+          "time_info": "[00时36分 ~ 02时39分]"
         },
         {
           "title": "360专家谈快手被攻击：实名认证与内容审核链路如何被绕过？",
@@ -38,19 +38,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时36分 ~ 01时26分]"
+          "appearance_count": 3,
+          "time_info": "[00时36分 ~ 02时39分]"
         },
         {
           "title": "马上评｜快手被攻陷，安全升维成平台当务之急",
           "url": "https://m.thepaper.cn/newsDetail_forward_32235292",
           "source": "澎湃新闻",
           "ranks": [
-            16
+            16,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时36分 ~ 01时26分]"
+          "appearance_count": 3,
+          "time_info": "[00时36分 ~ 02时39分]"
         }
       ]
     },
@@ -63,11 +64,12 @@
           "url": "https://www.zhihu.com/question/1986547034866593809",
           "source": "知乎",
           "ranks": [
-            1
+            1,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时36分 ~ 01时26分]"
+          "appearance_count": 3,
+          "time_info": "[00时36分 ~ 02时39分]"
         }
       ]
     },
@@ -82,7 +84,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时26分"
         }
