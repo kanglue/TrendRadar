@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-24T14:43:00.048524+08:00",
-  "total_titles_processed": 1131,
+  "generated_at": "2025-12-24T15:31:05.374345+08:00",
+  "total_titles_processed": 1223,
   "failed_sources": [],
   "trends": [
     {
@@ -52,8 +52,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时04分 ~ 14时42分]"
+          "appearance_count": 7,
+          "time_info": "[10时04分 ~ 15时31分]"
         },
         {
           "title": "马上评｜快手被攻陷，安全升维成平台当务之急",
@@ -117,11 +117,12 @@
           "source": "微博",
           "ranks": [
             24,
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时31分 ~ 14时42分]"
+          "appearance_count": 4,
+          "time_info": "[13时31分 ~ 15时31分]"
         }
       ]
     },
