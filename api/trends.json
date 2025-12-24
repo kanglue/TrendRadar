@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-25T04:30:35.209946+08:00",
-  "total_titles_processed": 478,
+  "generated_at": "2025-12-25T05:25:09.714440+08:00",
+  "total_titles_processed": 500,
   "failed_sources": [],
   "trends": [
     {
@@ -17,6 +17,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时33分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "快手",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "巴西前总统博索纳罗离开监狱入院接受手术当地时间12月24日，巴西前总统博索纳罗被判刑后首次离开监狱，入院接受手术。此前，巴西联邦最高法院法官亚历山大·德莫赖斯批准了博索纳罗辩护团队提出的手术申请，但驳回了转为居家监禁的申请。巴西联邦警察医疗小组诊断博索纳罗患有双侧腹股沟疝，建议尽快手术。",
+          "url": "https://flash.jin10.com/detail/20251225041812329800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时25分"
         }
       ]
     }
