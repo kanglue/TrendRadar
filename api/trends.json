@@ -1,147 +1,39 @@
 {
-  "generated_at": "2025-12-25T23:28:03.518565+08:00",
-  "total_titles_processed": 1811,
+  "generated_at": "2025-12-26T00:34:04.697179+08:00",
+  "total_titles_processed": 313,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "短剧",
-      "match_count": 3,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "短剧女演员拍戏间隙被男演员甩巴掌",
-          "url": "https://s.weibo.com/weibo?q=%E7%9F%AD%E5%89%A7%E5%A5%B3%E6%BC%94%E5%91%98%E6%8B%8D%E6%88%8F%E9%97%B4%E9%9A%99%E8%A2%AB%E7%94%B7%E6%BC%94%E5%91%98%E7%94%A9%E5%B7%B4%E6%8E%8C&t=31&band_rank=4&Refer=top",
-          "source": "微博",
-          "ranks": [
-            4,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时28分 ~ 18时29分]"
-        },
         {
           "title": "短剧女演员休息时被男演员隔空扇耳光",
           "url": "https://www.toutiao.com/trending/7587694583625465899/",
           "source": "今日头条",
           "ranks": [
-            11
+            12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[21时37分 ~ 23时28分]"
-        },
-        {
-          "title": "原来短剧的观众偷偷吃这么好",
-          "url": "https://s.weibo.com/weibo?q=%E5%8E%9F%E6%9D%A5%E7%9F%AD%E5%89%A7%E7%9A%84%E8%A7%82%E4%BC%97%E5%81%B7%E5%81%B7%E5%90%83%E8%BF%99%E4%B9%88%E5%A5%BD&t=31&band_rank=27&Refer=top",
-          "source": "微博",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时23分"
+          "appearance_count": 2,
+          "time_info": "[00时33分 ~ 00时34分]"
         }
       ]
     },
     {
       "keyword_group": "字节",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
         {
           "title": "字节120名员工因触犯红线被辞",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%AD%97%E8%8A%82120%E5%90%8D%E5%91%98%E5%B7%A5%E5%9B%A0%E8%A7%A6%E7%8A%AF%E7%BA%A2%E7%BA%BF%E8%A2%AB%E8%BE%9E%23&t=31&band_rank=25&Refer=top",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%AD%97%E8%8A%82120%E5%90%8D%E5%91%98%E5%B7%A5%E5%9B%A0%E8%A7%A6%E7%8A%AF%E7%BA%A2%E7%BA%BF%E8%A2%AB%E8%BE%9E%23&t=31&band_rank=17&Refer=top",
           "source": "微博",
           "ranks": [
-            25,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[22时26分 ~ 23时28分]"
-        },
-        {
-          "title": "字节跳动通报三季度内部违规：共120名员工被辞退",
-          "url": "https://wallstreetcn.com/livenews/3026655",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            21,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时36分 ~ 18时29分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "GPT",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "OpenAI考虑在ChatGPT内植入广告。 该公司计划在用户查询时优先展示推广内容。 据悉，OpenAI已设计多种广告设计样稿，旨在打造全新的数字广告形式，而非简单模仿现有模式。（The Information）",
-          "url": "https://wallstreetcn.com/livenews/3026250",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时33分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "Gemini",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "Waymo拟为无人驾驶出租车接入Gemini AI助手",
-          "url": "https://wallstreetcn.com/livenews/3026375",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时26分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "快手",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "巴西前总统博索纳罗离开监狱入院接受手术当地时间12月24日，巴西前总统博索纳罗被判刑后首次离开监狱，入院接受手术。此前，巴西联邦最高法院法官亚历山大·德莫赖斯批准了博索纳罗辩护团队提出的手术申请，但驳回了转为居家监禁的申请。巴西联邦警察医疗小组诊断博索纳罗患有双侧腹股沟疝，建议尽快手术。",
-          "url": "https://flash.jin10.com/detail/20251225041812329800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            18,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时25分 ~ 07时26分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "大模型",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "北京将实现100个行业大模型落地应用",
-          "url": "https://wallstreetcn.com/livenews/3026644",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            26
+            17
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时36分 ~ 17时31分]"
+          "time_info": "[00时33分 ~ 00时34分]"
         }
       ]
     }
