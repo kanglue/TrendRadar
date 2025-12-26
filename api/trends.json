@@ -1,29 +1,11 @@
 {
-  "generated_at": "2025-12-26T07:26:06.447468+08:00",
-  "total_titles_processed": 510,
+  "generated_at": "2025-12-26T10:06:00.141066+08:00",
+  "total_titles_processed": 676,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "短剧",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "短剧女演员休息时被男演员隔空扇耳光",
-          "url": "https://www.toutiao.com/trending/7587694583625465899/",
-          "source": "今日头条",
-          "ranks": [
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时33分 ~ 07时26分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "字节",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "字节120名员工因触犯红线被辞",
@@ -39,6 +21,53 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时33分 ~ 07时26分]"
+        },
+        {
+          "title": "字节跳动通报120名员工被辞",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%AD%97%E8%8A%82%E8%B7%B3%E5%8A%A8%E9%80%9A%E6%8A%A5120%E5%90%8D%E5%91%98%E5%B7%A5%E8%A2%AB%E8%BE%9E%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时05分 ~ 10时06分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "短剧",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "短剧女演员休息时被男演员隔空扇耳光",
+          "url": "https://www.toutiao.com/trending/7587694583625465899/",
+          "source": "今日头条",
+          "ranks": [
+            12,
+            11,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时33分 ~ 10时06分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "世界模型",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "AI“世界模型”来袭：全球游戏产业或迎来颠覆时刻",
+          "url": "https://www.cls.cn/detail/2240453",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时05分 ~ 10时06分]"
         }
       ]
     }
