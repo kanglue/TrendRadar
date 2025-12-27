@@ -1,7 +1,25 @@
 {
-  "generated_at": "2025-12-27T07:26:45.799888+08:00",
-  "total_titles_processed": 526,
+  "generated_at": "2025-12-27T10:03:41.630322+08:00",
+  "total_titles_processed": 677,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "短剧",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "3人盗播短剧上架境外APP被抓",
+          "url": "https://news.ifeng.com/c/8pPwQupMF2V",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时03分"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://kanglue.github.io/TrendRadar/img/news.jpg"
 }
