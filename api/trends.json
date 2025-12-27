@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-27T15:25:12.501783+08:00",
-  "total_titles_processed": 1008,
+  "generated_at": "2025-12-27T16:34:46.708862+08:00",
+  "total_titles_processed": 1075,
   "failed_sources": [],
   "trends": [
     {
@@ -17,6 +17,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时03分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "大模型",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "如何看待所有前沿大模型在「SUPERChem」化学考试中均败给了低年级本科生闭卷平均水平？",
+          "url": "https://www.zhihu.com/question/1987571664876234588",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时34分"
         }
       ]
     }
