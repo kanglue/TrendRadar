@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-28T12:12:16.552284+08:00",
-  "total_titles_processed": 642,
+  "generated_at": "2025-12-28T13:31:33.832681+08:00",
+  "total_titles_processed": 726,
   "failed_sources": [],
   "trends": [
     {
@@ -28,6 +28,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时11分 ~ 12时12分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "字节",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "字节通报三季度 120 名员工触犯红线被辞退，14 人被移交司法机关处理，大厂在管理中存在哪些难点？",
+          "url": "https://www.zhihu.com/question/1987674776395851743",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时31分"
         }
       ]
     }
