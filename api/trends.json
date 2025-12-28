@@ -1,7 +1,36 @@
 {
-  "generated_at": "2025-12-28T10:24:03.459072+08:00",
-  "total_titles_processed": 536,
+  "generated_at": "2025-12-28T12:12:16.552284+08:00",
+  "total_titles_processed": 642,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "短剧",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "王丽坤拍短剧的原因找到了",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%BD%E5%9D%A4%E6%8B%8D%E7%9F%AD%E5%89%A7%E7%9A%84%E5%8E%9F%E5%9B%A0%E6%89%BE%E5%88%B0%E4%BA%86%23&t=31&band_rank=11&Refer=top",
+          "source": "微博",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时11分 ~ 12时12分]"
+        },
+        {
+          "title": "柯淳计划长剧短剧两手抓",
+          "url": "https://s.weibo.com/weibo?q=%E6%9F%AF%E6%B7%B3%E8%AE%A1%E5%88%92%E9%95%BF%E5%89%A7%E7%9F%AD%E5%89%A7%E4%B8%A4%E6%89%8B%E6%8A%93&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时11分 ~ 12时12分]"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://kanglue.github.io/TrendRadar/img/news.jpg"
 }
