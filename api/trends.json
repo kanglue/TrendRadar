@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-30T03:21:44.386756+08:00",
-  "total_titles_processed": 463,
+  "generated_at": "2025-12-30T04:31:52.205336+08:00",
+  "total_titles_processed": 486,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时33分 ~ 03时21分]"
+          "appearance_count": 6,
+          "time_info": "[00时33分 ~ 04时31分]"
         },
         {
           "title": "数字人民币迎来重大调整",
@@ -26,11 +26,12 @@
           "ranks": [
             8,
             19,
-            9
+            9,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时24分 ~ 03时21分]"
+          "appearance_count": 4,
+          "time_info": "[01时24分 ~ 04时31分]"
         },
         {
           "title": "刘晓春：数字人民币需突破支付局限",
@@ -38,11 +39,12 @@
           "source": "今日头条",
           "ranks": [
             18,
-            28
+            28,
+            27
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时33分 ~ 03时21分]"
+          "appearance_count": 4,
+          "time_info": "[00时33分 ~ 04时31分]"
         },
         {
           "title": "数字人民币迎来重大调整",
@@ -50,11 +52,12 @@
           "source": "百度热搜",
           "ranks": [
             25,
-            14
+            14,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时38分 ~ 03时21分]"
+          "appearance_count": 3,
+          "time_info": "[02时38分 ~ 04时31分]"
         },
         {
           "title": "数字人民币计息银行会受冲击吗",
@@ -82,8 +85,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时33分 ~ 03时21分]"
+          "appearance_count": 6,
+          "time_info": "[00时33分 ~ 04时31分]"
         },
         {
           "title": "DeepSeek一夜爆火、Labubu引爆全球抢购潮、“史诗级”外卖大战……2025年中国十大商业事件全盘点",
@@ -93,8 +96,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时33分 ~ 03时21分]"
+          "appearance_count": 6,
+          "time_info": "[00时33分 ~ 04时31分]"
         }
       ]
     },
@@ -111,8 +114,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时24分 ~ 03时21分]"
+          "appearance_count": 4,
+          "time_info": "[01时24分 ~ 04时31分]"
         }
       ]
     }
