@@ -1,8 +1,36 @@
 {
-  "generated_at": "2025-12-31T06:27:05.673770+08:00",
-  "total_titles_processed": 576,
+  "generated_at": "2025-12-31T07:25:24.783379+08:00",
+  "total_titles_processed": 623,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "MiniMax",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "Minimax申请香港IPO。 寻求发行2540万股股票，发行价指导区间为每股151-161港元。 预计股票将于1月7日定价，将从1月9日开始交易。",
+          "url": "https://wallstreetcn.com/livenews/3028938",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时27分"
+        },
+        {
+          "title": "AI公司MiniMax寻求通过香港IPO融资将近42亿港元",
+          "url": "https://wallstreetcn.com/livenews/3028938",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时25分"
+        }
+      ]
+    },
     {
       "keyword_group": "千问",
       "match_count": 1,
@@ -19,23 +47,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时35分 ~ 02时40分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "MiniMax",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "Minimax申请香港IPO。 寻求发行2540万股股票，发行价指导区间为每股151-161港元。 预计股票将于1月7日定价，将从1月9日开始交易。",
-          "url": "https://wallstreetcn.com/livenews/3028938",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时27分"
         }
       ]
     }
