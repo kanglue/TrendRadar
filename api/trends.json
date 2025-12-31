@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-31T22:27:52.025536+08:00",
-  "total_titles_processed": 1821,
+  "generated_at": "2025-12-31T23:28:39.331462+08:00",
+  "total_titles_processed": 1907,
   "failed_sources": [],
   "trends": [
     {
@@ -30,8 +30,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时29分 ~ 22时27分]"
+          "appearance_count": 6,
+          "time_info": "[18时29分 ~ 23时28分]"
         },
         {
           "title": "【多家国有大行公告：明年1月1日起数字人民币实名钱包余额将按照活期存款挂牌利率计息】12月31日，中国工商银行、中国农业银行、中国建设银行等陆续发布公告称，自2026年1月1日起，将为客户开立在上述银行的数字人民币实名钱包余额按照活期存款挂牌利率计付利息，计结息规则与活期存款一致。 （澎湃新闻）",
@@ -74,7 +74,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时27分"
         }
@@ -82,7 +82,7 @@
     },
     {
       "keyword_group": "千问",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "阿里千问Qwen Code更新至v0.5.0版本，推出VSCode插件，发布TypeScript SDK",
@@ -109,13 +109,24 @@
           "time_info": "[21时37分 ~ 22时27分]"
         },
         {
+          "title": "千问导演了反方向的钟",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8D%83%E9%97%AE%E5%AF%BC%E6%BC%94%E4%BA%86%E5%8F%8D%E6%96%B9%E5%90%91%E7%9A%84%E9%92%9F%23&t=31&band_rank=15&Refer=top",
+          "source": "微博",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时28分"
+        },
+        {
           "title": "南湘在千问泼我一脸钱",
           "url": "https://s.weibo.com/weibo?q=%23%E5%8D%97%E6%B9%98%E5%9C%A8%E5%8D%83%E9%97%AE%E6%B3%BC%E6%88%91%E4%B8%80%E8%84%B8%E9%92%B1%23&t=31&band_rank=30&Refer=top",
           "source": "微博",
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时27分"
         }
