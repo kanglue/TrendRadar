@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-31T20:55:54.771002+08:00",
-  "total_titles_processed": 1686,
+  "generated_at": "2025-12-31T21:37:48.595812+08:00",
+  "total_titles_processed": 1763,
   "failed_sources": [],
   "trends": [
     {
@@ -30,8 +30,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时29分 ~ 20时55分]"
+          "appearance_count": 4,
+          "time_info": "[18时29分 ~ 21时37分]"
         },
         {
           "title": "【多家国有大行公告：明年1月1日起数字人民币实名钱包余额将按照活期存款挂牌利率计息】12月31日，中国工商银行、中国农业银行、中国建设银行等陆续发布公告称，自2026年1月1日起，将为客户开立在上述银行的数字人民币实名钱包余额按照活期存款挂牌利率计付利息，计结息规则与活期存款一致。 （澎湃新闻）",
@@ -139,7 +139,7 @@
     },
     {
       "keyword_group": "千问",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "阿里千问Qwen Code更新至v0.5.0版本，推出VSCode插件，发布TypeScript SDK",
@@ -153,6 +153,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时35分 ~ 02时40分]"
+        },
+        {
+          "title": "阿里千问Qwen Code重磅更新：让AI编程跳出命令行",
+          "url": "https://wallstreetcn.com/articles/3762335",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时37分"
         }
       ]
     },
