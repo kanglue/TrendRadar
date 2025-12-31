@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-01T05:25:52.022497+08:00",
-  "total_titles_processed": 508,
+  "generated_at": "2026-01-01T06:27:37.922774+08:00",
+  "total_titles_processed": 554,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时34分 ~ 05时25分]"
+          "appearance_count": 9,
+          "time_info": "[00时34分 ~ 06时27分]"
         },
         {
           "title": "关于数字人民币 国有六大行集体宣布",
@@ -26,11 +26,12 @@
             22,
             15,
             14,
-            18
+            18,
+            13
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时34分 ~ 05时25分]"
+          "appearance_count": 9,
+          "time_info": "[00时34分 ~ 06时27分]"
         }
       ]
     },
@@ -46,11 +47,12 @@
             17,
             26,
             20,
-            25
+            25,
+            27
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时37分 ~ 05时25分]"
+          "appearance_count": 6,
+          "time_info": "[02时37分 ~ 06时27分]"
         }
       ]
     },
@@ -63,11 +65,12 @@
           "url": "https://www.zhihu.com/question/1987568735523980297",
           "source": "知乎",
           "ranks": [
-            20
+            20,
+            17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时25分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时25分 ~ 06时27分]"
         }
       ]
     }
