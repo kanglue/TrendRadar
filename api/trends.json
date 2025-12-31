@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-01T06:27:37.922774+08:00",
-  "total_titles_processed": 554,
+  "generated_at": "2026-01-01T07:26:23.359499+08:00",
+  "total_titles_processed": 591,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时34分 ~ 06时27分]"
+          "appearance_count": 10,
+          "time_info": "[00时34分 ~ 07时26分]"
         },
         {
           "title": "关于数字人民币 国有六大行集体宣布",
@@ -30,8 +30,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时34分 ~ 06时27分]"
+          "appearance_count": 10,
+          "time_info": "[00时34分 ~ 07时26分]"
         }
       ]
     },
@@ -48,11 +48,12 @@
             26,
             20,
             25,
-            27
+            27,
+            14
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时37分 ~ 06时27分]"
+          "appearance_count": 7,
+          "time_info": "[02时37分 ~ 07时26分]"
         }
       ]
     },
@@ -69,8 +70,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时25分 ~ 06时27分]"
+          "appearance_count": 3,
+          "time_info": "[05时25分 ~ 07时26分]"
         }
       ]
     }
