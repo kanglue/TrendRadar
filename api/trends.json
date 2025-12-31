@@ -1,23 +1,12 @@
 {
-  "generated_at": "2025-12-31T14:42:48.128042+08:00",
-  "total_titles_processed": 1127,
+  "generated_at": "2025-12-31T15:30:55.391402+08:00",
+  "total_titles_processed": 1226,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "MiniMax",
       "match_count": 3,
       "titles": [
-        {
-          "title": "报道：人工智能公司MiniMax香港IPO吸引数倍申购",
-          "url": "https://wallstreetcn.com/livenews/3029124",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时42分"
-        },
         {
           "title": "Minimax申请香港IPO。 寻求发行2540万股股票，发行价指导区间为每股151-161港元。 预计股票将于1月7日定价，将从1月9日开始交易。",
           "url": "https://wallstreetcn.com/livenews/3028938",
@@ -28,6 +17,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时27分"
+        },
+        {
+          "title": "报道：人工智能公司MiniMax香港IPO吸引数倍申购",
+          "url": "https://wallstreetcn.com/livenews/3029124",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时42分 ~ 15时30分]"
         },
         {
           "title": "AI公司MiniMax寻求通过香港IPO融资将近42亿港元",
@@ -55,8 +56,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时31分 ~ 14时42分]"
+          "appearance_count": 3,
+          "time_info": "[13时31分 ~ 15时30分]"
         },
         {
           "title": "【多家国有大行公告：明年1月1日起数字人民币实名钱包余额将按照活期存款挂牌利率计息】12月31日，中国工商银行、中国农业银行、中国建设银行等陆续发布公告称，自2026年1月1日起，将为客户开立在上述银行的数字人民币实名钱包余额按照活期存款挂牌利率计付利息，计结息规则与活期存款一致。 （澎湃新闻）",
@@ -105,7 +106,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时42分"
         }
@@ -144,6 +145,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时07分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "大模型",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "夸克AI眼镜发布大模型多意图理解执行、蓝环支付等五项功能更新",
+          "url": "https://wallstreetcn.com/livenews/3029160",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时30分"
         }
       ]
     }
