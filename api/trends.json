@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-02T06:27:26.529806+08:00",
-  "total_titles_processed": 456,
+  "generated_at": "2026-01-02T07:27:09.756188+08:00",
+  "total_titles_processed": 487,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时35分 ~ 06时27分]"
+          "appearance_count": 10,
+          "time_info": "[00时35分 ~ 07时27分]"
         },
         {
           "title": "DeepSeek梁文锋又发论文了",
@@ -29,8 +29,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时35分 ~ 06时27分]"
+          "appearance_count": 10,
+          "time_info": "[00时35分 ~ 07时27分]"
         },
         {
           "title": "DeepSeek开年发布新论文",
@@ -41,11 +41,12 @@
             17,
             15,
             22,
-            21
+            21,
+            19
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时35分 ~ 06时27分]"
+          "appearance_count": 10,
+          "time_info": "[00时35分 ~ 07时27分]"
         }
       ]
     },
@@ -61,8 +62,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时35分 ~ 06时27分]"
+          "appearance_count": 10,
+          "time_info": "[00时35分 ~ 07时27分]"
         },
         {
           "title": "三角洲真人短剧陪你跨年",
@@ -74,11 +75,12 @@
             19,
             29,
             30,
-            25
+            25,
+            26
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时35分 ~ 06时27分]"
+          "appearance_count": 9,
+          "time_info": "[00时35分 ~ 07时27分]"
         }
       ]
     },
@@ -102,11 +104,12 @@
           "url": "https://www.cls.cn/detail/2246028",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时35分 ~ 06时27分]"
+          "appearance_count": 10,
+          "time_info": "[00时35分 ~ 07时27分]"
         }
       ]
     },
