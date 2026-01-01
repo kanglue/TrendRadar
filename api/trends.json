@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-02T05:26:19.402791+08:00",
-  "total_titles_processed": 441,
+  "generated_at": "2026-01-02T06:27:26.529806+08:00",
+  "total_titles_processed": 456,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时35分 ~ 05时26分]"
+          "appearance_count": 8,
+          "time_info": "[00时35分 ~ 06时27分]"
         },
         {
           "title": "DeepSeek梁文锋又发论文了",
@@ -29,8 +29,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时35分 ~ 05时26分]"
+          "appearance_count": 8,
+          "time_info": "[00时35分 ~ 06时27分]"
         },
         {
           "title": "DeepSeek开年发布新论文",
@@ -40,11 +40,12 @@
             20,
             17,
             15,
-            22
+            22,
+            21
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时35分 ~ 05时26分]"
+          "appearance_count": 8,
+          "time_info": "[00时35分 ~ 06时27分]"
         }
       ]
     },
@@ -60,8 +61,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时35分 ~ 05时26分]"
+          "appearance_count": 8,
+          "time_info": "[00时35分 ~ 06时27分]"
         },
         {
           "title": "三角洲真人短剧陪你跨年",
@@ -72,11 +73,12 @@
             14,
             19,
             29,
-            30
+            30,
+            25
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时35分 ~ 05时26分]"
+          "appearance_count": 7,
+          "time_info": "[00时35分 ~ 06时27分]"
         }
       ]
     },
@@ -92,8 +94,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时35分 ~ 05时26分]"
+          "appearance_count": 8,
+          "time_info": "[00时35分 ~ 06时27分]"
         },
         {
           "title": "今日正式实施！揭秘新一代数字人民币计量框架：从数字现金到数字存款货币，对银行机构和个人有何实质影响？",
@@ -103,8 +105,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时35分 ~ 05时26分]"
+          "appearance_count": 8,
+          "time_info": "[00时35分 ~ 06时27分]"
         }
       ]
     },
@@ -117,11 +119,12 @@
           "url": "https://www.zhihu.com/question/1989992510131548346",
           "source": "知乎",
           "ranks": [
-            8
+            8,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时26分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时26分 ~ 06时27分]"
         }
       ]
     }
