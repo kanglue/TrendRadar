@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-02T01:25:44.475904+08:00",
-  "total_titles_processed": 358,
+  "generated_at": "2026-01-02T02:38:38.608798+08:00",
+  "total_titles_processed": 391,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时35分 ~ 01时25分]"
+          "appearance_count": 3,
+          "time_info": "[00时35分 ~ 02时38分]"
         },
         {
           "title": "DeepSeek梁文锋又发论文了",
@@ -27,8 +27,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时35分 ~ 01时25分]"
+          "appearance_count": 3,
+          "time_info": "[00时35分 ~ 02时38分]"
         },
         {
           "title": "DeepSeek开年发布新论文",
@@ -39,8 +39,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时35分 ~ 01时25分]"
+          "appearance_count": 3,
+          "time_info": "[00时35分 ~ 02时38分]"
         }
       ]
     },
@@ -56,8 +56,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时35分 ~ 01时25分]"
+          "appearance_count": 3,
+          "time_info": "[00时35分 ~ 02时38分]"
         },
         {
           "title": "三角洲真人短剧陪你跨年",
@@ -65,11 +65,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             28,
-            14
+            14,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时35分 ~ 01时25分]"
+          "appearance_count": 3,
+          "time_info": "[00时35分 ~ 02时38分]"
         }
       ]
     },
@@ -85,8 +86,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时35分 ~ 01时25分]"
+          "appearance_count": 3,
+          "time_info": "[00时35分 ~ 02时38分]"
         },
         {
           "title": "今日正式实施！揭秘新一代数字人民币计量框架：从数字现金到数字存款货币，对银行机构和个人有何实质影响？",
@@ -96,8 +97,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时35分 ~ 01时25分]"
+          "appearance_count": 3,
+          "time_info": "[00时35分 ~ 02时38分]"
         }
       ]
     }
