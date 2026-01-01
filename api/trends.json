@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-01T13:34:02.167411+08:00",
-  "total_titles_processed": 978,
+  "generated_at": "2026-01-01T14:42:57.723073+08:00",
+  "total_titles_processed": 1043,
   "failed_sources": [],
   "trends": [
     {
@@ -50,11 +50,12 @@
           "url": "https://www.cls.cn/detail/2246028",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时33分 ~ 13时34分]"
+          "appearance_count": 3,
+          "time_info": "[13时33分 ~ 14时42分]"
         },
         {
           "title": "数字人民币钱包余额可计付利息了",
@@ -148,11 +149,12 @@
           "url": "https://flash.jin10.com/detail/20260101124516645800",
           "source": "金十数据",
           "ranks": [
-            8
+            8,
+            22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时34分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时34分 ~ 14时42分]"
         }
       ]
     }
