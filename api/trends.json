@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-01T19:24:48.608233+08:00",
-  "total_titles_processed": 1318,
+  "generated_at": "2026-01-01T20:55:39.754614+08:00",
+  "total_titles_processed": 1392,
   "failed_sources": [],
   "trends": [
     {
@@ -42,11 +42,12 @@
             13,
             10,
             9,
-            8
+            8,
+            11
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时33分 ~ 19时24分]"
+          "appearance_count": 10,
+          "time_info": "[13时33分 ~ 20时55分]"
         },
         {
           "title": "数字人民币于 2026 年起全面升级，本次改革有哪些亮点？新增计息制度等对居民日用有何影响？",
@@ -85,8 +86,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时30分 ~ 19时24分]"
+          "appearance_count": 4,
+          "time_info": "[18时30分 ~ 20时55分]"
         },
         {
           "title": "DeepSeek发布梁文锋署名新论文 开启架构新篇章",
@@ -95,11 +96,12 @@
           "ranks": [
             3,
             7,
-            11
+            11,
+            21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时32分 ~ 19时24分]"
+          "appearance_count": 4,
+          "time_info": "[17时32分 ~ 20时55分]"
         },
         {
           "title": "DeepSeek发布梁文锋署名新论文：提出mHC新架构 提升大模型训练稳定性",
@@ -107,11 +109,12 @@
           "source": "金十数据",
           "ranks": [
             5,
-            14
+            14,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时31分 ~ 19时24分]"
+          "appearance_count": 3,
+          "time_info": "[18时31分 ~ 20时55分]"
         },
         {
           "title": "DeepSeek开年发布新论文",
