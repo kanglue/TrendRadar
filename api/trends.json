@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-02T02:38:38.608798+08:00",
-  "total_titles_processed": 391,
+  "generated_at": "2026-01-02T03:23:00.262224+08:00",
+  "total_titles_processed": 406,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://wallstreetcn.com/articles/3762429",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时35分 ~ 02时38分]"
+          "appearance_count": 5,
+          "time_info": "[00时35分 ~ 03时23分]"
         },
         {
           "title": "DeepSeek梁文锋又发论文了",
@@ -27,8 +28,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时35分 ~ 02时38分]"
+          "appearance_count": 5,
+          "time_info": "[00时35分 ~ 03时23分]"
         },
         {
           "title": "DeepSeek开年发布新论文",
@@ -36,11 +37,12 @@
           "source": "百度热搜",
           "ranks": [
             20,
-            17
+            17,
+            15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时35分 ~ 02时38分]"
+          "appearance_count": 5,
+          "time_info": "[00时35分 ~ 03时23分]"
         }
       ]
     },
@@ -56,8 +58,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时35分 ~ 02时38分]"
+          "appearance_count": 5,
+          "time_info": "[00时35分 ~ 03时23分]"
         },
         {
           "title": "三角洲真人短剧陪你跨年",
@@ -66,11 +68,12 @@
           "ranks": [
             28,
             14,
-            19
+            19,
+            29
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时35分 ~ 02时38分]"
+          "appearance_count": 5,
+          "time_info": "[00时35分 ~ 03时23分]"
         }
       ]
     },
@@ -86,8 +89,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时35分 ~ 02时38分]"
+          "appearance_count": 5,
+          "time_info": "[00时35分 ~ 03时23分]"
         },
         {
           "title": "今日正式实施！揭秘新一代数字人民币计量框架：从数字现金到数字存款货币，对银行机构和个人有何实质影响？",
@@ -97,8 +100,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时35分 ~ 02时38分]"
+          "appearance_count": 5,
+          "time_info": "[00时35分 ~ 03时23分]"
         }
       ]
     }
