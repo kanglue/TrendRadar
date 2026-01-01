@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-01T15:29:31.900000+08:00",
-  "total_titles_processed": 1083,
+  "generated_at": "2026-01-01T16:37:20.207256+08:00",
+  "total_titles_processed": 1169,
   "failed_sources": [],
   "trends": [
     {
@@ -51,11 +51,12 @@
           "source": "财联社热门",
           "ranks": [
             13,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时33分 ~ 15时29分]"
+          "appearance_count": 5,
+          "time_info": "[13时33分 ~ 16时37分]"
         },
         {
           "title": "数字人民币钱包余额可计付利息了",
@@ -90,8 +91,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[02时37分 ~ 15时29分]"
+          "appearance_count": 13,
+          "time_info": "[02时37分 ~ 16时37分]"
         },
         {
           "title": "短剧男主超级冠军硬核开唱",
