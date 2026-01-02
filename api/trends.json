@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-02T20:55:12.493912+08:00",
-  "total_titles_processed": 1432,
+  "generated_at": "2026-01-02T21:37:55.848084+08:00",
+  "total_titles_processed": 1492,
   "failed_sources": [],
   "trends": [
     {
@@ -29,11 +29,12 @@
             3,
             6,
             28,
-            29
+            29,
+            25
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时06分 ~ 20时55分]"
+          "appearance_count": 12,
+          "time_info": "[12时06分 ~ 21时37分]"
         },
         {
           "title": "如何理解 DeepSeek 最新提出的 mHC 架构？",
@@ -64,8 +65,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时35分 ~ 20时55分]"
+          "appearance_count": 23,
+          "time_info": "[00时35分 ~ 21时37分]"
         },
         {
           "title": "DeepSeek开年发布新论文",
