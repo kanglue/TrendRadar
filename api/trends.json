@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-02T15:31:32.945513+08:00",
-  "total_titles_processed": 996,
+  "generated_at": "2026-01-02T16:37:56.794807+08:00",
+  "total_titles_processed": 1081,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时35分 ~ 15时31分]"
+          "appearance_count": 17,
+          "time_info": "[00时35分 ~ 16时37分]"
         },
         {
           "title": "如何理解 DeepSeek 最新提出的 mHC 架构？",
@@ -28,8 +28,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时09分 ~ 15时31分]"
+          "appearance_count": 7,
+          "time_info": "[10时09分 ~ 16时37分]"
         },
         {
           "title": "DeepSeek梁文锋又发论文了",
@@ -41,11 +41,12 @@
             13,
             11,
             22,
-            14
+            14,
+            15
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时35分 ~ 15时31分]"
+          "appearance_count": 17,
+          "time_info": "[00时35分 ~ 16时37分]"
         },
         {
           "title": "DeepSeek开年发布新论文",
@@ -70,11 +71,12 @@
           "ranks": [
             1,
             2,
-            3
+            3,
+            6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时06分 ~ 15时31分]"
+          "appearance_count": 6,
+          "time_info": "[12时06分 ~ 16时37分]"
         }
       ]
     },
@@ -147,11 +149,12 @@
             30,
             25,
             26,
-            22
+            22,
+            16
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时35分 ~ 12时06分]"
+          "appearance_count": 11,
+          "time_info": "[00时35分 ~ 16时37分]"
         }
       ]
     },
