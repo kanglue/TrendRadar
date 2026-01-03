@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-03T22:26:05.745565+08:00",
-  "total_titles_processed": 1496,
+  "generated_at": "2026-01-03T23:26:33.579668+08:00",
+  "total_titles_processed": 1589,
   "failed_sources": [],
   "trends": [
     {
@@ -53,11 +53,12 @@
           "ranks": [
             25,
             1,
-            2
+            2,
+            28
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时27分 ~ 22时26分]"
+          "appearance_count": 8,
+          "time_info": "[18时27分 ~ 23时26分]"
         },
         {
           "title": "数字人民币和微信支付宝的不同",
@@ -86,8 +87,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[20时52分 ~ 22时26分]"
+          "appearance_count": 6,
+          "time_info": "[20时52分 ~ 23时26分]"
         }
       ]
     }
