@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-03T11:58:22.231952+08:00",
-  "total_titles_processed": 723,
+  "generated_at": "2026-01-03T12:40:09.850639+08:00",
+  "total_titles_processed": 772,
   "failed_sources": [],
   "trends": [
     {
@@ -20,11 +20,12 @@
             16,
             19,
             8,
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时33分 ~ 11时58分]"
+          "appearance_count": 12,
+          "time_info": "[00时33分 ~ 12时40分]"
         },
         {
           "title": "UP主解读DeepSeek梁文锋新论文",
