@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-05T21:49:10.941687+08:00",
-  "total_titles_processed": 1740,
+  "generated_at": "2026-01-05T22:32:21.441083+08:00",
+  "total_titles_processed": 1824,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时33分 ~ 21时49分]"
+          "appearance_count": 7,
+          "time_info": "[18时33分 ~ 22时32分]"
         },
         {
           "title": "沪指重回4000点，创业板涨超2%，脑机接口掀涨停潮，恒指微跌0.1%，快手涨近10%，钯金、铂金大涨",
@@ -90,11 +90,12 @@
           "ranks": [
             5,
             2,
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[10时25分 ~ 21时49分]"
+          "appearance_count": 15,
+          "time_info": "[10时25分 ~ 22时32分]"
         },
         {
           "title": "下周重磅日程：“科技春晚”CES、马杜罗或在美受审、美非农、智谱MiniMax港股上市",
@@ -192,6 +193,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时35分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "Gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "谷歌(GOOG.O)宣布为Google TV推出全新Gemini功能。",
+          "url": "https://flash.jin10.com/detail/20260105221438518800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时32分"
         }
       ]
     },
