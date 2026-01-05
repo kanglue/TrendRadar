@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-05T22:32:21.441083+08:00",
-  "total_titles_processed": 1824,
+  "generated_at": "2026-01-05T23:32:18.374142+08:00",
+  "total_titles_processed": 1913,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "华尔街见闻",
           "ranks": [
             5,
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时33分 ~ 22时32分]"
+          "appearance_count": 8,
+          "time_info": "[18时33分 ~ 23时32分]"
         },
         {
           "title": "沪指重回4000点，创业板涨超2%，脑机接口掀涨停潮，恒指微跌0.1%，快手涨近10%，钯金、铂金大涨",
@@ -38,11 +39,12 @@
           "url": "https://www.cls.cn/detail/2248202",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[21时00分 ~ 21时49分]"
+          "appearance_count": 5,
+          "time_info": "[21时00分 ~ 23时32分]"
         },
         {
           "title": "快手盘中拉升，现涨超11%。恒指、恒生科技指数转涨。",
@@ -91,11 +93,12 @@
             5,
             2,
             6,
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[10时25分 ~ 22时32分]"
+          "appearance_count": 16,
+          "time_info": "[10时25分 ~ 23时32分]"
         },
         {
           "title": "下周重磅日程：“科技春晚”CES、马杜罗或在美受审、美非农、智谱MiniMax港股上市",
@@ -207,7 +210,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时32分"
         }
