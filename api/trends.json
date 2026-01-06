@@ -1,8 +1,36 @@
 {
-  "generated_at": "2026-01-07T06:29:05.237212+08:00",
-  "total_titles_processed": 649,
+  "generated_at": "2026-01-07T07:27:56.766082+08:00",
+  "total_titles_processed": 702,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "字节",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "苏姿丰CES演讲全文来了！尧字节时代来临，Helios登场，“未来四年，要实现AI性能1000倍的提升”！",
+          "url": "https://wallstreetcn.com/articles/3762643",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时27分"
+        },
+        {
+          "title": "字节跳动实习生涨薪最高日薪500元",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%AD%97%E8%8A%82%E8%B7%B3%E5%8A%A8%E5%AE%9E%E4%B9%A0%E7%94%9F%E6%B6%A8%E8%96%AA%E6%9C%80%E9%AB%98%E6%97%A5%E8%96%AA500%E5%85%83%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时27分"
+        }
+      ]
+    },
     {
       "keyword_group": "GPT",
       "match_count": 1,
