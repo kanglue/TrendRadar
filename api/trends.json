@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-06T15:32:39.071799+08:00",
-  "total_titles_processed": 1274,
+  "generated_at": "2026-01-06T16:40:07.167601+08:00",
+  "total_titles_processed": 1394,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             4,
             5,
             6,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时35分 ~ 15时32分]"
+          "appearance_count": 20,
+          "time_info": "[00时35分 ~ 16时40分]"
         },
         {
           "title": "南向资金追踪｜单日净买入超187亿港元创近阶段新高 减持腾讯加仓快手和小米",
@@ -101,11 +102,12 @@
           "source": "华尔街见闻",
           "ranks": [
             8,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时08分 ~ 15时32分]"
+          "appearance_count": 9,
+          "time_info": "[10时08分 ~ 16时40分]"
         }
       ]
     },
