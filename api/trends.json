@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-07T16:40:07.687506+08:00",
-  "total_titles_processed": 1431,
+  "generated_at": "2026-01-07T17:35:37.174829+08:00",
+  "total_titles_processed": 1549,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             9,
             7,
             6,
-            8
+            8,
+            5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时27分 ~ 16时40分]"
+          "appearance_count": 10,
+          "time_info": "[07时27分 ~ 17时35分]"
         },
         {
           "title": "抖音第二总部落子深圳南山，将同步建设字节跳动AI lab研究中心",
@@ -67,11 +68,12 @@
           "ranks": [
             2,
             4,
-            12
+            12,
+            19
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时05分 ~ 16时40分]"
+          "appearance_count": 7,
+          "time_info": "[12时05分 ~ 17时35分]"
         },
         {
           "title": "微创机器人完成全球首例“大模型自主手术”动物实验",
@@ -91,7 +93,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时40分"
         }
@@ -143,7 +145,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时40分"
         }
@@ -178,7 +180,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时40分"
         }
