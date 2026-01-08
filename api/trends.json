@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-08T18:32:47.181475+08:00",
-  "total_titles_processed": 1658,
+  "generated_at": "2026-01-08T19:27:26.587066+08:00",
+  "total_titles_processed": 1749,
   "failed_sources": [],
   "trends": [
     {
@@ -19,8 +19,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时32分 ~ 18时32分]"
+          "appearance_count": 7,
+          "time_info": "[13时32分 ~ 19时27分]"
         },
         {
           "title": "沪指走出“15连阳”，商业航天持续爆发，恒科指跌1%，智谱上市首日涨13%，金属齐跌，多晶硅跌停",
@@ -28,11 +28,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时35分 ~ 18时32分]"
+          "appearance_count": 3,
+          "time_info": "[17时35分 ~ 19时27分]"
         },
         {
           "title": "智谱震荡走高。一度涨超16%，最高报135港元，早盘一度跌破发行价。",
@@ -238,11 +239,12 @@
           "ranks": [
             19,
             18,
-            14
+            14,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时39分 ~ 18时32分]"
+          "appearance_count": 4,
+          "time_info": "[16时39分 ~ 19时27分]"
         }
       ]
     },
@@ -261,8 +263,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时43分 ~ 18时32分]"
+          "appearance_count": 6,
+          "time_info": "[14时43分 ~ 19时27分]"
         }
       ]
     },
@@ -276,11 +278,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             15,
-            25
+            25,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时43分 ~ 18时32分]"
+          "appearance_count": 3,
+          "time_info": "[14时43分 ~ 19时27分]"
         }
       ]
     },
