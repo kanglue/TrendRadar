@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-08T20:59:43.988178+08:00",
-  "total_titles_processed": 1870,
+  "generated_at": "2026-01-08T21:49:38.038777+08:00",
+  "total_titles_processed": 1947,
   "failed_sources": [],
   "trends": [
     {
@@ -20,8 +20,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时32分 ~ 20时59分]"
+          "appearance_count": 9,
+          "time_info": "[13时32分 ~ 21时49分]"
         },
         {
           "title": "沪指走出“15连阳”，商业航天持续爆发，恒科指跌1%，智谱上市首日涨13%，金属齐跌，多晶硅跌停",
@@ -31,11 +31,12 @@
             10,
             8,
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时35分 ~ 20时59分]"
+          "appearance_count": 5,
+          "time_info": "[17时35分 ~ 21时49分]"
         },
         {
           "title": "智谱震荡走高。一度涨超16%，最高报135港元，早盘一度跌破发行价。",
@@ -138,7 +139,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时59分"
         },
@@ -149,7 +150,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时59分"
         }
@@ -227,7 +228,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时59分"
         }
@@ -285,7 +286,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时59分"
         }
@@ -304,11 +305,12 @@
             18,
             14,
             8,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时39分 ~ 20时59分]"
+          "appearance_count": 6,
+          "time_info": "[16时39分 ~ 21时49分]"
         }
       ]
     },
@@ -343,11 +345,12 @@
           "ranks": [
             15,
             25,
-            10
+            10,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时43分 ~ 20时59分]"
+          "appearance_count": 5,
+          "time_info": "[14时43分 ~ 21时49分]"
         }
       ]
     },
