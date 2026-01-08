@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-08T17:35:31.899076+08:00",
-  "total_titles_processed": 1558,
+  "generated_at": "2026-01-08T18:32:47.181475+08:00",
+  "total_titles_processed": 1658,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,24 @@
             8,
             10,
             15,
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时32分 ~ 17时35分]"
+          "appearance_count": 6,
+          "time_info": "[13时32分 ~ 18时32分]"
+        },
+        {
+          "title": "沪指走出“15连阳”，商业航天持续爆发，恒科指跌1%，智谱上市首日涨13%，金属齐跌，多晶硅跌停",
+          "url": "https://wallstreetcn.com/articles/3762802",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时35分 ~ 18时32分]"
         },
         {
           "title": "智谱震荡走高。一度涨超16%，最高报135港元，早盘一度跌破发行价。",
@@ -31,17 +44,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时32分"
-        },
-        {
-          "title": "沪指走出“15连阳”，商业航天持续爆发，恒科指跌1%，智谱上市首日涨13%，金属齐跌，多晶硅跌停",
-          "url": "https://wallstreetcn.com/articles/3762802",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时35分"
         },
         {
           "title": "港股收盘：恒生指数收跌1.17%，恒生科技指数收跌1.05%。科网股多数下跌，美团跌超3%，阿里巴巴跌超2%，智谱上市首日收涨约13%。",
@@ -235,11 +237,12 @@
           "source": "知乎",
           "ranks": [
             19,
-            18
+            18,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时39分 ~ 17时35分]"
+          "appearance_count": 3,
+          "time_info": "[16时39分 ~ 18时32分]"
         }
       ]
     },
@@ -254,11 +257,12 @@
           "ranks": [
             10,
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时43分 ~ 17时35分]"
+          "appearance_count": 5,
+          "time_info": "[14时43分 ~ 18时32分]"
         }
       ]
     },
@@ -271,11 +275,12 @@
           "url": "https://search.bilibili.com/all?keyword=NVIDIA%E4%B8%93%E5%9C%BA%E5%8F%91%E5%B8%83%E4%BC%9A%E8%A7%A3%E6%9E%90",
           "source": "bilibili 热搜",
           "ranks": [
-            15
+            15,
+            25
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时43分"
+          "appearance_count": 2,
+          "time_info": "[14时43分 ~ 18时32分]"
         }
       ]
     },
@@ -307,7 +312,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时35分"
         }
