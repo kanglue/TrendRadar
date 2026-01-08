@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-09T02:38:20.143638+08:00",
-  "total_titles_processed": 455,
+  "generated_at": "2026-01-09T03:26:21.607277+08:00",
+  "total_titles_processed": 505,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时38分 ~ 02时38分]"
+          "appearance_count": 5,
+          "time_info": "[00时38分 ~ 03时26分]"
         },
         {
           "title": "短剧版紫萱",
@@ -26,11 +26,12 @@
           "ranks": [
             17,
             16,
-            18
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时38分 ~ 02时38分]"
+          "appearance_count": 5,
+          "time_info": "[00时38分 ~ 03时26分]"
         }
       ]
     },
@@ -46,19 +47,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时38分 ~ 02时38分]"
+          "appearance_count": 5,
+          "time_info": "[00时38分 ~ 03时26分]"
         },
         {
           "title": "智谱CEO对谈张小珺",
           "url": "https://search.bilibili.com/all?keyword=%E6%99%BA%E8%B0%B1CEO%E5%AF%B9%E8%B0%88%E5%BC%A0%E5%B0%8F%E7%8F%BA",
           "source": "bilibili 热搜",
           "ranks": [
-            12
+            12,
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时38分 ~ 02时38分]"
+          "appearance_count": 5,
+          "time_info": "[00时38分 ~ 03时26分]"
         }
       ]
     },
@@ -72,11 +74,12 @@
           "source": "知乎",
           "ranks": [
             3,
-            4
+            4,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时38分 ~ 02时38分]"
+          "appearance_count": 5,
+          "time_info": "[00时38分 ~ 03时26分]"
         }
       ]
     },
@@ -92,8 +95,25 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时33分 ~ 02时38分]"
+          "appearance_count": 3,
+          "time_info": "[01时33分 ~ 03时26分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "Wan",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "巴西司法部长Lewandowski辞去职务。",
+          "url": "https://flash.jin10.com/detail/20260109024101363800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时26分"
         }
       ]
     },
