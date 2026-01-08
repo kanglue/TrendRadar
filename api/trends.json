@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-08T15:31:39.986342+08:00",
-  "total_titles_processed": 1335,
+  "generated_at": "2026-01-08T16:39:36.007153+08:00",
+  "total_titles_processed": 1449,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "智谱",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "智谱CEO对谈张小珺",
@@ -14,11 +14,12 @@
           "ranks": [
             8,
             10,
-            15
+            15,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时32分 ~ 15时31分]"
+          "appearance_count": 4,
+          "time_info": "[13时32分 ~ 16时39分]"
         },
         {
           "title": "智谱震荡走高。一度涨超16%，最高报135港元，早盘一度跌破发行价。",
@@ -30,6 +31,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时32分"
+        },
+        {
+          "title": "港股收盘：恒生指数收跌1.17%，恒生科技指数收跌1.05%。科网股多数下跌，美团跌超3%，阿里巴巴跌超2%，智谱上市首日收涨约13%。",
+          "url": "https://wallstreetcn.com/livenews/3033109",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时39分"
         },
         {
           "title": "智谱港股上市首日持续走高，盘中一度涨超9%，目前涨7.6%。",
@@ -60,7 +72,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时31分"
         },
@@ -147,6 +159,34 @@
       ]
     },
     {
+      "keyword_group": "MiniMax",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "新加坡主权财富基金（GIC）、百利投资（Baillie Gifford）和挪威央行据悉将在大模型独角兽MiniMax的IPO中投资。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3033121",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时39分"
+        },
+        {
+          "title": "大模型独角兽MiniMax港股暗盘涨超17%，最高报200.20港元。",
+          "url": "https://wallstreetcn.com/livenews/3033115",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时39分"
+        }
+      ]
+    },
+    {
       "keyword_group": "大模型",
       "match_count": 2,
       "titles": [
@@ -175,6 +215,23 @@
       ]
     },
     {
+      "keyword_group": "字节",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "消息称字节实习生全面涨薪，最高涨幅达 150%，这释放了什么信号？是否代表人才争夺战的升级？",
+          "url": "https://www.zhihu.com/question/1991544477639262811",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时39分"
+        }
+      ]
+    },
+    {
       "keyword_group": "Gemini",
       "match_count": 1,
       "titles": [
@@ -187,8 +244,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时43分 ~ 15时31分]"
+          "appearance_count": 3,
+          "time_info": "[14时43分 ~ 16时39分]"
         }
       ]
     },
