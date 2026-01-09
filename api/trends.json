@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-09T22:31:59.942265+08:00",
-  "total_titles_processed": 2066,
+  "generated_at": "2026-01-09T23:32:19.947782+08:00",
+  "total_titles_processed": 2162,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时31分 ~ 22时31分]"
+          "appearance_count": 8,
+          "time_info": "[18时31分 ~ 23时32分]"
         },
         {
           "title": "市值近900亿港元！MiniMax今日上市 AI大模型进入“上海时刻”",
@@ -74,11 +74,12 @@
           "source": "澎湃新闻",
           "ranks": [
             19,
-            16
+            16,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时44分 ~ 22时31分]"
+          "appearance_count": 3,
+          "time_info": "[21时44分 ~ 23时32分]"
         },
         {
           "title": "港股收盘，恒生指数收涨0.32%，恒生科技指数收涨0.15%。MiniMax上市首日收涨约109%，智谱收涨超20%。山东黄金涨超6%，老铺黄金涨超5%。",
