@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-10T02:41:40.329740+08:00",
-  "total_titles_processed": 474,
+  "generated_at": "2026-01-10T03:25:48.788392+08:00",
+  "total_titles_processed": 513,
   "failed_sources": [],
   "trends": [
     {
@@ -16,19 +16,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时36分 ~ 02时41分]"
+          "appearance_count": 6,
+          "time_info": "[00时36分 ~ 03时25分]"
         },
         {
           "title": "MiniMax刷新AI公司最快上市纪录背后：“年轻人的事业”在上海生根发芽",
           "url": "https://m.thepaper.cn/newsDetail_forward_32349158",
           "source": "澎湃新闻",
           "ranks": [
-            16
+            16,
+            18
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时36分 ~ 02时41分]"
+          "appearance_count": 6,
+          "time_info": "[00时36分 ~ 03时25分]"
         }
       ]
     }
