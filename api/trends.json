@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-10T05:27:49.917830+08:00",
-  "total_titles_processed": 624,
+  "generated_at": "2026-01-10T06:28:18.603251+08:00",
+  "total_titles_processed": 652,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时36分 ~ 05时27分]"
+          "appearance_count": 9,
+          "time_info": "[00时36分 ~ 06时28分]"
         },
         {
           "title": "MiniMax刷新AI公司最快上市纪录背后：“年轻人的事业”在上海生根发芽",
@@ -25,11 +25,12 @@
           "source": "澎湃新闻",
           "ranks": [
             16,
-            18
+            18,
+            20
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时36分 ~ 05时27分]"
+          "appearance_count": 9,
+          "time_info": "[00时36分 ~ 06时28分]"
         }
       ]
     },
@@ -42,11 +43,12 @@
           "url": "https://www.zhihu.com/question/1923049081044960601",
           "source": "知乎",
           "ranks": [
-            13
+            13,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时32分 ~ 05时27分]"
+          "appearance_count": 3,
+          "time_info": "[04时32分 ~ 06时28分]"
         }
       ]
     }
