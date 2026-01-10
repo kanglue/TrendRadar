@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-11T05:24:45.594747+08:00",
-  "total_titles_processed": 380,
+  "generated_at": "2026-01-11T06:26:42.988407+08:00",
+  "total_titles_processed": 385,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时32分 ~ 05时24分]"
+          "appearance_count": 7,
+          "time_info": "[00时32分 ~ 06时26分]"
         },
         {
           "title": "UP主解读DeepSeek进化史",
@@ -31,8 +31,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时32分 ~ 05时24分]"
+          "appearance_count": 7,
+          "time_info": "[00时32分 ~ 06时26分]"
         },
         {
           "title": "DeepSeek能否第二次震惊全世界",
@@ -44,8 +44,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时32分 ~ 05时24分]"
+          "appearance_count": 7,
+          "time_info": "[00时32分 ~ 06时26分]"
         },
         {
           "title": "Deepseek或将发布新AI模型",
@@ -55,8 +55,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时32分 ~ 05时24分]"
+          "appearance_count": 7,
+          "time_info": "[00时32分 ~ 06时26分]"
         },
         {
           "title": "DeepSeek能第二次震惊世界吗",
@@ -64,11 +64,12 @@
           "source": "今日头条",
           "ranks": [
             21,
-            23
+            23,
+            26
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时37分 ~ 05时24分]"
+          "appearance_count": 5,
+          "time_info": "[02时37分 ~ 06时26分]"
         }
       ]
     },
@@ -84,8 +85,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时32分 ~ 05时24分]"
+          "appearance_count": 7,
+          "time_info": "[00时32分 ~ 06时26分]"
         },
         {
           "title": "长三角一体化大模型发布 AI将为区域发展提供决策支撑",
@@ -95,8 +96,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时32分 ~ 05时24分]"
+          "appearance_count": 7,
+          "time_info": "[00时32分 ~ 06时26分]"
         },
         {
           "title": "月之暗面创始人杨植麟：中国技术不仅要好用还要参与制定规则，未来大模型要推出到K100",
@@ -106,8 +107,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时32分 ~ 05时24分]"
+          "appearance_count": 7,
+          "time_info": "[00时32分 ~ 06时26分]"
         },
         {
           "title": "国产龙头大模型捷报“三箭齐发” 技术与资本共振 AI应用加速落地",
@@ -120,8 +121,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时24分 ~ 05时24分]"
+          "appearance_count": 6,
+          "time_info": "[01时24分 ~ 06时26分]"
         }
       ]
     },
@@ -137,8 +138,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时32分 ~ 05时24分]"
+          "appearance_count": 7,
+          "time_info": "[00时32分 ~ 06时26分]"
         }
       ]
     },
@@ -153,9 +154,9 @@
           "ranks": [
             28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时24分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时24分 ~ 06时26分]"
         }
       ]
     }
