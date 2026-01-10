@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-10T17:27:59.590435+08:00",
-  "total_titles_processed": 1298,
+  "generated_at": "2026-01-10T18:28:21.888177+08:00",
+  "total_titles_processed": 1356,
   "failed_sources": [],
   "trends": [
     {
@@ -36,8 +36,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时05分 ~ 17时27分]"
+          "appearance_count": 12,
+          "time_info": "[10时05分 ~ 18时28分]"
         },
         {
           "title": "报道：DeepSeek将于2月发布下一代AI模型V4，具备“强大”的编程能力",
@@ -47,11 +47,12 @@
             9,
             7,
             6,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[07时27分 ~ 17时27分]"
+          "appearance_count": 13,
+          "time_info": "[07时27分 ~ 18时28分]"
         },
         {
           "title": "DeepSeek能否第二次震惊全世界",
@@ -63,8 +64,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时39分 ~ 17时27分]"
+          "appearance_count": 6,
+          "time_info": "[14时39分 ~ 18时28分]"
         },
         {
           "title": "DeepSeek能第二次震惊世界吗",
@@ -73,11 +74,12 @@
           "ranks": [
             6,
             7,
-            23
+            23,
+            26
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时39分 ~ 16时35分]"
+          "appearance_count": 5,
+          "time_info": "[14时39分 ~ 18时28分]"
         },
         {
           "title": "UP主解读DeepSeek进化史",
@@ -89,8 +91,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时25分 ~ 17时27分]"
+          "appearance_count": 5,
+          "time_info": "[15时25分 ~ 18时28分]"
         },
         {
           "title": "DeepSeek准备第二次震惊全世界",
@@ -151,11 +153,12 @@
             4,
             5,
             6,
-            9
+            9,
+            12
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时59分 ~ 17时27分]"
+          "appearance_count": 10,
+          "time_info": "[11时59分 ~ 18时28分]"
         }
       ]
     }
