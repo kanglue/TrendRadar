@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-11T16:34:57.318606+08:00",
-  "total_titles_processed": 912,
+  "generated_at": "2026-01-11T17:28:18.266582+08:00",
+  "total_titles_processed": 965,
   "failed_sources": [],
   "trends": [
     {
@@ -45,8 +45,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时32分 ~ 16时34分]"
+          "appearance_count": 17,
+          "time_info": "[00时32分 ~ 17时28分]"
         },
         {
           "title": "有新论文暗示 DeepSeekV4 已完成训练，这对未来 AI 大模型发展意味着什么？",
@@ -108,8 +108,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[01时24分 ~ 16时34分]"
+          "appearance_count": 16,
+          "time_info": "[01时24分 ~ 17时28分]"
         },
         {
           "title": "长三角一体化大模型发布 AI将为区域发展提供决策支撑",
@@ -162,8 +162,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时13分 ~ 16时34分]"
+          "appearance_count": 8,
+          "time_info": "[12时13分 ~ 17时28分]"
         },
         {
           "title": "马斯克：推特将在七天内开源其算法",
@@ -238,8 +238,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时32分 ~ 16时34分]"
+          "appearance_count": 6,
+          "time_info": "[13时32分 ~ 17时28分]"
         }
       ]
     },
