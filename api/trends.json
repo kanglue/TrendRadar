@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-12T01:24:00.768924+08:00",
-  "total_titles_processed": 334,
+  "generated_at": "2026-01-12T02:37:28.977819+08:00",
+  "total_titles_processed": 347,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时32分 ~ 01时24分]"
+          "appearance_count": 5,
+          "time_info": "[00时32分 ~ 02时37分]"
         },
         {
           "title": "中国大模型分化成趋势？智能体如何突破？唐杰、姚顺雨、杨植麟等AI顶流齐聚探讨",
@@ -26,8 +26,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时32分 ~ 01时24分]"
+          "appearance_count": 5,
+          "time_info": "[00时32分 ~ 02时37分]"
         }
       ]
     },
@@ -41,11 +41,12 @@
           "source": "微博",
           "ranks": [
             4,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时32分 ~ 01时24分]"
+          "appearance_count": 5,
+          "time_info": "[00时32分 ~ 02时37分]"
         }
       ]
     },
@@ -61,8 +62,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时33分 ~ 01时24分]"
+          "appearance_count": 3,
+          "time_info": "[00时33分 ~ 02时37分]"
         }
       ]
     },
@@ -78,8 +79,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时32分 ~ 01时24分]"
+          "appearance_count": 5,
+          "time_info": "[00时32分 ~ 02时37分]"
         }
       ]
     },
@@ -95,8 +96,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时32分 ~ 01时24分]"
+          "appearance_count": 5,
+          "time_info": "[00时32分 ~ 02时37分]"
         }
       ]
     },
@@ -112,8 +113,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时32分 ~ 01时24分]"
+          "appearance_count": 5,
+          "time_info": "[00时32分 ~ 02时37分]"
         }
       ]
     }
