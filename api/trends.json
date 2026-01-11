@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-11T15:27:30.017330+08:00",
-  "total_titles_processed": 838,
+  "generated_at": "2026-01-11T16:34:57.318606+08:00",
+  "total_titles_processed": 912,
   "failed_sources": [],
   "trends": [
     {
@@ -45,8 +45,22 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时32分 ~ 15时27分]"
+          "appearance_count": 16,
+          "time_info": "[00时32分 ~ 16时34分]"
+        },
+        {
+          "title": "有新论文暗示 DeepSeekV4 已完成训练，这对未来 AI 大模型发展意味着什么？",
+          "url": "https://www.zhihu.com/question/1990551534715556923",
+          "source": "知乎",
+          "ranks": [
+            11,
+            4,
+            10,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时13分 ~ 16时34分]"
         },
         {
           "title": "DeepSeek能否第二次震惊全世界",
@@ -60,19 +74,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时32分 ~ 07时25分]"
-        },
-        {
-          "title": "有新论文暗示 DeepSeekV4 已完成训练，这对未来 AI 大模型发展意味着什么？",
-          "url": "https://www.zhihu.com/question/1990551534715556923",
-          "source": "知乎",
-          "ranks": [
-            11,
-            4,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时13分 ~ 15时27分]"
         },
         {
           "title": "DeepSeek能第二次震惊世界吗",
@@ -107,8 +108,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[01时24分 ~ 15时27分]"
+          "appearance_count": 15,
+          "time_info": "[01时24分 ~ 16时34分]"
         },
         {
           "title": "长三角一体化大模型发布 AI将为区域发展提供决策支撑",
@@ -161,8 +162,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时13分 ~ 15时27分]"
+          "appearance_count": 7,
+          "time_info": "[12时13分 ~ 16时34分]"
         },
         {
           "title": "马斯克：推特将在七天内开源其算法",
@@ -233,11 +234,12 @@
           "ranks": [
             10,
             9,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时32分 ~ 15时27分]"
+          "appearance_count": 5,
+          "time_info": "[13时32分 ~ 16时34分]"
         }
       ]
     },
