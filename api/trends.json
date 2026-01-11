@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-11T18:29:07.248329+08:00",
-  "total_titles_processed": 1047,
+  "generated_at": "2026-01-11T19:23:07.749680+08:00",
+  "total_titles_processed": 1122,
   "failed_sources": [],
   "trends": [
     {
@@ -45,8 +45,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时32分 ~ 18时29分]"
+          "appearance_count": 21,
+          "time_info": "[00时32分 ~ 19时23分]"
         },
         {
           "title": "有新论文暗示 DeepSeekV4 已完成训练，这对未来 AI 大模型发展意味着什么？",
@@ -93,7 +93,7 @@
     },
     {
       "keyword_group": "大模型",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "国产龙头大模型捷报“三箭齐发” 技术与资本共振 AI应用加速落地",
@@ -105,11 +105,12 @@
             10,
             9,
             7,
-            8
+            8,
+            5
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[01时24分 ~ 18时29分]"
+          "appearance_count": 20,
+          "time_info": "[01时24分 ~ 19时23分]"
         },
         {
           "title": "长三角一体化大模型发布 AI将为区域发展提供决策支撑",
@@ -145,6 +146,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时32分 ~ 07时25分]"
+        },
+        {
+          "title": "中国大模型分化成趋势？智能体如何突破？唐杰、姚顺雨、杨植麟等AI顶流齐聚探讨",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32360244",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时22分 ~ 19时23分]"
         }
       ]
     },
@@ -162,8 +174,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时13分 ~ 18时29分]"
+          "appearance_count": 12,
+          "time_info": "[12时13分 ~ 19时23分]"
         },
         {
           "title": "马斯克：推特将在七天内开源其算法",
@@ -236,11 +248,12 @@
             9,
             8,
             6,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时32分 ~ 18时29分]"
+          "appearance_count": 10,
+          "time_info": "[13时32分 ~ 19时23分]"
         }
       ]
     },
