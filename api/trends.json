@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-12T06:26:48.578715+08:00",
-  "total_titles_processed": 422,
+  "generated_at": "2026-01-12T07:26:13.533612+08:00",
+  "total_titles_processed": 465,
   "failed_sources": [],
   "trends": [
     {
@@ -15,19 +15,20 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时32分 ~ 06时26分]"
+          "appearance_count": 13,
+          "time_info": "[00时32分 ~ 07时26分]"
         },
         {
           "title": "中国大模型分化成趋势？智能体如何突破？唐杰、姚顺雨、杨植麟等AI顶流齐聚探讨",
           "url": "https://m.thepaper.cn/newsDetail_forward_32360244",
           "source": "澎湃新闻",
           "ranks": [
-            15
+            15,
+            14
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时32分 ~ 06时26分]"
+          "appearance_count": 13,
+          "time_info": "[00时32分 ~ 07时26分]"
         }
       ]
     },
@@ -46,11 +47,12 @@
             9,
             19,
             18,
-            23
+            23,
+            25
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时32分 ~ 06时26分]"
+          "appearance_count": 13,
+          "time_info": "[00时32分 ~ 07时26分]"
         }
       ]
     },
@@ -86,8 +88,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时32分 ~ 06时26分]"
+          "appearance_count": 13,
+          "time_info": "[00时32分 ~ 07时26分]"
         }
       ]
     },
@@ -103,8 +105,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时32分 ~ 06时26分]"
+          "appearance_count": 13,
+          "time_info": "[00时32分 ~ 07时26分]"
         }
       ]
     },
@@ -120,8 +122,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时32分 ~ 06时26分]"
+          "appearance_count": 13,
+          "time_info": "[00时32分 ~ 07时26分]"
         }
       ]
     }
