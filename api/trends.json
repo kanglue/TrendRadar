@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-12T04:31:15.941734+08:00",
-  "total_titles_processed": 378,
+  "generated_at": "2026-01-12T05:25:00.580796+08:00",
+  "total_titles_processed": 402,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时32分 ~ 04时31分]"
+          "appearance_count": 10,
+          "time_info": "[00时32分 ~ 05时25分]"
         },
         {
           "title": "中国大模型分化成趋势？智能体如何突破？唐杰、姚顺雨、杨植麟等AI顶流齐聚探讨",
@@ -26,8 +26,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时32分 ~ 04时31分]"
+          "appearance_count": 10,
+          "time_info": "[00时32分 ~ 05时25分]"
         }
       ]
     },
@@ -44,11 +44,12 @@
             6,
             7,
             9,
-            19
+            19,
+            18
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时32分 ~ 04时31分]"
+          "appearance_count": 10,
+          "time_info": "[00时32分 ~ 05时25分]"
         }
       ]
     },
@@ -62,11 +63,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            5
+            5,
+            14
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时33分 ~ 04时31分]"
+          "appearance_count": 6,
+          "time_info": "[00时33分 ~ 05时25分]"
         }
       ]
     },
@@ -82,8 +84,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时32分 ~ 04时31分]"
+          "appearance_count": 10,
+          "time_info": "[00时32分 ~ 05时25分]"
         }
       ]
     },
@@ -99,8 +101,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时32分 ~ 04时31分]"
+          "appearance_count": 10,
+          "time_info": "[00时32分 ~ 05时25分]"
         }
       ]
     },
@@ -116,8 +118,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时32分 ~ 04时31分]"
+          "appearance_count": 10,
+          "time_info": "[00时32分 ~ 05时25分]"
         }
       ]
     }
