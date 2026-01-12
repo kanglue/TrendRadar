@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-12T12:15:21.008650+08:00",
-  "total_titles_processed": 785,
+  "generated_at": "2026-01-12T13:36:35.027513+08:00",
+  "total_titles_processed": 893,
   "failed_sources": [],
   "trends": [
     {
@@ -36,6 +36,34 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时21分 ~ 12时15分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "智谱",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "中国“AI四巨头”罕见同台，阿里、腾讯、Kimi与智谱“论剑”：大模型的下一步与中国反超的可能性",
+          "url": "https://wallstreetcn.com/articles/3763033",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时32分 ~ 10时21分]"
+        },
+        {
+          "title": "A股半日成交破2万亿，商业航天掀涨停潮，恒科指涨2%，智谱大涨30%，金属再度爆发，沪银飙升超12%",
+          "url": "https://wallstreetcn.com/articles/3763068",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时36分"
         }
       ]
     },
@@ -81,8 +109,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时21分 ~ 12时15分]"
+          "appearance_count": 3,
+          "time_info": "[10时21分 ~ 13时36分]"
         }
       ]
     },
@@ -134,26 +162,9 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时15分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "智谱",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "中国“AI四巨头”罕见同台，阿里、腾讯、Kimi与智谱“论剑”：大模型的下一步与中国反超的可能性",
-          "url": "https://wallstreetcn.com/articles/3763033",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时32分 ~ 10时21分]"
         }
       ]
     },
