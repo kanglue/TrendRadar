@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-12T16:41:47.494290+08:00",
-  "total_titles_processed": 1174,
+  "generated_at": "2026-01-12T17:39:45.860738+08:00",
+  "total_titles_processed": 1277,
   "failed_sources": [],
   "trends": [
     {
@@ -25,9 +25,9 @@
           "ranks": [
             5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时41分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时41分 ~ 17时39分]"
         },
         {
           "title": "A股成交额破3.5万亿创新纪录！商业航天涨停潮，恒科指涨2%，智谱大涨30%领涨AI应用，金属再爆发、沪银飙升13%",
@@ -127,8 +127,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时47分 ~ 16时41分]"
+          "appearance_count": 4,
+          "time_info": "[14时47分 ~ 17时39分]"
         }
       ]
     },
@@ -154,7 +154,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时41分"
         }
@@ -217,11 +217,12 @@
           "url": "https://www.cls.cn/detail/2254695",
           "source": "财联社热门",
           "ranks": [
-            7
+            7,
+            3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时41分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时41分 ~ 17时39分]"
         }
       ]
     },
