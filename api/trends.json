@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-13T02:42:04.187797+08:00",
-  "total_titles_processed": 456,
+  "generated_at": "2026-01-13T03:27:08.749155+08:00",
+  "total_titles_processed": 494,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时35分 ~ 02时42分]"
+          "appearance_count": 6,
+          "time_info": "[00时35分 ~ 03时27分]"
         },
         {
           "title": "Alphabet旗下谷歌公司：与苹果进入一份多年合作协议。 新款苹果基础模型将建立在谷歌Gemini基础之上。 模型将有助于支持未来的苹果智能功能。",
@@ -90,8 +90,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时35分 ~ 02时42分]"
+          "appearance_count": 6,
+          "time_info": "[00时35分 ~ 03时27分]"
         }
       ]
     }
