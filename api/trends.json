@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-13T21:01:54.543987+08:00",
-  "total_titles_processed": 1774,
+  "generated_at": "2026-01-13T21:50:41.971121+08:00",
+  "total_titles_processed": 1875,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时06分 ~ 21时01分]"
+          "appearance_count": 12,
+          "time_info": "[10时06分 ~ 21时50分]"
         },
         {
           "title": "备受关注的“AI商业模式”：谷歌率先在Gemini中引入广告",
@@ -129,8 +129,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时39分 ~ 21时01分]"
+          "appearance_count": 7,
+          "time_info": "[16时39分 ~ 21时50分]"
         },
         {
           "title": "DeepSeek发布梁文锋署名新论文",
