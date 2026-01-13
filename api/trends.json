@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-14T03:26:42.094050+08:00",
-  "total_titles_processed": 483,
+  "generated_at": "2026-01-14T04:33:42.648415+08:00",
+  "total_titles_processed": 535,
   "failed_sources": [],
   "trends": [
     {
@@ -16,19 +16,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时40分 ~ 03时26分]"
+          "appearance_count": 6,
+          "time_info": "[00时40分 ~ 04时33分]"
         },
         {
           "title": "gemini3pro 真那么好用吗？",
           "url": "https://www.zhihu.com/question/1990762235694434081",
           "source": "知乎",
           "ranks": [
-            20
+            20,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时39分 ~ 03时26分]"
+          "appearance_count": 3,
+          "time_info": "[02时39分 ~ 04时33分]"
         }
       ]
     },
@@ -45,8 +46,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时40分 ~ 03时26分]"
+          "appearance_count": 6,
+          "time_info": "[00时40分 ~ 04时33分]"
         }
       ]
     }
