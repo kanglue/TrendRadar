@@ -1,24 +1,12 @@
 {
-  "generated_at": "2026-01-13T18:32:35.509610+08:00",
-  "total_titles_processed": 1546,
+  "generated_at": "2026-01-13T19:28:02.436138+08:00",
+  "total_titles_processed": 1647,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "Gemini",
       "match_count": 9,
       "titles": [
-        {
-          "title": "备受关注的“AI商业模式”：谷歌率先在Gemini中引入广告",
-          "url": "https://wallstreetcn.com/articles/3763059",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时35分 ~ 07时23分]"
-        },
         {
           "title": "苹果选中Gemini，谷歌登上“4万亿”",
           "url": "https://wallstreetcn.com/articles/3763115",
@@ -30,8 +18,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时06分 ~ 18时32分]"
+          "appearance_count": 10,
+          "time_info": "[10时06分 ~ 19时28分]"
+        },
+        {
+          "title": "备受关注的“AI商业模式”：谷歌率先在Gemini中引入广告",
+          "url": "https://wallstreetcn.com/articles/3763059",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时35分 ~ 07时23分]"
         },
         {
           "title": "苹果接入Gemini模型想做啥",
@@ -120,6 +120,19 @@
       "match_count": 4,
       "titles": [
         {
+          "title": "梁文锋署名新论文：给大模型配本“字典”，计算、记忆分家后智商爆表，剧透DeepSeek V4？",
+          "url": "https://wallstreetcn.com/articles/3763151",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时39分 ~ 19时28分]"
+        },
+        {
           "title": "DeepSeek发布梁文锋署名新论文",
           "url": "https://www.baidu.com/s?wd=DeepSeek%E5%8F%91%E5%B8%83%E6%A2%81%E6%96%87%E9%94%8B%E7%BD%B2%E5%90%8D%E6%96%B0%E8%AE%BA%E6%96%87",
           "source": "百度热搜",
@@ -132,19 +145,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[10时06分 ~ 14时43分]"
-        },
-        {
-          "title": "梁文锋署名新论文：给大模型配本“字典”，计算、记忆分家后智商爆表，剧透DeepSeek V4？",
-          "url": "https://wallstreetcn.com/articles/3763151",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时39分 ~ 18时32分]"
         },
         {
           "title": "DeepSeek开源大模型记忆模块！梁文锋署名新论文，下一代稀疏模型提前剧透",
@@ -201,6 +201,34 @@
       ]
     },
     {
+      "keyword_group": "大模型",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "海天瑞声：由于人工智能行业整体发展较为迅速，应用领域和应用场景不断拓展，下游需求随着行业发展不断发生变化，公司进行数据开发所需的各项技术也面临着快速迭代的风险；公司业务相关的一体化智能数据处理平台接入并适配了外部第三方大模型，但公司自身未从事人工智能基座大模型的开发。",
+          "url": "https://wallstreetcn.com/livenews/3036091",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时28分"
+        },
+        {
+          "title": "【江苏：到2030年，新一代智能终端、智能体等应用普及率90%以上】江苏省政府发布关于印发江苏省“人工智能+”行动方案的通知，到2027年，率先实现人工智能广泛深度融合，新一代智能终端、智能体等应用普及率70%以上，产业规模快速增长。到2030年，新一代智能终端、智能体等应用普及率90%以上，形成一批国内领先的大模型，打造一批规模化商业化应用场景，人工智能产业规模超万亿元，智能经济成为全省经济发展的重要增长极。到2035年，建成国内领先的“人工智能+”创新策源地、产业新高地和融合应用先导区，全面步入智能经济和智能社会发展新阶段。",
+          "url": "https://wallstreetcn.com/livenews/3035887",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时31分"
+        }
+      ]
+    },
+    {
       "keyword_group": "字节",
       "match_count": 1,
       "titles": [
@@ -233,23 +261,6 @@
           "is_new": false,
           "appearance_count": 19,
           "time_info": "[00时35分 ~ 17时35分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "大模型",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "【江苏：到2030年，新一代智能终端、智能体等应用普及率90%以上】江苏省政府发布关于印发江苏省“人工智能+”行动方案的通知，到2027年，率先实现人工智能广泛深度融合，新一代智能终端、智能体等应用普及率70%以上，产业规模快速增长。到2030年，新一代智能终端、智能体等应用普及率90%以上，形成一批国内领先的大模型，打造一批规模化商业化应用场景，人工智能产业规模超万亿元，智能经济成为全省经济发展的重要增长极。到2035年，建成国内领先的“人工智能+”创新策源地、产业新高地和融合应用先导区，全面步入智能经济和智能社会发展新阶段。",
-          "url": "https://wallstreetcn.com/livenews/3035887",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时31分"
         }
       ]
     }
