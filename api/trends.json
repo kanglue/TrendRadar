@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-14T16:39:45.287209+08:00",
-  "total_titles_processed": 1466,
+  "generated_at": "2026-01-14T17:36:05.680975+08:00",
+  "total_titles_processed": 1570,
   "failed_sources": [],
   "trends": [
     {
@@ -36,11 +36,41 @@
           "url": "https://www.zhihu.com/question/1994425649616671736",
           "source": "知乎",
           "ranks": [
-            19
+            19,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时39分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时39分 ~ 17时36分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "短剧",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "刘萧旭最新反腐短剧《长路初心》，太苦了看不下去？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32376851",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时35分 ~ 17时36分]"
+        },
+        {
+          "title": "金鸡白玉兰得主居然演短剧了",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E9%B8%A1%E7%99%BD%E7%8E%89%E5%85%B0%E5%BE%97%E4%B8%BB%E5%B1%85%E7%84%B6%E6%BC%94%E7%9F%AD%E5%89%A7%E4%BA%86&t=31&band_rank=22&Refer=top",
+          "source": "微博",
+          "ranks": [
+            22,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时32分 ~ 15时33分]"
         }
       ]
     },
@@ -69,27 +99,9 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时39分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "短剧",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "金鸡白玉兰得主居然演短剧了",
-          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E9%B8%A1%E7%99%BD%E7%8E%89%E5%85%B0%E5%BE%97%E4%B8%BB%E5%B1%85%E7%84%B6%E6%BC%94%E7%9F%AD%E5%89%A7%E4%BA%86&t=31&band_rank=22&Refer=top",
-          "source": "微博",
-          "ranks": [
-            22,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时32分 ~ 15时33分]"
         }
       ]
     },
