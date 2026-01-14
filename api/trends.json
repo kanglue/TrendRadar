@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-15T06:31:04.567139+08:00",
-  "total_titles_processed": 676,
+  "generated_at": "2026-01-15T07:24:25.162279+08:00",
+  "total_titles_processed": 738,
   "failed_sources": [],
   "trends": [
     {
@@ -15,19 +15,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时39分 ~ 06时31分]"
+          "appearance_count": 10,
+          "time_info": "[00时39分 ~ 07时24分]"
         },
         {
           "title": "刘萧旭最新反腐短剧《长路初心》，太苦了看不下去？",
           "url": "https://m.thepaper.cn/newsDetail_forward_32376851",
           "source": "澎湃新闻",
           "ranks": [
-            15
+            15,
+            16
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时39分 ~ 06时31分]"
+          "appearance_count": 10,
+          "time_info": "[00时39分 ~ 07时24分]"
         }
       ]
     },
@@ -86,11 +87,12 @@
           "source": "知乎",
           "ranks": [
             3,
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时39分 ~ 06时31分]"
+          "appearance_count": 10,
+          "time_info": "[00时39分 ~ 07时24分]"
         }
       ]
     }
