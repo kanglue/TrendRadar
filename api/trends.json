@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-14T19:28:14.231726+08:00",
-  "total_titles_processed": 1759,
+  "generated_at": "2026-01-14T21:01:59.592354+08:00",
+  "total_titles_processed": 1888,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349149&amp;topic_name=%E6%B4%8B%E5%A6%9E%E8%90%BD%E9%80%89%E7%9F%AD%E5%89%A7%E5%A5%B3%E4%B8%BB%2C%E5%AF%B9%E6%89%8B%E9%99%8D%E7%BB%B4%E6%89%93%E5%87%BB",
           "source": "贴吧",
           "ranks": [
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时27分 ~ 19时28分]"
+          "appearance_count": 3,
+          "time_info": "[19时27分 ~ 21时01分]"
         },
         {
           "title": "刘萧旭最新反腐短剧《长路初心》，太苦了看不下去？",
@@ -25,11 +26,12 @@
           "ranks": [
             20,
             19,
-            18
+            18,
+            15
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时35分 ~ 19时28分]"
+          "appearance_count": 7,
+          "time_info": "[17时35分 ~ 21时01分]"
         },
         {
           "title": "金鸡白玉兰得主居然演短剧了",
@@ -91,7 +93,7 @@
     },
     {
       "keyword_group": "Deepseek",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "梁文锋署名新论文：给大模型配本“字典”，计算、记忆分家后智商爆表，剧透DeepSeek V4？",
@@ -106,6 +108,17 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时40分 ~ 12时13分]"
+        },
+        {
+          "title": "如何评价 DeepSeek 发布梁文锋署名论文，提出「条件记忆」及 Engram 记忆检索架构？有哪些亮点？",
+          "url": "https://www.zhihu.com/question/1994233409871050526",
+          "source": "知乎",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时01分"
         },
         {
           "title": "摩根资产管理认为中国科技领域将迎来“更多DeepSeek时刻”",
