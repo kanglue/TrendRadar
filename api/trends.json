@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-14T22:32:46.246932+08:00",
-  "total_titles_processed": 2102,
+  "generated_at": "2026-01-14T23:32:46.506323+08:00",
+  "total_titles_processed": 2205,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             20,
             19,
             18,
-            15
+            15,
+            14
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[17时35分 ~ 22时32分]"
+          "appearance_count": 10,
+          "time_info": "[17时35分 ~ 23时32分]"
         },
         {
           "title": "洋妞落选短剧女主,对手降维打击",
@@ -28,11 +29,12 @@
           "ranks": [
             3,
             4,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时27分 ~ 22时32分]"
+          "appearance_count": 6,
+          "time_info": "[19时27分 ~ 23时32分]"
         },
         {
           "title": "金鸡白玉兰得主居然演短剧了",
@@ -119,8 +121,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时01分 ~ 22时32分]"
+          "appearance_count": 4,
+          "time_info": "[21时01分 ~ 23时32分]"
         },
         {
           "title": "摩根资产管理认为中国科技领域将迎来“更多DeepSeek时刻”",
