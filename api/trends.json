@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-16T05:28:57.037980+08:00",
-  "total_titles_processed": 568,
+  "generated_at": "2026-01-16T06:29:45.476273+08:00",
+  "total_titles_processed": 625,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时42分 ~ 05时28分]"
+          "appearance_count": 8,
+          "time_info": "[00时42分 ~ 06时29分]"
         },
         {
           "title": "洋妞落选短剧女主,对手降维打击",
@@ -27,8 +27,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时42分 ~ 05时28分]"
+          "appearance_count": 8,
+          "time_info": "[00时42分 ~ 06时29分]"
         }
       ]
     },
@@ -45,8 +45,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时42分 ~ 05时28分]"
+          "appearance_count": 8,
+          "time_info": "[00时42分 ~ 06时29分]"
         },
         {
           "title": "阿里千问 App 接入淘宝、闪购，测试 AI 购物，将对消费购物体验带来哪些改变？具有哪些行业意义？",
@@ -65,6 +65,23 @@
       ]
     },
     {
+      "keyword_group": "内容创作",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "Cloudflare(NET.N)收购AI数据市场Human Native，以扩大在人工智能开发者和内容创作者之间开展交易的步伐。",
+          "url": "https://flash.jin10.com/detail/20260116053652696800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时29分"
+        }
+      ]
+    },
+    {
       "keyword_group": "Deepseek",
       "match_count": 1,
       "titles": [
@@ -78,8 +95,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时42分 ~ 05时28分]"
+          "appearance_count": 8,
+          "time_info": "[00时42分 ~ 06时29分]"
         }
       ]
     }
