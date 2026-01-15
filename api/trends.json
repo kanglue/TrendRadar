@@ -1,12 +1,26 @@
 {
-  "generated_at": "2026-01-15T18:32:42.922060+08:00",
-  "total_titles_processed": 1700,
+  "generated_at": "2026-01-15T19:27:33.029469+08:00",
+  "total_titles_processed": 1797,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "千问",
       "match_count": 6,
       "titles": [
+        {
+          "title": "阿里千问放大招！全球首发多重AI购物功能 又一场电商革命近了？",
+          "url": "https://www.cls.cn/detail/2258421",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            3,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[12时08分 ~ 19时27分]"
+        },
         {
           "title": "阿里千问将上线“AI生活助理”，可一句话点外卖",
           "url": "https://www.cls.cn/detail/2258255",
@@ -23,20 +37,6 @@
           "time_info": "[10时08分 ~ 16时39分]"
         },
         {
-          "title": "阿里千问放大招！全球首发多重AI购物功能 又一场电商革命近了？",
-          "url": "https://www.cls.cn/detail/2258421",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            3,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时08分 ~ 18时32分]"
-        },
-        {
           "title": "直击阿里千问APP发布会：全面接入淘宝、支付宝、淘宝闪购等阿里生态业务",
           "url": "https://wallstreetcn.com/articles/3763341",
           "source": "华尔街见闻",
@@ -44,11 +44,12 @@
             8,
             7,
             6,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时32分 ~ 18时32分]"
+          "appearance_count": 8,
+          "time_info": "[13时32分 ~ 19时27分]"
         },
         {
           "title": "千问App接入支付宝，上线AI付款",
@@ -101,11 +102,12 @@
             15,
             16,
             18,
-            20
+            20,
+            21
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时39分 ~ 18时32分]"
+          "appearance_count": 21,
+          "time_info": "[00时39分 ~ 19时27分]"
         },
         {
           "title": "刘萧旭最新反腐短剧《长路初心》，太苦了看不下去？",
@@ -128,11 +130,12 @@
             23,
             2,
             13,
-            12
+            12,
+            17
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时08分 ~ 18时32分]"
+          "appearance_count": 9,
+          "time_info": "[12时08分 ~ 19时27分]"
         },
         {
           "title": "短剧已经卷到3秒一集了",
@@ -175,11 +178,12 @@
             13,
             11,
             9,
-            10
+            10,
+            14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时31分 ~ 18时32分]"
+          "appearance_count": 5,
+          "time_info": "[15时31分 ~ 19时27分]"
         },
         {
           "title": "苹果为中国大陆用户拓展Apple Pay跨境支付支持",
@@ -294,7 +298,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时32分"
         }
