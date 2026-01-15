@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-16T04:34:21.498832+08:00",
-  "total_titles_processed": 512,
+  "generated_at": "2026-01-16T05:28:57.037980+08:00",
+  "total_titles_processed": 568,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时42分 ~ 04时34分]"
+          "appearance_count": 7,
+          "time_info": "[00时42分 ~ 05时28分]"
         },
         {
           "title": "洋妞落选短剧女主,对手降维打击",
@@ -27,8 +27,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时42分 ~ 04时34分]"
+          "appearance_count": 7,
+          "time_info": "[00时42分 ~ 05时28分]"
         }
       ]
     },
@@ -45,8 +45,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时42分 ~ 04时34分]"
+          "appearance_count": 7,
+          "time_info": "[00时42分 ~ 05时28分]"
         },
         {
           "title": "阿里千问 App 接入淘宝、闪购，测试 AI 购物，将对消费购物体验带来哪些改变？具有哪些行业意义？",
@@ -55,11 +55,12 @@
           "ranks": [
             15,
             16,
-            17
+            17,
+            10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时42分 ~ 04时34分]"
+          "appearance_count": 7,
+          "time_info": "[00时42分 ~ 05时28分]"
         }
       ]
     },
@@ -77,8 +78,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时42分 ~ 04时34分]"
+          "appearance_count": 7,
+          "time_info": "[00时42分 ~ 05时28分]"
         }
       ]
     }
