@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-16T00:43:01.065180+08:00",
-  "total_titles_processed": 313,
+  "generated_at": "2026-01-16T01:38:59.705237+08:00",
+  "total_titles_processed": 379,
   "failed_sources": [],
   "trends": [
     {
@@ -15,19 +15,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时42分 ~ 00时43分]"
+          "appearance_count": 3,
+          "time_info": "[00时42分 ~ 01时38分]"
         },
         {
           "title": "洋妞落选短剧女主,对手降维打击",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349149&amp;topic_name=%E6%B4%8B%E5%A6%9E%E8%90%BD%E9%80%89%E7%9F%AD%E5%89%A7%E5%A5%B3%E4%B8%BB%2C%E5%AF%B9%E6%89%8B%E9%99%8D%E7%BB%B4%E6%89%93%E5%87%BB",
           "source": "贴吧",
           "ranks": [
-            20
+            20,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时42分 ~ 00时43分]"
+          "appearance_count": 3,
+          "time_info": "[00时42分 ~ 01时38分]"
         }
       ]
     },
@@ -43,19 +44,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时42分 ~ 00时43分]"
+          "appearance_count": 3,
+          "time_info": "[00时42分 ~ 01时38分]"
         },
         {
           "title": "阿里千问 App 接入淘宝、闪购，测试 AI 购物，将对消费购物体验带来哪些改变？具有哪些行业意义？",
           "url": "https://www.zhihu.com/question/1995085840762758424",
           "source": "知乎",
           "ranks": [
-            15
+            15,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时42分 ~ 00时43分]"
+          "appearance_count": 3,
+          "time_info": "[00时42分 ~ 01时38分]"
         }
       ]
     },
@@ -71,8 +73,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时42分 ~ 00时43分]"
+          "appearance_count": 3,
+          "time_info": "[00时42分 ~ 01时38分]"
         }
       ]
     }
