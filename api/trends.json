@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-15T21:49:11.475114+08:00",
-  "total_titles_processed": 2023,
+  "generated_at": "2026-01-15T22:32:26.050081+08:00",
+  "total_titles_processed": 2101,
   "failed_sources": [],
   "trends": [
     {
@@ -33,8 +33,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[13时32分 ~ 21时49分]"
+          "appearance_count": 12,
+          "time_info": "[13时32分 ~ 22时32分]"
         },
         {
           "title": "阿里千问将上线“AI生活助理”，可一句话点外卖",
@@ -124,8 +124,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时39分 ~ 21时49分]"
+          "appearance_count": 25,
+          "time_info": "[00时39分 ~ 22时32分]"
         },
         {
           "title": "刘萧旭最新反腐短剧《长路初心》，太苦了看不下去？",
@@ -279,8 +279,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时59分 ~ 21时49分]"
+          "appearance_count": 4,
+          "time_info": "[20时59分 ~ 22时32分]"
         }
       ]
     },
