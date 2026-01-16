@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-17T06:29:20.426205+08:00",
-  "total_titles_processed": 595,
+  "generated_at": "2026-01-17T07:27:26.482356+08:00",
+  "total_titles_processed": 615,
   "failed_sources": [],
   "trends": [
     {
@@ -19,8 +19,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时38分 ~ 06时29分]"
+          "appearance_count": 10,
+          "time_info": "[00时38分 ~ 07时27分]"
         },
         {
           "title": "“7岁嫁人15岁生子”？检察日报：拒绝“毒流量”助长儿童短剧低俗化",
@@ -28,11 +28,27 @@
           "source": "澎湃新闻",
           "ranks": [
             5,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时38分 ~ 06时29分]"
+          "appearance_count": 10,
+          "time_info": "[00时38分 ~ 07时27分]"
+        },
+        {
+          "title": "退休老人回应3年演200多部短剧",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%80%80%E4%BC%91%E8%80%81%E4%BA%BA%E5%9B%9E%E5%BA%943%E5%B9%B4%E6%BC%94200%E5%A4%9A%E9%83%A8%E7%9F%AD%E5%89%A7%23&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8,
+            7,
+            9,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时38分 ~ 07时27分]"
         },
         {
           "title": "UP主盘点2025短剧",
@@ -43,25 +59,12 @@
             25,
             5,
             12,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时38分 ~ 06时29分]"
-        },
-        {
-          "title": "退休老人回应3年演200多部短剧",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%80%80%E4%BC%91%E8%80%81%E4%BA%BA%E5%9B%9E%E5%BA%943%E5%B9%B4%E6%BC%94200%E5%A4%9A%E9%83%A8%E7%9F%AD%E5%89%A7%23&t=31&band_rank=8&Refer=top",
-          "source": "微博",
-          "ranks": [
-            8,
-            7,
             9,
-            6
+            10
           ],
           "is_new": false,
           "appearance_count": 9,
-          "time_info": "[00时38分 ~ 06时29分]"
+          "time_info": "[00时38分 ~ 07时27分]"
         },
         {
           "title": "短剧演员上脑综打败清华北大学霸",
@@ -74,8 +77,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时38分 ~ 06时29分]"
+          "appearance_count": 10,
+          "time_info": "[00时38分 ~ 07时27分]"
         },
         {
           "title": "洋妞落选短剧女主,对手降维打击",
@@ -85,8 +88,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时38分 ~ 06时29分]"
+          "appearance_count": 10,
+          "time_info": "[00时38分 ~ 07时27分]"
         }
       ]
     },
