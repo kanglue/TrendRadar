@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-01-16T07:28:20.821301+08:00",
-  "total_titles_processed": 685,
+  "generated_at": "2026-01-16T10:11:05.867930+08:00",
+  "total_titles_processed": 854,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "短剧",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "7岁嫁人15岁生子短剧引众怒",
           "url": "https://s.weibo.com/weibo?q=%237%E5%B2%81%E5%AB%81%E4%BA%BA15%E5%B2%81%E7%94%9F%E5%AD%90%E7%9F%AD%E5%89%A7%E5%BC%95%E4%BC%97%E6%80%92%23&t=31&band_rank=6&Refer=top",
           "source": "微博",
           "ranks": [
-            6
+            6,
+            16
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时42分 ~ 07时28分]"
+          "appearance_count": 11,
+          "time_info": "[00时42分 ~ 10时11分]"
         },
         {
           "title": "洋妞落选短剧女主,对手降维打击",
@@ -27,8 +28,58 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时42分 ~ 07时28分]"
+          "appearance_count": 11,
+          "time_info": "[00时42分 ~ 10时11分]"
+        },
+        {
+          "title": "7岁嫁人15岁生子短剧引众怒",
+          "url": "https://www.baidu.com/s?wd=7%E5%B2%81%E5%AB%81%E4%BA%BA15%E5%B2%81%E7%94%9F%E5%AD%90%E7%9F%AD%E5%89%A7%E5%BC%95%E4%BC%97%E6%80%92",
+          "source": "百度热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时10分 ~ 10时11分]"
+        },
+        {
+          "title": "短剧选用11岁女童演替嫁新娘",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%9F%AD%E5%89%A7%E9%80%89%E7%94%A811%E5%B2%81%E5%A5%B3%E7%AB%A5%E6%BC%94%E6%9B%BF%E5%AB%81%E6%96%B0%E5%A8%98%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时10分 ~ 10时11分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "内容创作",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "“在上海，找到主场！”互联网优质内容创作者如是说",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32394080",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时10分 ~ 10时11分]"
+        },
+        {
+          "title": "Cloudflare(NET.N)收购AI数据市场Human Native，以扩大在人工智能开发者和内容创作者之间开展交易的步伐。",
+          "url": "https://flash.jin10.com/detail/20260116053652696800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时29分"
         }
       ]
     },
@@ -45,8 +96,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时42分 ~ 07时28分]"
+          "appearance_count": 11,
+          "time_info": "[00时42分 ~ 10时11分]"
         },
         {
           "title": "阿里千问 App 接入淘宝、闪购，测试 AI 购物，将对消费购物体验带来哪些改变？具有哪些行业意义？",
@@ -65,23 +116,6 @@
       ]
     },
     {
-      "keyword_group": "内容创作",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "Cloudflare(NET.N)收购AI数据市场Human Native，以扩大在人工智能开发者和内容创作者之间开展交易的步伐。",
-          "url": "https://flash.jin10.com/detail/20260116053652696800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时29分"
-        }
-      ]
-    },
-    {
       "keyword_group": "Deepseek",
       "match_count": 1,
       "titles": [
@@ -92,11 +126,12 @@
           "ranks": [
             3,
             4,
-            2
+            2,
+            15
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时42分 ~ 07时28分]"
+          "appearance_count": 11,
+          "time_info": "[00时42分 ~ 10时11分]"
         }
       ]
     }
