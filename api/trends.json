@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-16T18:32:46.088499+08:00",
-  "total_titles_processed": 1597,
+  "generated_at": "2026-01-16T19:26:40.579907+08:00",
+  "total_titles_processed": 1680,
   "failed_sources": [],
   "trends": [
     {
@@ -21,6 +21,21 @@
           "time_info": "[00时42分 ~ 12时06分]"
         },
         {
+          "title": "“7岁嫁人15岁生子”？检察日报：拒绝“毒流量”助长儿童短剧低俗化",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32397616",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            14,
+            12,
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[12时05分 ~ 19时26分]"
+        },
+        {
           "title": "洋妞落选短剧女主,对手降维打击",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349149&amp;topic_name=%E6%B4%8B%E5%A6%9E%E8%90%BD%E9%80%89%E7%9F%AD%E5%89%A7%E5%A5%B3%E4%B8%BB%2C%E5%AF%B9%E6%89%8B%E9%99%8D%E7%BB%B4%E6%89%93%E5%87%BB",
           "source": "贴吧",
@@ -31,25 +46,12 @@
             25,
             26,
             27,
-            28
+            28,
+            29
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时42分 ~ 18时32分]"
-        },
-        {
-          "title": "“7岁嫁人15岁生子”？检察日报：拒绝“毒流量”助长儿童短剧低俗化",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32397616",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            14,
-            12,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时05分 ~ 18时32分]"
+          "appearance_count": 21,
+          "time_info": "[00时42分 ~ 19时26分]"
         },
         {
           "title": "7岁嫁人15岁生子短剧引众怒",
@@ -197,8 +199,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时34分 ~ 18时32分]"
+          "appearance_count": 3,
+          "time_info": "[17时34分 ~ 19时26分]"
         }
       ]
     }
