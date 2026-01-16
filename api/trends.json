@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-17T04:29:44.800613+08:00",
-  "total_titles_processed": 500,
+  "generated_at": "2026-01-17T05:28:39.679550+08:00",
+  "total_titles_processed": 563,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             6,
             4,
             3,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时38分 ~ 04时29分]"
+          "appearance_count": 7,
+          "time_info": "[00时38分 ~ 05时28分]"
         },
         {
           "title": "“7岁嫁人15岁生子”？检察日报：拒绝“毒流量”助长儿童短剧低俗化",
@@ -30,8 +31,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时38分 ~ 04时29分]"
+          "appearance_count": 7,
+          "time_info": "[00时38分 ~ 05时28分]"
         },
         {
           "title": "UP主盘点2025短剧",
@@ -41,11 +42,12 @@
             4,
             25,
             5,
-            12
+            12,
+            9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时38分 ~ 04时29分]"
+          "appearance_count": 6,
+          "time_info": "[00时38分 ~ 05时28分]"
         },
         {
           "title": "退休老人回应3年演200多部短剧",
@@ -57,8 +59,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时38分 ~ 04时29分]"
+          "appearance_count": 7,
+          "time_info": "[00时38分 ~ 05时28分]"
         },
         {
           "title": "短剧演员上脑综打败清华北大学霸",
@@ -71,8 +73,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时38分 ~ 04时29分]"
+          "appearance_count": 7,
+          "time_info": "[00时38分 ~ 05时28分]"
         },
         {
           "title": "洋妞落选短剧女主,对手降维打击",
@@ -82,8 +84,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时38分 ~ 04时29分]"
+          "appearance_count": 7,
+          "time_info": "[00时38分 ~ 05时28分]"
         }
       ]
     },
