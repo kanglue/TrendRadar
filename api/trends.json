@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-17T03:24:49.169781+08:00",
-  "total_titles_processed": 475,
+  "generated_at": "2026-01-17T04:29:44.800613+08:00",
+  "total_titles_processed": 500,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             6,
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时38分 ~ 03时24分]"
+          "appearance_count": 6,
+          "time_info": "[00时38分 ~ 04时29分]"
         },
         {
           "title": "“7岁嫁人15岁生子”？检察日报：拒绝“毒流量”助长儿童短剧低俗化",
@@ -29,8 +30,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时38分 ~ 03时24分]"
+          "appearance_count": 6,
+          "time_info": "[00时38分 ~ 04时29分]"
         },
         {
           "title": "UP主盘点2025短剧",
@@ -39,11 +40,12 @@
           "ranks": [
             4,
             25,
-            5
+            5,
+            12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时38分 ~ 03时24分]"
+          "appearance_count": 5,
+          "time_info": "[00时38分 ~ 04时29分]"
         },
         {
           "title": "退休老人回应3年演200多部短剧",
@@ -55,8 +57,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时38分 ~ 03时24分]"
+          "appearance_count": 6,
+          "time_info": "[00时38分 ~ 04时29分]"
         },
         {
           "title": "短剧演员上脑综打败清华北大学霸",
@@ -69,8 +71,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时38分 ~ 03时24分]"
+          "appearance_count": 6,
+          "time_info": "[00时38分 ~ 04时29分]"
         },
         {
           "title": "洋妞落选短剧女主,对手降维打击",
@@ -80,8 +82,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时38分 ~ 03时24分]"
+          "appearance_count": 6,
+          "time_info": "[00时38分 ~ 04时29分]"
         }
       ]
     },
@@ -95,11 +97,12 @@
           "source": "金十数据",
           "ranks": [
             2,
-            16
+            16,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时42分 ~ 03时24分]"
+          "appearance_count": 3,
+          "time_info": "[02时42分 ~ 04时29分]"
         },
         {
           "title": "OpenAI：计划很快在美国开始对免费版的广告以及ChatGPT Go进行测试。",
@@ -107,11 +110,12 @@
           "source": "金十数据",
           "ranks": [
             3,
-            17
+            17,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时42分 ~ 03时24分]"
+          "appearance_count": 3,
+          "time_info": "[02时42分 ~ 04时29分]"
         },
         {
           "title": "OpenAI推出ChatGPT Go，美国订阅费用为每个月8美元，目前已在全球范围内上线。",
@@ -119,11 +123,12 @@
           "source": "金十数据",
           "ranks": [
             5,
-            19
+            19,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时42分 ~ 03时24分]"
+          "appearance_count": 3,
+          "time_info": "[02时42分 ~ 04时29分]"
         },
         {
           "title": "OpenAI推出ChatGPT Go，美国订阅费用为每个月8美元。 在全球范围内对ChatGPT提供三层订阅方案。 ChatGPT Plus月租20美元，ChatGPT Pro月租200美元。 Plus、Pro、Bussiness、Enterprise都不包含广告。 还没有在ChatGPT推出广告。 将免费测试广告功能，将在成年人群体实施分层订阅方案。 未来数周将开始测试第一批广告格式。 将在ChatGPT答案的底部测试广告。 广告将有清晰的标签，与答案有分隔。",
@@ -131,22 +136,24 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             6,
-            14
+            14,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时42分 ~ 03时24分]"
+          "appearance_count": 3,
+          "time_info": "[02时42分 ~ 04时29分]"
         },
         {
           "title": "变现压力下的“最后手段” OpenAI开启ChatGPT广告测试",
           "url": "https://flash.jin10.com/detail/20260117021136642800",
           "source": "金十数据",
           "ranks": [
-            14
+            14,
+            22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时24分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时24分 ~ 04时29分]"
         }
       ]
     },
