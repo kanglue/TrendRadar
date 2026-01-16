@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-16T14:43:48.975489+08:00",
-  "total_titles_processed": 1217,
+  "generated_at": "2026-01-16T15:31:49.473909+08:00",
+  "total_titles_processed": 1306,
   "failed_sources": [],
   "trends": [
     {
@@ -28,11 +28,12 @@
             20,
             21,
             24,
-            25
+            25,
+            26
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时42分 ~ 14时43分]"
+          "appearance_count": 17,
+          "time_info": "[00时42分 ~ 15时31分]"
         },
         {
           "title": "7岁嫁人15岁生子短剧引众怒",
@@ -45,8 +46,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时10分 ~ 14时43分]"
+          "appearance_count": 8,
+          "time_info": "[10时10分 ~ 15时31分]"
         },
         {
           "title": "“7岁嫁人15岁生子”？检察日报：拒绝“毒流量”助长儿童短剧低俗化",
@@ -57,8 +58,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时05分 ~ 14时43分]"
+          "appearance_count": 6,
+          "time_info": "[12时05分 ~ 15时31分]"
         },
         {
           "title": "短剧选用11岁女童演替嫁新娘",
@@ -113,8 +114,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时05分 ~ 14时43分]"
+          "appearance_count": 6,
+          "time_info": "[12时05分 ~ 15时31分]"
         }
       ]
     },
@@ -132,8 +133,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时10分 ~ 13时32分]"
+          "appearance_count": 7,
+          "time_info": "[10时10分 ~ 15时31分]"
         },
         {
           "title": "Cloudflare(NET.N)收购AI数据市场Human Native，以扩大在人工智能开发者和内容创作者之间开展交易的步伐。",
