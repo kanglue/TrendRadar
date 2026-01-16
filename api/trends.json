@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-16T10:11:05.867930+08:00",
-  "total_titles_processed": 854,
+  "generated_at": "2026-01-16T12:06:00.379348+08:00",
+  "total_titles_processed": 1006,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "短剧",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "7岁嫁人15岁生子短剧引众怒",
@@ -13,11 +13,12 @@
           "source": "微博",
           "ranks": [
             6,
-            16
+            16,
+            30
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时42分 ~ 10时11分]"
+          "appearance_count": 13,
+          "time_info": "[00时42分 ~ 12时06分]"
         },
         {
           "title": "洋妞落选短剧女主,对手降维打击",
@@ -25,22 +26,35 @@
           "source": "贴吧",
           "ranks": [
             20,
-            21
+            21,
+            24
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时42分 ~ 10时11分]"
+          "appearance_count": 13,
+          "time_info": "[00时42分 ~ 12时06分]"
         },
         {
           "title": "7岁嫁人15岁生子短剧引众怒",
           "url": "https://www.baidu.com/s?wd=7%E5%B2%81%E5%AB%81%E4%BA%BA15%E5%B2%81%E7%94%9F%E5%AD%90%E7%9F%AD%E5%89%A7%E5%BC%95%E4%BC%97%E6%80%92",
           "source": "百度热搜",
           "ranks": [
-            6
+            6,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时10分 ~ 12时06分]"
+        },
+        {
+          "title": "“7岁嫁人15岁生子”？检察日报：拒绝“毒流量”助长儿童短剧低俗化",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32397616",
+          "source": "澎湃新闻",
+          "ranks": [
+            13
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时10分 ~ 10时11分]"
+          "time_info": "[12时05分 ~ 12时06分]"
         },
         {
           "title": "短剧选用11岁女童演替嫁新娘",
@@ -56,36 +70,8 @@
       ]
     },
     {
-      "keyword_group": "内容创作",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "“在上海，找到主场！”互联网优质内容创作者如是说",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32394080",
-          "source": "澎湃新闻",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时10分 ~ 10时11分]"
-        },
-        {
-          "title": "Cloudflare(NET.N)收购AI数据市场Human Native，以扩大在人工智能开发者和内容创作者之间开展交易的步伐。",
-          "url": "https://flash.jin10.com/detail/20260116053652696800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时29分"
-        }
-      ]
-    },
-    {
       "keyword_group": "千问",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "直击阿里千问APP发布会：全面接入淘宝、支付宝、淘宝闪购等阿里生态业务",
@@ -112,12 +98,52 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时42分 ~ 05时28分]"
+        },
+        {
+          "title": "阿里吴嘉：千问商业化不是重点 每季度将大版本迭代",
+          "url": "https://www.cls.cn/detail/2259772",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时05分 ~ 12时06分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "内容创作",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "“在上海，找到主场！”互联网优质内容创作者如是说",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32394080",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时10分 ~ 12时06分]"
+        },
+        {
+          "title": "Cloudflare(NET.N)收购AI数据市场Human Native，以扩大在人工智能开发者和内容创作者之间开展交易的步伐。",
+          "url": "https://flash.jin10.com/detail/20260116053652696800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时29分"
         }
       ]
     },
     {
       "keyword_group": "Deepseek",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "DeepSeek 梁文锋旗下幻方量化 2025 年收益率 56.6%，如何评价这一业绩？",
@@ -132,6 +158,17 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时42分 ~ 10时11分]"
+        },
+        {
+          "title": "一年来DeepSeek层层勾勒V4架构创新",
+          "url": "https://www.toutiao.com/trending/7595750081567919652/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时05分 ~ 12时06分]"
         }
       ]
     }
