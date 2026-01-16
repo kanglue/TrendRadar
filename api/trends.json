@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-01-17T02:42:27.795937+08:00",
-  "total_titles_processed": 442,
+  "generated_at": "2026-01-17T03:24:49.169781+08:00",
+  "total_titles_processed": 475,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "短剧",
       "match_count": 6,
       "titles": [
-        {
-          "title": "“7岁嫁人15岁生子”？检察日报：拒绝“毒流量”助长儿童短剧低俗化",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32397616",
-          "source": "澎湃新闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时38分 ~ 02时42分]"
-        },
         {
           "title": "短剧选 11 岁女童演「替嫁新娘」引众怒，已被下架，未成年人出演成人化情感剧存在哪些问题？谁该担责？",
           "url": "https://www.zhihu.com/question/1995137692866934204",
@@ -28,8 +17,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时38分 ~ 02时42分]"
+          "appearance_count": 5,
+          "time_info": "[00时38分 ~ 03时24分]"
+        },
+        {
+          "title": "“7岁嫁人15岁生子”？检察日报：拒绝“毒流量”助长儿童短剧低俗化",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32397616",
+          "source": "澎湃新闻",
+          "ranks": [
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时38分 ~ 03时24分]"
         },
         {
           "title": "UP主盘点2025短剧",
@@ -37,11 +38,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             4,
-            25
+            25,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时38分 ~ 01时31分]"
+          "appearance_count": 4,
+          "time_info": "[00时38分 ~ 03时24分]"
         },
         {
           "title": "退休老人回应3年演200多部短剧",
@@ -49,11 +51,12 @@
           "source": "微博",
           "ranks": [
             8,
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时38分 ~ 02时42分]"
+          "appearance_count": 5,
+          "time_info": "[00时38分 ~ 03时24分]"
         },
         {
           "title": "短剧演员上脑综打败清华北大学霸",
@@ -62,11 +65,12 @@
           "ranks": [
             23,
             24,
-            27
+            27,
+            25
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时38分 ~ 02时42分]"
+          "appearance_count": 5,
+          "time_info": "[00时38分 ~ 03时24分]"
         },
         {
           "title": "洋妞落选短剧女主,对手降维打击",
@@ -76,58 +80,73 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时38分 ~ 02时42分]"
+          "appearance_count": 5,
+          "time_info": "[00时38分 ~ 03时24分]"
         }
       ]
     },
     {
       "keyword_group": "GPT",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "OpenAI：目前尚未推出广告，但我们计划在未来几周内开始在美国针对ChatGPT免费版和Go层级的已登录成年人进行测试。",
           "url": "https://flash.jin10.com/detail/20260117020334950800",
           "source": "金十数据",
           "ranks": [
-            2
+            2,
+            16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时42分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时42分 ~ 03时24分]"
         },
         {
           "title": "OpenAI：计划很快在美国开始对免费版的广告以及ChatGPT Go进行测试。",
           "url": "https://flash.jin10.com/detail/20260117020324542800",
           "source": "金十数据",
           "ranks": [
-            3
+            3,
+            17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时42分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时42分 ~ 03时24分]"
         },
         {
           "title": "OpenAI推出ChatGPT Go，美国订阅费用为每个月8美元，目前已在全球范围内上线。",
           "url": "https://flash.jin10.com/detail/20260117020212481800",
           "source": "金十数据",
           "ranks": [
-            5
+            5,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时42分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时42分 ~ 03时24分]"
         },
         {
           "title": "OpenAI推出ChatGPT Go，美国订阅费用为每个月8美元。 在全球范围内对ChatGPT提供三层订阅方案。 ChatGPT Plus月租20美元，ChatGPT Pro月租200美元。 Plus、Pro、Bussiness、Enterprise都不包含广告。 还没有在ChatGPT推出广告。 将免费测试广告功能，将在成年人群体实施分层订阅方案。 未来数周将开始测试第一批广告格式。 将在ChatGPT答案的底部测试广告。 广告将有清晰的标签，与答案有分隔。",
           "url": "https://wallstreetcn.com/livenews/3038964",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            6,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时42分 ~ 03时24分]"
+        },
+        {
+          "title": "变现压力下的“最后手段” OpenAI开启ChatGPT广告测试",
+          "url": "https://flash.jin10.com/detail/20260117021136642800",
+          "source": "金十数据",
+          "ranks": [
+            14
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时42分"
+          "time_info": "03时24分"
         }
       ]
     },
