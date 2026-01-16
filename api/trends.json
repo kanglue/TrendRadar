@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-16T13:32:14.463263+08:00",
-  "total_titles_processed": 1109,
+  "generated_at": "2026-01-16T14:43:48.975489+08:00",
+  "total_titles_processed": 1217,
   "failed_sources": [],
   "trends": [
     {
@@ -27,11 +27,12 @@
           "ranks": [
             20,
             21,
-            24
+            24,
+            25
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时42分 ~ 13时32分]"
+          "appearance_count": 16,
+          "time_info": "[00时42分 ~ 14时43分]"
         },
         {
           "title": "7岁嫁人15岁生子短剧引众怒",
@@ -40,22 +41,24 @@
           "ranks": [
             6,
             8,
-            13
+            13,
+            17
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时10分 ~ 13时32分]"
+          "appearance_count": 7,
+          "time_info": "[10时10分 ~ 14时43分]"
         },
         {
           "title": "“7岁嫁人15岁生子”？检察日报：拒绝“毒流量”助长儿童短剧低俗化",
           "url": "https://m.thepaper.cn/newsDetail_forward_32397616",
           "source": "澎湃新闻",
           "ranks": [
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时05分 ~ 13时32分]"
+          "appearance_count": 5,
+          "time_info": "[12时05分 ~ 14时43分]"
         },
         {
           "title": "短剧选用11岁女童演替嫁新娘",
@@ -106,11 +109,12 @@
           "source": "财联社热门",
           "ranks": [
             10,
-            11
+            11,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时05分 ~ 13时32分]"
+          "appearance_count": 5,
+          "time_info": "[12时05分 ~ 14时43分]"
         }
       ]
     },
