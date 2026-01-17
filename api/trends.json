@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-17T17:27:23.524153+08:00",
-  "total_titles_processed": 1190,
+  "generated_at": "2026-01-17T18:28:01.007504+08:00",
+  "total_titles_processed": 1257,
   "failed_sources": [],
   "trends": [
     {
@@ -99,6 +99,18 @@
           "time_info": "[00时38分 ~ 07时27分]"
         },
         {
+          "title": "短剧演员忘摘道具车牌被查处",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%9F%AD%E5%89%A7%E6%BC%94%E5%91%98%E5%BF%98%E6%91%98%E9%81%93%E5%85%B7%E8%BD%A6%E7%89%8C%E8%A2%AB%E6%9F%A5%E5%A4%84%23&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时27分 ~ 18时28分]"
+        },
+        {
           "title": "0基础退休老人3年出演200多部短剧",
           "url": "https://www.baidu.com/s?wd=0%E5%9F%BA%E7%A1%80%E9%80%80%E4%BC%91%E8%80%81%E4%BA%BA3%E5%B9%B4%E5%87%BA%E6%BC%94200%E5%A4%9A%E9%83%A8%E7%9F%AD%E5%89%A7",
           "source": "百度热搜",
@@ -111,17 +123,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[10时04分 ~ 13时27分]"
-        },
-        {
-          "title": "短剧演员忘摘道具车牌被查处",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%9F%AD%E5%89%A7%E6%BC%94%E5%91%98%E5%BF%98%E6%91%98%E9%81%93%E5%85%B7%E8%BD%A6%E7%89%8C%E8%A2%AB%E6%9F%A5%E5%A4%84%23&t=31&band_rank=2&Refer=top",
-          "source": "微博",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时27分"
         }
       ]
     },
@@ -137,8 +138,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时25分 ~ 17时27分]"
+          "appearance_count": 5,
+          "time_info": "[15时25分 ~ 18时28分]"
         },
         {
           "title": "OpenAI：目前尚未推出广告，但我们计划在未来几周内开始在美国针对ChatGPT免费版和Go层级的已登录成年人进行测试。",
@@ -220,7 +221,7 @@
     },
     {
       "keyword_group": "字节",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "字节跳动发布SeedFold，蛋白质结构预测相关多任务超越谷歌AlphaFold 3，揭示大模型缩放新秘诀",
@@ -234,6 +235,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时04分 ~ 12时40分]"
+        },
+        {
+          "title": "如何评价 DeepSeek 最新的「条件记忆」和字节 Seed 团队「Over-Encoding」之间的关联？",
+          "url": "https://www.zhihu.com/question/1995200812075480347",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时27分 ~ 18时28分]"
         }
       ]
     },
