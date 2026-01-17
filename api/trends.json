@@ -1,8 +1,25 @@
 {
-  "generated_at": "2026-01-18T01:23:41.011138+08:00",
-  "total_titles_processed": 335,
+  "generated_at": "2026-01-18T02:37:13.217427+08:00",
+  "total_titles_processed": 362,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "短剧",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "男子模仿短剧霸总甩衣袖肩膀脱臼",
+          "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%A8%A1%E4%BB%BF%E7%9F%AD%E5%89%A7%E9%9C%B8%E6%80%BB%E7%94%A9%E8%A1%A3%E8%A2%96%E8%82%A9%E8%86%80%E8%84%B1%E8%87%BC",
+          "source": "百度热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时36分 ~ 02时37分]"
+        }
+      ]
+    },
     {
       "keyword_group": "GPT",
       "match_count": 1,
@@ -12,11 +29,12 @@
           "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BBChatGPT%E5%8A%A0%E5%85%A5%E5%B9%BF%E5%91%8A%E8%83%8C%E5%90%8E",
           "source": "bilibili 热搜",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时31分 ~ 01时23分]"
+          "appearance_count": 4,
+          "time_info": "[00时31分 ~ 02时37分]"
         }
       ]
     }
