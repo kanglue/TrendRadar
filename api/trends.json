@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-17T11:58:55.192360+08:00",
-  "total_titles_processed": 872,
+  "generated_at": "2026-01-17T12:40:13.949029+08:00",
+  "total_titles_processed": 909,
   "failed_sources": [],
   "trends": [
     {
@@ -50,8 +50,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时38分 ~ 11时58分]"
+          "appearance_count": 13,
+          "time_info": "[00时38分 ~ 12时40分]"
         },
         {
           "title": "退休老人回应3年演200多部短剧",
@@ -100,11 +100,12 @@
           "source": "百度热搜",
           "ranks": [
             2,
-            25
+            25,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时04分 ~ 11时58分]"
+          "appearance_count": 4,
+          "time_info": "[10时04分 ~ 12时40分]"
         }
       ]
     },
@@ -188,11 +189,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             17,
-            27
+            27,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时04分 ~ 11时58分]"
+          "appearance_count": 3,
+          "time_info": "[10时04分 ~ 12时40分]"
         }
       ]
     },
