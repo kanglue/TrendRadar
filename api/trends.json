@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-18T16:34:57.145955+08:00",
-  "total_titles_processed": 935,
+  "generated_at": "2026-01-18T17:28:29.772763+08:00",
+  "total_titles_processed": 999,
   "failed_sources": [],
   "trends": [
     {
@@ -28,22 +28,12 @@
           "source": "微博",
           "ranks": [
             5,
-            1
+            1,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时26分 ~ 16时34分]"
-        },
-        {
-          "title": "婴儿淋雨拍短剧",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%A9%B4%E5%84%BF%E6%B7%8B%E9%9B%A8%E6%8B%8D%E7%9F%AD%E5%89%A7%23&t=31&band_rank=2&Refer=top",
-          "source": "微博",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时34分"
+          "appearance_count": 3,
+          "time_info": "[15时26分 ~ 17时28分]"
         },
         {
           "title": "短剧演员吐槽剧组让孩子一直淋雨",
@@ -52,19 +42,6 @@
           "ranks": [
             4,
             7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时40分 ~ 16时34分]"
-        },
-        {
-          "title": "短剧之后漫剧火了",
-          "url": "https://www.baidu.com/s?wd=%E7%9F%AD%E5%89%A7%E4%B9%8B%E5%90%8E%E6%BC%AB%E5%89%A7%E7%81%AB%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            21,
-            2,
-            9
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -80,8 +57,33 @@
             12
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时40分 ~ 17时28分]"
+        },
+        {
+          "title": "短剧之后漫剧火了",
+          "url": "https://www.baidu.com/s?wd=%E7%9F%AD%E5%89%A7%E4%B9%8B%E5%90%8E%E6%BC%AB%E5%89%A7%E7%81%AB%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            21,
+            2,
+            9
+          ],
+          "is_new": false,
           "appearance_count": 3,
           "time_info": "[14时40分 ~ 16时34分]"
+        },
+        {
+          "title": "婴儿淋雨拍短剧",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A9%B4%E5%84%BF%E6%B7%8B%E9%9B%A8%E6%8B%8D%E7%9F%AD%E5%89%A7%23&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时34分 ~ 17时28分]"
         },
         {
           "title": "短剧之后漫剧火了",
@@ -101,7 +103,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时34分"
         },
@@ -143,8 +145,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时40分 ~ 16时34分]"
+          "appearance_count": 4,
+          "time_info": "[14时40分 ~ 17时28分]"
         }
       ]
     }
