@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-18T10:24:24.756477+08:00",
-  "total_titles_processed": 580,
+  "generated_at": "2026-01-18T12:10:10.733774+08:00",
+  "total_titles_processed": 680,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "短剧",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "男子模仿短剧霸总甩衣袖肩膀脱臼",
@@ -23,13 +23,24 @@
           "time_info": "[02时36分 ~ 07时25分]"
         },
         {
+          "title": "短剧之后漫剧火了",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%9F%AD%E5%89%A7%E4%B9%8B%E5%90%8E%E6%BC%AB%E5%89%A7%E7%81%AB%E4%BA%86%23&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时09分 ~ 12时10分]"
+        },
+        {
           "title": "短剧演员忘摘道具车牌被查处",
           "url": "https://www.toutiao.com/trending/7596255069365026859/",
           "source": "今日头条",
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时24分"
         }
