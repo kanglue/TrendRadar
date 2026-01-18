@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-19T00:33:07.333010+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-01-19T01:24:40.236757+08:00",
+  "total_titles_processed": 341,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时32分 ~ 00时33分]"
+          "appearance_count": 3,
+          "time_info": "[00时32分 ~ 01时24分]"
         },
         {
           "title": "短剧演员回应为何不给婴儿打伞",
@@ -26,19 +26,20 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时32分 ~ 00时33分]"
+          "appearance_count": 3,
+          "time_info": "[00时32分 ~ 01时24分]"
         },
         {
           "title": "短剧淋雨婴儿家长能接受才来",
           "url": "https://s.weibo.com/weibo?q=%23%E7%9F%AD%E5%89%A7%E6%B7%8B%E9%9B%A8%E5%A9%B4%E5%84%BF%E5%AE%B6%E9%95%BF%E8%83%BD%E6%8E%A5%E5%8F%97%E6%89%8D%E6%9D%A5%23&t=31&band_rank=22&Refer=top",
           "source": "微博",
           "ranks": [
-            22
+            22,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时32分 ~ 00时33分]"
+          "appearance_count": 3,
+          "time_info": "[00时32分 ~ 01时24分]"
         },
         {
           "title": "浙江广电华智数媒推出短剧AI智能剪辑系统DramaFlow",
@@ -47,7 +48,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时33分"
         }
@@ -65,8 +66,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时32分 ~ 00时33分]"
+          "appearance_count": 3,
+          "time_info": "[00时32分 ~ 01时24分]"
         }
       ]
     },
@@ -79,11 +80,12 @@
           "url": "https://wallstreetcn.com/articles/3763534",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时32分 ~ 00时33分]"
+          "appearance_count": 3,
+          "time_info": "[00时32分 ~ 01时24分]"
         }
       ]
     }
