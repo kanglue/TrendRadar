@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-19T01:24:40.236757+08:00",
-  "total_titles_processed": 341,
+  "generated_at": "2026-01-19T02:36:14.718460+08:00",
+  "total_titles_processed": 367,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时32分 ~ 01时24分]"
+          "appearance_count": 5,
+          "time_info": "[00时32分 ~ 02时36分]"
         },
         {
           "title": "短剧演员回应为何不给婴儿打伞",
@@ -26,8 +26,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时32分 ~ 01时24分]"
+          "appearance_count": 5,
+          "time_info": "[00时32分 ~ 02时36分]"
         },
         {
           "title": "短剧淋雨婴儿家长能接受才来",
@@ -35,11 +35,12 @@
           "source": "微博",
           "ranks": [
             22,
-            25
+            25,
+            30
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时32分 ~ 01时24分]"
+          "appearance_count": 5,
+          "time_info": "[00时32分 ~ 02时36分]"
         },
         {
           "title": "浙江广电华智数媒推出短剧AI智能剪辑系统DramaFlow",
@@ -66,8 +67,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时32分 ~ 01时24分]"
+          "appearance_count": 5,
+          "time_info": "[00时32分 ~ 02时36分]"
         }
       ]
     },
@@ -84,8 +85,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时32分 ~ 01时24分]"
+          "appearance_count": 5,
+          "time_info": "[00时32分 ~ 02时36分]"
         }
       ]
     }
