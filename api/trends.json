@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-18T15:26:27.636244+08:00",
-  "total_titles_processed": 864,
+  "generated_at": "2026-01-18T16:34:57.145955+08:00",
+  "total_titles_processed": 935,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "短剧",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "男子模仿短剧霸总甩衣袖肩膀脱臼",
@@ -27,11 +27,23 @@
           "url": "https://s.weibo.com/weibo?q=%23%E7%9F%AD%E5%89%A7%E6%B7%8B%E9%9B%A8%E5%A9%B4%E5%84%BF%E7%89%87%E9%85%AC%E4%BB%85800%E5%85%83%23&t=31&band_rank=5&Refer=top",
           "source": "微博",
           "ranks": [
-            5
+            5,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时26分 ~ 16时34分]"
+        },
+        {
+          "title": "婴儿淋雨拍短剧",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A9%B4%E5%84%BF%E6%B7%8B%E9%9B%A8%E6%8B%8D%E7%9F%AD%E5%89%A7%23&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时26分"
+          "time_info": "16时34分"
         },
         {
           "title": "短剧演员吐槽剧组让孩子一直淋雨",
@@ -42,8 +54,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时40分 ~ 15时26分]"
+          "appearance_count": 3,
+          "time_info": "[14时40分 ~ 16时34分]"
         },
         {
           "title": "短剧之后漫剧火了",
@@ -51,11 +63,12 @@
           "source": "百度热搜",
           "ranks": [
             21,
-            2
+            2,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时40分 ~ 15时26分]"
+          "appearance_count": 3,
+          "time_info": "[14时40分 ~ 16时34分]"
         },
         {
           "title": "短剧演员吐槽剧组让婴儿淋雨",
@@ -63,11 +76,12 @@
           "source": "百度热搜",
           "ranks": [
             14,
-            4
+            4,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时40分 ~ 15时26分]"
+          "appearance_count": 3,
+          "time_info": "[14时40分 ~ 16时34分]"
         },
         {
           "title": "短剧之后漫剧火了",
@@ -79,6 +93,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时09分 ~ 12时10分]"
+        },
+        {
+          "title": "刘晓庆拍完微短剧《武则天传奇》",
+          "url": "https://www.toutiao.com/trending/7595828831081807915/",
+          "source": "今日头条",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时34分"
         },
         {
           "title": "短剧演员忘摘道具车牌被查处",
@@ -118,8 +143,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时40分 ~ 15时26分]"
+          "appearance_count": 3,
+          "time_info": "[14时40分 ~ 16时34分]"
         }
       ]
     }
