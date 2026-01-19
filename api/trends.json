@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-19T13:37:34.289481+08:00",
-  "total_titles_processed": 897,
+  "generated_at": "2026-01-19T14:50:40.935021+08:00",
+  "total_titles_processed": 990,
   "failed_sources": [],
   "trends": [
     {
@@ -52,11 +52,12 @@
           "source": "知乎",
           "ranks": [
             2,
-            11
+            11,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时16分 ~ 13时37分]"
+          "appearance_count": 3,
+          "time_info": "[12时16分 ~ 14时50分]"
         },
         {
           "title": "浙江广电华智数媒推出短剧AI智能剪辑系统DramaFlow",
@@ -102,8 +103,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时32分 ~ 13时37分]"
+          "appearance_count": 17,
+          "time_info": "[00时32分 ~ 14时50分]"
         }
       ]
     }
