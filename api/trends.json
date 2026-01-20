@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-20T10:10:44.829429+08:00",
-  "total_titles_processed": 772,
+  "generated_at": "2026-01-20T12:10:45.374163+08:00",
+  "total_titles_processed": 926,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "百度热搜",
           "ranks": [
             1,
-            23
+            23,
+            17
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时38分 ~ 10时10分]"
+          "appearance_count": 12,
+          "time_info": "[00时38分 ~ 12时10分]"
         },
         {
           "title": "上海浦东新区：推进张江人工智能创新小镇建设 到2027年集聚人工智能垂类大模型应用企业超800家",
@@ -26,7 +27,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时10分"
         },
@@ -37,7 +38,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时10分"
         }
@@ -52,11 +53,29 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_32414363",
           "source": "澎湃新闻",
           "ranks": [
-            20
+            20,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时10分 ~ 12时10分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "GPT",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "如何评价最近从顶级量化交易机构泄露的 AlphaGPT？",
+          "url": "https://www.zhihu.com/question/1995864049414603432",
+          "source": "知乎",
+          "ranks": [
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时10分"
+          "time_info": "12时10分"
         }
       ]
     },
@@ -74,6 +93,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时38分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "千问",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "千问 App 接入淘宝、闪购测试 AI 购物，将如何影响消费习惯？",
+          "url": "https://www.zhihu.com/question/1995084390166988443",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时10分"
         }
       ]
     },
