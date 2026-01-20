@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-20T22:38:55.387326+08:00",
-  "total_titles_processed": 1880,
+  "generated_at": "2026-01-20T23:38:34.753304+08:00",
+  "total_titles_processed": 1988,
   "failed_sources": [],
   "trends": [
     {
@@ -122,9 +122,9 @@
           "ranks": [
             8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时38分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时38分 ~ 23时38分]"
         }
       ]
     },
@@ -144,8 +144,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时39分 ~ 22时38分]"
+          "appearance_count": 8,
+          "time_info": "[17时39分 ~ 23时38分]"
         },
         {
           "title": "报道：过去一年谷歌Gemini模型授权业务规模实现爆发式增长",
@@ -225,7 +225,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时38分"
         }
