@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-21T06:29:32.997501+08:00",
-  "total_titles_processed": 642,
+  "generated_at": "2026-01-21T07:29:53.507871+08:00",
+  "total_titles_processed": 697,
   "failed_sources": [],
   "trends": [
     {
@@ -56,7 +56,7 @@
     },
     {
       "keyword_group": "短剧",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "曝短剧演员片酬",
@@ -64,11 +64,23 @@
           "source": "微博",
           "ranks": [
             14,
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时36分 ~ 06时29分]"
+          "appearance_count": 8,
+          "time_info": "[01时36分 ~ 07时29分]"
+        },
+        {
+          "title": "短剧顶流何聪睿就争议道歉",
+          "url": "https://www.douyin.com/hot/2374474",
+          "source": "抖音",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时29分"
         }
       ]
     },
@@ -88,8 +100,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时43分 ~ 06时29分]"
+          "appearance_count": 9,
+          "time_info": "[00时43分 ~ 07时29分]"
         }
       ]
     }
