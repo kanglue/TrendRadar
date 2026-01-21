@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-22T01:03:15.595003+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-01-22T02:52:55.952444+08:00",
+  "total_titles_processed": 408,
   "failed_sources": [],
   "trends": [
     {
@@ -14,7 +14,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时03分"
         }
@@ -29,11 +29,12 @@
           "url": "https://search.bilibili.com/all?keyword=DeepSeek%20Model%201%E6%82%84%E7%84%B6%E7%8E%B0%E8%BA%AB",
           "source": "bilibili 热搜",
           "ranks": [
-            7
+            7,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时02分 ~ 01时03分]"
+          "appearance_count": 3,
+          "time_info": "[01时02分 ~ 02时52分]"
         }
       ]
     },
@@ -46,11 +47,12 @@
           "url": "https://www.cls.cn/detail/2265317",
           "source": "财联社热门",
           "ranks": [
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时02分 ~ 01时03分]"
+          "appearance_count": 3,
+          "time_info": "[01时02分 ~ 02时52分]"
         }
       ]
     }
