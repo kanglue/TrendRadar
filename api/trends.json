@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-23T02:43:13.515334+08:00",
-  "total_titles_processed": 463,
+  "generated_at": "2026-01-23T03:31:23.210292+08:00",
+  "total_titles_processed": 502,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时42分 ~ 02时43分]"
+          "appearance_count": 6,
+          "time_info": "[00时42分 ~ 03时31分]"
         }
       ]
     },
@@ -31,11 +31,12 @@
           "source": "知乎",
           "ranks": [
             2,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时42分 ~ 02时43分]"
+          "appearance_count": 6,
+          "time_info": "[00时42分 ~ 03时31分]"
         }
       ]
     },
@@ -48,11 +49,12 @@
           "url": "https://search.bilibili.com/all?keyword=DeepSeek%20Model%201%E6%82%84%E7%84%B6%E7%8E%B0%E8%BA%AB",
           "source": "bilibili 热搜",
           "ranks": [
-            30
+            30,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时42分 ~ 02时43分]"
+          "appearance_count": 3,
+          "time_info": "[02时42分 ~ 03时31分]"
         }
       ]
     }
