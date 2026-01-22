@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-23T01:36:48.265965+08:00",
-  "total_titles_processed": 386,
+  "generated_at": "2026-01-23T02:43:13.515334+08:00",
+  "total_titles_processed": 463,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时42分 ~ 01时36分]"
+          "appearance_count": 5,
+          "time_info": "[00时42分 ~ 02时43分]"
         }
       ]
     },
@@ -30,11 +30,29 @@
           "url": "https://www.zhihu.com/question/1997421644105347588",
           "source": "知乎",
           "ranks": [
-            2
+            2,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时42分 ~ 01时36分]"
+          "appearance_count": 5,
+          "time_info": "[00时42分 ~ 02时43分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "Deepseek",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "DeepSeek Model 1悄然现身",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20Model%201%E6%82%84%E7%84%B6%E7%8E%B0%E8%BA%AB",
+          "source": "bilibili 热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时42分 ~ 02时43分]"
         }
       ]
     }
