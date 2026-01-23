@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-23T18:33:28.006106+08:00",
-  "total_titles_processed": 1724,
+  "generated_at": "2026-01-23T19:28:01.647870+08:00",
+  "total_titles_processed": 1813,
   "failed_sources": [],
   "trends": [
     {
@@ -32,11 +32,12 @@
             4,
             5,
             8,
-            9
+            9,
+            11
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时10分 ~ 18时33分]"
+          "appearance_count": 10,
+          "time_info": "[10时10分 ~ 19时28分]"
         },
         {
           "title": "TikTok官宣美国方案：两公司共同运营 字节保留算法知识产权",
@@ -45,11 +46,12 @@
           "ranks": [
             10,
             9,
-            7
+            7,
+            13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时32分 ~ 18时33分]"
+          "appearance_count": 6,
+          "time_info": "[15时32分 ~ 19时28分]"
         },
         {
           "title": "为什么谷歌 AI 掌门人认为字节是中国最具实力的 AI 公司？",
@@ -60,8 +62,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时37分 ~ 18时33分]"
+          "appearance_count": 4,
+          "time_info": "[17时37分 ~ 19时28分]"
         },
         {
           "title": "TikTok美国方案落地：字节保留算法知识产权，为合资公司最大单一股东",
@@ -173,11 +175,12 @@
           "ranks": [
             14,
             13,
-            11
+            11,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时39分 ~ 18时33分]"
+          "appearance_count": 5,
+          "time_info": "[16时39分 ~ 19时28分]"
         }
       ]
     },
