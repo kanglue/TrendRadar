@@ -1,8 +1,64 @@
 {
-  "generated_at": "2026-01-23T14:44:52.611435+08:00",
-  "total_titles_processed": 1288,
+  "generated_at": "2026-01-23T15:32:29.474579+08:00",
+  "total_titles_processed": 1401,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "字节",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "网传腾讯某工区楼下健身房不向员工免费，却对隔壁楼字节员工免费，引发腾讯员工不满，这是怎么回事？",
+          "url": "https://www.zhihu.com/question/1997421644105347588",
+          "source": "知乎",
+          "ranks": [
+            2,
+            6,
+            5,
+            4,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时42分 ~ 10时10分]"
+        },
+        {
+          "title": "为什么字节跳动喜欢不安排任务让员工自己探索，然后每周都问一次这周有什么产出？",
+          "url": "https://www.zhihu.com/question/1995860411854123334",
+          "source": "知乎",
+          "ranks": [
+            18,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时10分 ~ 15时32分]"
+        },
+        {
+          "title": "TikTok官宣美国方案：两公司共同运营 字节保留算法知识产权",
+          "url": "https://www.cls.cn/detail/2267490",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时32分"
+        },
+        {
+          "title": "TikTok美国方案落地：字节保留算法知识产权，为合资公司最大单一股东",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32447563",
+          "source": "澎湃新闻",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时35分"
+        }
+      ]
+    },
     {
       "keyword_group": "短剧",
       "match_count": 3,
@@ -45,47 +101,30 @@
       ]
     },
     {
-      "keyword_group": "字节",
-      "match_count": 3,
+      "keyword_group": "Gemini",
+      "match_count": 2,
       "titles": [
         {
-          "title": "网传腾讯某工区楼下健身房不向员工免费，却对隔壁楼字节员工免费，引发腾讯员工不满，这是怎么回事？",
-          "url": "https://www.zhihu.com/question/1997421644105347588",
-          "source": "知乎",
+          "title": "谷歌投资Sakana AI 旨在提升Gemini在日本的业务",
+          "url": "https://flash.jin10.com/detail/20260123151617900800",
+          "source": "金十数据",
           "ranks": [
-            2,
-            6,
-            5,
-            4,
-            17
+            7
           ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时42分 ~ 10时10分]"
-        },
-        {
-          "title": "为什么字节跳动喜欢不安排任务让员工自己探索，然后每周都问一次这周有什么产出？",
-          "url": "https://www.zhihu.com/question/1995860411854123334",
-          "source": "知乎",
-          "ranks": [
-            18,
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时10分 ~ 14时44分]"
-        },
-        {
-          "title": "TikTok美国方案落地：字节保留算法知识产权，为合资公司最大单一股东",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32447563",
-          "source": "澎湃新闻",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时35分"
+          "time_info": "15时32分"
+        },
+        {
+          "title": "市场消息：谷歌投资Sakana AI，旨在提升Gemini在日本的业务。",
+          "url": "https://flash.jin10.com/detail/20260123150451290800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时32分"
         }
       ]
     },
