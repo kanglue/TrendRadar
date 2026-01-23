@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-23T21:52:07.366357+08:00",
-  "total_titles_processed": 2007,
+  "generated_at": "2026-01-23T22:32:49.188730+08:00",
+  "total_titles_processed": 2076,
   "failed_sources": [],
   "trends": [
     {
@@ -46,11 +46,12 @@
           "ranks": [
             20,
             17,
-            16
+            16,
+            8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时37分 ~ 21时52分]"
+          "appearance_count": 9,
+          "time_info": "[17时37分 ~ 22时32分]"
         },
         {
           "title": "TikTok官宣美国方案：两公司共同运营 字节保留算法知识产权",
@@ -182,8 +183,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时39分 ~ 21时52分]"
+          "appearance_count": 10,
+          "time_info": "[16时39分 ~ 22时32分]"
         }
       ]
     },
