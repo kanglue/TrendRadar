@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-23T12:08:49.998276+08:00",
-  "total_titles_processed": 1042,
+  "generated_at": "2026-01-23T13:35:35.395881+08:00",
+  "total_titles_processed": 1166,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "短剧",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "当儿童成为短剧主角：演的什么角色？边界在哪？",
@@ -27,15 +27,26 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时08分"
+        },
+        {
+          "title": "短剧演员曾辉称曾觉得20亿台词搞笑",
+          "url": "https://www.toutiao.com/trending/7598346740601552947/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时35分"
         }
       ]
     },
     {
       "keyword_group": "字节",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "网传腾讯某工区楼下健身房不向员工免费，却对隔壁楼字节员工免费，引发腾讯员工不满，这是怎么回事？",
@@ -58,11 +69,23 @@
           "source": "知乎",
           "ranks": [
             18,
-            6
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时10分 ~ 12时08分]"
+          "appearance_count": 3,
+          "time_info": "[10时10分 ~ 13时35分]"
+        },
+        {
+          "title": "TikTok美国方案落地：字节保留算法知识产权，为合资公司最大单一股东",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32447563",
+          "source": "澎湃新闻",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时35分"
         }
       ]
     },
