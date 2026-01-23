@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-23T19:28:01.647870+08:00",
-  "total_titles_processed": 1813,
+  "generated_at": "2026-01-23T21:02:00.901364+08:00",
+  "total_titles_processed": 1921,
   "failed_sources": [],
   "trends": [
     {
@@ -62,8 +62,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时37分 ~ 19时28分]"
+          "appearance_count": 6,
+          "time_info": "[17时37分 ~ 21时02分]"
         },
         {
           "title": "TikTok美国方案落地：字节保留算法知识产权，为合资公司最大单一股东",
@@ -176,11 +176,12 @@
             14,
             13,
             11,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时39分 ~ 19时28分]"
+          "appearance_count": 7,
+          "time_info": "[16时39分 ~ 21时02分]"
         }
       ]
     },
