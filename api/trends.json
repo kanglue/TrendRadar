@@ -1,169 +1,22 @@
 {
-  "generated_at": "2026-01-23T23:34:04.559822+08:00",
-  "total_titles_processed": 2183,
+  "generated_at": "2026-01-24T00:39:47.283981+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "字节",
-      "match_count": 5,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "网传腾讯某工区楼下健身房不向员工免费，却对隔壁楼字节员工免费，引发腾讯员工不满，这是怎么回事？",
-          "url": "https://www.zhihu.com/question/1997421644105347588",
-          "source": "知乎",
-          "ranks": [
-            2,
-            6,
-            5,
-            4,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时42分 ~ 10时10分]"
-        },
-        {
-          "title": "为什么字节跳动喜欢不安排任务让员工自己探索，然后每周都问一次这周有什么产出？",
-          "url": "https://www.zhihu.com/question/1995860411854123334",
-          "source": "知乎",
-          "ranks": [
-            18,
-            6,
-            4,
-            5,
-            8,
-            9,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时10分 ~ 19时28分]"
-        },
         {
           "title": "为什么谷歌 AI 掌门人认为字节是中国最具实力的 AI 公司？",
           "url": "https://www.zhihu.com/question/1997802145714569913",
           "source": "知乎",
           "ranks": [
-            20,
-            17,
-            16,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[17时37分 ~ 23时34分]"
-        },
-        {
-          "title": "TikTok官宣美国方案：两公司共同运营 字节保留算法知识产权",
-          "url": "https://www.cls.cn/detail/2267490",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            9,
-            7,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时32分 ~ 19时28分]"
-        },
-        {
-          "title": "TikTok美国方案落地：字节保留算法知识产权，为合资公司最大单一股东",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32447563",
-          "source": "澎湃新闻",
-          "ranks": [
-            12
+            5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时35分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "短剧",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "当儿童成为短剧主角：演的什么角色？边界在哪？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32426685",
-          "source": "澎湃新闻",
-          "ranks": [
-            7,
-            6,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时42分 ~ 12时08分]"
-        },
-        {
-          "title": "鉴定热门短剧离谱情节",
-          "url": "https://search.bilibili.com/all?keyword=%E9%89%B4%E5%AE%9A%E7%83%AD%E9%97%A8%E7%9F%AD%E5%89%A7%E7%A6%BB%E8%B0%B1%E6%83%85%E8%8A%82",
-          "source": "bilibili 热搜",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时08分"
-        },
-        {
-          "title": "短剧演员曾辉称曾觉得20亿台词搞笑",
-          "url": "https://www.toutiao.com/trending/7598346740601552947/",
-          "source": "今日头条",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时35分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "Gemini",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "谷歌投资Sakana AI 旨在提升Gemini在日本的业务",
-          "url": "https://flash.jin10.com/detail/20260123151617900800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时32分"
-        },
-        {
-          "title": "市场消息：谷歌投资Sakana AI，旨在提升Gemini在日本的业务。",
-          "url": "https://flash.jin10.com/detail/20260123150451290800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时32分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "漫剧",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "字节漫剧赛道日耗峰值达到3000万 行业高景气度有望延续",
-          "url": "https://www.cls.cn/detail/2267173",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时39分"
+          "time_info": "00时39分"
         }
       ]
     },
@@ -176,55 +29,11 @@
           "url": "https://www.zhihu.com/question/1997844624513975566",
           "source": "知乎",
           "ranks": [
-            14,
-            13,
-            11,
-            6,
-            7,
-            9,
-            8
+            7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[16时39分 ~ 23时34分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "Deepseek",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "DeepSeek Model 1悄然现身",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20Model%201%E6%82%84%E7%84%B6%E7%8E%B0%E8%BA%AB",
-          "source": "bilibili 热搜",
-          "ranks": [
-            30,
-            24,
-            27,
-            26,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时42分 ~ 07时28分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "智谱",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "智谱 AI 因算力告急「限购」GLM 编程计划，暴露出 AI 行业哪些问题？",
-          "url": "https://www.zhihu.com/question/1997433388664131775",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时37分 ~ 18时33分]"
+          "appearance_count": 1,
+          "time_info": "00时39分"
         }
       ]
     }
