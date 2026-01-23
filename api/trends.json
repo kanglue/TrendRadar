@@ -1,8 +1,40 @@
 {
-  "generated_at": "2026-01-23T07:28:51.246973+08:00",
-  "total_titles_processed": 725,
+  "generated_at": "2026-01-23T10:10:25.888763+08:00",
+  "total_titles_processed": 892,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "字节",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "网传腾讯某工区楼下健身房不向员工免费，却对隔壁楼字节员工免费，引发腾讯员工不满，这是怎么回事？",
+          "url": "https://www.zhihu.com/question/1997421644105347588",
+          "source": "知乎",
+          "ranks": [
+            2,
+            6,
+            5,
+            4,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时42分 ~ 10时10分]"
+        },
+        {
+          "title": "为什么字节跳动喜欢不安排任务让员工自己探索，然后每周都问一次这周有什么产出？",
+          "url": "https://www.zhihu.com/question/1995860411854123334",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时10分"
+        }
+      ]
+    },
     {
       "keyword_group": "短剧",
       "match_count": 1,
@@ -17,28 +49,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时42分 ~ 07时28分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "字节",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "网传腾讯某工区楼下健身房不向员工免费，却对隔壁楼字节员工免费，引发腾讯员工不满，这是怎么回事？",
-          "url": "https://www.zhihu.com/question/1997421644105347588",
-          "source": "知乎",
-          "ranks": [
-            2,
-            6,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时42分 ~ 07时28分]"
+          "appearance_count": 11,
+          "time_info": "[00时42分 ~ 10时10分]"
         }
       ]
     },
