@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-23T16:39:44.933566+08:00",
-  "total_titles_processed": 1524,
+  "generated_at": "2026-01-23T17:37:55.069964+08:00",
+  "total_titles_processed": 1621,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "字节",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "网传腾讯某工区楼下健身房不向员工免费，却对隔壁楼字节员工免费，引发腾讯员工不满，这是怎么回事？",
@@ -30,11 +30,12 @@
             18,
             6,
             4,
-            5
+            5,
+            8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时10分 ~ 16时39分]"
+          "appearance_count": 7,
+          "time_info": "[10时10分 ~ 17时37分]"
         },
         {
           "title": "TikTok官宣美国方案：两公司共同运营 字节保留算法知识产权",
@@ -42,11 +43,12 @@
           "source": "财联社热门",
           "ranks": [
             10,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时32分 ~ 16时39分]"
+          "appearance_count": 3,
+          "time_info": "[15时32分 ~ 17时37分]"
         },
         {
           "title": "TikTok美国方案落地：字节保留算法知识产权，为合资公司最大单一股东",
@@ -58,6 +60,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时35分"
+        },
+        {
+          "title": "为什么谷歌 AI 掌门人认为字节是中国最具实力的 AI 公司？",
+          "url": "https://www.zhihu.com/question/1997802145714569913",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时37分"
         }
       ]
     },
@@ -141,7 +154,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时39分"
         }
@@ -156,11 +169,12 @@
           "url": "https://www.zhihu.com/question/1997844624513975566",
           "source": "知乎",
           "ranks": [
-            14
+            14,
+            13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时39分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时39分 ~ 17时37分]"
         }
       ]
     },
@@ -182,6 +196,23 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[02时42分 ~ 07时28分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "智谱",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "智谱 AI 因算力告急「限购」GLM 编程计划，暴露出 AI 行业哪些问题？",
+          "url": "https://www.zhihu.com/question/1997433388664131775",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时37分"
         }
       ]
     }
