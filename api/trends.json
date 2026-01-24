@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-24T19:23:57.843385+08:00",
-  "total_titles_processed": 1327,
+  "generated_at": "2026-01-24T20:54:23.366937+08:00",
+  "total_titles_processed": 1409,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "短剧",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "短剧拍了豪门围剿小镇做题家",
@@ -17,6 +17,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时01分 ~ 12时02分]"
+        },
+        {
+          "title": "40岁“三毛”扮演者称已转型拍短剧",
+          "url": "https://www.baidu.com/s?wd=40%E5%B2%81%E2%80%9C%E4%B8%89%E6%AF%9B%E2%80%9D%E6%89%AE%E6%BC%94%E8%80%85%E7%A7%B0%E5%B7%B2%E8%BD%AC%E5%9E%8B%E6%8B%8D%E7%9F%AD%E5%89%A7",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时54分"
         }
       ]
     },
@@ -56,6 +67,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时39分 ~ 01时31分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "万相",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "无限暖暖九色万相生",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A0%E9%99%90%E6%9A%96%E6%9A%96%E4%B9%9D%E8%89%B2%E4%B8%87%E7%9B%B8%E7%94%9F%23&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时54分"
         }
       ]
     },
