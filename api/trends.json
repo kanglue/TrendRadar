@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-25T15:28:07.788115+08:00",
-  "total_titles_processed": 867,
+  "generated_at": "2026-01-25T16:36:05.417470+08:00",
+  "total_titles_processed": 930,
   "failed_sources": [],
   "trends": [
     {
@@ -29,11 +29,12 @@
           "url": "https://s.weibo.com/weibo?q=%23TVB%E6%BC%94%E5%91%98%E8%A2%AB%E5%86%85%E5%9C%B0%E7%9F%AD%E5%89%A7%E6%95%B4%E9%A1%BF%23&t=31&band_rank=14&Refer=top",
           "source": "微博",
           "ranks": [
-            14
+            14,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时27分 ~ 15时28分]"
+          "appearance_count": 4,
+          "time_info": "[15时27分 ~ 16时36分]"
         },
         {
           "title": "“三毛”扮演者称已转型拍短剧",
