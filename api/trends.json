@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-25T20:56:10.118895+08:00",
-  "total_titles_processed": 1197,
+  "generated_at": "2026-01-25T21:37:33.199570+08:00",
+  "total_titles_processed": 1235,
   "failed_sources": [],
   "trends": [
     {
@@ -91,11 +91,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            7
+            7,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时24分 ~ 20时56分]"
+          "appearance_count": 3,
+          "time_info": "[19时24分 ~ 21时37分]"
         },
         {
           "title": "银河通用成为2026春晚指定具身大模型机器人",
@@ -103,11 +104,12 @@
           "source": "金十数据",
           "ranks": [
             6,
-            19
+            19,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时24分 ~ 20时56分]"
+          "appearance_count": 3,
+          "time_info": "[19时24分 ~ 21时37分]"
         }
       ]
     }
