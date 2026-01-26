@@ -1,8 +1,66 @@
 {
-  "generated_at": "2026-01-26T13:37:44.669166+08:00",
-  "total_titles_processed": 892,
+  "generated_at": "2026-01-26T14:49:15.499605+08:00",
+  "total_titles_processed": 988,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "短剧",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "短剧女主全年无休拍了48部戏",
+          "url": "https://s.weibo.com/weibo?q=%E7%9F%AD%E5%89%A7%E5%A5%B3%E4%B8%BB%E5%85%A8%E5%B9%B4%E6%97%A0%E4%BC%91%E6%8B%8D%E4%BA%8648%E9%83%A8%E6%88%8F&t=31&band_rank=13&Refer=top",
+          "source": "微博",
+          "ranks": [
+            13,
+            11,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时26分 ~ 13时37分]"
+        },
+        {
+          "title": "娱乐圈文被拍成短剧了",
+          "url": "https://s.weibo.com/weibo?q=%E5%A8%B1%E4%B9%90%E5%9C%88%E6%96%87%E8%A2%AB%E6%8B%8D%E6%88%90%E7%9F%AD%E5%89%A7%E4%BA%86&t=31&band_rank=7&Refer=top",
+          "source": "微博",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时48分 ~ 14时49分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "Deepseek",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "知情人士透露 deepseek 即将发布 V4 新模型，不知道各位有什么看法？",
+          "url": "https://www.zhihu.com/question/1993355026530317494",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时48分 ~ 14时49分]"
+        },
+        {
+          "title": "对于 deepseek 即将发布的 V4 模型，不知道各位有什么看法？",
+          "url": "https://www.zhihu.com/question/1993355026530317494",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时37分"
+        }
+      ]
+    },
     {
       "keyword_group": "大模型",
       "match_count": 2,
@@ -34,42 +92,6 @@
       ]
     },
     {
-      "keyword_group": "短剧",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "短剧女主全年无休拍了48部戏",
-          "url": "https://s.weibo.com/weibo?q=%E7%9F%AD%E5%89%A7%E5%A5%B3%E4%B8%BB%E5%85%A8%E5%B9%B4%E6%97%A0%E4%BC%91%E6%8B%8D%E4%BA%8648%E9%83%A8%E6%88%8F&t=31&band_rank=13&Refer=top",
-          "source": "微博",
-          "ranks": [
-            13,
-            11,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时26分 ~ 13时37分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "Deepseek",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "对于 deepseek 即将发布的 V4 模型，不知道各位有什么看法？",
-          "url": "https://www.zhihu.com/question/1993355026530317494",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时37分"
-        }
-      ]
-    },
-    {
       "keyword_group": "快手",
       "match_count": 1,
       "titles": [
@@ -83,6 +105,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时26分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "阶跃星辰",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "印奇出任董事长！阶跃星辰超50亿融资刷新大模型赛道纪录 将加码“AI+终端”",
+          "url": "https://www.cls.cn/detail/2269386",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时48分 ~ 14时49分]"
         }
       ]
     }
