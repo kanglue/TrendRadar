@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-26T15:34:49.675053+08:00",
-  "total_titles_processed": 1086,
+  "generated_at": "2026-01-26T16:42:47.185718+08:00",
+  "total_titles_processed": 1190,
   "failed_sources": [],
   "trends": [
     {
@@ -38,7 +38,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时34分"
         }
@@ -57,8 +57,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时48分 ~ 15时34分]"
+          "appearance_count": 4,
+          "time_info": "[14时48分 ~ 16时42分]"
         },
         {
           "title": "对于 deepseek 即将发布的 V4 模型，不知道各位有什么看法？",
@@ -130,11 +130,12 @@
           "source": "财联社热门",
           "ranks": [
             11,
-            10
+            10,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时48分 ~ 15时34分]"
+          "appearance_count": 4,
+          "time_info": "[14时48分 ~ 16时42分]"
         }
       ]
     }
