@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-27T07:31:05.083126+08:00",
-  "total_titles_processed": 644,
+  "generated_at": "2026-01-27T10:23:26.142979+08:00",
+  "total_titles_processed": 804,
   "failed_sources": [],
   "trends": [
     {
@@ -32,6 +32,23 @@
       ]
     },
     {
+      "keyword_group": "千问",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "中国AI的“Max时刻”！千问最强模型开启第二增长曲线",
+          "url": "https://wallstreetcn.com/articles/3764198",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时23分"
+        }
+      ]
+    },
+    {
       "keyword_group": "阶跃星辰",
       "match_count": 1,
       "titles": [
@@ -40,11 +57,12 @@
           "url": "https://search.bilibili.com/all?keyword=%E9%98%B6%E8%B7%83%E6%98%9F%E8%BE%B0%E5%8D%B0%E5%A5%87%E8%B0%88AI%E5%95%86%E4%B8%9A%E5%8C%96",
           "source": "bilibili 热搜",
           "ranks": [
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时42分 ~ 07时31分]"
+          "appearance_count": 12,
+          "time_info": "[00时42分 ~ 10时23分]"
         }
       ]
     },
