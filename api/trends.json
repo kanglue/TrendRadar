@@ -1,12 +1,26 @@
 {
-  "generated_at": "2026-01-27T21:04:42.924505+08:00",
-  "total_titles_processed": 1843,
+  "generated_at": "2026-01-27T22:38:17.219257+08:00",
+  "total_titles_processed": 1967,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "Deepseek",
       "match_count": 5,
       "titles": [
+        {
+          "title": "DeepSeek-OCR 2重磅发布：AI学会“人类视觉逻辑”，以因果流解读图片",
+          "url": "https://wallstreetcn.com/articles/3764241",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时41分 ~ 22时38分]"
+        },
         {
           "title": "DeepSeek开源OCR 2模型",
           "url": "https://search.bilibili.com/all?keyword=DeepSeek%E5%BC%80%E6%BA%90OCR%202%E6%A8%A1%E5%9E%8B",
@@ -21,40 +35,28 @@
           "time_info": "[14时46分 ~ 21时04分]"
         },
         {
-          "title": "DeepSeek-OCR 2重磅发布：AI学会“人类视觉逻辑”，以因果流解读图片",
-          "url": "https://wallstreetcn.com/articles/3764241",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时41分 ~ 21时04分]"
-        },
-        {
           "title": "详解DeepSeek新模型OCR2",
           "url": "https://search.bilibili.com/all?keyword=%E8%AF%A6%E8%A7%A3DeepSeek%E6%96%B0%E6%A8%A1%E5%9E%8BOCR2",
           "source": "bilibili 热搜",
           "ranks": [
-            4
+            4,
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时04分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时04分 ~ 22时38分]"
         },
         {
           "title": "如何评价 DeepSeek-OCR-2 模型？",
           "url": "https://www.zhihu.com/question/1999468225642119587",
           "source": "知乎",
           "ranks": [
-            13
+            13,
+            3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时04分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时04分 ~ 22时38分]"
         },
         {
           "title": "DeepSeek发布DeepSeek-OCR 2，AI能够以与人类相同的逻辑顺序“看”一张图片",
@@ -66,6 +68,45 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时46分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "短剧",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "短剧女演员称年拍 48 部、日超 16 小时，这种短平快模式是常态吗？会导致对从业者的极限压榨与行业内卷吗？",
+          "url": "https://www.zhihu.com/question/1999103057275877107",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时38分"
+        },
+        {
+          "title": "姚冠宇新短剧三榜冠军",
+          "url": "https://s.weibo.com/weibo?q=%E5%A7%9A%E5%86%A0%E5%AE%87%E6%96%B0%E7%9F%AD%E5%89%A7%E4%B8%89%E6%A6%9C%E5%86%A0%E5%86%9B&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时34分"
+        },
+        {
+          "title": "短剧圈真不把我们当外人",
+          "url": "https://s.weibo.com/weibo?q=%E7%9F%AD%E5%89%A7%E5%9C%88%E7%9C%9F%E4%B8%8D%E6%8A%8A%E6%88%91%E4%BB%AC%E5%BD%93%E5%A4%96%E4%BA%BA&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时41分"
         }
       ]
     },
@@ -112,34 +153,6 @@
       ]
     },
     {
-      "keyword_group": "短剧",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "姚冠宇新短剧三榜冠军",
-          "url": "https://s.weibo.com/weibo?q=%E5%A7%9A%E5%86%A0%E5%AE%87%E6%96%B0%E7%9F%AD%E5%89%A7%E4%B8%89%E6%A6%9C%E5%86%A0%E5%86%9B&t=31&band_rank=29&Refer=top",
-          "source": "微博",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时34分"
-        },
-        {
-          "title": "短剧圈真不把我们当外人",
-          "url": "https://s.weibo.com/weibo?q=%E7%9F%AD%E5%89%A7%E5%9C%88%E7%9C%9F%E4%B8%8D%E6%8A%8A%E6%88%91%E4%BB%AC%E5%BD%93%E5%A4%96%E4%BA%BA&t=31&band_rank=30&Refer=top",
-          "source": "微博",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时41分"
-        }
-      ]
-    },
-    {
       "keyword_group": "千问",
       "match_count": 2,
       "titles": [
@@ -153,8 +166,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[10时23分 ~ 21时04分]"
+          "appearance_count": 13,
+          "time_info": "[10时23分 ~ 22时38分]"
         },
         {
           "title": "千问PC和网页端上线国内最强推理模型，主动性更强、擅长逻辑推理",
