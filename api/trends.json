@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-27T18:36:40.185324+08:00",
-  "total_titles_processed": 1626,
+  "generated_at": "2026-01-27T19:29:52.497564+08:00",
+  "total_titles_processed": 1730,
   "failed_sources": [],
   "trends": [
     {
@@ -58,8 +58,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时46分 ~ 18时36分]"
+          "appearance_count": 8,
+          "time_info": "[14时46分 ~ 19时29分]"
         },
         {
           "title": "DeepSeek-OCR 2重磅发布：AI学会“人类视觉逻辑”，以因果流解读图片",
@@ -71,8 +71,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时41分 ~ 18时36分]"
+          "appearance_count": 5,
+          "time_info": "[16时41分 ~ 19时29分]"
         },
         {
           "title": "DeepSeek发布DeepSeek-OCR 2，AI能够以与人类相同的逻辑顺序“看”一张图片",
@@ -129,8 +129,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时23分 ~ 18时36分]"
+          "appearance_count": 11,
+          "time_info": "[10时23分 ~ 19时29分]"
         },
         {
           "title": "千问PC和网页端上线国内最强推理模型，主动性更强、擅长逻辑推理",
