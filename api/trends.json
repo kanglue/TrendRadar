@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-28T07:29:52.966444+08:00",
-  "total_titles_processed": 674,
+  "generated_at": "2026-01-28T10:13:13.512562+08:00",
+  "total_titles_processed": 828,
   "failed_sources": [],
   "trends": [
     {
@@ -50,17 +50,6 @@
       "match_count": 3,
       "titles": [
         {
-          "title": "详解DeepSeek新模型OCR2",
-          "url": "https://search.bilibili.com/all?keyword=%E8%AF%A6%E8%A7%A3DeepSeek%E6%96%B0%E6%A8%A1%E5%9E%8BOCR2",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时42分 ~ 07时29分]"
-        },
-        {
           "title": "DeepSeek-OCR 2重磅发布：AI学会“人类视觉逻辑”，以因果流解读图片",
           "url": "https://wallstreetcn.com/articles/3764241",
           "source": "华尔街见闻",
@@ -69,8 +58,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时44分 ~ 07时29分]"
+          "appearance_count": 11,
+          "time_info": "[00时44分 ~ 10时13分]"
+        },
+        {
+          "title": "详解DeepSeek新模型OCR2",
+          "url": "https://search.bilibili.com/all?keyword=%E8%AF%A6%E8%A7%A3DeepSeek%E6%96%B0%E6%A8%A1%E5%9E%8BOCR2",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时42分 ~ 10时13分]"
         },
         {
           "title": "如何评价 DeepSeek-OCR-2 模型？",
@@ -83,6 +84,23 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时42分 ~ 07时29分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "短剧",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "举报短剧演员何健麒的女子再发声，要求公开报警处理结果",
+          "url": "https://news.ifeng.com/c/8qH5rTpfTTr",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时12分 ~ 10时13分]"
         }
       ]
     },
