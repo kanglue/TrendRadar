@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-29T07:33:19.635000+08:00",
-  "total_titles_processed": 796,
+  "generated_at": "2026-01-29T10:35:14.413549+08:00",
+  "total_titles_processed": 979,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "短剧",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "985毕业生扎堆演短剧",
@@ -15,11 +15,23 @@
             21,
             22,
             27,
-            23
+            23,
+            25
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时47分 ~ 07时33分]"
+          "appearance_count": 11,
+          "time_info": "[00时47分 ~ 10时35分]"
+        },
+        {
+          "title": "谁说短剧女演员在长剧没辨识度",
+          "url": "https://s.weibo.com/weibo?q=%E8%B0%81%E8%AF%B4%E7%9F%AD%E5%89%A7%E5%A5%B3%E6%BC%94%E5%91%98%E5%9C%A8%E9%95%BF%E5%89%A7%E6%B2%A1%E8%BE%A8%E8%AF%86%E5%BA%A6&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时34分 ~ 10时35分]"
         }
       ]
     },
