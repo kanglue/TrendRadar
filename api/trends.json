@@ -1,178 +1,22 @@
 {
-  "generated_at": "2026-01-29T23:42:46.010829+08:00",
-  "total_titles_processed": 2170,
+  "generated_at": "2026-01-30T00:53:22.830184+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "字节",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "如何看待马化腾罕见点评字节和阿里的 AI 策略？",
-          "url": "https://www.zhihu.com/question/1999415789258826467",
-          "source": "知乎",
-          "ranks": [
-            3,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时47分 ~ 07时33分]"
-        },
-        {
-          "title": "字节跳动CEO：公司2026年关键词是“勇攀高峰”，“高峰”短期内就是豆包/Dola助手应用",
-          "url": "https://wallstreetcn.com/livenews/3046485",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时12分"
-        },
-        {
-          "title": "字节已于2025年底开启豆包手机助手正式版项目，新机预计将于2026年Q2中晚期发布",
-          "url": "https://wallstreetcn.com/livenews/3046120",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时51分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "短剧",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "985毕业生扎堆演短剧",
-          "url": "https://www.baidu.com/s?wd=985%E6%AF%95%E4%B8%9A%E7%94%9F%E6%89%8E%E5%A0%86%E6%BC%94%E7%9F%AD%E5%89%A7",
-          "source": "百度热搜",
-          "ranks": [
-            21,
-            22,
-            27,
-            23,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时47分 ~ 10时35分]"
-        },
-        {
-          "title": "谁说短剧女演员在长剧没辨识度",
-          "url": "https://s.weibo.com/weibo?q=%E8%B0%81%E8%AF%B4%E7%9F%AD%E5%89%A7%E5%A5%B3%E6%BC%94%E5%91%98%E5%9C%A8%E9%95%BF%E5%89%A7%E6%B2%A1%E8%BE%A8%E8%AF%86%E5%BA%A6&t=31&band_rank=9&Refer=top",
-          "source": "微博",
-          "ranks": [
-            9,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时34分 ~ 12时44分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "GPT",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
         {
           "title": "ChatGPT 流量份额从 86% 降至 65%，这一变化由哪些因素造成？",
           "url": "https://www.zhihu.com/question/1994095464539255007",
           "source": "知乎",
           "ranks": [
-            17,
-            14,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[19时37分 ~ 23时42分]"
-        },
-        {
-          "title": "OpenAI 发布基于 GPT-5.2 的 Prism，专注科研领域的 AI 协作。科研人能用它来做些什么？",
-          "url": "https://www.zhihu.com/question/1999888901490304692",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[21时11分 ~ 22时44分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "Deepseek",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "国产 VLA 模型接连开源，具身智能的 「DeepSeek 时刻」何时到来？",
-          "url": "https://www.zhihu.com/question/1999819158431503971",
-          "source": "知乎",
-          "ranks": [
-            20
+            7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时44分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "阿里",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "阿里自研 AI 芯片亮相，由通义实验室、阿里云、平头哥组成的「通云哥」体系，有哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2000172562634790267",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时51分 ~ 17时53分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "SkyReels",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "昆仑万维SkyReels-V3开源 视频生成进入“全能”时代",
-          "url": "https://wallstreetcn.com/livenews/3046516",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时44分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "算法",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "中方是否给TikTok美国合资公司算法本地化许可？商务部回应",
-          "url": "https://wallstreetcn.com/livenews/3046236",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时48分 ~ 16时51分]"
+          "time_info": "00时53分"
         }
       ]
     }
