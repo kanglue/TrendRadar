@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-30T05:35:04.573923+08:00",
-  "total_titles_processed": 561,
+  "generated_at": "2026-01-30T06:35:38.890392+08:00",
+  "total_titles_processed": 640,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时53分 ~ 05时35分]"
+          "appearance_count": 10,
+          "time_info": "[00时53分 ~ 06时35分]"
         },
         {
           "title": "OpenAI下架（retiring）GPT-4o、GPT-4.1，GPT-4.1 mini，以及OpenAI o4-mini。",
@@ -27,7 +27,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时35分"
         }
