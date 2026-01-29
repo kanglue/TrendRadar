@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-29T10:35:14.413549+08:00",
-  "total_titles_processed": 979,
+  "generated_at": "2026-01-29T12:44:20.046770+08:00",
+  "total_titles_processed": 1137,
   "failed_sources": [],
   "trends": [
     {
@@ -27,11 +27,12 @@
           "url": "https://s.weibo.com/weibo?q=%E8%B0%81%E8%AF%B4%E7%9F%AD%E5%89%A7%E5%A5%B3%E6%BC%94%E5%91%98%E5%9C%A8%E9%95%BF%E5%89%A7%E6%B2%A1%E8%BE%A8%E8%AF%86%E5%BA%A6&t=31&band_rank=9&Refer=top",
           "source": "微博",
           "ranks": [
-            9
+            9,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时34分 ~ 10时35分]"
+          "appearance_count": 3,
+          "time_info": "[10时34分 ~ 12时44分]"
         }
       ]
     },
@@ -51,6 +52,23 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时47分 ~ 07时33分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "Deepseek",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "国产 VLA 模型接连开源，具身智能的 「DeepSeek 时刻」何时到来？",
+          "url": "https://www.zhihu.com/question/1999819158431503971",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时44分"
         }
       ]
     }
