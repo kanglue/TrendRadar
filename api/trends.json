@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-30T22:41:18.028117+08:00",
-  "total_titles_processed": 2016,
+  "generated_at": "2026-01-30T23:42:54.197525+08:00",
+  "total_titles_processed": 2116,
   "failed_sources": [],
   "trends": [
     {
@@ -30,6 +30,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时35分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "短剧",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "《女相师》上线即霸榜，听花岛与澎湃联合出品短剧成开年黑马",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32496779",
+          "source": "澎湃新闻",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时42分"
         }
       ]
     },
