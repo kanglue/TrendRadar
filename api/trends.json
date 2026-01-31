@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-31T22:31:44.694572+08:00",
-  "total_titles_processed": 1450,
+  "generated_at": "2026-01-31T23:31:51.713418+08:00",
+  "total_titles_processed": 1487,
   "failed_sources": [],
   "trends": [
     {
@@ -75,11 +75,12 @@
           "ranks": [
             6,
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时26分 ~ 22时31分]"
+          "appearance_count": 6,
+          "time_info": "[19时26分 ~ 23时31分]"
         }
       ]
     },
@@ -93,11 +94,29 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             12,
-            24
+            24,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时02分 ~ 22时31分]"
+          "appearance_count": 3,
+          "time_info": "[21时02分 ~ 23时31分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "算法",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "有哪些令人拍案叫绝的算法？",
+          "url": "https://www.zhihu.com/question/27547892",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时31分"
         }
       ]
     }
