@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-01T22:33:20.987321+08:00",
-  "total_titles_processed": 1246,
+  "generated_at": "2026-02-01T23:32:39.598780+08:00",
+  "total_titles_processed": 1296,
   "failed_sources": [],
   "trends": [
     {
@@ -37,6 +37,20 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "优必选开源具身智能大模型Thinker，为工业人形机器人提供下一代“大脑”",
+          "url": "https://wallstreetcn.com/livenews/3047809",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            10,
+            17,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时28分 ~ 23时32分]"
+        },
+        {
           "title": "雄安发布“极数”数据大模型，加速构建“人工智能+”创新生态",
           "url": "https://wallstreetcn.com/livenews/3047685",
           "source": "华尔街见闻-快讯",
@@ -47,19 +61,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时37分 ~ 04时33分]"
-        },
-        {
-          "title": "优必选开源具身智能大模型Thinker，为工业人形机器人提供下一代“大脑”",
-          "url": "https://wallstreetcn.com/livenews/3047809",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            10,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时28分 ~ 22时33分]"
         }
       ]
     },
