@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-03T15:02:09.377896+08:00",
-  "total_titles_processed": 1010,
+  "generated_at": "2026-02-03T16:49:53.696540+08:00",
+  "total_titles_processed": 1154,
   "failed_sources": [],
   "trends": [
     {
@@ -56,11 +56,12 @@
           "source": "百度热搜",
           "ranks": [
             24,
-            1
+            1,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时56分 ~ 15时02分]"
+          "appearance_count": 4,
+          "time_info": "[13时56分 ~ 16时49分]"
         },
         {
           "title": "上海：培育壮大微短剧、元宇宙等新型文化业态",
@@ -128,6 +129,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时42分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "Deepseek",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "DeepSeek问世一周年，大模型改变了商业银行吗？营销降本效果显著，更多作用仍需观察",
+          "url": "https://www.cls.cn/detail/2278690",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时49分"
         }
       ]
     },
