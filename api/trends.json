@@ -1,8 +1,106 @@
 {
-  "generated_at": "2026-02-03T12:53:31.958254+08:00",
-  "total_titles_processed": 816,
+  "generated_at": "2026-02-03T13:56:32.057515+08:00",
+  "total_titles_processed": 902,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "千问",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "元宝红包建群“根本停不下来” 千问投30亿发起攻势 大厂春节AI战升级",
+          "url": "https://www.cls.cn/detail/2278216",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            7,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时51分 ~ 10时42分]"
+        },
+        {
+          "title": "千问APP宣布横扫“四大卫视”春晚冠名",
+          "url": "https://wallstreetcn.com/livenews/3048833",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时56分"
+        },
+        {
+          "title": "千问独家冠名4台卫视春晚",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8D%83%E9%97%AE%E7%8B%AC%E5%AE%B6%E5%86%A0%E5%90%8D4%E5%8F%B0%E5%8D%AB%E8%A7%86%E6%98%A5%E6%99%9A%23&t=31&band_rank=15&Refer=top",
+          "source": "微博",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时56分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "短剧",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "上海：培育壮大微短剧、元宇宙等新型文化业态",
+          "url": "https://wallstreetcn.com/livenews/3048711",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时42分"
+        },
+        {
+          "title": "演了300个坏婆婆 退休老人成短剧顶流",
+          "url": "https://www.baidu.com/s?wd=%E6%BC%94%E4%BA%86300%E4%B8%AA%E5%9D%8F%E5%A9%86%E5%A9%86+%E9%80%80%E4%BC%91%E8%80%81%E4%BA%BA%E6%88%90%E7%9F%AD%E5%89%A7%E9%A1%B6%E6%B5%81",
+          "source": "百度热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时56分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "GPT",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "OpenAI将重点放在ChatGPT的研发上，而非进行更长期的研究，这导致公司高层人员离职。",
+          "url": "https://flash.jin10.com/detail/20260203130436001800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时56分"
+        },
+        {
+          "title": "OpenAI战略大转舵 全速冲刺ChatGPT商业化",
+          "url": "https://flash.jin10.com/detail/20260203130348456800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时56分"
+        }
+      ]
+    },
     {
       "keyword_group": "快手",
       "match_count": 2,
@@ -32,39 +130,19 @@
       ]
     },
     {
-      "keyword_group": "短剧",
+      "keyword_group": "MiniMax",
       "match_count": 1,
       "titles": [
         {
-          "title": "上海：培育壮大微短剧、元宇宙等新型文化业态",
-          "url": "https://wallstreetcn.com/livenews/3048711",
+          "title": "港股大模型概念股午后持续走强，MINIMAX-WP涨超13%再创上市来新高，智谱涨超10%。",
+          "url": "https://wallstreetcn.com/livenews/3048839",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            22
+            2
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时42分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "千问",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "元宝红包建群“根本停不下来” 千问投30亿发起攻势 大厂春节AI战升级",
-          "url": "https://www.cls.cn/detail/2278216",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            7,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时51分 ~ 10时42分]"
+          "time_info": "13时56分"
         }
       ]
     }
