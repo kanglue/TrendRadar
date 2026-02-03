@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-03T19:40:08.724169+08:00",
-  "total_titles_processed": 1441,
+  "generated_at": "2026-02-03T21:15:52.858509+08:00",
+  "total_titles_processed": 1579,
   "failed_sources": [],
   "trends": [
     {
@@ -43,6 +43,45 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时56分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "算法",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "中央网信办召开《生活服务类平台算法负面清单（试行）》推进部署会议",
+          "url": "https://wallstreetcn.com/livenews/3049133",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时15分"
+        },
+        {
+          "title": "西班牙首相桑切斯：我们将起诉（社交媒体上）虚假信息、算法操纵以及非法内容的放大传播。",
+          "url": "https://flash.jin10.com/detail/20260203171819292800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时52分"
+        },
+        {
+          "title": "原油市场剧烈波动 算法交易连续第三年录得亏损",
+          "url": "https://flash.jin10.com/detail/20260203205939205800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时15分"
         }
       ]
     },
@@ -185,23 +224,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时56分 ~ 15时02分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "算法",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "西班牙首相桑切斯：我们将起诉（社交媒体上）虚假信息、算法操纵以及非法内容的放大传播。",
-          "url": "https://flash.jin10.com/detail/20260203171819292800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时52分"
         }
       ]
     }
