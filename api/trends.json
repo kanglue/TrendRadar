@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-03T13:56:32.057515+08:00",
-  "total_titles_processed": 902,
+  "generated_at": "2026-02-03T15:02:09.377896+08:00",
+  "total_titles_processed": 1010,
   "failed_sources": [],
   "trends": [
     {
@@ -26,11 +26,12 @@
           "url": "https://wallstreetcn.com/livenews/3048833",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            6,
+            29
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时56分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时56分 ~ 15时02分]"
         },
         {
           "title": "千问独家冠名4台卫视春晚",
@@ -39,7 +40,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时56分"
         }
@@ -50,6 +51,18 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "演了300个坏婆婆 退休老人成短剧顶流",
+          "url": "https://www.baidu.com/s?wd=%E6%BC%94%E4%BA%86300%E4%B8%AA%E5%9D%8F%E5%A9%86%E5%A9%86+%E9%80%80%E4%BC%91%E8%80%81%E4%BA%BA%E6%88%90%E7%9F%AD%E5%89%A7%E9%A1%B6%E6%B5%81",
+          "source": "百度热搜",
+          "ranks": [
+            24,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时56分 ~ 15时02分]"
+        },
+        {
           "title": "上海：培育壮大微短剧、元宇宙等新型文化业态",
           "url": "https://wallstreetcn.com/livenews/3048711",
           "source": "华尔街见闻-快讯",
@@ -59,17 +72,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时42分"
-        },
-        {
-          "title": "演了300个坏婆婆 退休老人成短剧顶流",
-          "url": "https://www.baidu.com/s?wd=%E6%BC%94%E4%BA%86300%E4%B8%AA%E5%9D%8F%E5%A9%86%E5%A9%86+%E9%80%80%E4%BC%91%E8%80%81%E4%BA%BA%E6%88%90%E7%9F%AD%E5%89%A7%E9%A1%B6%E6%B5%81",
-          "source": "百度热搜",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时56分"
         }
       ]
     },
@@ -84,7 +86,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时56分"
         },
@@ -95,7 +97,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时56分"
         }
@@ -138,11 +140,12 @@
           "url": "https://wallstreetcn.com/livenews/3048839",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            2,
+            25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时56分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时56分 ~ 15时02分]"
         }
       ]
     }
