@@ -1,12 +1,34 @@
 {
-  "generated_at": "2026-02-04T04:46:19.785673+08:00",
-  "total_titles_processed": 471,
+  "generated_at": "2026-02-04T05:42:20.526624+08:00",
+  "total_titles_processed": 538,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "GPT",
-      "match_count": 1,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "OpenAI：ChatGPT当前存在一些问题。",
+          "url": "https://wallstreetcn.com/livenews/3049318",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时42分"
+        },
+        {
+          "title": "OpenAI谈ChatGPT故障问题：我们正在努力实施缓解措施。",
+          "url": "https://flash.jin10.com/detail/20260204044011737800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时42分"
+        },
         {
           "title": "OpenAI的CEO Altman：我的确担心美国无法在开源AI领域领先。 最重要的是，美国在前沿模型领先。 Codex首次让我感觉到另外一个ChatGPT时刻。 在安全与数据接入权限方面的平衡限制AI。 在某些方面人工智能的普及速度比自己预想的要慢。 OPENAI最终目标是实现全面的人工智能业务。",
           "url": "https://wallstreetcn.com/livenews/3049251",
@@ -17,6 +39,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时04分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "Sona",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "周二（2月3日）美股尾盘，彭博电动汽车价格回报指数涨1.72%，报3509.86点，全天持续走高。 成分股MP材料目前涨7.77%，Sona Blw Precision Forgings Ltd.收涨6.15%，中创新航科技集团H股收涨4.85%，禾赛科技涨4%，美国雅宝涨超3.7%，Panasonic株式会社收涨3.75%，广州汽车集团H股收涨3.39%表现第七，文远知行则跌超3.1%，MobilEye Global Inc.跌4.1%，安霸股份跌4.8%。",
+          "url": "https://wallstreetcn.com/livenews/3049320",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时42分"
         }
       ]
     }
