@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-06T04:41:47.256767+08:00",
-  "total_titles_processed": 535,
+  "generated_at": "2026-02-06T05:37:38.990232+08:00",
+  "total_titles_processed": 590,
   "failed_sources": [],
   "trends": [
     {
@@ -26,11 +26,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             11,
-            12
+            12,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时42分 ~ 04时41分]"
+          "appearance_count": 3,
+          "time_info": "[03时42分 ~ 05时37分]"
         },
         {
           "title": "OpenAI：GPT-5.3-Codex正式发布",
@@ -54,11 +55,12 @@
           "url": "https://wallstreetcn.com/articles/3765004",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时58分 ~ 04时41分]"
+          "appearance_count": 6,
+          "time_info": "[00时58分 ~ 05时37分]"
         }
       ]
     }
