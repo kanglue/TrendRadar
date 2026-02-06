@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-07T06:32:55.463482+08:00",
-  "total_titles_processed": 594,
+  "generated_at": "2026-02-07T07:33:31.069798+08:00",
+  "total_titles_processed": 625,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时55分 ~ 06时32分]"
+          "appearance_count": 11,
+          "time_info": "[00时55分 ~ 07时33分]"
         },
         {
           "title": "奶茶品牌为千问免单拼了",
@@ -24,11 +24,12 @@
           "source": "微博",
           "ranks": [
             27,
-            28
+            28,
+            30
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时55分 ~ 03时44分]"
+          "appearance_count": 8,
+          "time_info": "[00时55分 ~ 07时33分]"
         },
         {
           "title": "千问、元宝双双崩溃后 工信部发文推进算力调度 AI Infra或迎戴维斯双击",
@@ -39,8 +40,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时41分 ~ 06时32分]"
+          "appearance_count": 4,
+          "time_info": "[04时41分 ~ 07时33分]"
         },
         {
           "title": "媒体评千问免单：烧钱换流量不可取",
@@ -68,8 +69,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时41分 ~ 06时32分]"
+          "appearance_count": 4,
+          "time_info": "[04时41分 ~ 07时33分]"
         },
         {
           "title": "OpenAI创始人奥尔特曼：看到GPT-5.3-Codex版本如此受欢迎真是太好了。自最初的GPT-4发布以来，我们似乎还没有感受到对哪个模型如此兴奋过。",
@@ -108,8 +109,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时55分 ~ 06时32分]"
+          "appearance_count": 11,
+          "time_info": "[00时55分 ~ 07时33分]"
         },
         {
           "title": "网信部门对快手平台依法作出处罚",
