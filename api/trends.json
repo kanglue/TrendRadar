@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-07T03:01:19.260796+08:00",
-  "total_titles_processed": 451,
+  "generated_at": "2026-02-07T03:44:11.038915+08:00",
+  "total_titles_processed": 487,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时55分 ~ 03时01分]"
+          "appearance_count": 7,
+          "time_info": "[00时55分 ~ 03时44分]"
         },
         {
           "title": "奶茶品牌为千问免单拼了",
@@ -27,8 +27,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时55分 ~ 03时01分]"
+          "appearance_count": 7,
+          "time_info": "[00时55分 ~ 03时44分]"
         },
         {
           "title": "媒体评千问免单：烧钱换流量不可取",
@@ -56,8 +56,19 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时55分 ~ 03时01分]"
+          "appearance_count": 7,
+          "time_info": "[00时55分 ~ 03时44分]"
+        },
+        {
+          "title": "网信部门对快手平台依法作出处罚",
+          "url": "https://www.cls.cn/detail/2282993",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时55分 ~ 03时44分]"
         },
         {
           "title": "快手被罚1.191亿",
@@ -67,17 +78,6 @@
             11,
             16,
             13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时55分 ~ 03时01分]"
-        },
-        {
-          "title": "网信部门对快手平台依法作出处罚",
-          "url": "https://www.cls.cn/detail/2282993",
-          "source": "财联社热门",
-          "ranks": [
-            12
           ],
           "is_new": false,
           "appearance_count": 5,
