@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-07T04:41:36.573596+08:00",
-  "total_titles_processed": 540,
+  "generated_at": "2026-02-07T05:38:49.030438+08:00",
+  "total_titles_processed": 572,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时55分 ~ 04时41分]"
+          "appearance_count": 9,
+          "time_info": "[00时55分 ~ 05时38分]"
         },
         {
           "title": "奶茶品牌为千问免单拼了",
@@ -49,9 +49,9 @@
           "ranks": [
             13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时41分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时41分 ~ 05时38分]"
         }
       ]
     },
@@ -59,6 +59,17 @@
       "keyword_group": "GPT",
       "match_count": 3,
       "titles": [
+        {
+          "title": "据Fortune：OpenAI旗下ChatGPT应用的市场份额从2025年1月的69.1%骤降至次年的45.3%，而谷歌旗下Gemini聊天机器人应用的市场份额则从14.7%攀升至25.2%。",
+          "url": "https://flash.jin10.com/detail/20260207040250896800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时41分 ~ 05时38分]"
+        },
         {
           "title": "OpenAI创始人奥尔特曼：看到GPT-5.3-Codex版本如此受欢迎真是太好了。自最初的GPT-4发布以来，我们似乎还没有感受到对哪个模型如此兴奋过。",
           "url": "https://flash.jin10.com/detail/20260207004458170800",
@@ -69,17 +80,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时55分"
-        },
-        {
-          "title": "据Fortune：OpenAI旗下ChatGPT应用的市场份额从2025年1月的69.1%骤降至次年的45.3%，而谷歌旗下Gemini聊天机器人应用的市场份额则从14.7%攀升至25.2%。",
-          "url": "https://flash.jin10.com/detail/20260207040250896800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时41分"
         },
         {
           "title": "据知情人士透露，OpenAI与G42洽谈向阿联酋提供特殊版本的GPT。 该模型将嵌入当地语言，政治前景，言论限制等方案。 这款微调的GPT用户将是阿联酋的政府部门。（Semafor）",
@@ -107,8 +107,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时55分 ~ 04时41分]"
+          "appearance_count": 9,
+          "time_info": "[00时55分 ~ 05时38分]"
         },
         {
           "title": "网信部门对快手平台依法作出处罚",
@@ -119,8 +119,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时55分 ~ 04时41分]"
+          "appearance_count": 9,
+          "time_info": "[00时55分 ~ 05时38分]"
         },
         {
           "title": "快手被罚1.191亿",
