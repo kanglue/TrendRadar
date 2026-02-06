@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-06T21:14:52.221658+08:00",
-  "total_titles_processed": 1783,
+  "generated_at": "2026-02-06T22:46:45.290535+08:00",
+  "total_titles_processed": 1928,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "千问",
-      "match_count": 25,
+      "match_count": 28,
       "titles": [
         {
           "title": "千问 免费奶茶",
@@ -21,6 +21,19 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[10时38分 ~ 19时39分]"
+        },
+        {
+          "title": "2 月 6 日阿里千问上线「春节 30 亿免单」活动，造成服务器宕机，为什么会这样？如何评价这个活动？",
+          "url": "https://www.zhihu.com/question/2003050695138439235",
+          "source": "知乎",
+          "ranks": [
+            3,
+            2,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时53分 ~ 22时46分]"
         },
         {
           "title": "千问回应免费奶茶活动",
@@ -43,19 +56,6 @@
             7,
             4,
             3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时53分 ~ 21时14分]"
-        },
-        {
-          "title": "2 月 6 日阿里千问上线「春节 30 亿免单」活动，造成服务器宕机，为什么会这样？如何评价这个活动？",
-          "url": "https://www.zhihu.com/question/2003050695138439235",
-          "source": "知乎",
-          "ranks": [
-            3,
-            2,
-            11
           ],
           "is_new": false,
           "appearance_count": 5,
@@ -89,6 +89,20 @@
           "time_info": "[16时54分 ~ 21时14分]"
         },
         {
+          "title": "千问送奶茶背后有阳谋",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8D%83%E9%97%AE%E9%80%81%E5%A5%B6%E8%8C%B6%E8%83%8C%E5%90%8E%E6%9C%89%E9%98%B3%E8%B0%8B%23&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2,
+            10,
+            22,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时49分 ~ 22时46分]"
+        },
+        {
           "title": "阿里千问奶茶红包分享链接被微信屏蔽，如何评价千问、元宝营销模式的异同？",
           "url": "https://www.zhihu.com/question/2003039884005302416",
           "source": "知乎",
@@ -99,19 +113,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[16时54分 ~ 21时14分]"
-        },
-        {
-          "title": "千问送奶茶背后有阳谋",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%8D%83%E9%97%AE%E9%80%81%E5%A5%B6%E8%8C%B6%E8%83%8C%E5%90%8E%E6%9C%89%E9%98%B3%E8%B0%8B%23&t=31&band_rank=2&Refer=top",
-          "source": "微博",
-          "ranks": [
-            2,
-            10,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时49分 ~ 21时14分]"
         },
         {
           "title": "阿里千问回应免费奶茶活动",
@@ -241,6 +242,17 @@
           "time_info": "15时08分"
         },
         {
+          "title": "奶茶品牌为千问免单拼了",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B6%E8%8C%B6%E5%93%81%E7%89%8C%E4%B8%BA%E5%8D%83%E9%97%AE%E5%85%8D%E5%8D%95%E6%8B%BC%E4%BA%86%23&t=31&band_rank=14&Refer=top",
+          "source": "微博",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时46分"
+        },
+        {
           "title": "千问春节30亿免单活动不到3小时奶茶订单达100万",
           "url": "https://wallstreetcn.com/livenews/3051039",
           "source": "华尔街见闻-快讯",
@@ -263,6 +275,17 @@
           "time_info": "12时53分"
         },
         {
+          "title": "千问免单文学",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8D%83%E9%97%AE%E5%85%8D%E5%8D%95%E6%96%87%E5%AD%A6%23&t=31&band_rank=15&Refer=top",
+          "source": "微博",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时46分"
+        },
+        {
           "title": "千问APP回应“崩了”：正在紧急加资源，全力保障顺畅",
           "url": "https://wallstreetcn.com/livenews/3051094",
           "source": "华尔街见闻-快讯",
@@ -272,6 +295,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时53分"
+        },
+        {
+          "title": "媒体：千问“烧钱换流量”不可取",
+          "url": "https://www.toutiao.com/trending/7603680507015990834/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时46分"
         },
         {
           "title": "阿里千问红包分享链接被微信屏蔽",
@@ -310,7 +344,7 @@
     },
     {
       "keyword_group": "快手",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "色情管不住,快手被罚1个亿",
@@ -320,8 +354,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时53分 ~ 21时14分]"
+          "appearance_count": 6,
+          "time_info": "[17时53分 ~ 22时46分]"
         },
         {
           "title": "网信部门对快手平台依法作出处罚",
@@ -333,6 +367,20 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时49分 ~ 18时50分]"
+        },
+        {
+          "title": "快手被罚1.191亿",
+          "url": "https://search.bilibili.com/all?keyword=%E5%BF%AB%E6%89%8B%E8%A2%AB%E7%BD%9A1.191%E4%BA%BF",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8,
+            21,
+            14,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时53分 ~ 22时46分]"
         },
         {
           "title": "快手被罚1.191亿元人民币",
@@ -357,19 +405,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[16时54分 ~ 19时39分]"
-        },
-        {
-          "title": "快手被罚1.191亿",
-          "url": "https://search.bilibili.com/all?keyword=%E5%BF%AB%E6%89%8B%E8%A2%AB%E7%BD%9A1.191%E4%BA%BF",
-          "source": "bilibili 热搜",
-          "ranks": [
-            8,
-            21,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时53分 ~ 21时14分]"
         },
         {
           "title": "快手回应被处罚：诚恳接受，坚决整改",
@@ -450,6 +485,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时53分"
+        },
+        {
+          "title": "网信部门对快手平台依法作出处罚",
+          "url": "https://www.cls.cn/detail/2282993",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时46分"
         }
       ]
     },
