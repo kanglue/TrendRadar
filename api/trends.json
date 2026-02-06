@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-07T05:38:49.030438+08:00",
-  "total_titles_processed": 572,
+  "generated_at": "2026-02-07T06:32:55.463482+08:00",
+  "total_titles_processed": 594,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时55分 ~ 05时38分]"
+          "appearance_count": 10,
+          "time_info": "[00时55分 ~ 06时32分]"
         },
         {
           "title": "奶茶品牌为千问免单拼了",
@@ -31,6 +31,18 @@
           "time_info": "[00时55分 ~ 03时44分]"
         },
         {
+          "title": "千问、元宝双双崩溃后 工信部发文推进算力调度 AI Infra或迎戴维斯双击",
+          "url": "https://www.cls.cn/detail/2283020",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时41分 ~ 06时32分]"
+        },
+        {
           "title": "媒体评千问免单：烧钱换流量不可取",
           "url": "https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%E8%AF%84%E5%8D%83%E9%97%AE%E5%85%8D%E5%8D%95%EF%BC%9A%E7%83%A7%E9%92%B1%E6%8D%A2%E6%B5%81%E9%87%8F%E4%B8%8D%E5%8F%AF%E5%8F%96",
           "source": "百度热搜",
@@ -41,17 +53,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时55分 ~ 01时48分]"
-        },
-        {
-          "title": "千问、元宝双双崩溃后 工信部发文推进算力调度 AI Infra或迎戴维斯双击",
-          "url": "https://www.cls.cn/detail/2283020",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时41分 ~ 05时38分]"
         }
       ]
     },
@@ -67,8 +68,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时41分 ~ 05时38分]"
+          "appearance_count": 3,
+          "time_info": "[04时41分 ~ 06时32分]"
         },
         {
           "title": "OpenAI创始人奥尔特曼：看到GPT-5.3-Codex版本如此受欢迎真是太好了。自最初的GPT-4发布以来，我们似乎还没有感受到对哪个模型如此兴奋过。",
@@ -107,8 +108,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时55分 ~ 05时38分]"
+          "appearance_count": 10,
+          "time_info": "[00时55分 ~ 06时32分]"
         },
         {
           "title": "网信部门对快手平台依法作出处罚",
