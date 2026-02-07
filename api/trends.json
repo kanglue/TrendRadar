@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-07T07:33:31.069798+08:00",
-  "total_titles_processed": 625,
+  "generated_at": "2026-02-07T10:34:11.235703+08:00",
+  "total_titles_processed": 787,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "千问",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "2 月 6 日阿里千问上线「春节 30 亿免单」活动，造成服务器宕机，为什么会这样？如何评价这个活动？",
@@ -30,6 +30,28 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时55分 ~ 07时33分]"
+        },
+        {
+          "title": "千问",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8D%83%E9%97%AE%23&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时33分 ~ 10时34分]"
+        },
+        {
+          "title": "千问免单卡有效期延长至2月28日",
+          "url": "https://wallstreetcn.com/livenews/3051676",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时34分"
         },
         {
           "title": "千问、元宝双双崩溃后 工信部发文推进算力调度 AI Infra或迎戴维斯双击",
@@ -59,7 +81,7 @@
     },
     {
       "keyword_group": "GPT",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "据Fortune：OpenAI旗下ChatGPT应用的市场份额从2025年1月的69.1%骤降至次年的45.3%，而谷歌旗下Gemini聊天机器人应用的市场份额则从14.7%攀升至25.2%。",
@@ -84,6 +106,17 @@
           "time_info": "00时55分"
         },
         {
+          "title": "堪比“ChatGPT”时刻！SemiAnalysis深度解读：Claude Code将是AI “智能体”的转折点",
+          "url": "https://wallstreetcn.com/articles/3765171",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时33分 ~ 10时34分]"
+        },
+        {
           "title": "据知情人士透露，OpenAI与G42洽谈向阿联酋提供特殊版本的GPT。 该模型将嵌入当地语言，政治前景，言论限制等方案。 这款微调的GPT用户将是阿联酋的政府部门。（Semafor）",
           "url": "https://wallstreetcn.com/livenews/3051561",
           "source": "华尔街见闻-快讯",
@@ -106,11 +139,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350330&amp;topic_name=%E8%89%B2%E6%83%85%E7%AE%A1%E4%B8%8D%E4%BD%8F%2C%E5%BF%AB%E6%89%8B%E8%A2%AB%E7%BD%9A1%E4%B8%AA%E4%BA%BF",
           "source": "贴吧",
           "ranks": [
-            1
+            1,
+            5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时55分 ~ 07时33分]"
+          "appearance_count": 13,
+          "time_info": "[00时55分 ~ 10时34分]"
         },
         {
           "title": "网信部门对快手平台依法作出处罚",
@@ -136,6 +170,23 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时55分 ~ 03时01分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "短剧",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "2025年微短剧市场规模破千亿元",
+          "url": "https://wallstreetcn.com/livenews/3051659",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时34分"
         }
       ]
     }
