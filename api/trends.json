@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-07T15:37:55.144060+08:00",
-  "total_titles_processed": 1048,
+  "generated_at": "2026-02-07T16:40:30.376724+08:00",
+  "total_titles_processed": 1105,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时33分 ~ 15时37分]"
+          "appearance_count": 8,
+          "time_info": "[10时33分 ~ 16时40分]"
         },
         {
           "title": "2 月 6 日阿里千问上线「春节 30 亿免单」活动，造成服务器宕机，为什么会这样？如何评价这个活动？",
@@ -51,11 +51,12 @@
             6,
             10,
             13,
-            15
+            15,
+            20
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时34分 ~ 15时37分]"
+          "appearance_count": 6,
+          "time_info": "[10时34分 ~ 16时40分]"
         },
         {
           "title": "9小时1000万单！阿里千问免单潮把茶饮店“逼到歇业”",
@@ -67,8 +68,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时43分 ~ 15时37分]"
+          "appearance_count": 6,
+          "time_info": "[12时43分 ~ 16时40分]"
         },
         {
           "title": "千问、元宝双双崩溃后 工信部发文推进算力调度 AI Infra或迎戴维斯双击",
@@ -95,6 +96,18 @@
           "time_info": "[00时55分 ~ 01时48分]"
         },
         {
+          "title": "千问免单卡可以买年货",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8D%83%E9%97%AE%E5%85%8D%E5%8D%95%E5%8D%A1%E5%8F%AF%E4%BB%A5%E4%B9%B0%E5%B9%B4%E8%B4%A7%23&t=31&band_rank=22&Refer=top",
+          "source": "微博",
+          "ranks": [
+            22,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时37分 ~ 16时40分]"
+        },
+        {
           "title": "第一批千问万元生活卡锦鲤已出现",
           "url": "https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B8%80%E6%89%B9%E5%8D%83%E9%97%AE%E4%B8%87%E5%85%83%E7%94%9F%E6%B4%BB%E5%8D%A1%E9%94%A6%E9%B2%A4%E5%B7%B2%E5%87%BA%E7%8E%B0%23&t=31&band_rank=28&Refer=top",
           "source": "微博",
@@ -115,17 +128,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时53分"
-        },
-        {
-          "title": "千问免单卡可以买年货",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%8D%83%E9%97%AE%E5%85%8D%E5%8D%95%E5%8D%A1%E5%8F%AF%E4%BB%A5%E4%B9%B0%E5%B9%B4%E8%B4%A7%23&t=31&band_rank=22&Refer=top",
-          "source": "微博",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时37分"
         }
       ]
     },
@@ -144,8 +146,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时33分 ~ 15时37分]"
+          "appearance_count": 8,
+          "time_info": "[10时33分 ~ 16时40分]"
         },
         {
           "title": "据Fortune：OpenAI旗下ChatGPT应用的市场份额从2025年1月的69.1%骤降至次年的45.3%，而谷歌旗下Gemini聊天机器人应用的市场份额则从14.7%攀升至25.2%。",
@@ -194,11 +196,12 @@
           "ranks": [
             1,
             5,
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时55分 ~ 15时37分]"
+          "appearance_count": 19,
+          "time_info": "[00时55分 ~ 16时40分]"
         },
         {
           "title": "网信部门对快手平台依法作出处罚",
@@ -258,11 +261,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时53分 ~ 15时37分]"
+          "appearance_count": 3,
+          "time_info": "[14时53分 ~ 16时40分]"
         }
       ]
     },
@@ -278,11 +282,12 @@
             3,
             7,
             10,
-            12
+            12,
+            17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时43分 ~ 15时37分]"
+          "appearance_count": 5,
+          "time_info": "[12时43分 ~ 16时40分]"
         }
       ]
     }
