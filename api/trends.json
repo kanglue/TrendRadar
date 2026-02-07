@@ -1,277 +1,22 @@
 {
-  "generated_at": "2026-02-07T23:33:10.084035+08:00",
-  "total_titles_processed": 1507,
+  "generated_at": "2026-02-08T00:39:24.296501+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "千问",
-      "match_count": 10,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "千问",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%8D%83%E9%97%AE%23&t=31&band_rank=1&Refer=top",
-          "source": "微博",
-          "ranks": [
-            1,
-            4,
-            9,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[10时33分 ~ 21时03分]"
-        },
         {
           "title": "9小时1000万单！阿里千问免单潮把茶饮店“逼到歇业”",
           "url": "https://www.cls.cn/detail/2283621",
           "source": "财联社热门",
           "ranks": [
-            13,
-            12,
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[12时43分 ~ 23时33分]"
-        },
-        {
-          "title": "2 月 6 日阿里千问上线「春节 30 亿免单」活动，造成服务器宕机，为什么会这样？如何评价这个活动？",
-          "url": "https://www.zhihu.com/question/2003050695138439235",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时55分 ~ 07时33分]"
-        },
-        {
-          "title": "千问免单卡有效期延长至2月28日",
-          "url": "https://wallstreetcn.com/livenews/3051676",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            6,
-            10,
-            13,
-            15,
-            20,
-            24,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时34分 ~ 18时34分]"
-        },
-        {
-          "title": "奶茶品牌为千问免单拼了",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B6%E8%8C%B6%E5%93%81%E7%89%8C%E4%B8%BA%E5%8D%83%E9%97%AE%E5%85%8D%E5%8D%95%E6%8B%BC%E4%BA%86%23&t=31&band_rank=27&Refer=top",
-          "source": "微博",
-          "ranks": [
-            27,
-            28,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时55分 ~ 07时33分]"
-        },
-        {
-          "title": "千问免单卡可以买年货",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%8D%83%E9%97%AE%E5%85%8D%E5%8D%95%E5%8D%A1%E5%8F%AF%E4%BB%A5%E4%B9%B0%E5%B9%B4%E8%B4%A7%23&t=31&band_rank=22&Refer=top",
-          "source": "微博",
-          "ranks": [
-            22,
-            24,
-            23,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时37分 ~ 19时28分]"
-        },
-        {
-          "title": "千问、元宝双双崩溃后 工信部发文推进算力调度 AI Infra或迎戴维斯双击",
-          "url": "https://www.cls.cn/detail/2283020",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时41分 ~ 07时33分]"
-        },
-        {
-          "title": "媒体评千问免单：烧钱换流量不可取",
-          "url": "https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%E8%AF%84%E5%8D%83%E9%97%AE%E5%85%8D%E5%8D%95%EF%BC%9A%E7%83%A7%E9%92%B1%E6%8D%A2%E6%B5%81%E9%87%8F%E4%B8%8D%E5%8F%AF%E5%8F%96",
-          "source": "百度热搜",
-          "ranks": [
-            23,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时55分 ~ 01时48分]"
-        },
-        {
-          "title": "第一批千问万元生活卡锦鲤已出现",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B8%80%E6%89%B9%E5%8D%83%E9%97%AE%E4%B8%87%E5%85%83%E7%94%9F%E6%B4%BB%E5%8D%A1%E9%94%A6%E9%B2%A4%E5%B7%B2%E5%87%BA%E7%8E%B0%23&t=31&band_rank=28&Refer=top",
-          "source": "微博",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时48分 ~ 13时49分]"
-        },
-        {
-          "title": "千问让我认识到25元的购买力",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%8D%83%E9%97%AE%E8%AE%A9%E6%88%91%E8%AE%A4%E8%AF%86%E5%88%B025%E5%85%83%E7%9A%84%E8%B4%AD%E4%B9%B0%E5%8A%9B%23&t=31&band_rank=15&Refer=top",
-          "source": "微博",
-          "ranks": [
-            15
+            10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时53分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "GPT",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "堪比“ChatGPT”时刻！SemiAnalysis深度解读：Claude Code将是AI “智能体”的转折点",
-          "url": "https://wallstreetcn.com/articles/3765171",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时33分 ~ 19时28分]"
-        },
-        {
-          "title": "据Fortune：OpenAI旗下ChatGPT应用的市场份额从2025年1月的69.1%骤降至次年的45.3%，而谷歌旗下Gemini聊天机器人应用的市场份额则从14.7%攀升至25.2%。",
-          "url": "https://flash.jin10.com/detail/20260207040250896800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时41分 ~ 07时33分]"
-        },
-        {
-          "title": "OpenAI创始人奥尔特曼：看到GPT-5.3-Codex版本如此受欢迎真是太好了。自最初的GPT-4发布以来，我们似乎还没有感受到对哪个模型如此兴奋过。",
-          "url": "https://flash.jin10.com/detail/20260207004458170800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时55分"
-        },
-        {
-          "title": "据知情人士透露，OpenAI与G42洽谈向阿联酋提供特殊版本的GPT。 该模型将嵌入当地语言，政治前景，言论限制等方案。 这款微调的GPT用户将是阿联酋的政府部门。（Semafor）",
-          "url": "https://wallstreetcn.com/livenews/3051561",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时48分 ~ 03时01分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "快手",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "色情管不住,快手被罚1个亿",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350330&amp;topic_name=%E8%89%B2%E6%83%85%E7%AE%A1%E4%B8%8D%E4%BD%8F%2C%E5%BF%AB%E6%89%8B%E8%A2%AB%E7%BD%9A1%E4%B8%AA%E4%BA%BF",
-          "source": "贴吧",
-          "ranks": [
-            1,
-            5,
-            6,
-            8,
-            10,
-            11,
-            13,
-            16,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 27,
-          "time_info": "[00时55分 ~ 23时33分]"
-        },
-        {
-          "title": "网信部门对快手平台依法作出处罚",
-          "url": "https://www.cls.cn/detail/2282993",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时55分 ~ 05时38分]"
-        },
-        {
-          "title": "快手被罚1.191亿",
-          "url": "https://search.bilibili.com/all?keyword=%E5%BF%AB%E6%89%8B%E8%A2%AB%E7%BD%9A1.191%E4%BA%BF",
-          "source": "bilibili 热搜",
-          "ranks": [
-            11,
-            16,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时55分 ~ 03时01分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "短剧",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "2025年微短剧市场规模破千亿元",
-          "url": "https://wallstreetcn.com/livenews/3051659",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            19,
-            24,
-            27,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时34分 ~ 15时37分]"
-        },
-        {
-          "title": "听着郁可唯的歌嗑短剧cp好快乐",
-          "url": "https://www.douyin.com/hot/2393239",
-          "source": "抖音",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时02分 ~ 21时03分]"
+          "time_info": "00时39分"
         }
       ]
     },
@@ -284,39 +29,28 @@
           "url": "https://wallstreetcn.com/articles/3765209",
           "source": "华尔街见闻",
           "ranks": [
-            10,
-            8,
-            7,
-            6,
-            4,
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[14时53分 ~ 23时33分]"
+          "appearance_count": 1,
+          "time_info": "00时39分"
         }
       ]
     },
     {
-      "keyword_group": "大模型",
+      "keyword_group": "快手",
       "match_count": 1,
       "titles": [
         {
-          "title": "全球首个南海海-气双向耦合智能大模型发布，台风预报更精准",
-          "url": "https://wallstreetcn.com/livenews/3051682",
-          "source": "华尔街见闻-快讯",
+          "title": "色情管不住,快手被罚1个亿",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350330&amp;topic_name=%E8%89%B2%E6%83%85%E7%AE%A1%E4%B8%8D%E4%BD%8F%2C%E5%BF%AB%E6%89%8B%E8%A2%AB%E7%BD%9A1%E4%B8%AA%E4%BA%BF",
+          "source": "贴吧",
           "ranks": [
-            3,
-            7,
-            10,
-            12,
-            17,
-            21,
-            27
+            18
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时43分 ~ 18时34分]"
+          "appearance_count": 1,
+          "time_info": "00时39分"
         }
       ]
     }
