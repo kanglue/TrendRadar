@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-07T10:34:11.235703+08:00",
-  "total_titles_processed": 787,
+  "generated_at": "2026-02-07T12:43:29.321133+08:00",
+  "total_titles_processed": 894,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "千问",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "2 月 6 日阿里千问上线「春节 30 亿免单」活动，造成服务器宕机，为什么会这样？如何评价这个活动？",
@@ -17,6 +17,17 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时55分 ~ 07时33分]"
+        },
+        {
+          "title": "千问",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8D%83%E9%97%AE%23&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时33分 ~ 12时43分]"
         },
         {
           "title": "奶茶品牌为千问免单拼了",
@@ -32,26 +43,16 @@
           "time_info": "[00时55分 ~ 07时33分]"
         },
         {
-          "title": "千问",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%8D%83%E9%97%AE%23&t=31&band_rank=1&Refer=top",
-          "source": "微博",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时33分 ~ 10时34分]"
-        },
-        {
           "title": "千问免单卡有效期延长至2月28日",
           "url": "https://wallstreetcn.com/livenews/3051676",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时34分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时34分 ~ 12时43分]"
         },
         {
           "title": "千问、元宝双双崩溃后 工信部发文推进算力调度 AI Infra或迎戴维斯双击",
@@ -76,6 +77,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时55分 ~ 01时48分]"
+        },
+        {
+          "title": "9小时1000万单！阿里千问免单潮把茶饮店“逼到歇业”",
+          "url": "https://www.cls.cn/detail/2283621",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时43分"
         }
       ]
     },
@@ -110,11 +122,12 @@
           "url": "https://wallstreetcn.com/articles/3765171",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时33分 ~ 10时34分]"
+          "appearance_count": 3,
+          "time_info": "[10时33分 ~ 12时43分]"
         },
         {
           "title": "据知情人士透露，OpenAI与G42洽谈向阿联酋提供特殊版本的GPT。 该模型将嵌入当地语言，政治前景，言论限制等方案。 这款微调的GPT用户将是阿联酋的政府部门。（Semafor）",
@@ -140,11 +153,12 @@
           "source": "贴吧",
           "ranks": [
             1,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时55分 ~ 10时34分]"
+          "appearance_count": 14,
+          "time_info": "[00时55分 ~ 12时43分]"
         },
         {
           "title": "网信部门对快手平台依法作出处罚",
@@ -182,11 +196,29 @@
           "url": "https://wallstreetcn.com/livenews/3051659",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            14
+            14,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时34分 ~ 12时43分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "大模型",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "全球首个南海海-气双向耦合智能大模型发布，台风预报更精准",
+          "url": "https://wallstreetcn.com/livenews/3051682",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时34分"
+          "time_info": "12时43分"
         }
       ]
     }
