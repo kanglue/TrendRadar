@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-07T19:28:51.767701+08:00",
-  "total_titles_processed": 1296,
+  "generated_at": "2026-02-07T21:03:15.233423+08:00",
+  "total_titles_processed": 1383,
   "failed_sources": [],
   "trends": [
     {
@@ -14,22 +14,12 @@
           "ranks": [
             1,
             4,
-            9
+            9,
+            16
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时33分 ~ 19时28分]"
-        },
-        {
-          "title": "2 月 6 日阿里千问上线「春节 30 亿免单」活动，造成服务器宕机，为什么会这样？如何评价这个活动？",
-          "url": "https://www.zhihu.com/question/2003050695138439235",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时55分 ~ 07时33分]"
+          "appearance_count": 13,
+          "time_info": "[10时33分 ~ 21时03分]"
         },
         {
           "title": "9小时1000万单！阿里千问免单潮把茶饮店“逼到歇业”",
@@ -42,8 +32,19 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时43分 ~ 19时28分]"
+          "appearance_count": 11,
+          "time_info": "[12时43分 ~ 21时03分]"
+        },
+        {
+          "title": "2 月 6 日阿里千问上线「春节 30 亿免单」活动，造成服务器宕机，为什么会这样？如何评价这个活动？",
+          "url": "https://www.zhihu.com/question/2003050695138439235",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时55分 ~ 07时33分]"
         },
         {
           "title": "千问免单卡有效期延长至2月28日",
@@ -210,8 +211,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时55分 ~ 19时28分]"
+          "appearance_count": 24,
+          "time_info": "[00时55分 ~ 21时03分]"
         },
         {
           "title": "网信部门对快手平台依法作出处罚",
@@ -242,7 +243,7 @@
     },
     {
       "keyword_group": "短剧",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "2025年微短剧市场规模破千亿元",
@@ -258,6 +259,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[10时34分 ~ 15时37分]"
+        },
+        {
+          "title": "听着郁可唯的歌嗑短剧cp好快乐",
+          "url": "https://www.douyin.com/hot/2393239",
+          "source": "抖音",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时02分 ~ 21时03分]"
         }
       ]
     },
@@ -277,8 +289,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时53分 ~ 19时28分]"
+          "appearance_count": 8,
+          "time_info": "[14时53分 ~ 21时03分]"
         }
       ]
     },
