@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-07T16:40:30.376724+08:00",
-  "total_titles_processed": 1105,
+  "generated_at": "2026-02-07T17:38:34.156387+08:00",
+  "total_titles_processed": 1183,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时33分 ~ 16时40分]"
+          "appearance_count": 9,
+          "time_info": "[10时33分 ~ 17时38分]"
         },
         {
           "title": "2 月 6 日阿里千问上线「春节 30 亿免单」活动，造成服务器宕机，为什么会这样？如何评价这个活动？",
@@ -52,11 +52,12 @@
             10,
             13,
             15,
-            20
+            20,
+            24
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时34分 ~ 16时40分]"
+          "appearance_count": 7,
+          "time_info": "[10时34分 ~ 17时38分]"
         },
         {
           "title": "9小时1000万单！阿里千问免单潮把茶饮店“逼到歇业”",
@@ -65,11 +66,12 @@
           "ranks": [
             13,
             12,
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时43分 ~ 16时40分]"
+          "appearance_count": 7,
+          "time_info": "[12时43分 ~ 17时38分]"
         },
         {
           "title": "千问、元宝双双崩溃后 工信部发文推进算力调度 AI Infra或迎戴维斯双击",
@@ -84,6 +86,19 @@
           "time_info": "[04时41分 ~ 07时33分]"
         },
         {
+          "title": "千问免单卡可以买年货",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8D%83%E9%97%AE%E5%85%8D%E5%8D%95%E5%8D%A1%E5%8F%AF%E4%BB%A5%E4%B9%B0%E5%B9%B4%E8%B4%A7%23&t=31&band_rank=22&Refer=top",
+          "source": "微博",
+          "ranks": [
+            22,
+            24,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时37分 ~ 17时38分]"
+        },
+        {
           "title": "媒体评千问免单：烧钱换流量不可取",
           "url": "https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%E8%AF%84%E5%8D%83%E9%97%AE%E5%85%8D%E5%8D%95%EF%BC%9A%E7%83%A7%E9%92%B1%E6%8D%A2%E6%B5%81%E9%87%8F%E4%B8%8D%E5%8F%AF%E5%8F%96",
           "source": "百度热搜",
@@ -94,18 +109,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时55分 ~ 01时48分]"
-        },
-        {
-          "title": "千问免单卡可以买年货",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%8D%83%E9%97%AE%E5%85%8D%E5%8D%95%E5%8D%A1%E5%8F%AF%E4%BB%A5%E4%B9%B0%E5%B9%B4%E8%B4%A7%23&t=31&band_rank=22&Refer=top",
-          "source": "微博",
-          "ranks": [
-            22,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时37分 ~ 16时40分]"
         },
         {
           "title": "第一批千问万元生活卡锦鲤已出现",
@@ -146,8 +149,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时33分 ~ 16时40分]"
+          "appearance_count": 9,
+          "time_info": "[10时33分 ~ 17时38分]"
         },
         {
           "title": "据Fortune：OpenAI旗下ChatGPT应用的市场份额从2025年1月的69.1%骤降至次年的45.3%，而谷歌旗下Gemini聊天机器人应用的市场份额则从14.7%攀升至25.2%。",
@@ -197,11 +200,12 @@
             1,
             5,
             6,
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时55分 ~ 16时40分]"
+          "appearance_count": 20,
+          "time_info": "[00时55分 ~ 17时38分]"
         },
         {
           "title": "网信部门对快手平台依法作出处罚",
@@ -262,11 +266,12 @@
           "ranks": [
             10,
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时53分 ~ 16时40分]"
+          "appearance_count": 4,
+          "time_info": "[14时53分 ~ 17时38分]"
         }
       ]
     },
@@ -283,11 +288,12 @@
             7,
             10,
             12,
-            17
+            17,
+            21
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时43分 ~ 16时40分]"
+          "appearance_count": 6,
+          "time_info": "[12时43分 ~ 17时38分]"
         }
       ]
     }
