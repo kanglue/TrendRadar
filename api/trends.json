@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-08T21:04:16.818118+08:00",
-  "total_titles_processed": 1176,
+  "generated_at": "2026-02-08T22:35:33.039234+08:00",
+  "total_titles_processed": 1275,
   "failed_sources": [],
   "trends": [
     {
@@ -82,6 +82,18 @@
           "time_info": "[16时40分 ~ 21时04分]"
         },
         {
+          "title": "阿里千问撒外卖券，腾讯元宝发现金红包，如何看待大厂通过「请客」这一朴素方式推广最前沿的 AI 技术的策略？",
+          "url": "https://www.zhihu.com/question/2003429600861110745",
+          "source": "知乎",
+          "ranks": [
+            14,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时29分 ~ 22时35分]"
+        },
+        {
           "title": "吴昕用千问把长沙小吃点了个遍",
           "url": "https://s.weibo.com/weibo?q=%23%E5%90%B4%E6%98%95%E7%94%A8%E5%8D%83%E9%97%AE%E6%8A%8A%E9%95%BF%E6%B2%99%E5%B0%8F%E5%90%83%E7%82%B9%E4%BA%86%E4%B8%AA%E9%81%8D%23&t=31&band_rank=29&Refer=top",
           "source": "微博",
@@ -93,18 +105,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[17时37分 ~ 18时35分]"
-        },
-        {
-          "title": "阿里千问撒外卖券，腾讯元宝发现金红包，如何看待大厂通过「请客」这一朴素方式推广最前沿的 AI 技术的策略？",
-          "url": "https://www.zhihu.com/question/2003429600861110745",
-          "source": "知乎",
-          "ranks": [
-            14,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时29分 ~ 21时04分]"
         },
         {
           "title": "范伟说千问免单真不是忽悠",
