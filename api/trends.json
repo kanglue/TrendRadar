@@ -1,12 +1,27 @@
 {
-  "generated_at": "2026-02-08T18:35:35.545641+08:00",
-  "total_titles_processed": 1024,
+  "generated_at": "2026-02-08T19:29:46.589516+08:00",
+  "total_titles_processed": 1086,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "千问",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
+        {
+          "title": "千问",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8D%83%E9%97%AE%23&t=31&band_rank=6&Refer=top",
+          "source": "微博",
+          "ranks": [
+            6,
+            11,
+            12,
+            13,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[11时17分 ~ 19时29分]"
+        },
         {
           "title": "9小时1000万单！阿里千问免单潮把茶饮店“逼到歇业”",
           "url": "https://www.cls.cn/detail/2283621",
@@ -19,20 +34,6 @@
           "is_new": false,
           "appearance_count": 16,
           "time_info": "[00时39分 ~ 17时38分]"
-        },
-        {
-          "title": "千问",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%8D%83%E9%97%AE%23&t=31&band_rank=6&Refer=top",
-          "source": "微博",
-          "ranks": [
-            6,
-            11,
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时17分 ~ 18时35分]"
         },
         {
           "title": "经实测发现，目前阿里千问、腾讯元宝的红包口令在微信内已可复制。",
@@ -72,11 +73,12 @@
           "ranks": [
             7,
             11,
-            18
+            18,
+            23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时40分 ~ 18时35分]"
+          "appearance_count": 4,
+          "time_info": "[16时40分 ~ 19时29分]"
         },
         {
           "title": "吴昕用千问把长沙小吃点了个遍",
@@ -101,6 +103,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时37分 ~ 17时38分]"
+        },
+        {
+          "title": "阿里千问撒外卖券，腾讯元宝发现金红包，如何看待大厂通过「请客」这一朴素方式推广最前沿的 AI 技术的策略？",
+          "url": "https://www.zhihu.com/question/2003429600861110745",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时29分"
         }
       ]
     },
