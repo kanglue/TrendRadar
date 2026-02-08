@@ -1,8 +1,25 @@
 {
-  "generated_at": "2026-02-09T00:39:19.100142+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2026-02-09T01:34:05.607902+08:00",
+  "total_titles_processed": 331,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "短剧",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "长沙高素质小孩哥勇闯短剧片场",
+          "url": "https://www.baidu.com/s?wd=%E9%95%BF%E6%B2%99%E9%AB%98%E7%B4%A0%E8%B4%A8%E5%B0%8F%E5%AD%A9%E5%93%A5%E5%8B%87%E9%97%AF%E7%9F%AD%E5%89%A7%E7%89%87%E5%9C%BA",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时33分 ~ 01时34分]"
+        }
+      ]
+    },
     {
       "keyword_group": "即梦",
       "match_count": 1,
@@ -12,11 +29,12 @@
           "url": "https://www.zhihu.com/question/2003476733446349730",
           "source": "知乎",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时39分"
+          "appearance_count": 3,
+          "time_info": "[00时39分 ~ 01时34分]"
         }
       ]
     },
@@ -29,11 +47,12 @@
           "url": "https://www.zhihu.com/question/2003429600861110745",
           "source": "知乎",
           "ranks": [
-            11
+            11,
+            13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时39分"
+          "appearance_count": 3,
+          "time_info": "[00时39分 ~ 01时34分]"
         }
       ]
     }
