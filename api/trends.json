@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-08T15:01:24.882472+08:00",
-  "total_titles_processed": 806,
+  "generated_at": "2026-02-08T15:46:16.304416+08:00",
+  "total_titles_processed": 852,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时39分 ~ 15时01分]"
+          "appearance_count": 13,
+          "time_info": "[00时39分 ~ 15时46分]"
         },
         {
           "title": "经实测发现，目前阿里千问、腾讯元宝的红包口令在微信内已可复制。",
@@ -26,11 +26,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            5
+            5,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时26分 ~ 15时01分]"
+          "appearance_count": 3,
+          "time_info": "[13时26分 ~ 15时46分]"
         },
         {
           "title": "千问",
@@ -38,11 +39,12 @@
           "source": "微博",
           "ranks": [
             6,
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时17分 ~ 15时01分]"
+          "appearance_count": 5,
+          "time_info": "[11时17分 ~ 15时46分]"
         },
         {
           "title": "千问砸了30亿为什么选了奶茶",
