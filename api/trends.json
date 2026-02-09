@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-09T17:02:18.481797+08:00",
-  "total_titles_processed": 1097,
+  "generated_at": "2026-02-09T19:01:49.684069+08:00",
+  "total_titles_processed": 1246,
   "failed_sources": [],
   "trends": [
     {
@@ -28,7 +28,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时02分"
         },
@@ -78,6 +78,37 @@
       ]
     },
     {
+      "keyword_group": "Seedance",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "凌晨三点，彻底失眠：Seedance 2.0告诉我们，AI对现实世界工作流“压缩”正在加速",
+          "url": "https://wallstreetcn.com/articles/3765259",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时46分 ~ 19时01分]"
+        },
+        {
+          "title": "seedance 2.0",
+          "url": "https://s.weibo.com/weibo?q=seedance%202.0&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时01分"
+        }
+      ]
+    },
+    {
       "keyword_group": "算法",
       "match_count": 2,
       "titles": [
@@ -103,6 +134,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时14分 ~ 17时02分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "AIGC",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "AIGC整活新春联欢会",
+          "url": "https://search.bilibili.com/all?keyword=AIGC%E6%95%B4%E6%B4%BB%E6%96%B0%E6%98%A5%E8%81%94%E6%AC%A2%E4%BC%9A",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时01分"
         }
       ]
     },
@@ -140,8 +188,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时07分 ~ 17时02分]"
+          "appearance_count": 4,
+          "time_info": "[13时07分 ~ 19时01分]"
         }
       ]
     },
@@ -159,25 +207,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时14分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "Seedance",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "凌晨三点，彻底失眠：Seedance 2.0告诉我们，AI对现实世界工作流“压缩”正在加速",
-          "url": "https://wallstreetcn.com/articles/3765259",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时46分 ~ 17时02分]"
         }
       ]
     },
