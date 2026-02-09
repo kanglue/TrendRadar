@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-10T00:06:29.303619+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-02-10T01:55:27.770928+08:00",
+  "total_titles_processed": 421,
   "failed_sources": [],
   "trends": [
     {
@@ -15,30 +15,32 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时05分 ~ 00时06分]"
+          "appearance_count": 3,
+          "time_info": "[00时05分 ~ 01时55分]"
         },
         {
           "title": "Seedance2.0成片大赏",
           "url": "https://www.douyin.com/hot/2395301",
           "source": "抖音",
           "ranks": [
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时05分 ~ 00时06分]"
+          "appearance_count": 3,
+          "time_info": "[00时05分 ~ 01时55分]"
         },
         {
           "title": "如何看待 Seedance2.0 未经影视飓风授权大量用他们的视频训练？ 有相关的版权法吗？",
           "url": "https://www.zhihu.com/question/2004022161829028533",
           "source": "知乎",
           "ranks": [
-            12
+            12,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时05分 ~ 00时06分]"
+          "appearance_count": 3,
+          "time_info": "[00时05分 ~ 01时55分]"
         }
       ]
     },
@@ -54,8 +56,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时05分 ~ 00时06分]"
+          "appearance_count": 3,
+          "time_info": "[00时05分 ~ 01时55分]"
         }
       ]
     }
