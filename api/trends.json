@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-10T06:44:43.647794+08:00",
-  "total_titles_processed": 628,
+  "generated_at": "2026-02-10T07:44:55.031940+08:00",
+  "total_titles_processed": 698,
   "failed_sources": [],
   "trends": [
     {
@@ -52,11 +52,12 @@
           "url": "https://wallstreetcn.com/articles/3765259",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时05分 ~ 06时44分]"
+          "appearance_count": 9,
+          "time_info": "[00时05分 ~ 07时44分]"
         },
         {
           "title": "如何看待 Seedance2.0 未经影视飓风授权大量用他们的视频训练？ 有相关的版权法吗？",
@@ -70,8 +71,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时05分 ~ 06时44分]"
+          "appearance_count": 9,
+          "time_info": "[00时05分 ~ 07时44分]"
         },
         {
           "title": "Seedance2.0成片大赏",
@@ -83,8 +84,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时05分 ~ 06时44分]"
+          "appearance_count": 9,
+          "time_info": "[00时05分 ~ 07时44分]"
         }
       ]
     },
@@ -101,11 +102,12 @@
             12,
             25,
             23,
-            13
+            13,
+            26
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时05分 ~ 06时44分]"
+          "appearance_count": 9,
+          "time_info": "[00时05分 ~ 07时44分]"
         }
       ]
     }
