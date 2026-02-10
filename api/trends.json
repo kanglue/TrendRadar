@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-11T06:50:04.237793+08:00",
-  "total_titles_processed": 547,
+  "generated_at": "2026-02-11T07:44:31.166463+08:00",
+  "total_titles_processed": 610,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "Seedance",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "海外已夸爆Seedance2.0",
@@ -17,8 +17,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时10分 ~ 06时50分]"
+          "appearance_count": 9,
+          "time_info": "[01时10分 ~ 07时44分]"
         },
         {
           "title": "Seedance2.0爆火出圈 被称“颠覆行业”",
@@ -27,11 +27,12 @@
           "ranks": [
             5,
             8,
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时10分 ~ 06时50分]"
+          "appearance_count": 9,
+          "time_info": "[01时10分 ~ 07时44分]"
         },
         {
           "title": "火出圈的视频模型Seedance2.0到底有多强",
@@ -42,8 +43,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时10分 ~ 06时50分]"
+          "appearance_count": 9,
+          "time_info": "[01时10分 ~ 07时44分]"
         },
         {
           "title": "【焦点复盘】沪指横盘整理报收十字星，Seedance概念多股实现二连板，算力硬件端现高低切",
@@ -56,6 +57,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时10分 ~ 06时50分]"
+        },
+        {
+          "title": "Seedance2.0中外同步发布",
+          "url": "https://s.weibo.com/weibo?q=%23Seedance2.0%E4%B8%AD%E5%A4%96%E5%90%8C%E6%AD%A5%E5%8F%91%E5%B8%83%23&t=31&band_rank=13&Refer=top",
+          "source": "微博",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时44分"
         }
       ]
     },
@@ -72,8 +84,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时10分 ~ 06时50分]"
+          "appearance_count": 9,
+          "time_info": "[01时10分 ~ 07时44分]"
         },
         {
           "title": "2025 胡润中国 500 强发布，台积电、腾讯、字节位列前三，小米新进前十，如何评价上榜企业表现？",
@@ -84,8 +96,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时10分 ~ 06时50分]"
+          "appearance_count": 9,
+          "time_info": "[01时10分 ~ 07时44分]"
         },
         {
           "title": "影视飓风深夜发视频，未收钱过往视频却被字节用于最新模型训练，个人声音环境等数据被 AI 训练会有哪些风险？",
@@ -129,11 +141,12 @@
           "url": "https://wallstreetcn.com/articles/3765363",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时10分 ~ 06时50分]"
+          "appearance_count": 9,
+          "time_info": "[01时10分 ~ 07时44分]"
         }
       ]
     },
