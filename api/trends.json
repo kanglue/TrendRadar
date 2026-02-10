@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-11T04:53:34.222081+08:00",
-  "total_titles_processed": 452,
+  "generated_at": "2026-02-11T05:54:39.814055+08:00",
+  "total_titles_processed": 509,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时10分 ~ 04时53分]"
+          "appearance_count": 6,
+          "time_info": "[01时10分 ~ 05时54分]"
         },
         {
           "title": "Seedance2.0爆火出圈 被称“颠覆行业”",
@@ -30,8 +30,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时10分 ~ 04时53分]"
+          "appearance_count": 6,
+          "time_info": "[01时10分 ~ 05时54分]"
         },
         {
           "title": "火出圈的视频模型Seedance2.0到底有多强",
@@ -42,8 +42,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时10分 ~ 04时53分]"
+          "appearance_count": 6,
+          "time_info": "[01时10分 ~ 05时54分]"
         },
         {
           "title": "【焦点复盘】沪指横盘整理报收十字星，Seedance概念多股实现二连板，算力硬件端现高低切",
@@ -54,8 +54,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时10分 ~ 04时53分]"
+          "appearance_count": 6,
+          "time_info": "[01时10分 ~ 05时54分]"
         }
       ]
     },
@@ -72,8 +72,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时10分 ~ 04时53分]"
+          "appearance_count": 6,
+          "time_info": "[01时10分 ~ 05时54分]"
         },
         {
           "title": "2025 胡润中国 500 强发布，台积电、腾讯、字节位列前三，小米新进前十，如何评价上榜企业表现？",
@@ -83,8 +83,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时10分 ~ 04时53分]"
+          "appearance_count": 6,
+          "time_info": "[01时10分 ~ 05时54分]"
         },
         {
           "title": "影视飓风深夜发视频，未收钱过往视频却被字节用于最新模型训练，个人声音环境等数据被 AI 训练会有哪些风险？",
@@ -95,8 +95,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时16分 ~ 04时53分]"
+          "appearance_count": 5,
+          "time_info": "[03时16分 ~ 05时54分]"
         }
       ]
     },
@@ -110,11 +110,12 @@
           "source": "微博",
           "ranks": [
             29,
-            4
+            4,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时16分 ~ 04时53分]"
+          "appearance_count": 5,
+          "time_info": "[03时16分 ~ 05时54分]"
         }
       ]
     },
@@ -130,8 +131,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时10分 ~ 04时53分]"
+          "appearance_count": 6,
+          "time_info": "[01时10分 ~ 05时54分]"
         }
       ]
     },
