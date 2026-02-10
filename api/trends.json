@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-11T01:10:41.748457+08:00",
-  "total_titles_processed": 312,
+  "generated_at": "2026-02-11T03:17:57.111197+08:00",
+  "total_titles_processed": 403,
   "failed_sources": [],
   "trends": [
     {
@@ -12,33 +12,36 @@
           "url": "https://s.weibo.com/weibo?q=%23%E6%B5%B7%E5%A4%96%E5%B7%B2%E5%A4%B8%E7%88%86Seedance2.0%23&t=31&band_rank=2&Refer=top",
           "source": "微博",
           "ranks": [
-            2
+            2,
+            4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时10分"
+          "appearance_count": 3,
+          "time_info": "[01时10分 ~ 03时17分]"
         },
         {
           "title": "Seedance2.0爆火出圈 被称“颠覆行业”",
           "url": "https://www.toutiao.com/trending/7604917065710931510/",
           "source": "今日头条",
           "ranks": [
-            5
+            5,
+            8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时10分"
+          "appearance_count": 3,
+          "time_info": "[01时10分 ~ 03时17分]"
         },
         {
           "title": "火出圈的视频模型Seedance2.0到底有多强",
           "url": "https://www.toutiao.com/trending/7604737675945590825/",
           "source": "今日头条",
           "ranks": [
-            10
+            10,
+            19
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时10分"
+          "appearance_count": 3,
+          "time_info": "[01时10分 ~ 03时17分]"
         },
         {
           "title": "【焦点复盘】沪指横盘整理报收十字星，Seedance概念多股实现二连板，算力硬件端现高低切",
@@ -48,25 +51,26 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时10分"
+          "appearance_count": 3,
+          "time_info": "[01时10分 ~ 03时17分]"
         }
       ]
     },
     {
       "keyword_group": "字节",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "字节又一新模型！Seedream 5.0 Preview上线，对标Nano Banana Pro",
           "url": "https://wallstreetcn.com/articles/3765374",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时10分"
+          "appearance_count": 3,
+          "time_info": "[01时10分 ~ 03时17分]"
         },
         {
           "title": "2025 胡润中国 500 强发布，台积电、腾讯、字节位列前三，小米新进前十，如何评价上榜企业表现？",
@@ -76,8 +80,36 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时10分"
+          "appearance_count": 3,
+          "time_info": "[01时10分 ~ 03时17分]"
+        },
+        {
+          "title": "影视飓风深夜发视频，未收钱过往视频却被字节用于最新模型训练，个人声音环境等数据被 AI 训练会有哪些风险？",
+          "url": "https://www.zhihu.com/question/2004239051759312966",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时16分 ~ 03时17分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "千问",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "千问说30亿免单卡快领完了",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8D%83%E9%97%AE%E8%AF%B430%E4%BA%BF%E5%85%8D%E5%8D%95%E5%8D%A1%E5%BF%AB%E9%A2%86%E5%AE%8C%E4%BA%86%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时16分 ~ 03时17分]"
         }
       ]
     },
@@ -93,8 +125,25 @@
             5
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时10分 ~ 03时17分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "大模型",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美国国会议员们质询国防部使用马斯克旗下xAI开发的大模型Grok一事。",
+          "url": "https://wallstreetcn.com/livenews/3053187",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时10分"
+          "time_info": "03时17分"
         }
       ]
     }
