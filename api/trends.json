@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-10T19:57:13.508282+08:00",
-  "total_titles_processed": 1535,
+  "generated_at": "2026-02-10T21:41:43.411809+08:00",
+  "total_titles_processed": 1666,
   "failed_sources": [],
   "trends": [
     {
@@ -71,11 +71,12 @@
           "ranks": [
             4,
             7,
-            22
+            22,
+            20
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时10分 ~ 19时57分]"
+          "appearance_count": 9,
+          "time_info": "[13时10分 ~ 21时41分]"
         },
         {
           "title": "Seedance2.0爆火出圈 被称“颠覆行业”",
@@ -88,8 +89,20 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时10分 ~ 19时57分]"
+          "appearance_count": 9,
+          "time_info": "[13时10分 ~ 21时41分]"
+        },
+        {
+          "title": "【焦点复盘】沪指横盘整理报收十字星，Seedance概念多股实现二连板，算力硬件端现高低切",
+          "url": "https://www.cls.cn/detail/2286019",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时56分 ~ 21时41分]"
         },
         {
           "title": "Seedance让小说直接成片",
@@ -101,17 +114,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时59分 ~ 19时00分]"
-        },
-        {
-          "title": "【焦点复盘】沪指横盘整理报收十字星，Seedance概念多股实现二连板，算力硬件端现高低切",
-          "url": "https://www.cls.cn/detail/2286019",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时56分 ~ 19时57分]"
         },
         {
           "title": "Seedance让小说直接成片",
@@ -172,8 +174,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时59分 ~ 19时57分]"
+          "appearance_count": 5,
+          "time_info": "[18时59分 ~ 21时41分]"
         },
         {
           "title": "字节Seedance 2.0火爆出圈 影视板块掀起涨停潮 内测暂停真人人脸上传",
@@ -194,11 +196,12 @@
           "source": "知乎",
           "ranks": [
             4,
-            6
+            6,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时59分 ~ 19时57分]"
+          "appearance_count": 5,
+          "time_info": "[18时59分 ~ 21时41分]"
         },
         {
           "title": "2025 胡润中国 500 强发布，台积电、腾讯、字节位列前三，小米新进前十，如何评价上榜企业表现？",
@@ -206,11 +209,12 @@
           "source": "知乎",
           "ranks": [
             12,
-            14
+            14,
+            6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时04分 ~ 19时57分]"
+          "appearance_count": 6,
+          "time_info": "[17时04分 ~ 21时41分]"
         },
         {
           "title": "字节又一新模型！Seedream 5.0上线，对标Nano Banana Pro",
@@ -334,7 +338,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时57分"
         }
@@ -414,7 +418,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时57分"
         }
@@ -464,11 +468,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时04分 ~ 19时57分]"
+          "appearance_count": 6,
+          "time_info": "[17时04分 ~ 21时41分]"
         }
       ]
     },
