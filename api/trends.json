@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-12T04:47:55.196269+08:00",
-  "total_titles_processed": 463,
+  "generated_at": "2026-02-12T05:43:36.513211+08:00",
+  "total_titles_processed": 521,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时10分 ~ 04时47分]"
+          "appearance_count": 5,
+          "time_info": "[01时10分 ~ 05时43分]"
         },
         {
           "title": "UP主实测DeepSeek新模型",
@@ -26,8 +26,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时10分 ~ 04时47分]"
+          "appearance_count": 5,
+          "time_info": "[01时10分 ~ 05时43分]"
         },
         {
           "title": "DeepSeek模型更新！上下文提升至百万Token 可处理三体小说全集",
@@ -37,8 +37,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时10分 ~ 04时47分]"
+          "appearance_count": 5,
+          "time_info": "[01时10分 ~ 05时43分]"
         },
         {
           "title": "DeepSeek低调升级新模型",
@@ -48,8 +48,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时10分 ~ 04时47分]"
+          "appearance_count": 5,
+          "time_info": "[01时10分 ~ 05时43分]"
         },
         {
           "title": "春节见？DeepSeek下一代模型：“高性价比”创新架构，助力中国突破“算力芯片和内存”瓶颈",
@@ -59,8 +59,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时10分 ~ 04时47分]"
+          "appearance_count": 5,
+          "time_info": "[01时10分 ~ 05时43分]"
         }
       ]
     },
@@ -76,19 +76,20 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时10分 ~ 04时47分]"
+          "appearance_count": 5,
+          "time_info": "[01时10分 ~ 05时43分]"
         },
         {
           "title": "Seedance 2.0 让「一人剧组」成为现实，面对新技术，视频行业内更多的是兴奋还是焦虑？",
           "url": "https://www.zhihu.com/question/2004621240074199741",
           "source": "知乎",
           "ranks": [
-            18
+            18,
+            13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时47分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时47分 ~ 05时43分]"
         }
       ]
     },
