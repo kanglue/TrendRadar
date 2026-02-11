@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-11T13:09:19.003385+08:00",
-  "total_titles_processed": 934,
+  "generated_at": "2026-02-11T15:12:03.030471+08:00",
+  "total_titles_processed": 1065,
   "failed_sources": [],
   "trends": [
     {
@@ -35,6 +35,17 @@
           "time_info": "[01时10分 ~ 07时44分]"
         },
         {
+          "title": "Seedance 2.0 将对视频行业带来怎样的冲击与颠覆？为什么冯骥称深感震撼的同时也有一丝迷茫？",
+          "url": "https://www.zhihu.com/question/2004525707066306750",
+          "source": "知乎",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时52分 ~ 15时12分]"
+        },
+        {
           "title": "火出圈的视频模型Seedance2.0到底有多强",
           "url": "https://www.toutiao.com/trending/7604737675945590825/",
           "source": "今日头条",
@@ -59,17 +70,6 @@
           "time_info": "[01时10分 ~ 06时50分]"
         },
         {
-          "title": "Seedance 2.0 将对视频行业带来怎样的冲击与颠覆？为什么冯骥称深感震撼的同时也有一丝迷茫？",
-          "url": "https://www.zhihu.com/question/2004525707066306750",
-          "source": "知乎",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时52分 ~ 13时09分]"
-        },
-        {
           "title": "持股持基过节，都买什么？Seedance带疯AI应用，资金再流向红利",
           "url": "https://www.cls.cn/detail/2286616",
           "source": "财联社热门",
@@ -77,8 +77,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时52分 ~ 13时09分]"
+          "appearance_count": 4,
+          "time_info": "[10时52分 ~ 15时12分]"
         },
         {
           "title": "Seedance2.0模型",
@@ -173,6 +173,19 @@
       "match_count": 3,
       "titles": [
         {
+          "title": "阿里AI战事再加码！千问支持买电影票，下一代模型亮相在即",
+          "url": "https://www.cls.cn/detail/2286559",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            4,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时52分 ~ 15时12分]"
+        },
+        {
           "title": "千问说30亿免单卡快领完了",
           "url": "https://s.weibo.com/weibo?q=%23%E5%8D%83%E9%97%AE%E8%AF%B430%E4%BA%BF%E5%85%8D%E5%8D%95%E5%8D%A1%E5%BF%AB%E9%A2%86%E5%AE%8C%E4%BA%86%23&t=31&band_rank=29&Refer=top",
           "source": "微博",
@@ -186,27 +199,32 @@
           "time_info": "[03时16分 ~ 05时54分]"
         },
         {
-          "title": "阿里AI战事再加码！千问支持买电影票，下一代模型亮相在即",
-          "url": "https://www.cls.cn/detail/2286559",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时52分 ~ 13时09分]"
-        },
-        {
           "title": "阿里千问、飞猪宣布与全球超40家旅行品牌达成AI合作",
           "url": "https://wallstreetcn.com/livenews/3053432",
           "source": "华尔街见闻-快讯",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时09分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "Gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "蚂蚁开源全模态大模型Ming-Flash-Omni 2.0 性能对标Gemini 2.5 Pro",
+          "url": "https://wallstreetcn.com/livenews/3053495",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时12分"
         }
       ]
     },
@@ -239,7 +257,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时09分"
         }
