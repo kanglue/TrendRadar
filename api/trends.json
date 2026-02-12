@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-12T10:48:39.209402+08:00",
-  "total_titles_processed": 837,
+  "generated_at": "2026-02-12T13:04:28.353382+08:00",
+  "total_titles_processed": 981,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "Deepseek",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "DeepSeek模型更新！上下文提升至百万Token 可处理三体小说全集",
@@ -25,11 +25,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             4,
-            5
+            5,
+            14
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时10分 ~ 10时48分]"
+          "appearance_count": 10,
+          "time_info": "[01时10分 ~ 13时04分]"
         },
         {
           "title": "如何评价 2 月 11 日上线的 DeepSeek 新模型？",
@@ -52,8 +53,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时10分 ~ 10时48分]"
+          "appearance_count": 10,
+          "time_info": "[01时10分 ~ 13时04分]"
         },
         {
           "title": "春节见？DeepSeek下一代模型：“高性价比”创新架构，助力中国突破“算力芯片和内存”瓶颈",
@@ -74,62 +75,29 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时37分 ~ 10时48分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "Seedance",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "Seedance爆火背后：真假难辨和个人隐私受关注，AI创作如何守住边界？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32582057",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            14,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时10分 ~ 10时48分]"
-        },
-        {
-          "title": "Seedance 2.0 让「一人剧组」成为现实，面对新技术，视频行业内更多的是兴奋还是焦虑？",
-          "url": "https://www.zhihu.com/question/2004621240074199741",
-          "source": "知乎",
-          "ranks": [
-            18,
-            13,
             8,
-            7,
-            3
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[04时47分 ~ 10时48分]"
+          "appearance_count": 5,
+          "time_info": "[06时37分 ~ 13时04分]"
         },
         {
-          "title": "马上评丨为什么说Seedance 2.0来自中国值得庆幸",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32583754",
-          "source": "澎湃新闻",
+          "title": "从Deepseek到Seedance中国AI成了",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BB%8EDeepseek%E5%88%B0Seedance%E4%B8%AD%E5%9B%BDAI%E6%88%90%E4%BA%86%23&t=31&band_rank=9&Refer=top",
+          "source": "微博",
           "ranks": [
-            10
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时48分"
+          "time_info": "13时04分"
         }
       ]
     },
     {
       "keyword_group": "智谱",
-      "match_count": 2,
+      "match_count": 5,
       "titles": [
         {
           "title": "智谱最新大模型 GLM-5 官网上线，有哪些值得关注的亮点？使用感受如何？",
@@ -138,7 +106,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时48分"
         },
@@ -149,7 +117,138 @@
           "ranks": [
             10
           ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时48分"
+        },
+        {
+          "title": "智谱确认神秘模型为GLM-5",
+          "url": "https://search.bilibili.com/all?keyword=%E6%99%BA%E8%B0%B1%E7%A1%AE%E8%AE%A4%E7%A5%9E%E7%A7%98%E6%A8%A1%E5%9E%8B%E4%B8%BAGLM-5",
+          "source": "bilibili 热搜",
+          "ranks": [
+            11
+          ],
           "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时04分"
+        },
+        {
+          "title": "智谱：对GLM Coding Plan套餐价格进行结构性调整 整体涨幅30%起",
+          "url": "https://www.cls.cn/detail/2287882",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时04分"
+        },
+        {
+          "title": "智谱盘中持续拉升，日内涨超30%，公司上调AI编程订阅套餐价格并将推出新模型。",
+          "url": "https://wallstreetcn.com/livenews/3054162",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时04分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "Seedance",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "Seedance爆火背后：真假难辨和个人隐私受关注，AI创作如何守住边界？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32582057",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            14,
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[01时10分 ~ 13时04分]"
+        },
+        {
+          "title": "Seedance 2.0 让「一人剧组」成为现实，面对新技术，视频行业内更多的是兴奋还是焦虑？",
+          "url": "https://www.zhihu.com/question/2004621240074199741",
+          "source": "知乎",
+          "ranks": [
+            18,
+            13,
+            8,
+            7,
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[04时47分 ~ 13时04分]"
+        },
+        {
+          "title": "豆包视频生成模型Seedance 2.0 上线",
+          "url": "https://wallstreetcn.com/livenews/3054190",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时04分"
+        },
+        {
+          "title": "马上评丨为什么说Seedance 2.0来自中国值得庆幸",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32583754",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时48分 ~ 13时04分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "大模型",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "小米发布并开源机器人VLA大模型Xiaomi-Robotics-0。该VLA模型规模为47亿参数，支持视觉语言理解，可进行实时动作执行。",
+          "url": "https://wallstreetcn.com/livenews/3054181",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时04分"
+        },
+        {
+          "title": "豆包大模型2.0将于2月14日发布",
+          "url": "https://wallstreetcn.com/livenews/3054159",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时04分"
+        },
+        {
+          "title": "韩国股民疯抢中国大模型龙头",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E8%82%A1%E6%B0%91%E7%96%AF%E6%8A%A2%E4%B8%AD%E5%9B%BD%E5%A4%A7%E6%A8%A1%E5%9E%8B%E9%BE%99%E5%A4%B4%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时48分"
         }
@@ -225,6 +324,23 @@
       ]
     },
     {
+      "keyword_group": "千问",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "千问6天AI订单量破1.2亿单",
+          "url": "https://wallstreetcn.com/livenews/3054153",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时04分"
+        }
+      ]
+    },
+    {
       "keyword_group": "Sona",
       "match_count": 1,
       "titles": [
@@ -239,23 +355,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时12分 ~ 04时47分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "大模型",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "韩国股民疯抢中国大模型龙头",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E8%82%A1%E6%B0%91%E7%96%AF%E6%8A%A2%E4%B8%AD%E5%9B%BD%E5%A4%A7%E6%A8%A1%E5%9E%8B%E9%BE%99%E5%A4%B4%23&t=31&band_rank=28&Refer=top",
-          "source": "微博",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时48分"
         }
       ]
     }
