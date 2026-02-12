@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-02-12T19:52:00.393107+08:00",
-  "total_titles_processed": 1539,
+  "generated_at": "2026-02-12T21:24:13.271338+08:00",
+  "total_titles_processed": 1661,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "Seedance",
       "match_count": 10,
       "titles": [
+        {
+          "title": "Seedance 2.0征服海外！马斯克感慨发展太快 美国导演称或会颠覆好莱坞",
+          "url": "https://www.cls.cn/detail/2288275",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[16时57分 ~ 21时24分]"
+        },
         {
           "title": "马上评丨为什么说Seedance 2.0来自中国值得庆幸",
           "url": "https://m.thepaper.cn/newsDetail_forward_32583754",
@@ -20,20 +32,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时48分 ~ 19时52分]"
-        },
-        {
-          "title": "Seedance 2.0征服海外！马斯克感慨发展太快 美国导演称或会颠覆好莱坞",
-          "url": "https://www.cls.cn/detail/2288275",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时57分 ~ 19时52分]"
+          "appearance_count": 12,
+          "time_info": "[10时48分 ~ 21时24分]"
         },
         {
           "title": "Seedance爆火背后：真假难辨和个人隐私受关注，AI创作如何守住边界？",
@@ -135,104 +135,8 @@
       ]
     },
     {
-      "keyword_group": "Deepseek",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "DeepSeek模型更新！上下文提升至百万Token 可处理三体小说全集",
-          "url": "https://www.cls.cn/detail/2287578",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时10分 ~ 10时48分]"
-        },
-        {
-          "title": "UP主实测DeepSeek新模型",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%AE%9E%E6%B5%8BDeepSeek%E6%96%B0%E6%A8%A1%E5%9E%8B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4,
-            5,
-            14,
-            9,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[01时10分 ~ 19时52分]"
-        },
-        {
-          "title": "如何评价 2 月 11 日上线的 DeepSeek 新模型？",
-          "url": "https://www.zhihu.com/question/2004971546536585165",
-          "source": "知乎",
-          "ranks": [
-            1,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时10分 ~ 10时48分]"
-        },
-        {
-          "title": "DeepSeek低调升级新模型",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E4%BD%8E%E8%B0%83%E5%8D%87%E7%BA%A7%E6%96%B0%E6%A8%A1%E5%9E%8B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[01时10分 ~ 19时52分]"
-        },
-        {
-          "title": "DeepSeek新模型来了？",
-          "url": "https://wallstreetcn.com/articles/3765514",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[06时37分 ~ 19时01分]"
-        },
-        {
-          "title": "春节见？DeepSeek下一代模型：“高性价比”创新架构，助力中国突破“算力芯片和内存”瓶颈",
-          "url": "https://wallstreetcn.com/articles/3765457",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时10分 ~ 10时48分]"
-        },
-        {
-          "title": "从Deepseek到Seedance中国AI成了",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BB%8EDeepseek%E5%88%B0Seedance%E4%B8%AD%E5%9B%BDAI%E6%88%90%E4%BA%86%23&t=31&band_rank=9&Refer=top",
-          "source": "微博",
-          "ranks": [
-            9,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时04分 ~ 15时11分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "大模型",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "全球首颗！“港中大一号”卫星把大模型搬上太空",
@@ -240,11 +144,12 @@
           "source": "财联社热门",
           "ranks": [
             8,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时00分 ~ 19时52分]"
+          "appearance_count": 6,
+          "time_info": "[19时00分 ~ 21时24分]"
         },
         {
           "title": "小米开源首代机器人VLA大模型",
@@ -257,6 +162,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[16时57分 ~ 19时01分]"
+        },
+        {
+          "title": "中国大模型“春节档”打响！等待消费级AI出“爆款”",
+          "url": "https://wallstreetcn.com/articles/3765558",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时23分 ~ 21时24分]"
         },
         {
           "title": "韩国股民疯抢中国大模型龙头",
@@ -312,6 +228,103 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时48分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "Deepseek",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "DeepSeek模型更新！上下文提升至百万Token 可处理三体小说全集",
+          "url": "https://www.cls.cn/detail/2287578",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时10分 ~ 10时48分]"
+        },
+        {
+          "title": "UP主实测DeepSeek新模型",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%AE%9E%E6%B5%8BDeepSeek%E6%96%B0%E6%A8%A1%E5%9E%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4,
+            5,
+            14,
+            9,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 18,
+          "time_info": "[01时10分 ~ 19时52分]"
+        },
+        {
+          "title": "如何评价 2 月 11 日上线的 DeepSeek 新模型？",
+          "url": "https://www.zhihu.com/question/2004971546536585165",
+          "source": "知乎",
+          "ranks": [
+            1,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时10分 ~ 10时48分]"
+        },
+        {
+          "title": "DeepSeek新模型来了？",
+          "url": "https://wallstreetcn.com/articles/3765514",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[06时37分 ~ 19时01分]"
+        },
+        {
+          "title": "DeepSeek低调升级新模型",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E4%BD%8E%E8%B0%83%E5%8D%87%E7%BA%A7%E6%96%B0%E6%A8%A1%E5%9E%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7,
+            8,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 20,
+          "time_info": "[01时10分 ~ 21时24分]"
+        },
+        {
+          "title": "春节见？DeepSeek下一代模型：“高性价比”创新架构，助力中国突破“算力芯片和内存”瓶颈",
+          "url": "https://wallstreetcn.com/articles/3765457",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时10分 ~ 10时48分]"
+        },
+        {
+          "title": "从Deepseek到Seedance中国AI成了",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BB%8EDeepseek%E5%88%B0Seedance%E4%B8%AD%E5%9B%BDAI%E6%88%90%E4%BA%86%23&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时04分 ~ 15时11分]"
         }
       ]
     },
@@ -389,6 +402,35 @@
       ]
     },
     {
+      "keyword_group": "短剧",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "掌阅科技：公司2025年度AI短剧业务收入预计不超过2025年度主营业务收入的1%。",
+          "url": "https://wallstreetcn.com/livenews/3054455",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时01分 ~ 19时52分]"
+        },
+        {
+          "title": "9岁男孩拍短剧一天挣2000",
+          "url": "https://www.baidu.com/s?wd=9%E5%B2%81%E7%94%B7%E5%AD%A9%E6%8B%8D%E7%9F%AD%E5%89%A7%E4%B8%80%E5%A4%A9%E6%8C%A32000",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时23分 ~ 21时24分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "字节",
       "match_count": 2,
       "titles": [
@@ -401,8 +443,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时00分 ~ 19时52分]"
+          "appearance_count": 6,
+          "time_info": "[19时00分 ~ 21时24分]"
         },
         {
           "title": "腾讯是在把 AI 泛娱乐生态拱手让给字节跳动吗？",
@@ -455,11 +497,12 @@
           "source": "财联社热门",
           "ranks": [
             8,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时57分 ~ 19时52分]"
+          "appearance_count": 9,
+          "time_info": "[16时57分 ~ 21时24分]"
         },
         {
           "title": "港股收盘：恒生指数收跌0.86%，恒生科技指数指收跌1.65%。AI概念股、半导体股走高，智谱涨超28%，Minimax-WP涨超14%，兆易创新涨超20%，澜起科技涨5.56%。",
@@ -471,24 +514,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时57分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "短剧",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "掌阅科技：公司2025年度AI短剧业务收入预计不超过2025年度主营业务收入的1%。",
-          "url": "https://wallstreetcn.com/livenews/3054455",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时01分 ~ 19时52分]"
         }
       ]
     },
@@ -540,8 +565,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时11分 ~ 19时52分]"
+          "appearance_count": 10,
+          "time_info": "[15时11分 ~ 21时24分]"
         }
       ]
     },
