@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-13T04:42:38.531310+08:00",
-  "total_titles_processed": 575,
+  "generated_at": "2026-02-13T05:41:02.510845+08:00",
+  "total_titles_processed": 636,
   "failed_sources": [],
   "trends": [
     {
@@ -53,11 +53,12 @@
           "ranks": [
             2,
             6,
-            16
+            16,
+            14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时01分 ~ 04时42分]"
+          "appearance_count": 6,
+          "time_info": "[00时01分 ~ 05时41分]"
         },
         {
           "title": "DeepSeek低调升级新模型",
@@ -69,8 +70,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时01分 ~ 04时42分]"
+          "appearance_count": 6,
+          "time_info": "[00时01分 ~ 05时41分]"
         },
         {
           "title": "UP主实测DeepSeek新模型",
@@ -80,11 +81,12 @@
             29,
             19,
             30,
-            25
+            25,
+            17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时01分 ~ 04时42分]"
+          "appearance_count": 6,
+          "time_info": "[00时01分 ~ 05时41分]"
         }
       ]
     },
@@ -100,8 +102,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时01分 ~ 04时42分]"
+          "appearance_count": 6,
+          "time_info": "[00时01分 ~ 05时41分]"
         },
         {
           "title": "中国大模型“春节档”打响！等待消费级AI出“爆款”",
@@ -112,8 +114,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时01分 ~ 04时42分]"
+          "appearance_count": 6,
+          "time_info": "[00时01分 ~ 05时41分]"
         }
       ]
     },
@@ -129,8 +131,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时01分 ~ 04时42分]"
+          "appearance_count": 6,
+          "time_info": "[00时01分 ~ 05时41分]"
         }
       ]
     },
@@ -144,11 +146,12 @@
           "source": "抖音",
           "ranks": [
             1,
-            4
+            4,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时01分 ~ 04时42分]"
+          "appearance_count": 6,
+          "time_info": "[00时01分 ~ 05时41分]"
         }
       ]
     },
@@ -165,8 +168,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时01分 ~ 04时42分]"
+          "appearance_count": 6,
+          "time_info": "[00时01分 ~ 05时41分]"
         }
       ]
     },
@@ -182,8 +185,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时01分 ~ 04时42分]"
+          "appearance_count": 6,
+          "time_info": "[00时01分 ~ 05时41分]"
         }
       ]
     },
@@ -196,11 +199,12 @@
           "url": "https://wallstreetcn.com/articles/3765561",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时01分 ~ 04时42分]"
+          "appearance_count": 6,
+          "time_info": "[00时01分 ~ 05时41分]"
         }
       ]
     }
