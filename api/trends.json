@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-14T01:45:11.081428+08:00",
-  "total_titles_processed": 363,
+  "generated_at": "2026-02-14T03:00:59.288506+08:00",
+  "total_titles_processed": 426,
   "failed_sources": [],
   "trends": [
     {
@@ -8,23 +8,24 @@
       "match_count": 2,
       "titles": [
         {
-          "title": "Seedance2.0火到海外出注册教程",
-          "url": "https://www.douyin.com/hot/2399687",
-          "source": "抖音",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时57分 ~ 01时45分]"
-        },
-        {
           "title": "Seedance2.0展示中国AI潜力",
           "url": "https://www.douyin.com/hot/2398167",
           "source": "抖音",
           "ranks": [
             26,
-            21
+            21,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时57分 ~ 03时00分]"
+        },
+        {
+          "title": "Seedance2.0火到海外出注册教程",
+          "url": "https://www.douyin.com/hot/2399687",
+          "source": "抖音",
+          "ranks": [
+            20
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -62,8 +63,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时57分 ~ 01时45分]"
+          "appearance_count": 4,
+          "time_info": "[00时57分 ~ 03时00分]"
         }
       ]
     },
@@ -79,8 +80,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时57分 ~ 01时45分]"
+          "appearance_count": 4,
+          "time_info": "[00时57分 ~ 03时00分]"
         }
       ]
     }
