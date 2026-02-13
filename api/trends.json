@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-13T22:50:27.223634+08:00",
-  "total_titles_processed": 1912,
+  "generated_at": "2026-02-13T23:51:32.009814+08:00",
+  "total_titles_processed": 1991,
   "failed_sources": [],
   "trends": [
     {
@@ -22,6 +22,20 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时01分 ~ 10时49分]"
+        },
+        {
+          "title": "DeepSeek 更新后被吐槽变冷变傻，你感受到了吗？为什么会出现这种情况？",
+          "url": "https://www.zhihu.com/question/2005557043939993512",
+          "source": "知乎",
+          "ranks": [
+            12,
+            8,
+            13,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[15时54分 ~ 23时51分]"
         },
         {
           "title": "DeepSeek低调升级新模型",
@@ -60,20 +74,6 @@
           "is_new": false,
           "appearance_count": 19,
           "time_info": "[00时01分 ~ 19时37分]"
-        },
-        {
-          "title": "DeepSeek 更新后被吐槽变冷变傻，你感受到了吗？为什么会出现这种情况？",
-          "url": "https://www.zhihu.com/question/2005557043939993512",
-          "source": "知乎",
-          "ranks": [
-            12,
-            8,
-            13,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时54分 ~ 22时50分]"
         },
         {
           "title": "DeepSeek变冷淡了",
@@ -243,11 +243,12 @@
             19,
             20,
             28,
-            27
+            27,
+            29
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时59分 ~ 21时15分]"
+          "appearance_count": 9,
+          "time_info": "[12时59分 ~ 23时51分]"
         },
         {
           "title": "美国影协警告Seedance2.0",
@@ -268,8 +269,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时15分"
+          "appearance_count": 2,
+          "time_info": "[21时15分 ~ 23时51分]"
         }
       ]
     },
@@ -442,8 +443,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[10时48分 ~ 22时50分]"
+          "appearance_count": 13,
+          "time_info": "[10时48分 ~ 23时51分]"
         },
         {
           "title": "黄金和白银突遭抛售，股市大跌引发了算法卖盘",
