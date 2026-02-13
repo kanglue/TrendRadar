@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-14T00:57:19.622756+08:00",
-  "total_titles_processed": 299,
+  "generated_at": "2026-02-14T01:45:11.081428+08:00",
+  "total_titles_processed": 363,
   "failed_sources": [],
   "trends": [
     {
@@ -15,19 +15,20 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时57分"
+          "appearance_count": 3,
+          "time_info": "[00时57分 ~ 01时45分]"
         },
         {
           "title": "Seedance2.0展示中国AI潜力",
           "url": "https://www.douyin.com/hot/2398167",
           "source": "抖音",
           "ranks": [
-            26
+            26,
+            21
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时57分"
+          "appearance_count": 3,
+          "time_info": "[00时57分 ~ 01时45分]"
         }
       ]
     },
@@ -57,11 +58,12 @@
           "url": "https://www.zhihu.com/question/2005557043939993512",
           "source": "知乎",
           "ranks": [
-            4
+            4,
+            6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时57分"
+          "appearance_count": 3,
+          "time_info": "[00时57分 ~ 01时45分]"
         }
       ]
     },
@@ -77,8 +79,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时57分"
+          "appearance_count": 3,
+          "time_info": "[00时57分 ~ 01时45分]"
         }
       ]
     }
