@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-14T06:40:44.030611+08:00",
-  "total_titles_processed": 543,
+  "generated_at": "2026-02-14T07:37:48.764908+08:00",
+  "total_titles_processed": 573,
   "failed_sources": [],
   "trends": [
     {
@@ -37,6 +37,20 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "Seedance2.0火到海外出注册教程",
+          "url": "https://www.douyin.com/hot/2399687",
+          "source": "抖音",
+          "ranks": [
+            20,
+            30,
+            24,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时57分 ~ 07时37分]"
+        },
+        {
           "title": "Seedance2.0展示中国AI潜力",
           "url": "https://www.douyin.com/hot/2398167",
           "source": "抖音",
@@ -50,19 +64,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时57分 ~ 04时48分]"
-        },
-        {
-          "title": "Seedance2.0火到海外出注册教程",
-          "url": "https://www.douyin.com/hot/2399687",
-          "source": "抖音",
-          "ranks": [
-            20,
-            30,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时57分 ~ 06时40分]"
         }
       ]
     },
@@ -81,8 +82,25 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时57分 ~ 06时40分]"
+          "appearance_count": 10,
+          "time_info": "[00时57分 ~ 07时37分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "智谱",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "沪指失守4100点，半导体逆势走强，贵金属、海运调整，恒指跌1%，智谱狂飙超20%创历史新高，沪银大跌7%",
+          "url": "https://wallstreetcn.com/articles/3765643",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时37分"
         }
       ]
     },
