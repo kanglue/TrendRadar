@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-13T21:15:53.280827+08:00",
-  "total_titles_processed": 1770,
+  "generated_at": "2026-02-13T22:50:27.223634+08:00",
+  "total_titles_processed": 1912,
   "failed_sources": [],
   "trends": [
     {
@@ -72,8 +72,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时54分 ~ 21时15分]"
+          "appearance_count": 8,
+          "time_info": "[15时54分 ~ 22时50分]"
         },
         {
           "title": "DeepSeek变冷淡了",
@@ -123,7 +123,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时15分"
         },
@@ -256,7 +256,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时15分"
         },
@@ -267,7 +267,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时15分"
         }
@@ -442,8 +442,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时48分 ~ 21时15分]"
+          "appearance_count": 12,
+          "time_info": "[10时48分 ~ 22时50分]"
         },
         {
           "title": "黄金和白银突遭抛售，股市大跌引发了算法卖盘",
