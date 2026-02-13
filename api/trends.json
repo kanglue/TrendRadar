@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-14T04:48:13.150890+08:00",
-  "total_titles_processed": 492,
+  "generated_at": "2026-02-14T05:43:44.605597+08:00",
+  "total_titles_processed": 520,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.zhihu.com/question/2005579925827130176",
           "source": "知乎",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时49分 ~ 04时48分]"
+          "appearance_count": 4,
+          "time_info": "[03时49分 ~ 05时43分]"
         },
         {
           "title": "Gemini3深度思考模型重磅升级",
@@ -56,11 +57,12 @@
           "source": "抖音",
           "ranks": [
             20,
-            30
+            30,
+            24
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时57分 ~ 04时48分]"
+          "appearance_count": 6,
+          "time_info": "[00时57分 ~ 05时43分]"
         }
       ]
     },
@@ -74,11 +76,12 @@
           "source": "知乎",
           "ranks": [
             4,
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时57分 ~ 04时48分]"
+          "appearance_count": 8,
+          "time_info": "[00时57分 ~ 05时43分]"
         }
       ]
     },
@@ -94,8 +97,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时57分 ~ 04时48分]"
+          "appearance_count": 8,
+          "time_info": "[00时57分 ~ 05时43分]"
         }
       ]
     }
