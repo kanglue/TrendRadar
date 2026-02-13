@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-13T15:54:29.694802+08:00",
-  "total_titles_processed": 1261,
+  "generated_at": "2026-02-13T16:53:52.290170+08:00",
+  "total_titles_processed": 1359,
   "failed_sources": [],
   "trends": [
     {
@@ -35,8 +35,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时01分 ~ 15时54分]"
+          "appearance_count": 15,
+          "time_info": "[00时01分 ~ 16时53分]"
         },
         {
           "title": "UP主实测DeepSeek新模型",
@@ -54,8 +54,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时01分 ~ 15时54分]"
+          "appearance_count": 15,
+          "time_info": "[00时01分 ~ 16时53分]"
         },
         {
           "title": "DeepSeek变冷淡了",
@@ -76,11 +76,12 @@
           "url": "https://www.toutiao.com/trending/7606192815403437609/",
           "source": "今日头条",
           "ranks": [
-            7
+            7,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时54分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时54分 ~ 16时53分]"
         },
         {
           "title": "DeepSeek 更新后被吐槽变冷变傻，你感受到了吗？为什么会出现这种情况？",
@@ -89,9 +90,21 @@
           "ranks": [
             12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时54分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时54分 ~ 16时53分]"
+        },
+        {
+          "title": "DeepSeek回应被指冷淡",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E5%9B%9E%E5%BA%94%E8%A2%AB%E6%8C%87%E5%86%B7%E6%B7%A1",
+          "source": "百度热搜",
+          "ranks": [
+            29,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时54分 ~ 16时53分]"
         },
         {
           "title": "OpenAI指责DeepSeek“抄袭”背后",
@@ -100,18 +113,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时54分"
-        },
-        {
-          "title": "DeepSeek回应被指冷淡",
-          "url": "https://www.baidu.com/s?wd=DeepSeek%E5%9B%9E%E5%BA%94%E8%A2%AB%E6%8C%87%E5%86%B7%E6%B7%A1",
-          "source": "百度热搜",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时54分"
         }
@@ -144,8 +146,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时37分 ~ 15时54分]"
+          "appearance_count": 7,
+          "time_info": "[07时37分 ~ 16时53分]"
         },
         {
           "title": "字节图像创作模型Seedream 5.0 Lite上线，首次支持联网检索",
@@ -249,11 +251,12 @@
           "source": "抖音",
           "ranks": [
             30,
-            23
+            23,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时59分 ~ 15时54分]"
+          "appearance_count": 3,
+          "time_info": "[12时59分 ~ 16时53分]"
         }
       ]
     },
@@ -330,8 +333,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时48分 ~ 15时54分]"
+          "appearance_count": 6,
+          "time_info": "[10时48分 ~ 16时53分]"
         },
         {
           "title": "黄金和白银突遭抛售，股市大跌引发了算法卖盘",
@@ -396,11 +399,29 @@
           "url": "https://s.weibo.com/weibo?q=%23%E8%B7%9F%E7%9D%80%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E6%95%99%E7%88%B8%E5%A6%88%E7%94%A8%E5%8D%83%E9%97%AE%23&t=31&band_rank=26&Refer=top",
           "source": "微博",
           "ranks": [
-            26
+            26,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时54分 ~ 16时53分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "智谱",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "港股收盘：恒生指数收跌1.72% 智谱大涨超20%",
+          "url": "https://wallstreetcn.com/livenews/3055007",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时54分"
+          "time_info": "16时53分"
         }
       ]
     }
