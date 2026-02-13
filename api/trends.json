@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-13T16:53:52.290170+08:00",
-  "total_titles_processed": 1359,
+  "generated_at": "2026-02-13T17:54:58.081901+08:00",
+  "total_titles_processed": 1470,
   "failed_sources": [],
   "trends": [
     {
@@ -35,8 +35,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时01分 ~ 16时53分]"
+          "appearance_count": 16,
+          "time_info": "[00时01分 ~ 17时54分]"
         },
         {
           "title": "UP主实测DeepSeek新模型",
@@ -54,8 +54,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时01分 ~ 16时53分]"
+          "appearance_count": 16,
+          "time_info": "[00时01分 ~ 17时54分]"
         },
         {
           "title": "DeepSeek变冷淡了",
@@ -77,11 +77,12 @@
           "source": "今日头条",
           "ranks": [
             7,
-            8
+            8,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时54分 ~ 16时53分]"
+          "appearance_count": 3,
+          "time_info": "[15时54分 ~ 17时54分]"
         },
         {
           "title": "DeepSeek 更新后被吐槽变冷变傻，你感受到了吗？为什么会出现这种情况？",
@@ -91,8 +92,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时54分 ~ 16时53分]"
+          "appearance_count": 3,
+          "time_info": "[15时54分 ~ 17时54分]"
         },
         {
           "title": "DeepSeek回应被指冷淡",
@@ -100,11 +101,12 @@
           "source": "百度热搜",
           "ranks": [
             29,
-            30
+            30,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时54分 ~ 16时53分]"
+          "appearance_count": 3,
+          "time_info": "[15时54分 ~ 17时54分]"
         },
         {
           "title": "OpenAI指责DeepSeek“抄袭”背后",
@@ -121,7 +123,7 @@
     },
     {
       "keyword_group": "字节",
-      "match_count": 3,
+      "match_count": 6,
       "titles": [
         {
           "title": "“发展速度太快了”！马斯克点赞Seedance 2.0，字节称“还远不完美”",
@@ -146,8 +148,30 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时37分 ~ 16时53分]"
+          "appearance_count": 8,
+          "time_info": "[07时37分 ~ 17时54分]"
+        },
+        {
+          "title": "知情人士：字节跳动拟超60亿美元出售沐瞳科技，最快有望本季度敲定",
+          "url": "https://flash.jin10.com/detail/20260213173237436800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时54分"
+        },
+        {
+          "title": "据路透社：消息人士称，字节跳动正就出售其游戏子公司上海沐瞳科技进行深入谈判，交易金额或达60亿至70亿美元。",
+          "url": "https://flash.jin10.com/detail/20260213172346857800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时54分"
         },
         {
           "title": "字节图像创作模型Seedream 5.0 Lite上线，首次支持联网检索",
@@ -159,6 +183,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时07分"
+        },
+        {
+          "title": "字节跳动正就出售其游戏子公司沐瞳科技进行深入谈判，交易金额或达60亿至70亿美元。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3055077",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时54分"
         }
       ]
     },
@@ -252,11 +287,12 @@
           "ranks": [
             30,
             23,
-            21
+            21,
+            19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时59分 ~ 16时53分]"
+          "appearance_count": 4,
+          "time_info": "[12时59分 ~ 17时54分]"
         }
       ]
     },
@@ -333,8 +369,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时48分 ~ 16时53分]"
+          "appearance_count": 7,
+          "time_info": "[10时48分 ~ 17时54分]"
         },
         {
           "title": "黄金和白银突遭抛售，股市大跌引发了算法卖盘",
@@ -419,7 +455,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时53分"
         }
