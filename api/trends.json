@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-15T03:30:58.538759+08:00",
-  "total_titles_processed": 357,
+  "generated_at": "2026-02-15T04:34:58.926791+08:00",
+  "total_titles_processed": 380,
   "failed_sources": [],
   "trends": [
     {
@@ -25,11 +25,12 @@
           "ranks": [
             23,
             21,
-            19
+            19,
+            22
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时39分 ~ 03时30分]"
+          "appearance_count": 5,
+          "time_info": "[00时39分 ~ 04时34分]"
         },
         {
           "title": "Seedance2.0火到海外出注册教程",
@@ -59,8 +60,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时39分 ~ 03时30分]"
+          "appearance_count": 5,
+          "time_info": "[00时39分 ~ 04时34分]"
         },
         {
           "title": "Seedance之后再放大招：字节跳动发布豆包大模型2.0，对标Gemini 3 和GPT 5.2",
@@ -71,8 +72,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时39分 ~ 03时30分]"
+          "appearance_count": 5,
+          "time_info": "[00时39分 ~ 04时34分]"
         }
       ]
     },
@@ -88,8 +89,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时39分 ~ 03时30分]"
+          "appearance_count": 5,
+          "time_info": "[00时39分 ~ 04时34分]"
         }
       ]
     },
@@ -105,11 +106,12 @@
             2,
             7,
             4,
-            5
+            5,
+            13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时39分 ~ 03时30分]"
+          "appearance_count": 5,
+          "time_info": "[00时39分 ~ 04时34分]"
         }
       ]
     },
@@ -125,8 +127,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时39分 ~ 03时30分]"
+          "appearance_count": 5,
+          "time_info": "[00时39分 ~ 04时34分]"
         }
       ]
     },
@@ -142,8 +144,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时39分 ~ 03时30分]"
+          "appearance_count": 5,
+          "time_info": "[00时39分 ~ 04时34分]"
         }
       ]
     },
@@ -159,8 +161,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时39分 ~ 03时30分]"
+          "appearance_count": 5,
+          "time_info": "[00时39分 ~ 04时34分]"
         }
       ]
     }
