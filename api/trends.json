@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-15T02:44:59.066261+08:00",
-  "total_titles_processed": 351,
+  "generated_at": "2026-02-15T03:30:58.538759+08:00",
+  "total_titles_processed": 357,
   "failed_sources": [],
   "trends": [
     {
@@ -28,8 +28,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时39分 ~ 02时44分]"
+          "appearance_count": 4,
+          "time_info": "[00时39分 ~ 03时30分]"
         },
         {
           "title": "Seedance2.0火到海外出注册教程",
@@ -37,11 +37,12 @@
           "source": "抖音",
           "ranks": [
             24,
-            23
+            23,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时31分 ~ 02时44分]"
+          "appearance_count": 3,
+          "time_info": "[01时31分 ~ 03时30分]"
         }
       ]
     },
@@ -58,8 +59,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时39分 ~ 02时44分]"
+          "appearance_count": 4,
+          "time_info": "[00时39分 ~ 03时30分]"
         },
         {
           "title": "Seedance之后再放大招：字节跳动发布豆包大模型2.0，对标Gemini 3 和GPT 5.2",
@@ -70,8 +71,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时39分 ~ 02时44分]"
+          "appearance_count": 4,
+          "time_info": "[00时39分 ~ 03时30分]"
         }
       ]
     },
@@ -87,8 +88,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时39分 ~ 02时44分]"
+          "appearance_count": 4,
+          "time_info": "[00时39分 ~ 03时30分]"
         }
       ]
     },
@@ -103,11 +104,12 @@
           "ranks": [
             2,
             7,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时39分 ~ 02时44分]"
+          "appearance_count": 4,
+          "time_info": "[00时39分 ~ 03时30分]"
         }
       ]
     },
@@ -123,8 +125,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时39分 ~ 02时44分]"
+          "appearance_count": 4,
+          "time_info": "[00时39分 ~ 03时30分]"
         }
       ]
     },
@@ -140,8 +142,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时39分 ~ 02时44分]"
+          "appearance_count": 4,
+          "time_info": "[00时39分 ~ 03时30分]"
         }
       ]
     },
@@ -157,8 +159,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时39分 ~ 02时44分]"
+          "appearance_count": 4,
+          "time_info": "[00时39分 ~ 03时30分]"
         }
       ]
     }
