@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-16T01:32:16.224614+08:00",
-  "total_titles_processed": 344,
+  "generated_at": "2026-02-16T02:46:54.736083+08:00",
+  "total_titles_processed": 366,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时39分 ~ 01时32分]"
+          "appearance_count": 4,
+          "time_info": "[00时39分 ~ 02时46分]"
         },
         {
           "title": "观察｜Seedance 2.0置于全球聚光灯下，如何从视觉奇观迈向工业理性？",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时39分 ~ 01时32分]"
+          "appearance_count": 4,
+          "time_info": "[00时39分 ~ 02时46分]"
         },
         {
           "title": "春晚是第一个用上Seedance2.0的",
@@ -38,8 +38,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时39分 ~ 01时32分]"
+          "appearance_count": 4,
+          "time_info": "[00时39分 ~ 02时46分]"
         },
         {
           "title": "抖音李亮谈Seedance 2.0：数字分身暂不支持真人人脸参考和IP形象生成，团队投入最多的就是不断维护和加强反侵权策略",
@@ -49,8 +49,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时39分 ~ 01时32分]"
+          "appearance_count": 3,
+          "time_info": "[00时39分 ~ 02时46分]"
         }
       ]
     },
@@ -67,8 +67,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时39分 ~ 01时32分]"
+          "appearance_count": 4,
+          "time_info": "[00时39分 ~ 02时46分]"
         },
         {
           "title": "千问红包雨",
@@ -76,11 +76,12 @@
           "source": "微博",
           "ranks": [
             13,
-            18
+            18,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时39分 ~ 01时32分]"
+          "appearance_count": 4,
+          "time_info": "[00时39分 ~ 02时46分]"
         },
         {
           "title": "千问总裁吴嘉回应千问爆火：我们不是要和谁卷",
@@ -90,8 +91,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时39分 ~ 01时32分]"
+          "appearance_count": 3,
+          "time_info": "[00时39分 ~ 02时46分]"
         }
       ]
     },
@@ -105,11 +106,12 @@
           "source": "澎湃新闻",
           "ranks": [
             4,
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时39分 ~ 01时32分]"
+          "appearance_count": 4,
+          "time_info": "[00时39分 ~ 02时46分]"
         }
       ]
     },
@@ -125,8 +127,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时39分 ~ 01时32分]"
+          "appearance_count": 4,
+          "time_info": "[00时39分 ~ 02时46分]"
         }
       ]
     }
