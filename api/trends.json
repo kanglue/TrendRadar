@@ -1,24 +1,12 @@
 {
-  "generated_at": "2026-02-15T21:05:15.431005+08:00",
-  "total_titles_processed": 1143,
+  "generated_at": "2026-02-15T22:35:18.785096+08:00",
+  "total_titles_processed": 1228,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "千问",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
-        {
-          "title": "千问红包雨",
-          "url": "https://s.weibo.com/weibo?q=%E5%8D%83%E9%97%AE%E7%BA%A2%E5%8C%85%E9%9B%A8&t=31&band_rank=2&Refer=top",
-          "source": "微博",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时39分 ~ 21时05分]"
-        },
         {
           "title": "千问红包",
           "url": "https://s.weibo.com/weibo?q=%E5%8D%83%E9%97%AE%E7%BA%A2%E5%8C%85&t=31&band_rank=2&Refer=top",
@@ -38,6 +26,19 @@
           "time_info": "[00时39分 ~ 07时32分]"
         },
         {
+          "title": "千问红包雨",
+          "url": "https://s.weibo.com/weibo?q=%E5%8D%83%E9%97%AE%E7%BA%A2%E5%8C%85%E9%9B%A8&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2,
+            1,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时39分 ~ 22时35分]"
+        },
+        {
           "title": "千问“超级请客卡”上线首日：县城钟点房帮订数量增加约300%",
           "url": "https://wallstreetcn.com/livenews/3055600",
           "source": "华尔街见闻-快讯",
@@ -47,11 +48,12 @@
             9,
             14,
             17,
-            22
+            22,
+            28
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时42分 ~ 21时05分]"
+          "appearance_count": 7,
+          "time_info": "[15时42分 ~ 22时35分]"
         },
         {
           "title": "千问总裁吴嘉回应千问爆火：我们不是要和谁卷",
@@ -62,11 +64,12 @@
             7,
             12,
             15,
-            20
+            20,
+            26
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时41分 ~ 21时05分]"
+          "appearance_count": 6,
+          "time_info": "[16时41分 ~ 22时35分]"
         },
         {
           "title": "千问30元钟点房一抢而空",
@@ -111,6 +114,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时41分 ~ 15时42分]"
+        },
+        {
+          "title": "千问县城钟点房订单激增约 300%，返乡青年去钟点房都能干啥？反映出哪些过年消费趋势？",
+          "url": "https://www.zhihu.com/question/2006395761227686554",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时35分"
         },
         {
           "title": "上千问请你看惊蛰无声",
@@ -163,6 +177,37 @@
       "match_count": 11,
       "titles": [
         {
+          "title": "观察｜Seedance 2.0置于全球聚光灯下，如何从视觉奇观迈向工业理性？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32611142",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            8,
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[14时04分 ~ 22时35分]"
+        },
+        {
+          "title": "Seedance一骑绝尘背后：中国AI春节前为何“杀疯了”？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32608237",
+          "source": "澎湃新闻",
+          "ranks": [
+            9,
+            10,
+            7,
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[10时49分 ~ 22时35分]"
+        },
+        {
           "title": "财晓得丨Seedance爆火背后：4分钟读懂中国AI的突围逻辑",
           "url": "https://m.thepaper.cn/newsDetail_forward_32601198",
           "source": "澎湃新闻",
@@ -175,35 +220,6 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[06时31分 ~ 19时29分]"
-        },
-        {
-          "title": "Seedance一骑绝尘背后：中国AI春节前为何“杀疯了”？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32608237",
-          "source": "澎湃新闻",
-          "ranks": [
-            9,
-            10,
-            7,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[10时49分 ~ 21时05分]"
-        },
-        {
-          "title": "观察｜Seedance 2.0置于全球聚光灯下，如何从视觉奇观迈向工业理性？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32611142",
-          "source": "澎湃新闻",
-          "ranks": [
-            11,
-            8,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[14时04分 ~ 21时05分]"
         },
         {
           "title": "央媒点赞Seedance2.0",
@@ -249,11 +265,12 @@
             5,
             9,
             12,
-            17
+            17,
+            23
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时39分 ~ 21时05分]"
+          "appearance_count": 5,
+          "time_info": "[17时39分 ~ 22时35分]"
         },
         {
           "title": "罗永浩称「seedance2.0 让电影只需要导演」，高端摄影设备会成为历史吗？",
@@ -262,11 +279,12 @@
           "ranks": [
             12,
             9,
-            7
+            7,
+            14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时35分 ~ 21时05分]"
+          "appearance_count": 5,
+          "time_info": "[18时35分 ~ 22时35分]"
         },
         {
           "title": "Seedance2.0火到海外出注册教程",
@@ -376,11 +394,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            6
+            6,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时29分 ~ 21时05分]"
+          "appearance_count": 4,
+          "time_info": "[19时29分 ~ 22时35分]"
         },
         {
           "title": "DeepSeek“变冷淡”不是翻车",
@@ -409,11 +428,12 @@
             9,
             8,
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时39分 ~ 21时05分]"
+          "appearance_count": 6,
+          "time_info": "[17时39分 ~ 22时35分]"
         }
       ]
     },
