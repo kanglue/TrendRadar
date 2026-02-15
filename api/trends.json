@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-16T05:32:19.167149+08:00",
-  "total_titles_processed": 401,
+  "generated_at": "2026-02-16T06:32:45.490480+08:00",
+  "total_titles_processed": 421,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_32608237",
           "source": "澎湃新闻",
           "ranks": [
-            1
+            1,
+            3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时39分 ~ 05时32分]"
+          "appearance_count": 8,
+          "time_info": "[00时39分 ~ 06时32分]"
         },
         {
           "title": "观察｜Seedance 2.0置于全球聚光灯下，如何从视觉奇观迈向工业理性？",
@@ -24,11 +25,12 @@
           "source": "澎湃新闻",
           "ranks": [
             2,
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时39分 ~ 05时32分]"
+          "appearance_count": 8,
+          "time_info": "[00时39分 ~ 06时32分]"
         },
         {
           "title": "春晚是第一个用上Seedance2.0的",
@@ -40,8 +42,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时39分 ~ 05时32分]"
+          "appearance_count": 8,
+          "time_info": "[00时39分 ~ 06时32分]"
         },
         {
           "title": "抖音李亮谈Seedance 2.0：数字分身暂不支持真人人脸参考和IP形象生成，团队投入最多的就是不断维护和加强反侵权策略",
@@ -51,8 +53,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时39分 ~ 05时32分]"
+          "appearance_count": 7,
+          "time_info": "[00时39分 ~ 06时32分]"
         }
       ]
     },
@@ -71,8 +73,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时39分 ~ 05时32分]"
+          "appearance_count": 8,
+          "time_info": "[00时39分 ~ 06时32分]"
         },
         {
           "title": "千问红包雨",
@@ -96,8 +98,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时39分 ~ 05时32分]"
+          "appearance_count": 7,
+          "time_info": "[00时39分 ~ 06时32分]"
         }
       ]
     },
@@ -115,8 +117,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时39分 ~ 05时32分]"
+          "appearance_count": 8,
+          "time_info": "[00时39分 ~ 06时32分]"
         }
       ]
     },
@@ -132,8 +134,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时39分 ~ 05时32分]"
+          "appearance_count": 8,
+          "time_info": "[00时39分 ~ 06时32分]"
         }
       ]
     }
