@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-15T07:32:46.914065+08:00",
-  "total_titles_processed": 422,
+  "generated_at": "2026-02-15T10:49:55.377615+08:00",
+  "total_titles_processed": 593,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "Seedance",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "央媒点赞Seedance2.0",
@@ -33,6 +33,19 @@
           "time_info": "[00时39分 ~ 01时31分]"
         },
         {
+          "title": "财晓得丨Seedance爆火背后：4分钟读懂中国AI的突围逻辑",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32601198",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时31分 ~ 10时49分]"
+        },
+        {
           "title": "Seedance2.0火到海外出注册教程",
           "url": "https://www.douyin.com/hot/2399687",
           "source": "抖音",
@@ -47,22 +60,32 @@
           "time_info": "[01时31分 ~ 07时32分]"
         },
         {
-          "title": "财晓得丨Seedance爆火背后：4分钟读懂中国AI的突围逻辑",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32601198",
+          "title": "Seedance一骑绝尘背后：中国AI春节前为何“杀疯了”？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32608237",
           "source": "澎湃新闻",
           "ranks": [
-            19,
-            8
+            9
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时31分 ~ 07时32分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时49分"
+        },
+        {
+          "title": "Seedance2.0爆火日本官员急了",
+          "url": "https://s.weibo.com/weibo?q=%23Seedance2.0%E7%88%86%E7%81%AB%E6%97%A5%E6%9C%AC%E5%AE%98%E5%91%98%E6%80%A5%E4%BA%86%23&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时49分"
         }
       ]
     },
     {
       "keyword_group": "GPT",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "1月市场份额再度攀升！Grok和谷歌Gemini瓜分ChatGPT丢失的市场",
@@ -82,11 +105,23 @@
           "source": "澎湃新闻",
           "ranks": [
             20,
-            19
+            19,
+            16
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时39分 ~ 05时31分]"
+          "appearance_count": 7,
+          "time_info": "[00时39分 ~ 10时49分]"
+        },
+        {
+          "title": "字节豆包2.0发布：推理成本降一个数量级，正面对标GPT-5和Gemini 3",
+          "url": "https://wallstreetcn.com/articles/3765736",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时49分"
         }
       ]
     },
@@ -145,8 +180,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时39分 ~ 07时32分]"
+          "appearance_count": 9,
+          "time_info": "[00时39分 ~ 10时49分]"
         }
       ]
     },
@@ -160,11 +195,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             6,
-            8
+            8,
+            20
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时39分 ~ 07时32分]"
+          "appearance_count": 9,
+          "time_info": "[00时39分 ~ 10时49分]"
         }
       ]
     },
