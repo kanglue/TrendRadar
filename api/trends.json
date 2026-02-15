@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-15T13:01:05.966207+08:00",
-  "total_titles_processed": 715,
+  "generated_at": "2026-02-15T14:04:35.499080+08:00",
+  "total_titles_processed": 780,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "Seedance",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "央媒点赞Seedance2.0",
@@ -22,6 +22,19 @@
           "time_info": "[00时39分 ~ 07时32分]"
         },
         {
+          "title": "财晓得丨Seedance爆火背后：4分钟读懂中国AI的突围逻辑",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32601198",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[06时31分 ~ 14时04分]"
+        },
+        {
           "title": "迪士尼指控 Seedance 2.0 使用迪士尼 IP，用户生成「蜘蛛侠送外卖」并传播，侵权责任在谁？",
           "url": "https://www.zhihu.com/question/2005955782328415420",
           "source": "知乎",
@@ -33,17 +46,16 @@
           "time_info": "[00时39分 ~ 01时31分]"
         },
         {
-          "title": "财晓得丨Seedance爆火背后：4分钟读懂中国AI的突围逻辑",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32601198",
+          "title": "Seedance一骑绝尘背后：中国AI春节前为何“杀疯了”？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32608237",
           "source": "澎湃新闻",
           "ranks": [
-            19,
-            8,
-            5
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时31分 ~ 13时01分]"
+          "appearance_count": 4,
+          "time_info": "[10时49分 ~ 14时04分]"
         },
         {
           "title": "Seedance2.0火到海外出注册教程",
@@ -60,16 +72,15 @@
           "time_info": "[01时31分 ~ 07时32分]"
         },
         {
-          "title": "Seedance一骑绝尘背后：中国AI春节前为何“杀疯了”？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32608237",
+          "title": "观察｜Seedance 2.0置于全球聚光灯下，如何从视觉奇观迈向工业理性？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32611142",
           "source": "澎湃新闻",
           "ranks": [
-            9,
-            10
+            11
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时49分 ~ 13时01分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时04分"
         },
         {
           "title": "Seedance2.0爆火日本官员急了",
@@ -99,8 +110,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时39分 ~ 13时01分]"
+          "appearance_count": 10,
+          "time_info": "[00时39分 ~ 14时04分]"
         },
         {
           "title": "1月市场份额再度攀升！Grok和谷歌Gemini瓜分ChatGPT丢失的市场",
@@ -120,17 +131,18 @@
           "source": "华尔街见闻",
           "ranks": [
             7,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时49分 ~ 13时01分]"
+          "appearance_count": 4,
+          "time_info": "[10时49分 ~ 14时04分]"
         }
       ]
     },
     {
       "keyword_group": "千问",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "千问红包",
@@ -160,6 +172,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时00分 ~ 13时01分]"
+        },
+        {
+          "title": "上千问请你看惊蛰无声",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%8A%E5%8D%83%E9%97%AE%E8%AF%B7%E4%BD%A0%E7%9C%8B%E6%83%8A%E8%9B%B0%E6%97%A0%E5%A3%B0%23&t=31&band_rank=15&Refer=top",
+          "source": "微博",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时04分"
         }
       ]
     },
@@ -211,11 +234,12 @@
             6,
             8,
             20,
-            26
+            26,
+            27
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时39分 ~ 13时01分]"
+          "appearance_count": 11,
+          "time_info": "[00时39分 ~ 14时04分]"
         }
       ]
     },
