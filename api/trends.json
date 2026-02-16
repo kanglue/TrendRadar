@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-17T05:36:29.032754+08:00",
-  "total_titles_processed": 494,
+  "generated_at": "2026-02-17T06:36:41.366174+08:00",
+  "total_titles_processed": 543,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时54分 ~ 05时36分]"
+          "appearance_count": 9,
+          "time_info": "[00时54分 ~ 06时36分]"
         },
         {
           "title": "春晚短剧 你准喜欢",
@@ -53,8 +53,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时39分 ~ 05时36分]"
+          "appearance_count": 3,
+          "time_info": "[04时39分 ~ 06时36分]"
         }
       ]
     },
@@ -72,8 +72,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时54分 ~ 05时36分]"
+          "appearance_count": 9,
+          "time_info": "[00时54分 ~ 06时36分]"
         },
         {
           "title": "告别“码农”时代？马斯克预言“就在年底”，国产大模型春节竞速AI编程",
@@ -84,8 +84,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时54分 ~ 05时36分]"
+          "appearance_count": 9,
+          "time_info": "[00时54分 ~ 06时36分]"
         },
         {
           "title": "阿里除夕夜发布 Qwen3.5 模型，哪些技术亮点值得关注？对大模型发展有何影响？",
@@ -95,8 +95,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时54分 ~ 05时36分]"
+          "appearance_count": 9,
+          "time_info": "[00时54分 ~ 06时36分]"
         },
         {
           "title": "豆包大模型接上春晚机器人了",
@@ -124,8 +124,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时54分 ~ 05时36分]"
+          "appearance_count": 9,
+          "time_info": "[00时54分 ~ 06时36分]"
         },
         {
           "title": "阿里除夕开源千问3.5：性能媲美Gemini 3 Pro， 实现原生多模态模型代际跃迁",
@@ -134,11 +134,12 @@
           "ranks": [
             7,
             6,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时54分 ~ 05时36分]"
+          "appearance_count": 9,
+          "time_info": "[00时54分 ~ 06时36分]"
         }
       ]
     },
@@ -164,11 +165,12 @@
           "source": "知乎",
           "ranks": [
             16,
-            13
+            13,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时39分 ~ 05时36分]"
+          "appearance_count": 3,
+          "time_info": "[04时39分 ~ 06时36分]"
         }
       ]
     },
@@ -204,8 +206,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时54分 ~ 05时36分]"
+          "appearance_count": 9,
+          "time_info": "[00时54分 ~ 06时36分]"
         }
       ]
     },
@@ -219,11 +221,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             5,
-            15
+            15,
+            25
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时54分 ~ 05时36分]"
+          "appearance_count": 5,
+          "time_info": "[02时54分 ~ 06时36分]"
         }
       ]
     },
@@ -241,8 +244,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时54分 ~ 05时36分]"
+          "appearance_count": 9,
+          "time_info": "[00时54分 ~ 06时36分]"
         }
       ]
     }
