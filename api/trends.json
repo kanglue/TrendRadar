@@ -1,63 +1,11 @@
 {
-  "generated_at": "2026-02-17T03:37:15.852173+08:00",
-  "total_titles_processed": 435,
+  "generated_at": "2026-02-17T04:39:49.412094+08:00",
+  "total_titles_processed": 458,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "大模型",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "马年春晚黑科技！四家机器人同台献技 AI大模型渗透内容制作",
-          "url": "https://www.cls.cn/detail/2290959",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时54分 ~ 03时37分]"
-        },
-        {
-          "title": "告别“码农”时代？马斯克预言“就在年底”，国产大模型春节竞速AI编程",
-          "url": "https://www.cls.cn/detail/2290650",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时54分 ~ 03时37分]"
-        },
-        {
-          "title": "阿里除夕夜发布 Qwen3.5 模型，哪些技术亮点值得关注？对大模型发展有何影响？",
-          "url": "https://www.zhihu.com/question/2004174915692172333",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时54分 ~ 03时37分]"
-        },
-        {
-          "title": "豆包大模型接上春晚机器人了",
-          "url": "https://www.douyin.com/hot/2403275",
-          "source": "抖音",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时54分"
-        }
-      ]
-    },
-    {
       "keyword_group": "短剧",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "沈马组合春晚短剧来了",
@@ -68,8 +16,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时54分 ~ 03时37分]"
+          "appearance_count": 7,
+          "time_info": "[00时54分 ~ 04时39分]"
         },
         {
           "title": "春晚短剧 你准喜欢",
@@ -94,6 +42,70 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时54分 ~ 01时43分]"
+        },
+        {
+          "title": "短剧上春晚了",
+          "url": "https://s.weibo.com/weibo?q=%E7%9F%AD%E5%89%A7%E4%B8%8A%E6%98%A5%E6%99%9A%E4%BA%86&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时39分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "大模型",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "马年春晚黑科技！四家机器人同台献技 AI大模型渗透内容制作",
+          "url": "https://www.cls.cn/detail/2290959",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时54分 ~ 04时39分]"
+        },
+        {
+          "title": "告别“码农”时代？马斯克预言“就在年底”，国产大模型春节竞速AI编程",
+          "url": "https://www.cls.cn/detail/2290650",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时54分 ~ 04时39分]"
+        },
+        {
+          "title": "阿里除夕夜发布 Qwen3.5 模型，哪些技术亮点值得关注？对大模型发展有何影响？",
+          "url": "https://www.zhihu.com/question/2004174915692172333",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时54分 ~ 04时39分]"
+        },
+        {
+          "title": "豆包大模型接上春晚机器人了",
+          "url": "https://www.douyin.com/hot/2403275",
+          "source": "抖音",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时54分"
         }
       ]
     },
@@ -110,8 +122,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时54分 ~ 03时37分]"
+          "appearance_count": 7,
+          "time_info": "[00时54分 ~ 04时39分]"
         },
         {
           "title": "阿里除夕开源千问3.5：性能媲美Gemini 3 Pro， 实现原生多模态模型代际跃迁",
@@ -123,8 +135,37 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时54分 ~ 03时37分]"
+          "appearance_count": 7,
+          "time_info": "[00时54分 ~ 04时39分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "Seedance",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "被豆包Seedance2.0版贺花神美到了",
+          "url": "https://www.douyin.com/hot/2403271",
+          "source": "抖音",
+          "ranks": [
+            14,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时54分 ~ 02时54分]"
+        },
+        {
+          "title": "Seedance 2.0 分镜运镜做的这么好，未来导演会不会逐渐失业？",
+          "url": "https://www.zhihu.com/question/2004599527957557412",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时39分"
         }
       ]
     },
@@ -142,26 +183,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时55分 ~ 03时37分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "Seedance",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "被豆包Seedance2.0版贺花神美到了",
-          "url": "https://www.douyin.com/hot/2403271",
-          "source": "抖音",
-          "ranks": [
-            14,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时54分 ~ 02时54分]"
+          "appearance_count": 5,
+          "time_info": "[00时55分 ~ 04时39分]"
         }
       ]
     },
@@ -174,11 +197,12 @@
           "url": "https://wallstreetcn.com/articles/3765773",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时54分 ~ 03时37分]"
+          "appearance_count": 7,
+          "time_info": "[00时54分 ~ 04时39分]"
         }
       ]
     },
@@ -194,8 +218,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时54分 ~ 03时37分]"
+          "appearance_count": 3,
+          "time_info": "[02时54分 ~ 04时39分]"
         }
       ]
     },
@@ -212,8 +236,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时54分 ~ 03时37分]"
+          "appearance_count": 7,
+          "time_info": "[00时54分 ~ 04时39分]"
         }
       ]
     }
