@@ -1,419 +1,51 @@
 {
-  "generated_at": "2026-02-16T23:49:23.077730+08:00",
-  "total_titles_processed": 1533,
+  "generated_at": "2026-02-17T00:55:13.521794+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "千问",
-      "match_count": 16,
+      "keyword_group": "大模型",
+      "match_count": 3,
       "titles": [
         {
-          "title": "千问县城钟点房订单激增约 300%，返乡青年去钟点房都能干啥？反映出哪些过年消费趋势？",
-          "url": "https://www.zhihu.com/question/2006395761227686554",
-          "source": "知乎",
+          "title": "马年春晚黑科技！四家机器人同台献技 AI大模型渗透内容制作",
+          "url": "https://www.cls.cn/detail/2290959",
+          "source": "财联社热门",
           "ranks": [
-            5,
-            4,
-            3,
-            2,
-            1,
-            11,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时39分 ~ 16时58分]"
-        },
-        {
-          "title": "千问红包",
-          "url": "https://s.weibo.com/weibo?q=%E5%8D%83%E9%97%AE%E7%BA%A2%E5%8C%85&t=31&band_rank=2&Refer=top",
-          "source": "微博",
-          "ranks": [
-            2,
-            5,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时13分 ~ 19时44分]"
-        },
-        {
-          "title": "千问红包雨",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%8D%83%E9%97%AE%E7%BA%A2%E5%8C%85%E9%9B%A8%23&t=31&band_rank=13&Refer=top",
-          "source": "微博",
-          "ranks": [
-            13,
-            18,
-            17,
-            15,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时39分 ~ 07时34分]"
-        },
-        {
-          "title": "千问总裁吴嘉回应千问爆火：我们不是要和谁卷",
-          "url": "https://wallstreetcn.com/livenews/3055602",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时39分 ~ 06时32分]"
-        },
-        {
-          "title": "阿里除夕夜将开源新一代千问Qwen3.5模型",
-          "url": "https://wallstreetcn.com/livenews/3055664",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            19,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时45分 ~ 15时13分]"
-        },
-        {
-          "title": "AI购票成春节档预售亮点，“千问帮我买电影票”订单量暴增500%",
-          "url": "https://wallstreetcn.com/livenews/3055681",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            9,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时05分 ~ 16时58分]"
-        },
-        {
-          "title": "艾特千问陪看春晚太多梗",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%89%BE%E7%89%B9%E5%8D%83%E9%97%AE%E9%99%AA%E7%9C%8B%E6%98%A5%E6%99%9A%E5%A4%AA%E5%A4%9A%E6%A2%97%23&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20
+            5
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[22时50分 ~ 22时51分]"
+          "time_info": "[00时54分 ~ 00时55分]"
         },
         {
-          "title": "阿里除夕夜将开源新一代千问Qwen3.5模型",
-          "url": "https://flash.jin10.com/detail/20260216101027699800",
-          "source": "金十数据",
+          "title": "告别“码农”时代？马斯克预言“就在年底”，国产大模型春节竞速AI编程",
+          "url": "https://www.cls.cn/detail/2290650",
+          "source": "财联社热门",
           "ranks": [
-            9
+            10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时45分"
+          "appearance_count": 2,
+          "time_info": "[00时54分 ~ 00时55分]"
         },
         {
-          "title": "易烊千玺邀你上千问领红包",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E9%82%80%E4%BD%A0%E4%B8%8A%E5%8D%83%E9%97%AE%E9%A2%86%E7%BA%A2%E5%8C%85%23&t=31&band_rank=15&Refer=top",
-          "source": "微博",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时44分"
-        },
-        {
-          "title": "艾特千问扒春晚同款真好使",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%89%BE%E7%89%B9%E5%8D%83%E9%97%AE%E6%89%92%E6%98%A5%E6%99%9A%E5%90%8C%E6%AC%BE%E7%9C%9F%E5%A5%BD%E4%BD%BF%23&t=31&band_rank=15&Refer=top",
-          "source": "微博",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时18分"
-        },
-        {
-          "title": "千问上抢的红包比广东人包的多",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%8D%83%E9%97%AE%E4%B8%8A%E6%8A%A2%E7%9A%84%E7%BA%A2%E5%8C%85%E6%AF%94%E5%B9%BF%E4%B8%9C%E4%BA%BA%E5%8C%85%E7%9A%84%E5%A4%9A%23&t=31&band_rank=15&Refer=top",
-          "source": "微博",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时49分"
-        },
-        {
-          "title": "千问3.5成本仅为谷歌大模型5%",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%8D%83%E9%97%AE3.5%E6%88%90%E6%9C%AC%E4%BB%85%E4%B8%BA%E8%B0%B7%E6%AD%8C%E5%A4%A7%E6%A8%A1%E5%9E%8B5%25%23&t=31&band_rank=18&Refer=top",
-          "source": "微博",
+          "title": "阿里除夕夜发布 Qwen3.5 模型，哪些技术亮点值得关注？对大模型发展有何影响？",
+          "url": "https://www.zhihu.com/question/2004174915692172333",
+          "source": "知乎",
           "ranks": [
             18
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时18分"
-        },
-        {
-          "title": "千问超级请客卡集卡仅剩一天",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%8D%83%E9%97%AE%E8%B6%85%E7%BA%A7%E8%AF%B7%E5%AE%A2%E5%8D%A1%E9%9B%86%E5%8D%A1%E4%BB%85%E5%89%A9%E4%B8%80%E5%A4%A9%23&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时05分"
-        },
-        {
-          "title": "“千问帮我买电影票”订单量日环比增长500%",
-          "url": "https://flash.jin10.com/detail/20260216130708218800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时13分"
-        },
-        {
-          "title": "年夜饭变身大型千问拉新现场",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%B9%B4%E5%A4%9C%E9%A5%AD%E5%8F%98%E8%BA%AB%E5%A4%A7%E5%9E%8B%E5%8D%83%E9%97%AE%E6%8B%89%E6%96%B0%E7%8E%B0%E5%9C%BA%23&t=31&band_rank=29&Refer=top",
-          "source": "微博",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时58分"
-        },
-        {
-          "title": "小孩哥教爷爷抢千问红包",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%AD%A9%E5%93%A5%E6%95%99%E7%88%B7%E7%88%B7%E6%8A%A2%E5%8D%83%E9%97%AE%E7%BA%A2%E5%8C%85%23&t=31&band_rank=30&Refer=top",
-          "source": "微博",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时58分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "Seedance",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "Seedance一骑绝尘背后：中国AI春节前为何“杀疯了”？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32608237",
-          "source": "澎湃新闻",
-          "ranks": [
-            1,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时39分 ~ 07时34分]"
-        },
-        {
-          "title": "观察｜Seedance 2.0置于全球聚光灯下，如何从视觉奇观迈向工业理性？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32611142",
-          "source": "澎湃新闻",
-          "ranks": [
-            2,
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时39分 ~ 07时34分]"
-        },
-        {
-          "title": "春晚是第一个用上Seedance2.0的",
-          "url": "https://www.douyin.com/hot/2401547",
-          "source": "抖音",
-          "ranks": [
-            27,
-            28,
-            26,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时39分 ~ 07时34分]"
-        },
-        {
-          "title": "抖音李亮谈Seedance 2.0：数字分身暂不支持真人人脸参考和IP形象生成，团队投入最多的就是不断维护和加强反侵权策略",
-          "url": "https://wallstreetcn.com/livenews/3055605",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时39分 ~ 06时32分]"
-        },
-        {
-          "title": "被豆包Seedance2.0版贺花神美到了",
-          "url": "https://www.douyin.com/hot/2403271",
-          "source": "抖音",
-          "ranks": [
-            11,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[21时18分 ~ 23时49分]"
-        },
-        {
-          "title": "春晚贺花神用的是豆包Seedance",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%98%A5%E6%99%9A%E8%B4%BA%E8%8A%B1%E7%A5%9E%E7%94%A8%E7%9A%84%E6%98%AF%E8%B1%86%E5%8C%85Seedance%23&t=31&band_rank=28&Refer=top",
-          "source": "微博",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[22时50分 ~ 22时51分]"
-        },
-        {
-          "title": "Seedance 2.0 分镜运镜做的这么好，未来导演会不会逐渐失业？",
-          "url": "https://www.zhihu.com/question/2004599527957557412",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时49分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "MiniMax",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "AI热潮助力港股蛇年收官战告捷，MiniMax暴涨25%、智谱涨4.74%齐创新高，有色板块拉升",
-          "url": "https://wallstreetcn.com/articles/3765773",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时13分 ~ 23时49分]"
-        },
-        {
-          "title": "MiniMax发布HighSpeed Coding Plan 股价创2026年港股单价纪录",
-          "url": "https://flash.jin10.com/detail/20260216162220696800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时58分 ~ 18时05分]"
-        },
-        {
-          "title": "MiniMax推出HighSpeed Coding Plan，股价创历史新高",
-          "url": "https://wallstreetcn.com/livenews/3055680",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            10,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时05分 ~ 16时58分]"
-        },
-        {
-          "title": "蛇年最后一个交易日港股收涨，MINIMAX-WP涨24.56%",
-          "url": "https://wallstreetcn.com/livenews/3055679",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            11,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时05分 ~ 16时58分]"
-        },
-        {
-          "title": "蛇年最后一个交易日，恒指开盘跌0.25%，智谱涨7.6%，MINIMAX-WP涨2.9%",
-          "url": "https://wallstreetcn.com/livenews/3055658",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            24,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时45分 ~ 15时13分]"
-        },
-        {
-          "title": "蛇年最后一个交易日，港股低开，恒生指数翻红，智谱涨7.6%股价创新高，MINIMAX-WP涨10%",
-          "url": "https://wallstreetcn.com/articles/3765773",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时05分"
+          "time_info": "[00时54分 ~ 00时55分]"
         }
       ]
     },
     {
       "keyword_group": "短剧",
-      "match_count": 4,
+      "match_count": 2,
       "titles": [
-        {
-          "title": "笑翻了，“洋女婿”如此解锁中国年｜新春短剧上线",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32609677",
-          "source": "澎湃新闻",
-          "ranks": [
-            4,
-            5,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时39分 ~ 10时45分]"
-        },
-        {
-          "title": "如何评价张小婉、周铁男、常诚等在 2026 年春晚表演的喜剧短剧《你准喜欢》？",
-          "url": "https://www.zhihu.com/question/2006839718533358375",
-          "source": "知乎",
-          "ranks": [
-            7,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[22时50分 ~ 23时49分]"
-        },
-        {
-          "title": "春晚短剧 你准喜欢",
-          "url": "https://search.bilibili.com/all?keyword=%E6%98%A5%E6%99%9A%E7%9F%AD%E5%89%A7%20%E4%BD%A0%E5%87%86%E5%96%9C%E6%AC%A2",
-          "source": "bilibili 热搜",
-          "ranks": [
-            24,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[22时50分 ~ 23时49分]"
-        },
         {
           "title": "沈马组合春晚短剧来了",
           "url": "https://search.bilibili.com/all?keyword=%E6%B2%88%E9%A9%AC%E7%BB%84%E5%90%88%E6%98%A5%E6%99%9A%E7%9F%AD%E5%89%A7%E6%9D%A5%E4%BA%86",
@@ -421,95 +53,37 @@
           "ranks": [
             8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时49分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "大模型",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "告别“码农”时代？马斯克预言“就在年底”，国产大模型春节竞速AI编程",
-          "url": "https://www.cls.cn/detail/2290650",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            7,
-            8,
-            9
-          ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[07时34分 ~ 23时49分]"
+          "appearance_count": 2,
+          "time_info": "[00时54分 ~ 00时55分]"
         },
         {
-          "title": "阿里除夕夜发布 Qwen3.5 模型，哪些技术亮点值得关注？对大模型发展有何影响？",
-          "url": "https://www.zhihu.com/question/2004174915692172333",
+          "title": "如何评价张小婉、周铁男、常诚等在 2026 年春晚表演的喜剧短剧《你准喜欢》？",
+          "url": "https://www.zhihu.com/question/2006839718533358375",
           "source": "知乎",
-          "ranks": [
-            6,
-            8,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[21时18分 ~ 23时49分]"
-        },
-        {
-          "title": "马年春晚黑科技！四家机器人同台献技 AI大模型渗透内容制作",
-          "url": "https://www.cls.cn/detail/2290959",
-          "source": "财联社热门",
           "ranks": [
             12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时49分"
-        },
-        {
-          "title": "春晚的底气是豆包大模型",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%98%A5%E6%99%9A%E7%9A%84%E5%BA%95%E6%B0%94%E6%98%AF%E8%B1%86%E5%8C%85%E5%A4%A7%E6%A8%A1%E5%9E%8B%23&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20
-          ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时18分"
+          "appearance_count": 2,
+          "time_info": "[00时54分 ~ 00时55分]"
         }
       ]
     },
     {
       "keyword_group": "Gemini",
-      "match_count": 3,
+      "match_count": 2,
       "titles": [
         {
           "title": "阿里发布千问3.5，性能媲美Gemini 3， Token价格仅为其1/18",
           "url": "https://wallstreetcn.com/articles/3765786",
           "source": "华尔街见闻",
           "ranks": [
-            9,
-            6,
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时44分 ~ 23时49分]"
-        },
-        {
-          "title": "阿里发布千问3.5，性能媲美Gemini 3， Token价格仅为其1/18",
-          "url": "https://wallstreetcn.com/livenews/3055703",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            27
-          ],
-          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时05分 ~ 19时44分]"
+          "time_info": "[00时54分 ~ 00时55分]"
         },
         {
           "title": "阿里除夕开源千问3.5：性能媲美Gemini 3 Pro， 实现原生多模态模型代际跃迁",
@@ -518,88 +92,60 @@
           "ranks": [
             7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时49分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时54分 ~ 00时55分]"
         }
       ]
     },
     {
-      "keyword_group": "智谱",
-      "match_count": 3,
+      "keyword_group": "千问",
+      "match_count": 1,
       "titles": [
         {
-          "title": "智谱：全球范围内对GLM-5的需求激增，全网寻找“算力合伙人”",
-          "url": "https://wallstreetcn.com/livenews/3055686",
+          "title": "1.3亿人春节首次体验AI购物，千问一跃成为国民级AI助手",
+          "url": "https://wallstreetcn.com/livenews/3055799",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3,
-            14,
-            25
+            8
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时13分 ~ 18时05分]"
-        },
-        {
-          "title": "智谱：因全球范围内对GLM-5的需求激增 全网寻找“算力合伙人”",
-          "url": "https://flash.jin10.com/detail/20260216140321167800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时13分"
-        },
-        {
-          "title": "港股AI应用股走强，阜博集团（03738.HK）领涨14.38%、海致科技集团（02706.HK）涨12.1%、智谱(02513.HK)涨超7%、阅文集团(00772.HK)涨2.53%。",
-          "url": "https://flash.jin10.com/detail/20260216092812837800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时45分"
+          "time_info": "00时55分"
         }
       ]
     },
     {
-      "keyword_group": "字节",
+      "keyword_group": "Seedance",
       "match_count": 1,
       "titles": [
         {
-          "title": "如何看待字节跳动也开始做 AI 芯片？",
-          "url": "https://www.zhihu.com/question/397296807",
-          "source": "知乎",
+          "title": "被豆包Seedance2.0版贺花神美到了",
+          "url": "https://www.douyin.com/hot/2403271",
+          "source": "抖音",
           "ranks": [
-            7,
-            9,
-            13,
-            11,
-            17
+            14
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时13分 ~ 21时18分]"
+          "appearance_count": 2,
+          "time_info": "[00时54分 ~ 00时55分]"
         }
       ]
     },
     {
-      "keyword_group": "Deepseek",
+      "keyword_group": "MiniMax",
       "match_count": 1,
       "titles": [
         {
-          "title": "春节周重磅前瞻：美联储最爱通胀指标，DeepSeek V4或发布",
-          "url": "https://wallstreetcn.com/articles/3765742",
+          "title": "AI热潮助力港股蛇年收官战告捷，MiniMax暴涨25%、智谱涨4.74%齐创新高，有色板块拉升",
+          "url": "https://wallstreetcn.com/articles/3765773",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时39分 ~ 10时45分]"
+          "appearance_count": 2,
+          "time_info": "[00时54分 ~ 00时55分]"
         }
       ]
     },
@@ -608,15 +154,15 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "终于有人把抢红包算法讲明白了",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%BB%88%E4%BA%8E%E6%9C%89%E4%BA%BA%E6%8A%8A%E6%8A%A2%E7%BA%A2%E5%8C%85%E7%AE%97%E6%B3%95%E8%AE%B2%E6%98%8E%E7%99%BD%E4%BA%86%23&t=31&band_rank=27&Refer=top",
-          "source": "微博",
+          "title": "木头姐：这轮市场波动是算法导致，而非基本面",
+          "url": "https://wallstreetcn.com/articles/3765784",
+          "source": "华尔街见闻",
           "ranks": [
-            27
+            10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时58分"
+          "appearance_count": 2,
+          "time_info": "[00时54分 ~ 00时55分]"
         }
       ]
     }
