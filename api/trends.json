@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-17T02:54:56.522230+08:00",
-  "total_titles_processed": 415,
+  "generated_at": "2026-02-17T03:37:15.852173+08:00",
+  "total_titles_processed": 435,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时54分 ~ 02时54分]"
+          "appearance_count": 6,
+          "time_info": "[00时54分 ~ 03时37分]"
         },
         {
           "title": "告别“码农”时代？马斯克预言“就在年底”，国产大模型春节竞速AI编程",
@@ -28,8 +28,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时54分 ~ 02时54分]"
+          "appearance_count": 6,
+          "time_info": "[00时54分 ~ 03时37分]"
         },
         {
           "title": "阿里除夕夜发布 Qwen3.5 模型，哪些技术亮点值得关注？对大模型发展有何影响？",
@@ -39,8 +39,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时54分 ~ 02时54分]"
+          "appearance_count": 6,
+          "time_info": "[00时54分 ~ 03时37分]"
         },
         {
           "title": "豆包大模型接上春晚机器人了",
@@ -49,7 +49,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时54分"
         }
@@ -68,8 +68,21 @@
             5
           ],
           "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时54分 ~ 03时37分]"
+        },
+        {
+          "title": "春晚短剧 你准喜欢",
+          "url": "https://search.bilibili.com/all?keyword=%E6%98%A5%E6%99%9A%E7%9F%AD%E5%89%A7%20%E4%BD%A0%E5%87%86%E5%96%9C%E6%AC%A2",
+          "source": "bilibili 热搜",
+          "ranks": [
+            16,
+            13,
+            14
+          ],
+          "is_new": false,
           "appearance_count": 4,
-          "time_info": "[00时54分 ~ 02时54分]"
+          "time_info": "[01时43分 ~ 03时37分]"
         },
         {
           "title": "如何评价张小婉、周铁男、常诚等在 2026 年春晚表演的喜剧短剧《你准喜欢》？",
@@ -81,18 +94,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时54分 ~ 01时43分]"
-        },
-        {
-          "title": "春晚短剧 你准喜欢",
-          "url": "https://search.bilibili.com/all?keyword=%E6%98%A5%E6%99%9A%E7%9F%AD%E5%89%A7%20%E4%BD%A0%E5%87%86%E5%96%9C%E6%AC%A2",
-          "source": "bilibili 热搜",
-          "ranks": [
-            16,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时43分 ~ 02时54分]"
         }
       ]
     },
@@ -109,8 +110,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时54分 ~ 02时54分]"
+          "appearance_count": 6,
+          "time_info": "[00时54分 ~ 03时37分]"
         },
         {
           "title": "阿里除夕开源千问3.5：性能媲美Gemini 3 Pro， 实现原生多模态模型代际跃迁",
@@ -118,11 +119,12 @@
           "source": "澎湃新闻",
           "ranks": [
             7,
-            6
+            6,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时54分 ~ 02时54分]"
+          "appearance_count": 6,
+          "time_info": "[00时54分 ~ 03时37分]"
         }
       ]
     },
@@ -140,8 +142,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时55分 ~ 02时54分]"
+          "appearance_count": 4,
+          "time_info": "[00时55分 ~ 03时37分]"
         }
       ]
     },
@@ -175,8 +177,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时54分 ~ 02时54分]"
+          "appearance_count": 6,
+          "time_info": "[00时54分 ~ 03时37分]"
         }
       ]
     },
@@ -191,9 +193,9 @@
           "ranks": [
             5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时54分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时54分 ~ 03时37分]"
         }
       ]
     },
@@ -210,8 +212,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时54分 ~ 02时54分]"
+          "appearance_count": 6,
+          "time_info": "[00时54分 ~ 03时37分]"
         }
       ]
     }
