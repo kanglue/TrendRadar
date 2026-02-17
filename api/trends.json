@@ -1,8 +1,95 @@
 {
-  "generated_at": "2026-02-17T18:58:05.630047+08:00",
-  "total_titles_processed": 1302,
+  "generated_at": "2026-02-17T19:47:37.445334+08:00",
+  "total_titles_processed": 1391,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "千问",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "1.3亿人春节首次体验AI购物，千问一跃成为国民级AI助手",
+          "url": "https://wallstreetcn.com/livenews/3055799",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            14,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时55分 ~ 04时39分]"
+        },
+        {
+          "title": "阿里发布新一代基模千问3.5，每百万Token低至0.8元",
+          "url": "https://www.cls.cn/detail/2290936",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时56分 ~ 17时58分]"
+        },
+        {
+          "title": "千问推“每日首单必减”",
+          "url": "https://wallstreetcn.com/livenews/3055908",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            13,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时54分 ~ 17时58分]"
+        },
+        {
+          "title": "千问请我看春节档第一场电影",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8D%83%E9%97%AE%E8%AF%B7%E6%88%91%E7%9C%8B%E6%98%A5%E8%8A%82%E6%A1%A3%E7%AC%AC%E4%B8%80%E5%9C%BA%E7%94%B5%E5%BD%B1%23&t=31&band_rank=15&Refer=top",
+          "source": "微博",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时58分"
+        },
+        {
+          "title": "千问江浙沪春晚给你发红包",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8D%83%E9%97%AE%E6%B1%9F%E6%B5%99%E6%B2%AA%E6%98%A5%E6%99%9A%E7%BB%99%E4%BD%A0%E5%8F%91%E7%BA%A2%E5%8C%85%23&t=31&band_rank=15&Refer=top",
+          "source": "微博",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时47分"
+        },
+        {
+          "title": "夸王建国长得真帅有千问红包",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%B8%E7%8E%8B%E5%BB%BA%E5%9B%BD%E9%95%BF%E5%BE%97%E7%9C%9F%E5%B8%85%E6%9C%89%E5%8D%83%E9%97%AE%E7%BA%A2%E5%8C%85%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时58分"
+        },
+        {
+          "title": "千问带着杨丽萍万马奔腾出海了",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8D%83%E9%97%AE%E5%B8%A6%E7%9D%80%E6%9D%A8%E4%B8%BD%E8%90%8D%E4%B8%87%E9%A9%AC%E5%A5%94%E8%85%BE%E5%87%BA%E6%B5%B7%E4%BA%86%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时47分"
+        }
+      ]
+    },
     {
       "keyword_group": "短剧",
       "match_count": 5,
@@ -21,8 +108,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时54分 ~ 18时58分]"
+          "appearance_count": 20,
+          "time_info": "[00时54分 ~ 19时47分]"
         },
         {
           "title": "春晚短剧 你准喜欢",
@@ -80,71 +167,6 @@
       ]
     },
     {
-      "keyword_group": "千问",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "1.3亿人春节首次体验AI购物，千问一跃成为国民级AI助手",
-          "url": "https://wallstreetcn.com/livenews/3055799",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            14,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时55分 ~ 04时39分]"
-        },
-        {
-          "title": "阿里发布新一代基模千问3.5，每百万Token低至0.8元",
-          "url": "https://www.cls.cn/detail/2290936",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时56分 ~ 17时58分]"
-        },
-        {
-          "title": "千问推“每日首单必减”",
-          "url": "https://wallstreetcn.com/livenews/3055908",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            13,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时54分 ~ 17时58分]"
-        },
-        {
-          "title": "千问请我看春节档第一场电影",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%8D%83%E9%97%AE%E8%AF%B7%E6%88%91%E7%9C%8B%E6%98%A5%E8%8A%82%E6%A1%A3%E7%AC%AC%E4%B8%80%E5%9C%BA%E7%94%B5%E5%BD%B1%23&t=31&band_rank=15&Refer=top",
-          "source": "微博",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时58分"
-        },
-        {
-          "title": "夸王建国长得真帅有千问红包",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%B8%E7%8E%8B%E5%BB%BA%E5%9B%BD%E9%95%BF%E5%BE%97%E7%9C%9F%E5%B8%85%E6%9C%89%E5%8D%83%E9%97%AE%E7%BA%A2%E5%8C%85%23&t=31&band_rank=30&Refer=top",
-          "source": "微博",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时58分"
-        }
-      ]
-    },
-    {
       "keyword_group": "大模型",
       "match_count": 5,
       "titles": [
@@ -159,8 +181,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时54分 ~ 18时58分]"
+          "appearance_count": 21,
+          "time_info": "[00时54分 ~ 19时47分]"
         },
         {
           "title": "告别“码农”时代？马斯克预言“就在年底”，国产大模型春节竞速AI编程",
@@ -173,8 +195,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时54分 ~ 18时58分]"
+          "appearance_count": 18,
+          "time_info": "[00时54分 ~ 19时47分]"
         },
         {
           "title": "阿里除夕夜发布 Qwen3.5 模型，哪些技术亮点值得关注？对大模型发展有何影响？",
@@ -286,8 +308,25 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时54分 ~ 18时58分]"
+          "appearance_count": 21,
+          "time_info": "[00时54分 ~ 19时47分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "字节",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "抖音集团李亮：炒作“字节是恒科的最大空头”很荒唐也很恶意",
+          "url": "https://wallstreetcn.com/livenews/3055956",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时47分"
         }
       ]
     },
