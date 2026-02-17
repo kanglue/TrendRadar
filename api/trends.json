@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-18T04:47:01.697661+08:00",
-  "total_titles_processed": 555,
+  "generated_at": "2026-02-18T05:42:30.233273+08:00",
+  "total_titles_processed": 605,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             27,
-            14
+            14,
+            23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时09分 ~ 04时47分]"
+          "appearance_count": 4,
+          "time_info": "[01时09分 ~ 05时42分]"
         },
         {
           "title": "短剧演员唱歌 大白嗓",
@@ -72,8 +73,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时00分 ~ 04时47分]"
+          "appearance_count": 6,
+          "time_info": "[00时00分 ~ 05时42分]"
         },
         {
           "title": "告别“码农”时代？马斯克预言“就在年底”，国产大模型春节竞速AI编程",
@@ -84,8 +85,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时00分 ~ 04时47分]"
+          "appearance_count": 6,
+          "time_info": "[00时00分 ~ 05时42分]"
         }
       ]
     },
