@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-18T01:09:53.509520+08:00",
-  "total_titles_processed": 400,
+  "generated_at": "2026-02-18T03:06:32.499229+08:00",
+  "total_titles_processed": 492,
   "failed_sources": [],
   "trends": [
     {
@@ -25,7 +25,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时09分"
         }
@@ -71,8 +71,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时00分 ~ 01时09分]"
+          "appearance_count": 3,
+          "time_info": "[00时00分 ~ 03时06分]"
         },
         {
           "title": "告别“码农”时代？马斯克预言“就在年底”，国产大模型春节竞速AI编程",
@@ -82,8 +82,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时00分 ~ 01时09分]"
+          "appearance_count": 3,
+          "time_info": "[00时00分 ~ 03时06分]"
         }
       ]
     },
@@ -98,7 +98,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时09分"
         }
