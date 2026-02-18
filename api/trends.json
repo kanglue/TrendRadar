@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-19T03:04:50.594052+08:00",
-  "total_titles_processed": 411,
+  "generated_at": "2026-02-19T04:50:18.218350+08:00",
+  "total_titles_processed": 481,
   "failed_sources": [],
   "trends": [
     {
@@ -51,11 +51,12 @@
           "url": "https://www.cls.cn/detail/2290959",
           "source": "财联社热门",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时15分 ~ 03时04分]"
+          "appearance_count": 3,
+          "time_info": "[01时15分 ~ 04时50分]"
         },
         {
           "title": "目前大模型与人类意识的差别在哪里?",
@@ -66,8 +67,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时15分 ~ 03时04分]"
+          "appearance_count": 3,
+          "time_info": "[01时15分 ~ 04时50分]"
         }
       ]
     },
