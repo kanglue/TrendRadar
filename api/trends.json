@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-18T14:10:16.400204+08:00",
-  "total_titles_processed": 1085,
+  "generated_at": "2026-02-18T15:55:45.586514+08:00",
+  "total_titles_processed": 1217,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "千问",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "阿里发布新一代基模千问3.5，每百万Token低至0.8元",
@@ -28,6 +28,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时44分 ~ 10时45分]"
+        },
+        {
+          "title": "千问3.5引爆全球AI产业链，英伟达、华为昇腾、AMD、苹果等第一时间适配",
+          "url": "https://wallstreetcn.com/livenews/3056241",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时55分"
         },
         {
           "title": "豆包App Store排名反超千问、蚂蚁阿福，位列第一",
@@ -71,8 +82,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时09分 ~ 14时10分]"
+          "appearance_count": 12,
+          "time_info": "[01时09分 ~ 15时55分]"
         },
         {
           "title": "一部短剧凑齐七个男妲己",
@@ -111,8 +122,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时00分 ~ 14时10分]"
+          "appearance_count": 14,
+          "time_info": "[00时00分 ~ 15时55分]"
         },
         {
           "title": "告别“码农”时代？马斯克预言“就在年底”，国产大模型春节竞速AI编程",
