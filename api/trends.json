@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-18T07:37:09.884703+08:00",
-  "total_titles_processed": 702,
+  "generated_at": "2026-02-18T10:45:07.831764+08:00",
+  "total_titles_processed": 883,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "千问",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "阿里发布新一代基模千问3.5，每百万Token低至0.8元",
@@ -17,6 +17,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时40分 ~ 07时37分]"
+        },
+        {
+          "title": "四士同堂的小品彩蛋埋在千问里",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%A3%AB%E5%90%8C%E5%A0%82%E7%9A%84%E5%B0%8F%E5%93%81%E5%BD%A9%E8%9B%8B%E5%9F%8B%E5%9C%A8%E5%8D%83%E9%97%AE%E9%87%8C%23&t=31&band_rank=23&Refer=top",
+          "source": "微博",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时44分 ~ 10时45分]"
         },
         {
           "title": "豆包App Store排名反超千问、蚂蚁阿福，位列第一",
@@ -43,39 +54,8 @@
       ]
     },
     {
-      "keyword_group": "短剧",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "沈马组合春晚短剧来了",
-          "url": "https://search.bilibili.com/all?keyword=%E6%B2%88%E9%A9%AC%E7%BB%84%E5%90%88%E6%98%A5%E6%99%9A%E7%9F%AD%E5%89%A7%E6%9D%A5%E4%BA%86",
-          "source": "bilibili 热搜",
-          "ranks": [
-            27,
-            14,
-            23,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时09分 ~ 07时37分]"
-        },
-        {
-          "title": "短剧演员唱歌 大白嗓",
-          "url": "https://s.weibo.com/weibo?q=%E7%9F%AD%E5%89%A7%E6%BC%94%E5%91%98%E5%94%B1%E6%AD%8C%20%E5%A4%A7%E7%99%BD%E5%97%93&t=31&band_rank=26&Refer=top",
-          "source": "微博",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时00分"
-        }
-      ]
-    },
-    {
       "keyword_group": "大模型",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "马年春晚黑科技！四家机器人同台献技 AI大模型渗透内容制作",
@@ -86,8 +66,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时00分 ~ 07时37分]"
+          "appearance_count": 11,
+          "time_info": "[00时00分 ~ 10时45分]"
         },
         {
           "title": "告别“码农”时代？马斯克预言“就在年底”，国产大模型春节竞速AI编程",
@@ -100,6 +80,49 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时00分 ~ 05时42分]"
+        },
+        {
+          "title": "国内大模型“新品潮”引爆预期 港股AI概念股再度爆发",
+          "url": "https://www.cls.cn/detail/2290780",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时44分 ~ 10时45分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "短剧",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "沈马组合春晚短剧来了",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B2%88%E9%A9%AC%E7%BB%84%E5%90%88%E6%98%A5%E6%99%9A%E7%9F%AD%E5%89%A7%E6%9D%A5%E4%BA%86",
+          "source": "bilibili 热搜",
+          "ranks": [
+            27,
+            14,
+            23,
+            24,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时09分 ~ 10时45分]"
+        },
+        {
+          "title": "短剧演员唱歌 大白嗓",
+          "url": "https://s.weibo.com/weibo?q=%E7%9F%AD%E5%89%A7%E6%BC%94%E5%91%98%E5%94%B1%E6%AD%8C%20%E5%A4%A7%E7%99%BD%E5%97%93&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时00分"
         }
       ]
     },
