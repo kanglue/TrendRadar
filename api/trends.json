@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-18T16:55:30.791880+08:00",
-  "total_titles_processed": 1309,
+  "generated_at": "2026-02-18T17:58:01.367488+08:00",
+  "total_titles_processed": 1395,
   "failed_sources": [],
   "trends": [
     {
@@ -48,7 +48,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时55分"
         },
@@ -92,11 +92,12 @@
             20,
             12,
             18,
-            13
+            13,
+            26
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时09分 ~ 16时55分]"
+          "appearance_count": 15,
+          "time_info": "[01时09分 ~ 17时58分]"
         },
         {
           "title": "一部短剧凑齐七个男妲己",
@@ -135,8 +136,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时00分 ~ 16时55分]"
+          "appearance_count": 17,
+          "time_info": "[00时00分 ~ 17时58分]"
         },
         {
           "title": "告别“码农”时代？马斯克预言“就在年底”，国产大模型春节竞速AI编程",
