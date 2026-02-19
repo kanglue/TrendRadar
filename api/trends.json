@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-19T14:08:31.676702+08:00",
-  "total_titles_processed": 1028,
+  "generated_at": "2026-02-19T15:54:01.707518+08:00",
+  "total_titles_processed": 1138,
   "failed_sources": [],
   "trends": [
     {
@@ -55,8 +55,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时15分 ~ 14时08分]"
+          "appearance_count": 11,
+          "time_info": "[01时15分 ~ 15时54分]"
         },
         {
           "title": "1万亿美元蒸发背后：垂直软件的护城河，正在被大模型重写",
