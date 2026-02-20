@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-20T19:38:40.737253+08:00",
-  "total_titles_processed": 1479,
+  "generated_at": "2026-02-20T21:13:28.023223+08:00",
+  "total_titles_processed": 1574,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时51分 ~ 19时38分]"
+          "appearance_count": 4,
+          "time_info": "[17时51分 ~ 21时13分]"
         },
         {
           "title": "港股马年首个交易日：恒科指跌超2%，大模型和存储逆势大涨，智谱大涨近33%",
@@ -187,6 +187,49 @@
       ]
     },
     {
+      "keyword_group": "短剧",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "短剧上星",
+          "url": "https://s.weibo.com/weibo?q=%E7%9F%AD%E5%89%A7%E4%B8%8A%E6%98%9F&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27,
+            7,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时59分 ~ 16时51分]"
+        },
+        {
+          "title": "陈哲远真当上短剧霸总了",
+          "url": "https://www.douyin.com/hot/2406910",
+          "source": "抖音",
+          "ranks": [
+            27,
+            28,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时45分 ~ 21时13分]"
+        },
+        {
+          "title": "短剧上星 不匹配电视",
+          "url": "https://s.weibo.com/weibo?q=%E7%9F%AD%E5%89%A7%E4%B8%8A%E6%98%9F%20%E4%B8%8D%E5%8C%B9%E9%85%8D%E7%94%B5%E8%A7%86&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时13分"
+        }
+      ]
+    },
+    {
       "keyword_group": "Gemini",
       "match_count": 3,
       "titles": [
@@ -219,42 +262,12 @@
           "ranks": [
             6,
             14,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时51分 ~ 19时38分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "短剧",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "短剧上星",
-          "url": "https://s.weibo.com/weibo?q=%E7%9F%AD%E5%89%A7%E4%B8%8A%E6%98%9F&t=31&band_rank=27&Refer=top",
-          "source": "微博",
-          "ranks": [
-            27,
-            7,
-            29
+            21,
+            30
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[13时59分 ~ 16时51分]"
-        },
-        {
-          "title": "陈哲远真当上短剧霸总了",
-          "url": "https://www.douyin.com/hot/2406910",
-          "source": "抖音",
-          "ranks": [
-            27,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时45分 ~ 19时38分]"
+          "time_info": "[17时51分 ~ 21时13分]"
         }
       ]
     },
@@ -332,8 +345,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时45分 ~ 19时38分]"
+          "appearance_count": 3,
+          "time_info": "[18时45分 ~ 21时13分]"
         }
       ]
     }
