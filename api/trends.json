@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-21T00:51:08.899849+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-02-21T01:43:32.402862+08:00",
+  "total_titles_processed": 378,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "短剧",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "短剧上星 不匹配电视",
@@ -28,6 +28,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时50分 ~ 00时51分]"
+        },
+        {
+          "title": "郭宇欣主演短剧在电视播出",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%83%AD%E5%AE%87%E6%AC%A3%E4%B8%BB%E6%BC%94%E7%9F%AD%E5%89%A7%E5%9C%A8%E7%94%B5%E8%A7%86%E6%92%AD%E5%87%BA%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时43分"
         }
       ]
     },
@@ -43,8 +54,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时50分 ~ 00时51分]"
+          "appearance_count": 3,
+          "time_info": "[00时50分 ~ 01时43分]"
         }
       ]
     },
@@ -57,11 +68,29 @@
           "url": "https://wallstreetcn.com/articles/3765892",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时50分 ~ 00时51分]"
+          "appearance_count": 3,
+          "time_info": "[00时50分 ~ 01时43分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "大模型",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "OpenAI创始人点赞中国大模型",
+          "url": "https://www.toutiao.com/trending/7608951834689932827/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时43分"
         }
       ]
     }
