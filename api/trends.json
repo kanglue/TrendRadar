@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-21T02:58:51.816985+08:00",
-  "total_titles_processed": 448,
+  "generated_at": "2026-02-21T03:41:09.732416+08:00",
+  "total_titles_processed": 501,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "抖音",
           "ranks": [
             29,
-            28
+            28,
+            30
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时50分 ~ 02时58分]"
+          "appearance_count": 5,
+          "time_info": "[00时50分 ~ 03时41分]"
         },
         {
           "title": "短剧上星 不匹配电视",
@@ -55,8 +56,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时50分 ~ 02时58分]"
+          "appearance_count": 6,
+          "time_info": "[00时50分 ~ 03时41分]"
         }
       ]
     },
@@ -73,8 +74,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时50分 ~ 02时58分]"
+          "appearance_count": 6,
+          "time_info": "[00时50分 ~ 03时41分]"
         }
       ]
     },
