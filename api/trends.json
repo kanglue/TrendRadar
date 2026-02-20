@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-21T03:41:09.732416+08:00",
-  "total_titles_processed": 501,
+  "generated_at": "2026-02-21T04:41:06.868597+08:00",
+  "total_titles_processed": 541,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时50分 ~ 03时41分]"
+          "appearance_count": 7,
+          "time_info": "[00时50分 ~ 04时41分]"
         },
         {
           "title": "短剧上星 不匹配电视",
@@ -56,8 +56,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时50分 ~ 03时41分]"
+          "appearance_count": 8,
+          "time_info": "[00时50分 ~ 04时41分]"
         }
       ]
     },
@@ -74,8 +74,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时50分 ~ 03时41分]"
+          "appearance_count": 8,
+          "time_info": "[00时50分 ~ 04时41分]"
         }
       ]
     },
