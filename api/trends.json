@@ -1,8 +1,49 @@
 {
-  "generated_at": "2026-02-20T12:53:40.992798+08:00",
-  "total_titles_processed": 962,
+  "generated_at": "2026-02-20T13:59:22.381981+08:00",
+  "total_titles_processed": 1047,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "MiniMax",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "港股AI应用股走强，海致科技集团涨15%，Minimax、智谱涨逾5%。",
+          "url": "https://wallstreetcn.com/livenews/3056842",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            16,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时39分 ~ 13时59分]"
+        },
+        {
+          "title": "港股AI概念股午后延续涨势，智谱(02513.HK)大涨21%，海致科技集团(02706.HK)涨18.5%，MINIMAX-WP(00100.HK)涨11.22%。",
+          "url": "https://flash.jin10.com/detail/20260220132611953800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时59分"
+        },
+        {
+          "title": "港股AI应用股走强，海致科技集团(02706.HK)大涨15%、MINIMAX-WP(00100.HK)、智谱(02513.HK)涨超5%，速腾聚创(02498.HK)涨4.42%。",
+          "url": "https://flash.jin10.com/detail/20260220092855183800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时39分"
+        }
+      ]
+    },
     {
       "keyword_group": "Gemini",
       "match_count": 2,
@@ -14,9 +55,9 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时53分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时53分 ~ 13时59分]"
         },
         {
           "title": "Gemini3.1 Pro上线",
@@ -24,35 +65,6 @@
           "source": "bilibili 热搜",
           "ranks": [
             4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时39分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "MiniMax",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "港股AI应用股走强，海致科技集团涨15%，Minimax、智谱涨逾5%。",
-          "url": "https://wallstreetcn.com/livenews/3056842",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时39分 ~ 12时53分]"
-        },
-        {
-          "title": "港股AI应用股走强，海致科技集团(02706.HK)大涨15%、MINIMAX-WP(00100.HK)、智谱(02513.HK)涨超5%，速腾聚创(02498.HK)涨4.42%。",
-          "url": "https://flash.jin10.com/detail/20260220092855183800",
-          "source": "金十数据",
-          "ranks": [
-            30
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -71,9 +83,9 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时53分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时53分 ~ 13时59分]"
         },
         {
           "title": "美国大模型“双雄”当众拒绝握手",
@@ -85,6 +97,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时02分 ~ 01时03分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "短剧",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "短剧上星",
+          "url": "https://s.weibo.com/weibo?q=%E7%9F%AD%E5%89%A7%E4%B8%8A%E6%98%9F&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时59分"
         }
       ]
     },
@@ -133,7 +162,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时53分"
         }
