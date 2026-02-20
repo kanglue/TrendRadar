@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-02-21T01:43:32.402862+08:00",
-  "total_titles_processed": 378,
+  "generated_at": "2026-02-21T02:58:51.816985+08:00",
+  "total_titles_processed": 448,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "短剧",
       "match_count": 3,
       "titles": [
+        {
+          "title": "陈哲远真当上短剧霸总了",
+          "url": "https://www.douyin.com/hot/2406910",
+          "source": "抖音",
+          "ranks": [
+            29,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时50分 ~ 02时58分]"
+        },
         {
           "title": "短剧上星 不匹配电视",
           "url": "https://s.weibo.com/weibo?q=%E7%9F%AD%E5%89%A7%E4%B8%8A%E6%98%9F%20%E4%B8%8D%E5%8C%B9%E9%85%8D%E7%94%B5%E8%A7%86&t=31&band_rank=24&Refer=top",
@@ -19,24 +31,13 @@
           "time_info": "[00时50分 ~ 00时51分]"
         },
         {
-          "title": "陈哲远真当上短剧霸总了",
-          "url": "https://www.douyin.com/hot/2406910",
-          "source": "抖音",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时50分 ~ 00时51分]"
-        },
-        {
           "title": "郭宇欣主演短剧在电视播出",
           "url": "https://s.weibo.com/weibo?q=%23%E9%83%AD%E5%AE%87%E6%AC%A3%E4%B8%BB%E6%BC%94%E7%9F%AD%E5%89%A7%E5%9C%A8%E7%94%B5%E8%A7%86%E6%92%AD%E5%87%BA%23&t=31&band_rank=30&Refer=top",
           "source": "微博",
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时43分"
         }
@@ -54,8 +55,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时50分 ~ 01时43分]"
+          "appearance_count": 4,
+          "time_info": "[00时50分 ~ 02时58分]"
         }
       ]
     },
@@ -72,8 +73,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时50分 ~ 01时43分]"
+          "appearance_count": 4,
+          "time_info": "[00时50分 ~ 02时58分]"
         }
       ]
     },
@@ -88,9 +89,9 @@
           "ranks": [
             30
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时43分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时43分 ~ 02时58分]"
         }
       ]
     }
