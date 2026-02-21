@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-22T02:45:33.478465+08:00",
-  "total_titles_processed": 358,
+  "generated_at": "2026-02-22T03:31:19.345292+08:00",
+  "total_titles_processed": 370,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.baidu.com/s?wd=%E5%8D%AB%E8%A7%86%E9%BB%84%E9%87%91%E6%A1%A3%E4%B9%9F%E4%B8%8A%E7%AB%96%E5%B1%8F%E7%9F%AD%E5%89%A7%E4%BA%86",
           "source": "百度热搜",
           "ranks": [
-            19
+            19,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时45分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时45分 ~ 03时31分]"
         }
       ]
     },
@@ -30,11 +31,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             13,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时38分 ~ 02时45分]"
+          "appearance_count": 5,
+          "time_info": "[00时38分 ~ 03时31分]"
         }
       ]
     },
@@ -50,8 +52,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时38分 ~ 02时45分]"
+          "appearance_count": 4,
+          "time_info": "[00时38分 ~ 03时31分]"
         }
       ]
     },
@@ -67,8 +69,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时38分 ~ 02时45分]"
+          "appearance_count": 4,
+          "time_info": "[00时38分 ~ 03时31分]"
         }
       ]
     },
@@ -84,8 +86,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时38分 ~ 02时45分]"
+          "appearance_count": 4,
+          "time_info": "[00时38分 ~ 03时31分]"
         }
       ]
     },
@@ -98,11 +100,12 @@
           "url": "https://www.zhihu.com/question/1939608906885202527",
           "source": "知乎",
           "ranks": [
-            19
+            19,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时45分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时45分 ~ 03时31分]"
         }
       ]
     }
