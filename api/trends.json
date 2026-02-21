@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-21T19:28:54.887093+08:00",
-  "total_titles_processed": 1241,
+  "generated_at": "2026-02-21T21:02:10.478192+08:00",
+  "total_titles_processed": 1322,
   "failed_sources": [],
   "trends": [
     {
@@ -59,11 +59,12 @@
           "ranks": [
             1,
             8,
-            10
+            10,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时37分 ~ 19时28分]"
+          "appearance_count": 4,
+          "time_info": "[17时37分 ~ 21时02分]"
         },
         {
           "title": "阿里千问推出Qwen Coding Plan",
@@ -101,11 +102,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            4
+            4,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时34分 ~ 19时28分]"
+          "appearance_count": 3,
+          "time_info": "[18时34分 ~ 21时02分]"
         },
         {
           "title": "中信建投：原生多模态与世界模型技术共同演进将重塑多个产业格局",
@@ -113,11 +115,12 @@
           "source": "金十数据",
           "ranks": [
             10,
-            20
+            20,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时34分 ~ 19时28分]"
+          "appearance_count": 3,
+          "time_info": "[18时34分 ~ 21时02分]"
         }
       ]
     },
@@ -184,11 +187,12 @@
             3,
             7,
             5,
-            9
+            9,
+            11
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时32分 ~ 19时28分]"
+          "appearance_count": 13,
+          "time_info": "[10时32分 ~ 21时02分]"
         }
       ]
     },
