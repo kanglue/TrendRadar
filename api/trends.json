@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-23T04:35:41.813243+08:00",
-  "total_titles_processed": 392,
+  "generated_at": "2026-02-23T05:32:04.820450+08:00",
+  "total_titles_processed": 414,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "金十数据",
           "ranks": [
             5,
-            6
+            6,
+            17
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时39分 ~ 04时35分]"
+          "appearance_count": 6,
+          "time_info": "[00时39分 ~ 05时32分]"
         },
         {
           "title": "声明显示，利比亚重启Sinawan油田的生产，该油田已停产三年之久。",
@@ -25,11 +26,12 @@
           "source": "金十数据",
           "ranks": [
             12,
-            11
+            11,
+            22
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时39分 ~ 04时35分]"
+          "appearance_count": 6,
+          "time_info": "[00时39分 ~ 05时32分]"
         }
       ]
     },
@@ -46,8 +48,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时39分 ~ 04时35分]"
+          "appearance_count": 7,
+          "time_info": "[00时39分 ~ 05时32分]"
         },
         {
           "title": "智谱发布GLM-5技术报告，技术细节全公开",
@@ -60,8 +62,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时39分 ~ 04时35分]"
+          "appearance_count": 6,
+          "time_info": "[00时39分 ~ 05时32分]"
         }
       ]
     },
@@ -77,11 +79,12 @@
             12,
             17,
             15,
-            10
+            10,
+            6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时39分 ~ 04时35分]"
+          "appearance_count": 7,
+          "time_info": "[00时39分 ~ 05时32分]"
         }
       ]
     },
@@ -97,11 +100,12 @@
             11,
             10,
             16,
-            17
+            17,
+            26
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时39分 ~ 04时35分]"
+          "appearance_count": 7,
+          "time_info": "[00时39分 ~ 05时32分]"
         }
       ]
     },
@@ -117,8 +121,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时39分 ~ 04时35分]"
+          "appearance_count": 7,
+          "time_info": "[00时39分 ~ 05时32分]"
         }
       ]
     }
