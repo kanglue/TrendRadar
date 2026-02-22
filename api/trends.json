@@ -1,8 +1,37 @@
 {
-  "generated_at": "2026-02-22T07:31:43.865040+08:00",
-  "total_titles_processed": 423,
+  "generated_at": "2026-02-22T10:45:11.061392+08:00",
+  "total_titles_processed": 584,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "智谱",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "智谱就GLM Coding Plan问题致歉并公布补偿方案",
+          "url": "https://flash.jin10.com/detail/20260221222935593800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时38分 ~ 10时45分]"
+        },
+        {
+          "title": "智谱就GLM Coding Plan问题致歉并公布补偿方案",
+          "url": "https://wallstreetcn.com/livenews/3057213",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时45分"
+        }
+      ]
+    },
     {
       "keyword_group": "短剧",
       "match_count": 1,
@@ -37,11 +66,12 @@
             9,
             8,
             12,
-            6
+            6,
+            11
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时38分 ~ 07时31分]"
+          "appearance_count": 12,
+          "time_info": "[00时38分 ~ 10时45分]"
         }
       ]
     },
@@ -64,19 +94,36 @@
       ]
     },
     {
-      "keyword_group": "智谱",
+      "keyword_group": "Deepseek",
       "match_count": 1,
       "titles": [
         {
-          "title": "智谱就GLM Coding Plan问题致歉并公布补偿方案",
-          "url": "https://flash.jin10.com/detail/20260221222935593800",
-          "source": "金十数据",
+          "title": "如何看待当所有国产大模型都在 2026 春节撒钱抢用户时，DeepSeek 却默不作声继续奋战？",
+          "url": "https://www.zhihu.com/question/2004982651719812885",
+          "source": "知乎",
           "ranks": [
-            8
+            16
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时38分 ~ 07时31分]"
+          "appearance_count": 2,
+          "time_info": "[10时44分 ~ 10时45分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "Seedance",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "Seedance2.0重写全球AI版图",
+          "url": "https://www.douyin.com/hot/2407569",
+          "source": "抖音",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时44分 ~ 10时45分]"
         }
       ]
     },
