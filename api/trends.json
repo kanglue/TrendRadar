@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-23T18:06:14.378495+08:00",
-  "total_titles_processed": 1163,
+  "generated_at": "2026-02-23T19:44:03.332804+08:00",
+  "total_titles_processed": 1277,
   "failed_sources": [],
   "trends": [
     {
@@ -28,8 +28,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时04分 ~ 18时06分]"
+          "appearance_count": 8,
+          "time_info": "[13时04分 ~ 19时44分]"
         },
         {
           "title": "恒生科技指数日内涨幅扩大至3%，美团涨超5%，华虹半导体、中芯国际涨超4%。 港股大模型概念跌幅扩大，智谱跌超17%，MINIMAX跌超11%。",
@@ -74,8 +74,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时39分 ~ 18时06分]"
+          "appearance_count": 19,
+          "time_info": "[00时39分 ~ 19时44分]"
         },
         {
           "title": "智谱发布GLM-5技术报告，技术细节全公开",
