@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-23T22:55:33.186692+08:00",
-  "total_titles_processed": 1493,
+  "generated_at": "2026-02-23T23:54:55.216182+08:00",
+  "total_titles_processed": 1583,
   "failed_sources": [],
   "trends": [
     {
@@ -29,8 +29,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[13时04分 ~ 22时55分]"
+          "appearance_count": 11,
+          "time_info": "[13时04分 ~ 23时54分]"
         },
         {
           "title": "恒生科技指数日内涨幅扩大至3%，美团涨超5%，华虹半导体、中芯国际涨超4%。 港股大模型概念跌幅扩大，智谱跌超17%，MINIMAX跌超11%。",
@@ -136,6 +136,23 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时39分 ~ 05时32分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "GPT",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "OpenAI：正在调查面向商业和企业客户的ChatGPT对话中错误率升高的问题。",
+          "url": "https://flash.jin10.com/detail/20260223234136834800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时54分"
         }
       ]
     },
