@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-24T19:45:12.158560+08:00",
-  "total_titles_processed": 1457,
+  "generated_at": "2026-02-24T21:21:58.328726+08:00",
+  "total_titles_processed": 1571,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时58分 ~ 19时45分]"
+          "appearance_count": 6,
+          "time_info": "[16时58分 ~ 21时21分]"
         },
         {
           "title": "A股开门红！创业板涨超1%，油气、贵金属掀涨停潮，恒科指跌逾2%，智谱暴涨15%，沪银大涨超14%",
@@ -261,11 +261,12 @@
           "ranks": [
             8,
             27,
-            19
+            19,
+            6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时42分 ~ 18时04分]"
+          "appearance_count": 6,
+          "time_info": "[10时42分 ~ 21时21分]"
         }
       ]
     }
