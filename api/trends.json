@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-26T04:43:03.370920+08:00",
-  "total_titles_processed": 501,
+  "generated_at": "2026-02-26T05:42:56.287901+08:00",
+  "total_titles_processed": 544,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             8,
             9,
-            6
+            6,
+            19
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时23分 ~ 04时43分]"
+          "appearance_count": 6,
+          "time_info": "[00时23分 ~ 05时42分]"
         },
         {
           "title": "刘晓庆短剧吻戏",
@@ -26,11 +27,12 @@
           "source": "微博",
           "ranks": [
             17,
-            14
+            14,
+            15
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时23分 ~ 04时43分]"
+          "appearance_count": 6,
+          "time_info": "[00时23分 ~ 05时42分]"
         },
         {
           "title": "短剧男演员疑揩油女演员",
@@ -40,8 +42,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时23分 ~ 04时43分]"
+          "appearance_count": 6,
+          "time_info": "[00时23分 ~ 05时42分]"
         }
       ]
     },
@@ -82,11 +84,12 @@
           "url": "https://wallstreetcn.com/articles/3766156",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时23分 ~ 04时43分]"
+          "appearance_count": 6,
+          "time_info": "[00时23分 ~ 05时42分]"
         }
       ]
     },
@@ -99,11 +102,12 @@
           "url": "https://www.zhihu.com/question/1916645420085514580",
           "source": "知乎",
           "ranks": [
-            16
+            16,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时42分 ~ 04时43分]"
+          "appearance_count": 3,
+          "time_info": "[04时42分 ~ 05时42分]"
         }
       ]
     }
