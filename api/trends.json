@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-26T05:42:56.287901+08:00",
-  "total_titles_processed": 544,
+  "generated_at": "2026-02-26T06:41:04.472640+08:00",
+  "total_titles_processed": 602,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             8,
             9,
             6,
-            19
+            19,
+            18
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时23分 ~ 05时42分]"
+          "appearance_count": 8,
+          "time_info": "[00时23分 ~ 06时41分]"
         },
         {
           "title": "刘晓庆短剧吻戏",
@@ -31,8 +32,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时23分 ~ 05时42分]"
+          "appearance_count": 8,
+          "time_info": "[00时23分 ~ 06时41分]"
         },
         {
           "title": "短剧男演员疑揩油女演员",
@@ -42,8 +43,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时23分 ~ 05时42分]"
+          "appearance_count": 8,
+          "time_info": "[00时23分 ~ 06时41分]"
         }
       ]
     },
@@ -88,8 +89,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时23分 ~ 05时42分]"
+          "appearance_count": 8,
+          "time_info": "[00时23分 ~ 06时41分]"
         }
       ]
     },
