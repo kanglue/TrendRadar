@@ -1,12 +1,37 @@
 {
-  "generated_at": "2026-02-27T06:41:06.086746+08:00",
-  "total_titles_processed": 581,
+  "generated_at": "2026-02-27T07:37:30.782992+08:00",
+  "total_titles_processed": 662,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "短剧",
       "match_count": 4,
       "titles": [
+        {
+          "title": "唐国强也演短剧了",
+          "url": "https://www.douyin.com/hot/2412629",
+          "source": "抖音",
+          "ranks": [
+            30,
+            19,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时01分 ~ 07时37分]"
+        },
+        {
+          "title": "57岁周涛杀进短剧圈",
+          "url": "https://www.toutiao.com/trending/7610694767508193330/",
+          "source": "今日头条",
+          "ranks": [
+            19,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时01分 ~ 07时37分]"
+        },
         {
           "title": "刘晓庆短剧与小30岁演员拍吻戏",
           "url": "https://www.toutiao.com/trending/7610530192855171113/",
@@ -18,30 +43,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时46分 ~ 06时41分]"
-        },
-        {
-          "title": "57岁周涛杀进短剧圈",
-          "url": "https://www.toutiao.com/trending/7610694767508193330/",
-          "source": "今日头条",
-          "ranks": [
-            19,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时01分 ~ 06时41分]"
-        },
-        {
-          "title": "唐国强也演短剧了",
-          "url": "https://www.douyin.com/hot/2412629",
-          "source": "抖音",
-          "ranks": [
-            30,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时01分 ~ 06时41分]"
         },
         {
           "title": "唐国强也去演短剧了",
