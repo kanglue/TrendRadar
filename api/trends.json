@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-27T17:52:17.292554+08:00",
-  "total_titles_processed": 1405,
+  "generated_at": "2026-02-27T18:47:28.749120+08:00",
+  "total_titles_processed": 1492,
   "failed_sources": [],
   "trends": [
     {
@@ -40,11 +40,12 @@
           "ranks": [
             5,
             6,
-            7
+            7,
+            17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时06分 ~ 17时52分]"
+          "appearance_count": 5,
+          "time_info": "[15时06分 ~ 18时47分]"
         },
         {
           "title": "57岁周涛杀进短剧圈",
