@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-27T21:13:20.214318+08:00",
-  "total_titles_processed": 1704,
+  "generated_at": "2026-02-27T22:45:44.072312+08:00",
+  "total_titles_processed": 1838,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时06分 ~ 21时13分]"
+          "appearance_count": 8,
+          "time_info": "[15时06分 ~ 22时45分]"
         },
         {
           "title": "短剧毁三观:总裁爱上小脑奶",
@@ -78,7 +78,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时13分"
         },
