@@ -1,210 +1,73 @@
 {
-  "generated_at": "2026-02-27T23:43:30.636103+08:00",
-  "total_titles_processed": 1935,
+  "generated_at": "2026-02-28T00:50:33.675082+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "短剧",
-      "match_count": 7,
+      "match_count": 1,
       "titles": [
         {
           "title": "人民日报评短剧“观看羞耻”",
           "url": "https://www.baidu.com/s?wd=%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E8%AF%84%E7%9F%AD%E5%89%A7%E2%80%9C%E8%A7%82%E7%9C%8B%E7%BE%9E%E8%80%BB%E2%80%9D",
           "source": "百度热搜",
           "ranks": [
-            5,
-            6,
-            7,
-            17
+            22
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时06分 ~ 23时43分]"
-        },
+          "appearance_count": 1,
+          "time_info": "00时50分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "GPT",
+      "match_count": 1,
+      "titles": [
         {
-          "title": "短剧毁三观:总裁爱上小脑奶",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351075&amp;topic_name=%E7%9F%AD%E5%89%A7%E6%AF%81%E4%B8%89%E8%A7%82%3A%E6%80%BB%E8%A3%81%E7%88%B1%E4%B8%8A%E5%B0%8F%E8%84%91%E5%A5%B6",
-          "source": "贴吧",
+          "title": "OpenAI高管Nick Turley：ChatGPT日活用户已突破9亿，付费订阅用户达5000万。",
+          "url": "https://flash.jin10.com/detail/20260228002339246800",
+          "source": "金十数据",
           "ranks": [
-            1
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时51分 ~ 17时52分]"
-        },
+          "appearance_count": 1,
+          "time_info": "00时50分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "Gemini",
+      "match_count": 1,
+      "titles": [
         {
-          "title": "唐国强也演短剧了",
-          "url": "https://www.douyin.com/hot/2412629",
-          "source": "抖音",
-          "ranks": [
-            30,
-            19,
-            13,
-            14,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[03时01分 ~ 13时57分]"
-        },
-        {
-          "title": "57岁周涛杀进短剧圈",
-          "url": "https://www.toutiao.com/trending/7610694767508193330/",
-          "source": "今日头条",
-          "ranks": [
-            19,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时01分 ~ 07时37分]"
-        },
-        {
-          "title": "刘晓庆短剧与小30岁演员拍吻戏",
-          "url": "https://www.toutiao.com/trending/7610530192855171113/",
-          "source": "今日头条",
-          "ranks": [
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时46分 ~ 06时41分]"
-        },
-        {
-          "title": "武汉东湖高新区发布“微短剧8条” 最高给予5000万支持",
-          "url": "https://wallstreetcn.com/livenews/3060287",
-          "source": "华尔街见闻-快讯",
+          "title": "三星之后是苹果！谷歌Gemini智能体API优先 AI手机入口之争将破局？",
+          "url": "https://www.cls.cn/detail/2297724",
+          "source": "财联社热门",
           "ranks": [
             13
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时13分"
-        },
-        {
-          "title": "唐国强也去演短剧了",
-          "url": "https://www.toutiao.com/trending/7610832805332779027/",
-          "source": "今日头条",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时01分"
+          "time_info": "00时50分"
         }
       ]
     },
     {
-      "keyword_group": "千问",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "千问抢占AI硬件入口，将在巴展发布AI眼镜",
-          "url": "https://wallstreetcn.com/livenews/3059937",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时37分"
-        },
-        {
-          "title": "阿里回应：夸克AI眼镜和千问AI眼镜是同一个团队推出的不同系列",
-          "url": "https://wallstreetcn.com/livenews/3060005",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时51分"
-        },
-        {
-          "title": "千问AI眼镜与夸克AI眼镜同团队研发 算法软硬件完全一致",
-          "url": "https://wallstreetcn.com/livenews/3060005",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时57分"
-        },
-        {
-          "title": "QuestMobile数据：头部三家AI应用春节DAU创新高，千问拿下最大涨幅",
-          "url": "https://wallstreetcn.com/livenews/3059966",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时51分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "Deepseek",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "如何评价消息称 DeepSeek V4 打破常规优先适配华为，冷落英伟达 AMD？会带来什么影响？",
-          "url": "https://www.zhihu.com/question/2010465986483025153",
-          "source": "知乎",
-          "ranks": [
-            10,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时37分 ~ 12时51分]"
-        },
-        {
-          "title": "DeepSeek联合清北重磅硬核论文：发力智能体底层基建，击穿Agent推理I/O瓶颈",
-          "url": "https://wallstreetcn.com/livenews/3059752",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时39分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "字节",
+      "keyword_group": "Apple",
       "match_count": 1,
       "titles": [
         {
-          "title": "字节旗下首个独立上市子公司要来了？懂车帝称“暂时不回应”",
-          "url": "https://wallstreetcn.com/livenews/3060129",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时51分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "智谱",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "智谱注册资本增至约4458万元",
-          "url": "https://wallstreetcn.com/livenews/3059897",
-          "source": "华尔街见闻-快讯",
+          "title": "特朗普在Truth Social上发布的FTC信件显示，FTC主席称，近期有报道指出，苹果(AAPL.O)Apple News系统性地推广来自左倾新闻媒体的报道，同时压制来自更为保守出版物的新闻文章。",
+          "url": "https://flash.jin10.com/detail/20260228002113568800",
+          "source": "金十数据",
           "ranks": [
             26
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时37分"
+          "time_info": "00时50分"
         }
       ]
     }
