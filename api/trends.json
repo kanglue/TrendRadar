@@ -1,12 +1,26 @@
 {
-  "generated_at": "2026-02-27T18:47:28.749120+08:00",
-  "total_titles_processed": 1492,
+  "generated_at": "2026-02-27T19:38:37.205187+08:00",
+  "total_titles_processed": 1591,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "短剧",
       "match_count": 6,
       "titles": [
+        {
+          "title": "人民日报评短剧“观看羞耻”",
+          "url": "https://www.baidu.com/s?wd=%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E8%AF%84%E7%9F%AD%E5%89%A7%E2%80%9C%E8%A7%82%E7%9C%8B%E7%BE%9E%E8%80%BB%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            5,
+            6,
+            7,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时06分 ~ 19时38分]"
+        },
         {
           "title": "短剧毁三观:总裁爱上小脑奶",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351075&amp;topic_name=%E7%9F%AD%E5%89%A7%E6%AF%81%E4%B8%89%E8%A7%82%3A%E6%80%BB%E8%A3%81%E7%88%B1%E4%B8%8A%E5%B0%8F%E8%84%91%E5%A5%B6",
@@ -32,20 +46,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[03时01分 ~ 13时57分]"
-        },
-        {
-          "title": "人民日报评短剧“观看羞耻”",
-          "url": "https://www.baidu.com/s?wd=%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E8%AF%84%E7%9F%AD%E5%89%A7%E2%80%9C%E8%A7%82%E7%9C%8B%E7%BE%9E%E8%80%BB%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            5,
-            6,
-            7,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时06分 ~ 18时47分]"
         },
         {
           "title": "57岁周涛杀进短剧圈",
