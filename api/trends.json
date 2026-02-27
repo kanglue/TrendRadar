@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-27T13:57:46.971570+08:00",
-  "total_titles_processed": 1051,
+  "generated_at": "2026-02-27T15:07:01.988490+08:00",
+  "total_titles_processed": 1151,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "短剧",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "唐国强也演短剧了",
@@ -21,6 +21,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[03时01分 ~ 13时57分]"
+        },
+        {
+          "title": "人民日报评短剧“观看羞耻”",
+          "url": "https://www.baidu.com/s?wd=%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E8%AF%84%E7%9F%AD%E5%89%A7%E2%80%9C%E8%A7%82%E7%9C%8B%E7%BE%9E%E8%80%BB%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时06分 ~ 15时07分]"
         },
         {
           "title": "57岁周涛杀进短剧圈",
@@ -81,7 +92,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时57分"
         },
