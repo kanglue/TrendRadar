@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-28T15:33:54.755130+08:00",
-  "total_titles_processed": 1244,
+  "generated_at": "2026-02-28T16:37:53.317051+08:00",
+  "total_titles_processed": 1382,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "短剧",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "“北大毕业当短剧演员”当事人发声",
@@ -26,11 +26,12 @@
           "source": "澎湃新闻",
           "ranks": [
             15,
-            13
+            13,
+            10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时20分 ~ 15时33分]"
+          "appearance_count": 6,
+          "time_info": "[12时20分 ~ 16时37分]"
         },
         {
           "title": "人民日报评短剧“观看羞耻”",
@@ -42,6 +43,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时50分"
+        },
+        {
+          "title": "痞幼短剧赛车女主具象化",
+          "url": "https://www.douyin.com/hot/2414371",
+          "source": "抖音",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时37分"
         }
       ]
     },
@@ -67,7 +79,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时33分"
         }
@@ -136,11 +148,12 @@
           "source": "知乎",
           "ranks": [
             16,
-            14
+            14,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时49分 ~ 15时33分]"
+          "appearance_count": 4,
+          "time_info": "[14时49分 ~ 16时37分]"
         }
       ]
     }
