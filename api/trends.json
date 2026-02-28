@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-28T13:38:28.880360+08:00",
-  "total_titles_processed": 1019,
+  "generated_at": "2026-02-28T14:50:08.837176+08:00",
+  "total_titles_processed": 1125,
   "failed_sources": [],
   "trends": [
     {
@@ -12,22 +12,24 @@
           "url": "https://www.baidu.com/s?wd=%E2%80%9C%E5%8C%97%E5%A4%A7%E6%AF%95%E4%B8%9A%E5%BD%93%E7%9F%AD%E5%89%A7%E6%BC%94%E5%91%98%E2%80%9D%E5%BD%93%E4%BA%8B%E4%BA%BA%E5%8F%91%E5%A3%B0",
           "source": "百度热搜",
           "ranks": [
-            4
+            4,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时20分 ~ 13时38分]"
+          "appearance_count": 4,
+          "time_info": "[12时20分 ~ 14时50分]"
         },
         {
           "title": "周涛唐国强朱时茂“玩票”短剧，折射行业发展现状",
           "url": "https://m.thepaper.cn/newsDetail_forward_32666048",
           "source": "澎湃新闻",
           "ranks": [
-            15
+            15,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时20分 ~ 13时38分]"
+          "appearance_count": 4,
+          "time_info": "[12时20分 ~ 14时50分]"
         },
         {
           "title": "人民日报评短剧“观看羞耻”",
@@ -73,8 +75,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时50分 ~ 13时38分]"
+          "appearance_count": 13,
+          "time_info": "[00时50分 ~ 14时50分]"
         }
       ]
     },
@@ -109,6 +111,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时26分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "大模型",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美国政府「首次封杀」全球头部大模型企业，美联邦机构停用 Anthropic 产品，会对市场造成何种影响？",
+          "url": "https://www.zhihu.com/question/2011015637259028204",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时49分 ~ 14时50分]"
         }
       ]
     }
