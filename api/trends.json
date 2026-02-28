@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-28T20:59:22.004776+08:00",
-  "total_titles_processed": 1876,
+  "generated_at": "2026-02-28T21:42:28.542721+08:00",
+  "total_titles_processed": 1958,
   "failed_sources": [],
   "trends": [
     {
@@ -19,8 +19,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时20分 ~ 20时59分]"
+          "appearance_count": 12,
+          "time_info": "[12时20分 ~ 21时42分]"
         },
         {
           "title": "“北大毕业当短剧演员”当事人发声",
@@ -83,9 +83,9 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时59分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时59分 ~ 21时42分]"
         },
         {
           "title": "DeepSeek将于下周发布其最新的大型语言模型V4。这是一款具有图片、视频和文本生成功能的“多模态”模型。",
@@ -177,11 +177,12 @@
             14,
             8,
             7,
-            6
+            6,
+            10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时49分 ~ 20时59分]"
+          "appearance_count": 9,
+          "time_info": "[14时49分 ~ 21时42分]"
         }
       ]
     }
