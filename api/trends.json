@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-02-28T16:37:53.317051+08:00",
-  "total_titles_processed": 1382,
+  "generated_at": "2026-02-28T17:34:06.084630+08:00",
+  "total_titles_processed": 1503,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "短剧",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "周涛唐国强朱时茂“玩票”短剧，折射行业发展现状",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32666048",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时20分 ~ 17时34分]"
+        },
         {
           "title": "“北大毕业当短剧演员”当事人发声",
           "url": "https://www.baidu.com/s?wd=%E2%80%9C%E5%8C%97%E5%A4%A7%E6%AF%95%E4%B8%9A%E5%BD%93%E7%9F%AD%E5%89%A7%E6%BC%94%E5%91%98%E2%80%9D%E5%BD%93%E4%BA%8B%E4%BA%BA%E5%8F%91%E5%A3%B0",
@@ -21,17 +34,15 @@
           "time_info": "[12时20分 ~ 15时33分]"
         },
         {
-          "title": "周涛唐国强朱时茂“玩票”短剧，折射行业发展现状",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32666048",
-          "source": "澎湃新闻",
+          "title": "老戏骨扎堆拍短剧",
+          "url": "https://www.toutiao.com/trending/7611087364057284644/",
+          "source": "今日头条",
           "ranks": [
-            15,
-            13,
-            10
+            17
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时20分 ~ 16时37分]"
+          "appearance_count": 2,
+          "time_info": "[17时33分 ~ 17时34分]"
         },
         {
           "title": "人民日报评短剧“观看羞耻”",
@@ -51,7 +62,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时37分"
         }
@@ -149,11 +160,12 @@
           "ranks": [
             16,
             14,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时49分 ~ 16时37分]"
+          "appearance_count": 6,
+          "time_info": "[14时49分 ~ 17时34分]"
         }
       ]
     }
