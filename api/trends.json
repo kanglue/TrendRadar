@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-28T17:34:06.084630+08:00",
-  "total_titles_processed": 1503,
+  "generated_at": "2026-02-28T18:31:50.434802+08:00",
+  "total_titles_processed": 1621,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             15,
             13,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时20分 ~ 17时34分]"
+          "appearance_count": 9,
+          "time_info": "[12时20分 ~ 18时31分]"
         },
         {
           "title": "“北大毕业当短剧演员”当事人发声",
@@ -38,11 +39,12 @@
           "url": "https://www.toutiao.com/trending/7611087364057284644/",
           "source": "今日头条",
           "ranks": [
-            17
+            17,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时33分 ~ 17时34分]"
+          "appearance_count": 3,
+          "time_info": "[17时33分 ~ 18时31分]"
         },
         {
           "title": "人民日报评短剧“观看羞耻”",
