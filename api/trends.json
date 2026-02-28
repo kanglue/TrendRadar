@@ -1,168 +1,22 @@
 {
-  "generated_at": "2026-02-28T23:32:05.354630+08:00",
-  "total_titles_processed": 2127,
+  "generated_at": "2026-03-01T00:35:32.181925+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "短剧",
-      "match_count": 5,
+      "match_count": 1,
       "titles": [
         {
           "title": "周涛唐国强朱时茂“玩票”短剧，折射行业发展现状",
           "url": "https://m.thepaper.cn/newsDetail_forward_32666048",
           "source": "澎湃新闻",
           "ranks": [
-            15,
-            13,
-            10,
-            9,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[12时20分 ~ 23时32分]"
-        },
-        {
-          "title": "“北大毕业当短剧演员”当事人发声",
-          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E5%8C%97%E5%A4%A7%E6%AF%95%E4%B8%9A%E5%BD%93%E7%9F%AD%E5%89%A7%E6%BC%94%E5%91%98%E2%80%9D%E5%BD%93%E4%BA%8B%E4%BA%BA%E5%8F%91%E5%A3%B0",
-          "source": "百度热搜",
-          "ranks": [
-            4,
-            13,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时20分 ~ 15时33分]"
-        },
-        {
-          "title": "老戏骨扎堆拍短剧",
-          "url": "https://www.toutiao.com/trending/7611087364057284644/",
-          "source": "今日头条",
-          "ranks": [
-            17,
-            23,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时33分 ~ 20时59分]"
-        },
-        {
-          "title": "人民日报评短剧“观看羞耻”",
-          "url": "https://www.baidu.com/s?wd=%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E8%AF%84%E7%9F%AD%E5%89%A7%E2%80%9C%E8%A7%82%E7%9C%8B%E7%BE%9E%E8%80%BB%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            22
+            6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时50分"
-        },
-        {
-          "title": "痞幼短剧赛车女主具象化",
-          "url": "https://www.douyin.com/hot/2414371",
-          "source": "抖音",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时37分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "Deepseek",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "如何评价 DeepSeek 发布新论文，提出一个名为「DualPath」的创新推理系统？有哪些亮点？",
-          "url": "https://www.zhihu.com/question/2010670686461452529",
-          "source": "知乎",
-          "ranks": [
-            3,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时59分 ~ 22时29分]"
-        },
-        {
-          "title": "DeepSeek将于下周发布其最新的大型语言模型V4。这是一款具有图片、视频和文本生成功能的“多模态”模型。",
-          "url": "https://flash.jin10.com/detail/20260228092015676800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时26分"
-        },
-        {
-          "title": "deepseek崩了",
-          "url": "https://s.weibo.com/weibo?q=deepseek%E5%B4%A9%E4%BA%86&t=31&band_rank=24&Refer=top",
-          "source": "微博",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时33分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "GPT",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "OpenAI高管Nick Turley：ChatGPT日活用户已突破9亿，付费订阅用户达5000万。",
-          "url": "https://flash.jin10.com/detail/20260228002339246800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时50分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "Gemini",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "三星之后是苹果！谷歌Gemini智能体API优先 AI手机入口之争将破局？",
-          "url": "https://www.cls.cn/detail/2297724",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时50分 ~ 15时33分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "Apple",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "特朗普在Truth Social上发布的FTC信件显示，FTC主席称，近期有报道指出，苹果(AAPL.O)Apple News系统性地推广来自左倾新闻媒体的报道，同时压制来自更为保守出版物的新闻文章。",
-          "url": "https://flash.jin10.com/detail/20260228002113568800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时50分"
+          "time_info": "00时35分"
         }
       ]
     },
@@ -175,16 +29,11 @@
           "url": "https://www.zhihu.com/question/2011015637259028204",
           "source": "知乎",
           "ranks": [
-            16,
-            14,
-            8,
-            7,
-            6,
             10
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[14时49分 ~ 23时32分]"
+          "appearance_count": 1,
+          "time_info": "00时35分"
         }
       ]
     }
