@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-28T18:31:50.434802+08:00",
-  "total_titles_processed": 1621,
+  "generated_at": "2026-02-28T19:26:32.348217+08:00",
+  "total_titles_processed": 1738,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时20分 ~ 18时31分]"
+          "appearance_count": 10,
+          "time_info": "[12时20分 ~ 19时26分]"
         },
         {
           "title": "“北大毕业当短剧演员”当事人发声",
@@ -163,11 +163,12 @@
             16,
             14,
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时49分 ~ 17时34分]"
+          "appearance_count": 7,
+          "time_info": "[14时49分 ~ 19时26分]"
         }
       ]
     }
