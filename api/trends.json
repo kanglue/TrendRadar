@@ -1,9 +1,7 @@
 {
-  "generated_at": "2026-03-01T16:40:22.137976+08:00",
-  "total_titles_processed": 1308,
-  "failed_sources": [
-    "wallstreetcn-hot"
-  ],
+  "generated_at": "2026-03-01T17:37:35.998716+08:00",
+  "total_titles_processed": 1382,
+  "failed_sources": [],
   "trends": [
     {
       "keyword_group": "短剧",
