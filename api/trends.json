@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-02T00:37:39.064648+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-03-02T01:28:40.708829+08:00",
+  "total_titles_processed": 360,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://s.weibo.com/weibo?q=AI%E7%9F%AD%E5%89%A7&t=31&band_rank=19&Refer=top",
           "source": "微博",
           "ranks": [
-            19
+            19,
+            18
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时37分"
+          "appearance_count": 2,
+          "time_info": "[00时37分 ~ 01时28分]"
         }
       ]
     },
@@ -29,11 +30,12 @@
           "url": "https://wallstreetcn.com/articles/3766412",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时37分"
+          "appearance_count": 2,
+          "time_info": "[00时37分 ~ 01时28分]"
         }
       ]
     }
