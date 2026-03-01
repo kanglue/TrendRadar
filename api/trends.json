@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-01T22:32:02.275614+08:00",
-  "total_titles_processed": 1755,
+  "generated_at": "2026-03-01T23:32:03.750561+08:00",
+  "total_titles_processed": 1835,
   "failed_sources": [],
   "trends": [
     {
@@ -25,11 +25,13 @@
           "source": "微博",
           "ranks": [
             30,
-            17
+            17,
+            24,
+            25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时02分 ~ 22时32分]"
+          "appearance_count": 5,
+          "time_info": "[21时02分 ~ 23时32分]"
         },
         {
           "title": "短剧四小花旦同框",
@@ -59,6 +61,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时52分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "MiniMax",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "下周重磅日程：中国两会、美国非农、伊朗局势进展、MiniMax京东B站财报",
+          "url": "https://wallstreetcn.com/articles/3766412",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时31分 ~ 23时32分]"
         }
       ]
     },
