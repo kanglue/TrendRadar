@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-02T18:55:51.872637+08:00",
-  "total_titles_processed": 1578,
+  "generated_at": "2026-03-02T19:36:13.051437+08:00",
+  "total_titles_processed": 1669,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             6,
             4,
-            3
+            3,
+            5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时39分 ~ 18时55分]"
+          "appearance_count": 11,
+          "time_info": "[10时39分 ~ 19时36分]"
         },
         {
           "title": "下周重磅日程：中国两会、美国非农、伊朗局势进展、MiniMax京东B站财报",
