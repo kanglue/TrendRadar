@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-03-03T05:45:10.621302+08:00",
-  "total_titles_processed": 590,
+  "generated_at": "2026-03-03T06:36:04.529514+08:00",
+  "total_titles_processed": 635,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "漫剧",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "财晓得丨播放量暴涨181倍！AI漫剧狂飙背后：资本涌入和版权争议",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32659631",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时35分 ~ 06时36分]"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://kanglue.github.io/TrendRadar/img/news.jpg"
 }
