@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-02T21:14:00.122096+08:00",
-  "total_titles_processed": 1800,
+  "generated_at": "2026-03-02T22:51:08.837400+08:00",
+  "total_titles_processed": 1936,
   "failed_sources": [],
   "trends": [
     {
@@ -101,11 +101,12 @@
           "source": "今日头条",
           "ranks": [
             9,
-            4
+            4,
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时11分 ~ 21时13分]"
+          "appearance_count": 4,
+          "time_info": "[15时11分 ~ 22时51分]"
         },
         {
           "title": "千问AI眼镜开启预约，到手价最低1997元",
