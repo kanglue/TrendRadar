@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-03T10:42:58.476760+08:00",
-  "total_titles_processed": 884,
+  "generated_at": "2026-03-03T12:52:41.343476+08:00",
+  "total_titles_processed": 1036,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "短剧",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "短剧梦影今日开播",
@@ -14,9 +14,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时42分"
+        },
+        {
+          "title": "谁懂在短剧梦影里看到了电影",
+          "url": "https://www.douyin.com/hot/2417180",
+          "source": "抖音",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时52分"
         }
       ]
     },
@@ -34,6 +45,23 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时35分 ~ 07时33分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "大模型",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "Claude卷入美以空袭伊朗实战？AI大模型正被纳入军事杀伤链引发担忧",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32684906",
+          "source": "澎湃新闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时52分"
         }
       ]
     }
