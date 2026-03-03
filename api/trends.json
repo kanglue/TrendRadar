@@ -1,109 +1,22 @@
 {
-  "generated_at": "2026-03-03T23:54:10.244163+08:00",
-  "total_titles_processed": 2062,
+  "generated_at": "2026-03-04T00:58:19.522158+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "短剧",
-      "match_count": 4,
+      "keyword_group": "Gemini",
+      "match_count": 1,
       "titles": [
         {
-          "title": "谁懂在短剧梦影里看到了电影",
-          "url": "https://www.douyin.com/hot/2417180",
-          "source": "抖音",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时52分 ~ 15时02分]"
-        },
-        {
-          "title": "短剧女主 时尚资源",
-          "url": "https://s.weibo.com/weibo?q=%E7%9F%AD%E5%89%A7%E5%A5%B3%E4%B8%BB%20%E6%97%B6%E5%B0%9A%E8%B5%84%E6%BA%90&t=31&band_rank=30&Refer=top",
-          "source": "微博",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时50分 ~ 19时39分]"
-        },
-        {
-          "title": "短剧梦影今日开播",
-          "url": "https://www.douyin.com/hot/2417180",
-          "source": "抖音",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时42分"
-        },
-        {
-          "title": "传红果短剧批量暂停真人短剧，官方暂无回应",
-          "url": "https://wallstreetcn.com/livenews/3062416",
+          "title": "谷歌公司推出Gemini 3.1 Flash-LITE模型。",
+          "url": "https://wallstreetcn.com/livenews/3062902",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时55分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "漫剧",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "财晓得丨播放量暴涨181倍！AI漫剧狂飙背后：资本涌入和版权争议",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32659631",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时35分 ~ 07时33分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "GPT",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "OpenAI的“五角大楼时刻”？ChatGPT卸载量暴增近300% 一星评分飙升775%",
-          "url": "https://www.cls.cn/detail/2300871",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时52分 ~ 22时53分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "Apple",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "如何评价 Apple 在 3 月 2 日 晚更新的 iPad Air M4，有哪些细节值得关注？",
-          "url": "https://www.zhihu.com/question/2011932852577650327",
-          "source": "知乎",
-          "ranks": [
-            20,
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时55分 ~ 16时52分]"
+          "appearance_count": 1,
+          "time_info": "00时58分"
         }
       ]
     },
@@ -116,32 +29,11 @@
           "url": "https://wallstreetcn.com/articles/3766588",
           "source": "华尔街见闻",
           "ranks": [
-            10,
-            9,
-            8
+            9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时52分 ~ 23时54分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "大模型",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "Claude卷入美以空袭伊朗实战？AI大模型正被纳入军事杀伤链引发担忧",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32684906",
-          "source": "澎湃新闻",
-          "ranks": [
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时52分 ~ 15时02分]"
+          "appearance_count": 1,
+          "time_info": "00时58分"
         }
       ]
     }
