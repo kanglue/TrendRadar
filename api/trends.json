@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-03T15:02:17.602772+08:00",
-  "total_titles_processed": 1244,
+  "generated_at": "2026-03-03T16:52:47.260990+08:00",
+  "total_titles_processed": 1401,
   "failed_sources": [],
   "trends": [
     {
@@ -60,6 +60,23 @@
       ]
     },
     {
+      "keyword_group": "GPT",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "OpenAI的“五角大楼时刻”？ChatGPT卸载量暴增近300% 一星评分飙升775%",
+          "url": "https://www.cls.cn/detail/2300871",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时52分"
+        }
+      ]
+    },
+    {
       "keyword_group": "Apple",
       "match_count": 1,
       "titles": [
@@ -68,11 +85,29 @@
           "url": "https://www.zhihu.com/question/2011932852577650327",
           "source": "知乎",
           "ranks": [
-            20
+            20,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时55分 ~ 15时02分]"
+          "appearance_count": 3,
+          "time_info": "[13时55分 ~ 16时52分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "MiniMax",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "沪指跌超1%，“三桶油”再度集体涨停，半导体产业链大跌，恒科指跌超2%，大模型股MINIMAX逆势涨超9%",
+          "url": "https://wallstreetcn.com/articles/3766588",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时52分"
         }
       ]
     },
