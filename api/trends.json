@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-03T17:53:23.142002+08:00",
-  "total_titles_processed": 1517,
+  "generated_at": "2026-03-03T18:50:49.639741+08:00",
+  "total_titles_processed": 1634,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "短剧",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "谁懂在短剧梦影里看到了电影",
@@ -39,6 +39,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时55分"
+        },
+        {
+          "title": "短剧女主 时尚资源",
+          "url": "https://s.weibo.com/weibo?q=%E7%9F%AD%E5%89%A7%E5%A5%B3%E4%B8%BB%20%E6%97%B6%E5%B0%9A%E8%B5%84%E6%BA%90&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时50分"
         }
       ]
     },
@@ -72,8 +83,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时52分 ~ 17时53分]"
+          "appearance_count": 3,
+          "time_info": "[16时52分 ~ 18时50分]"
         }
       ]
     },
@@ -108,8 +119,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时52分 ~ 17时53分]"
+          "appearance_count": 3,
+          "time_info": "[16时52分 ~ 18时50分]"
         }
       ]
     },
