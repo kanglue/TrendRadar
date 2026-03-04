@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-05T00:56:08.131080+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-03-05T01:45:51.550698+08:00",
+  "total_titles_processed": 377,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "短剧",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "AI真人微短剧爆火 演员会被替代吗",
@@ -15,8 +15,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时55分 ~ 00时56分]"
+          "appearance_count": 3,
+          "time_info": "[00时55分 ~ 01时45分]"
         },
         {
           "title": "吕红兵委员建言微短剧监管：不能因“短”而降低监管标准",
@@ -26,8 +26,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时55分 ~ 00时56分]"
+          "appearance_count": 3,
+          "time_info": "[00时55分 ~ 01时45分]"
         },
         {
           "title": "叶璇说拍短剧老爽了",
@@ -37,8 +37,30 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时55分 ~ 00时56分]"
+          "appearance_count": 3,
+          "time_info": "[00时55分 ~ 01时45分]"
+        },
+        {
+          "title": "张凯丽：不要认为短剧就可以糊弄",
+          "url": "https://www.baidu.com/s?wd=%E5%BC%A0%E5%87%AF%E4%B8%BD%EF%BC%9A%E4%B8%8D%E8%A6%81%E8%AE%A4%E4%B8%BA%E7%9F%AD%E5%89%A7%E5%B0%B1%E5%8F%AF%E4%BB%A5%E7%B3%8A%E5%BC%84",
+          "source": "百度热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时45分"
+        },
+        {
+          "title": "人大代表反问微短剧爽完之后呢",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BA%BA%E5%A4%A7%E4%BB%A3%E8%A1%A8%E5%8F%8D%E9%97%AE%E5%BE%AE%E7%9F%AD%E5%89%A7%E7%88%BD%E5%AE%8C%E4%B9%8B%E5%90%8E%E5%91%A2%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时45分"
         }
       ]
     },
@@ -54,8 +76,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时55分 ~ 00时56分]"
+          "appearance_count": 3,
+          "time_info": "[00时55分 ~ 01时45分]"
         }
       ]
     },
