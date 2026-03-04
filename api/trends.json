@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-05T03:01:27.456871+08:00",
-  "total_titles_processed": 439,
+  "generated_at": "2026-03-05T03:45:49.622362+08:00",
+  "total_titles_processed": 497,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时55分 ~ 03时01分]"
+          "appearance_count": 5,
+          "time_info": "[00时55分 ~ 03时45分]"
         },
         {
           "title": "吕红兵委员建言微短剧监管：不能因“短”而降低监管标准",
@@ -26,8 +26,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时55分 ~ 03时01分]"
+          "appearance_count": 5,
+          "time_info": "[00时55分 ~ 03时45分]"
         },
         {
           "title": "叶璇说拍短剧老爽了",
@@ -38,8 +38,21 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时55分 ~ 03时01分]"
+          "appearance_count": 5,
+          "time_info": "[00时55分 ~ 03时45分]"
+        },
+        {
+          "title": "人大代表反问微短剧爽完之后呢",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BA%BA%E5%A4%A7%E4%BB%A3%E8%A1%A8%E5%8F%8D%E9%97%AE%E5%BE%AE%E7%9F%AD%E5%89%A7%E7%88%BD%E5%AE%8C%E4%B9%8B%E5%90%8E%E5%91%A2%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30,
+            29,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时45分 ~ 03时45分]"
         },
         {
           "title": "张凯丽：不要认为短剧就可以糊弄",
@@ -50,20 +63,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时45分 ~ 03时01分]"
-        },
-        {
-          "title": "人大代表反问微短剧爽完之后呢",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BA%BA%E5%A4%A7%E4%BB%A3%E8%A1%A8%E5%8F%8D%E9%97%AE%E5%BE%AE%E7%9F%AD%E5%89%A7%E7%88%BD%E5%AE%8C%E4%B9%8B%E5%90%8E%E5%91%A2%23&t=31&band_rank=30&Refer=top",
-          "source": "微博",
-          "ranks": [
-            30,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时45分 ~ 03时01分]"
+          "appearance_count": 3,
+          "time_info": "[01时45分 ~ 03时45分]"
         }
       ]
     },
@@ -79,8 +80,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时55分 ~ 03时01分]"
+          "appearance_count": 5,
+          "time_info": "[00时55分 ~ 03时45分]"
         }
       ]
     },
