@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-04T19:37:41.618720+08:00",
-  "total_titles_processed": 1777,
+  "generated_at": "2026-03-04T21:11:05.498225+08:00",
+  "total_titles_processed": 1884,
   "failed_sources": [],
   "trends": [
     {
@@ -25,11 +25,12 @@
           "source": "百度热搜",
           "ranks": [
             16,
-            7
+            7,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时44分 ~ 19时37分]"
+          "appearance_count": 4,
+          "time_info": "[18时44分 ~ 21时11分]"
         },
         {
           "title": "淘宝凑齐短剧四小花旦",
@@ -86,11 +87,12 @@
             1,
             14,
             12,
-            13
+            13,
+            16
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时35分 ~ 19时37分]"
+          "appearance_count": 11,
+          "time_info": "[10时35分 ~ 21时11分]"
         },
         {
           "title": "突发！马云刚发声谈AI 阿里千问核心负责人林俊旸辞职",
@@ -99,11 +101,12 @@
           "ranks": [
             8,
             9,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时50分 ~ 19时37分]"
+          "appearance_count": 6,
+          "time_info": "[16时50分 ~ 21时11分]"
         }
       ]
     },
@@ -181,7 +184,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时37分"
         }
