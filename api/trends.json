@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-05T06:39:11.376328+08:00",
-  "total_titles_processed": 638,
+  "generated_at": "2026-03-05T07:37:22.883304+08:00",
+  "total_titles_processed": 690,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "短剧",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "吕红兵委员建言微短剧监管：不能因“短”而降低监管标准",
@@ -16,8 +16,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时55分 ~ 06时39分]"
+          "appearance_count": 10,
+          "time_info": "[00时55分 ~ 07时37分]"
         },
         {
           "title": "AI真人微短剧爆火 演员会被替代吗",
@@ -27,8 +27,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时55分 ~ 06时39分]"
+          "appearance_count": 10,
+          "time_info": "[00时55分 ~ 07时37分]"
         },
         {
           "title": "叶璇说拍短剧老爽了",
@@ -40,8 +40,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时55分 ~ 06时39分]"
+          "appearance_count": 10,
+          "time_info": "[00时55分 ~ 07时37分]"
         },
         {
           "title": "人大代表反问微短剧爽完之后呢",
@@ -54,8 +54,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时45分 ~ 06时39分]"
+          "appearance_count": 8,
+          "time_info": "[01时45分 ~ 07时37分]"
         },
         {
           "title": "张凯丽：不要认为短剧就可以糊弄",
@@ -64,11 +64,23 @@
           "ranks": [
             26,
             24,
-            27
+            27,
+            30
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时45分 ~ 04时39分]"
+          "appearance_count": 5,
+          "time_info": "[01时45分 ~ 07时37分]"
+        },
+        {
+          "title": "建议建立网络微短剧标准",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E5%BB%BA%E7%AB%8B%E7%BD%91%E7%BB%9C%E5%BE%AE%E7%9F%AD%E5%89%A7%E6%A0%87%E5%87%86%23&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时37分"
         }
       ]
     },
@@ -81,11 +93,12 @@
           "url": "https://www.zhihu.com/question/1922608207504867947",
           "source": "知乎",
           "ranks": [
-            10
+            10,
+            3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时55分 ~ 06时39分]"
+          "appearance_count": 10,
+          "time_info": "[00时55分 ~ 07时37分]"
         }
       ]
     },
