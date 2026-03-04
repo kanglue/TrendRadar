@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-05T03:45:49.622362+08:00",
-  "total_titles_processed": 497,
+  "generated_at": "2026-03-05T04:39:19.347936+08:00",
+  "total_titles_processed": 537,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时55分 ~ 03时45分]"
+          "appearance_count": 6,
+          "time_info": "[00时55分 ~ 04时39分]"
         },
         {
           "title": "吕红兵委员建言微短剧监管：不能因“短”而降低监管标准",
@@ -26,8 +26,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时55分 ~ 03时45分]"
+          "appearance_count": 6,
+          "time_info": "[00时55分 ~ 04时39分]"
         },
         {
           "title": "叶璇说拍短剧老爽了",
@@ -38,8 +38,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时55分 ~ 03时45分]"
+          "appearance_count": 6,
+          "time_info": "[00时55分 ~ 04时39分]"
         },
         {
           "title": "人大代表反问微短剧爽完之后呢",
@@ -48,11 +48,12 @@
           "ranks": [
             30,
             29,
-            20
+            20,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时45分 ~ 03时45分]"
+          "appearance_count": 4,
+          "time_info": "[01时45分 ~ 04时39分]"
         },
         {
           "title": "张凯丽：不要认为短剧就可以糊弄",
@@ -60,11 +61,12 @@
           "source": "百度热搜",
           "ranks": [
             26,
-            24
+            24,
+            27
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时45分 ~ 03时45分]"
+          "appearance_count": 4,
+          "time_info": "[01时45分 ~ 04时39分]"
         }
       ]
     },
@@ -80,8 +82,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时55分 ~ 03时45分]"
+          "appearance_count": 6,
+          "time_info": "[00时55分 ~ 04时39分]"
         }
       ]
     },
