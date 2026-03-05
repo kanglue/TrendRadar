@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-05T21:15:18.532642+08:00",
-  "total_titles_processed": 1713,
+  "generated_at": "2026-03-05T22:54:11.859739+08:00",
+  "total_titles_processed": 1836,
   "failed_sources": [],
   "trends": [
     {
@@ -63,6 +63,20 @@
           "time_info": "[01时45分 ~ 07时37分]"
         },
         {
+          "title": "政协委员：复仇、霸总短剧套路终将淘汰",
+          "url": "https://www.baidu.com/s?wd=%E6%94%BF%E5%8D%8F%E5%A7%94%E5%91%98%EF%BC%9A%E5%A4%8D%E4%BB%87%E3%80%81%E9%9C%B8%E6%80%BB%E7%9F%AD%E5%89%A7%E5%A5%97%E8%B7%AF%E7%BB%88%E5%B0%86%E6%B7%98%E6%B1%B0",
+          "source": "百度热搜",
+          "ranks": [
+            25,
+            21,
+            26,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时50分 ~ 22时54分]"
+        },
+        {
           "title": "张凯丽：不要认为短剧就可以糊弄",
           "url": "https://www.baidu.com/s?wd=%E5%BC%A0%E5%87%AF%E4%B8%BD%EF%BC%9A%E4%B8%8D%E8%A6%81%E8%AE%A4%E4%B8%BA%E7%9F%AD%E5%89%A7%E5%B0%B1%E5%8F%AF%E4%BB%A5%E7%B3%8A%E5%BC%84",
           "source": "百度热搜",
@@ -75,19 +89,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时45分 ~ 07时37分]"
-        },
-        {
-          "title": "政协委员：复仇、霸总短剧套路终将淘汰",
-          "url": "https://www.baidu.com/s?wd=%E6%94%BF%E5%8D%8F%E5%A7%94%E5%91%98%EF%BC%9A%E5%A4%8D%E4%BB%87%E3%80%81%E9%9C%B8%E6%80%BB%E7%9F%AD%E5%89%A7%E5%A5%97%E8%B7%AF%E7%BB%88%E5%B0%86%E6%B7%98%E6%B1%B0",
-          "source": "百度热搜",
-          "ranks": [
-            25,
-            21,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时50分 ~ 21时15分]"
         },
         {
           "title": "建议建立网络微短剧标准",
@@ -125,7 +126,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时15分"
         },
@@ -156,8 +157,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时39分 ~ 21时15分]"
+          "appearance_count": 4,
+          "time_info": "[19时39分 ~ 22时54分]"
         },
         {
           "title": "继林俊旸离职后，多位核心成员相继出走，阿里内部到底发生了啥？大模型赛道要告别英雄时代了吗？",
