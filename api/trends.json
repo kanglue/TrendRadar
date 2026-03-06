@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-03-06T07:56:03.898709+08:00",
-  "total_titles_processed": 588,
+  "generated_at": "2026-03-06T10:35:51.051372+08:00",
+  "total_titles_processed": 742,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "GPT",
-      "match_count": 3,
+      "match_count": 6,
       "titles": [
+        {
+          "title": "OpenAI发布GPT-5.4",
+          "url": "https://search.bilibili.com/all?keyword=OpenAI%E5%8F%91%E5%B8%83GPT-5.4",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时35分"
+        },
         {
           "title": "OpenAI发布GPT-5.4及GPT-5.4 Pro模型，支持高达100万token的上下文窗口",
           "url": "https://wallstreetcn.com/livenews/3064630",
@@ -32,6 +43,28 @@
           "time_info": "[03时59分 ~ 04时45分]"
         },
         {
+          "title": "OpenAI发布最强专业模型GPT-5.4，自动操作电脑，插件支持AI玩转Excel和金融分析",
+          "url": "https://wallstreetcn.com/articles/3766836",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时35分"
+        },
+        {
+          "title": "号称最强模型 OpenAI GPT-5.4发布",
+          "url": "https://www.baidu.com/s?wd=%E5%8F%B7%E7%A7%B0%E6%9C%80%E5%BC%BA%E6%A8%A1%E5%9E%8B+OpenAI+GPT-5.4%E5%8F%91%E5%B8%83",
+          "source": "百度热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时35分"
+        },
+        {
           "title": "OpenAI发布旗舰模型GPT-5.4 助力专业金融工作流程",
           "url": "https://flash.jin10.com/detail/20260306025523028800",
           "source": "金十数据",
@@ -46,7 +79,7 @@
     },
     {
       "keyword_group": "大模型",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "有数｜今年的政府工作报告，大模型读到了这些新词和热词",
@@ -54,11 +87,23 @@
           "source": "澎湃新闻",
           "ranks": [
             16,
-            17
+            17,
+            19
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[02时12分 ~ 07时56分]"
+          "appearance_count": 10,
+          "time_info": "[02时12分 ~ 10时35分]"
+        },
+        {
+          "title": "阿里否认大模型核心团队集体离职：团队稳定，服务正常，未设置商业化KPI",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32707241",
+          "source": "澎湃新闻",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时35分"
         }
       ]
     }
