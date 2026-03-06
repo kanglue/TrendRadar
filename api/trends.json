@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-06T12:47:48.558107+08:00",
-  "total_titles_processed": 908,
+  "generated_at": "2026-03-06T13:52:41.068356+08:00",
+  "total_titles_processed": 1016,
   "failed_sources": [],
   "trends": [
     {
@@ -24,11 +24,24 @@
           "source": "华尔街见闻",
           "ranks": [
             8,
-            6
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时35分 ~ 13时52分]"
+        },
+        {
+          "title": "详解OpenAI新模型GPT-5.4",
+          "url": "https://search.bilibili.com/all?keyword=%E8%AF%A6%E8%A7%A3OpenAI%E6%96%B0%E6%A8%A1%E5%9E%8BGPT-5.4",
+          "source": "bilibili 热搜",
+          "ranks": [
+            28,
+            18
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时35分 ~ 12时47分]"
+          "time_info": "[12时47分 ~ 13时52分]"
         },
         {
           "title": "OpenAI发布GPT-5.4及GPT-5.4 Pro模型，支持高达100万token的上下文窗口",
@@ -75,17 +88,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时59分"
-        },
-        {
-          "title": "详解OpenAI新模型GPT-5.4",
-          "url": "https://search.bilibili.com/all?keyword=%E8%AF%A6%E8%A7%A3OpenAI%E6%96%B0%E6%A8%A1%E5%9E%8BGPT-5.4",
-          "source": "bilibili 热搜",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时47分"
         }
       ]
     },
@@ -100,11 +102,12 @@
           "ranks": [
             16,
             17,
-            19
+            19,
+            20
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[02时12分 ~ 12时47分]"
+          "appearance_count": 12,
+          "time_info": "[02时12分 ~ 13时52分]"
         },
         {
           "title": "阿里否认大模型核心团队集体离职：团队稳定，服务正常，未设置商业化KPI",
@@ -114,8 +117,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时35分 ~ 12时47分]"
+          "appearance_count": 3,
+          "time_info": "[10时35分 ~ 13时52分]"
         }
       ]
     }
