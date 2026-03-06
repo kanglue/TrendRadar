@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-06T17:49:51.375696+08:00",
-  "total_titles_processed": 1433,
+  "generated_at": "2026-03-06T18:43:51.280815+08:00",
+  "total_titles_processed": 1542,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时35分 ~ 17时49分]"
+          "appearance_count": 9,
+          "time_info": "[10时35分 ~ 18时43分]"
         },
         {
           "title": "OpenAI发布GPT-5.4",
@@ -38,11 +38,12 @@
           "ranks": [
             11,
             10,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时47分 ~ 17时49分]"
+          "appearance_count": 4,
+          "time_info": "[15时47分 ~ 18时43分]"
         },
         {
           "title": "详解OpenAI新模型GPT-5.4",
@@ -87,7 +88,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时49分"
         },
@@ -153,11 +154,12 @@
           "ranks": [
             29,
             14,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时47分 ~ 17时49分]"
+          "appearance_count": 4,
+          "time_info": "[15时47分 ~ 18时43分]"
         },
         {
           "title": "千问持续推进AI生活服务落地",
@@ -166,7 +168,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时49分"
         }
@@ -185,8 +187,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时35分 ~ 17时49分]"
+          "appearance_count": 9,
+          "time_info": "[10时35分 ~ 18时43分]"
         },
         {
           "title": "有数｜今年的政府工作报告，大模型读到了这些新词和热词",
@@ -215,11 +217,12 @@
           "source": "微博",
           "ranks": [
             22,
-            21
+            21,
+            28
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时47分 ~ 17时49分]"
+          "appearance_count": 4,
+          "time_info": "[15时47分 ~ 18时43分]"
         }
       ]
     },
