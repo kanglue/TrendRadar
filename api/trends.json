@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-07T22:31:50.686928+08:00",
-  "total_titles_processed": 1648,
+  "generated_at": "2026-03-07T23:31:50.151610+08:00",
+  "total_titles_processed": 1719,
   "failed_sources": [],
   "trends": [
     {
@@ -44,8 +44,20 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时52分 ~ 22时31分]"
+          "appearance_count": 8,
+          "time_info": "[14时52分 ~ 23时31分]"
+        },
+        {
+          "title": "3人48小时做出5亿播放量AI短剧",
+          "url": "https://s.weibo.com/weibo?q=%233%E4%BA%BA48%E5%B0%8F%E6%97%B6%E5%81%9A%E5%87%BA5%E4%BA%BF%E6%92%AD%E6%94%BE%E9%87%8FAI%E7%9F%AD%E5%89%A7%23&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时31分 ~ 23时31分]"
         },
         {
           "title": "破5亿播放AI短剧成本仅3000元",
@@ -66,22 +78,12 @@
           "source": "知乎",
           "ranks": [
             9,
-            7
+            7,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时46分 ~ 22时31分]"
-        },
-        {
-          "title": "3人48小时做出5亿播放量AI短剧",
-          "url": "https://s.weibo.com/weibo?q=%233%E4%BA%BA48%E5%B0%8F%E6%97%B6%E5%81%9A%E5%87%BA5%E4%BA%BF%E6%92%AD%E6%94%BE%E9%87%8FAI%E7%9F%AD%E5%89%A7%23&t=31&band_rank=8&Refer=top",
-          "source": "微博",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时31分"
+          "appearance_count": 3,
+          "time_info": "[21时46分 ~ 23时31分]"
         },
         {
           "title": "国产AI短剧《霍去病》火到海外",
@@ -160,8 +162,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时01分 ~ 21时46分]"
+          "appearance_count": 4,
+          "time_info": "[21时01分 ~ 23时31分]"
         }
       ]
     },
