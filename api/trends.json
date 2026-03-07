@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-07T15:35:17.312183+08:00",
-  "total_titles_processed": 1120,
+  "generated_at": "2026-03-07T16:39:45.785444+08:00",
+  "total_titles_processed": 1232,
   "failed_sources": [],
   "trends": [
     {
@@ -50,11 +50,12 @@
           "url": "https://www.zhihu.com/question/2004583095244911914",
           "source": "知乎",
           "ranks": [
-            20
+            20,
+            17
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时52分"
+          "appearance_count": 2,
+          "time_info": "[14时52分 ~ 16时39分]"
         },
         {
           "title": "国产AI短剧《霍去病》火到海外",
@@ -123,6 +124,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时52分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "世界模型",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "全面解析世界模型",
+          "url": "https://search.bilibili.com/all?keyword=%E5%85%A8%E9%9D%A2%E8%A7%A3%E6%9E%90%E4%B8%96%E7%95%8C%E6%A8%A1%E5%9E%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时39分"
         }
       ]
     },
