@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-07T21:46:41.575847+08:00",
-  "total_titles_processed": 1588,
+  "generated_at": "2026-03-07T22:31:50.686928+08:00",
+  "total_titles_processed": 1648,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "短剧",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "破5亿播放AI短剧成本仅3000",
@@ -31,8 +31,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时52分 ~ 21时46分]"
+          "appearance_count": 10,
+          "time_info": "[00时52分 ~ 22时31分]"
         },
         {
           "title": "AI 短剧与 AI 漫剧正以低成本、高效率迅速崛起，这会颠覆传统短剧行业吗？此新兴行业未来前景如何？",
@@ -44,8 +44,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时52分 ~ 21时46分]"
+          "appearance_count": 7,
+          "time_info": "[14时52分 ~ 22时31分]"
         },
         {
           "title": "破5亿播放AI短剧成本仅3000元",
@@ -65,11 +65,23 @@
           "url": "https://www.zhihu.com/question/2013275268022757071",
           "source": "知乎",
           "ranks": [
-            9
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时46分 ~ 22时31分]"
+        },
+        {
+          "title": "3人48小时做出5亿播放量AI短剧",
+          "url": "https://s.weibo.com/weibo?q=%233%E4%BA%BA48%E5%B0%8F%E6%97%B6%E5%81%9A%E5%87%BA5%E4%BA%BF%E6%92%AD%E6%94%BE%E9%87%8FAI%E7%9F%AD%E5%89%A7%23&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时46分"
+          "time_info": "22时31分"
         },
         {
           "title": "国产AI短剧《霍去病》火到海外",
