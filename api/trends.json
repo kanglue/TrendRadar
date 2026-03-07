@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-03-08T00:36:23.650865+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-03-08T01:28:13.417182+08:00",
+  "total_titles_processed": 355,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "短剧",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "3人48小时做出5亿播放量AI短剧",
           "url": "https://s.weibo.com/weibo?q=%233%E4%BA%BA48%E5%B0%8F%E6%97%B6%E5%81%9A%E5%87%BA5%E4%BA%BF%E6%92%AD%E6%94%BE%E9%87%8FAI%E7%9F%AD%E5%89%A7%23&t=31&band_rank=15&Refer=top",
           "source": "微博",
           "ranks": [
-            15
+            15,
+            26
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时36分"
+          "appearance_count": 3,
+          "time_info": "[00时36分 ~ 01时28分]"
         },
         {
           "title": "AI 短剧与 AI 漫剧正以低成本、高效率迅速崛起，这会颠覆传统短剧行业吗？此新兴行业未来前景如何？",
@@ -26,8 +27,19 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时36分"
+          "appearance_count": 3,
+          "time_info": "[00时36分 ~ 01时28分]"
+        },
+        {
+          "title": "靳东：“雷人”短剧不会存在太久",
+          "url": "https://www.baidu.com/s?wd=%E9%9D%B3%E4%B8%9C%EF%BC%9A%E2%80%9C%E9%9B%B7%E4%BA%BA%E2%80%9D%E7%9F%AD%E5%89%A7%E4%B8%8D%E4%BC%9A%E5%AD%98%E5%9C%A8%E5%A4%AA%E4%B9%85",
+          "source": "百度热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时27分 ~ 01时28分]"
         }
       ]
     },
@@ -43,8 +55,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时36分"
+          "appearance_count": 3,
+          "time_info": "[00时36分 ~ 01时28分]"
         }
       ]
     }
