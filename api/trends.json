@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-08T01:28:13.417182+08:00",
-  "total_titles_processed": 355,
+  "generated_at": "2026-03-08T02:43:11.618855+08:00",
+  "total_titles_processed": 414,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "短剧",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "3人48小时做出5亿播放量AI短剧",
@@ -13,11 +13,12 @@
           "source": "微博",
           "ranks": [
             15,
-            26
+            26,
+            30
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时36分 ~ 01时28分]"
+          "appearance_count": 5,
+          "time_info": "[00时36分 ~ 02时43分]"
         },
         {
           "title": "AI 短剧与 AI 漫剧正以低成本、高效率迅速崛起，这会颠覆传统短剧行业吗？此新兴行业未来前景如何？",
@@ -27,19 +28,31 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时36分 ~ 01时28分]"
+          "appearance_count": 5,
+          "time_info": "[00时36分 ~ 02时43分]"
         },
         {
           "title": "靳东：“雷人”短剧不会存在太久",
           "url": "https://www.baidu.com/s?wd=%E9%9D%B3%E4%B8%9C%EF%BC%9A%E2%80%9C%E9%9B%B7%E4%BA%BA%E2%80%9D%E7%9F%AD%E5%89%A7%E4%B8%8D%E4%BC%9A%E5%AD%98%E5%9C%A8%E5%A4%AA%E4%B9%85",
           "source": "百度热搜",
           "ranks": [
-            24
+            24,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时27分 ~ 02时43分]"
+        },
+        {
+          "title": "破5亿播放AI短剧成本仅3000元",
+          "url": "https://www.toutiao.com/trending/7614214812960034340/",
+          "source": "今日头条",
+          "ranks": [
+            7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时27分 ~ 01时28分]"
+          "time_info": "[02时42分 ~ 02时43分]"
         }
       ]
     },
