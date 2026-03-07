@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-08T06:31:15.883644+08:00",
-  "total_titles_processed": 543,
+  "generated_at": "2026-03-08T07:31:01.104144+08:00",
+  "total_titles_processed": 586,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             15,
             26,
             30,
-            28
+            28,
+            29
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时36分 ~ 06时31分]"
+          "appearance_count": 10,
+          "time_info": "[00时36分 ~ 07时31分]"
         },
         {
           "title": "靳东：“雷人”短剧不会存在太久",
