@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-07T16:39:45.785444+08:00",
-  "total_titles_processed": 1232,
+  "generated_at": "2026-03-07T17:36:17.495835+08:00",
+  "total_titles_processed": 1334,
   "failed_sources": [],
   "trends": [
     {
@@ -54,8 +54,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时52分 ~ 16时39分]"
+          "appearance_count": 3,
+          "time_info": "[14时52分 ~ 17时36分]"
         },
         {
           "title": "国产AI短剧《霍去病》火到海外",
@@ -138,7 +138,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时39分"
         }
