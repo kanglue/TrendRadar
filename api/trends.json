@@ -1,12 +1,26 @@
 {
-  "generated_at": "2026-03-08T05:28:45.833864+08:00",
-  "total_titles_processed": 526,
+  "generated_at": "2026-03-08T06:31:15.883644+08:00",
+  "total_titles_processed": 543,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "短剧",
       "match_count": 4,
       "titles": [
+        {
+          "title": "3人48小时做出5亿播放量AI短剧",
+          "url": "https://s.weibo.com/weibo?q=%233%E4%BA%BA48%E5%B0%8F%E6%97%B6%E5%81%9A%E5%87%BA5%E4%BA%BF%E6%92%AD%E6%94%BE%E9%87%8FAI%E7%9F%AD%E5%89%A7%23&t=31&band_rank=15&Refer=top",
+          "source": "微博",
+          "ranks": [
+            15,
+            26,
+            30,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时36分 ~ 06时31分]"
+        },
         {
           "title": "靳东：“雷人”短剧不会存在太久",
           "url": "https://www.baidu.com/s?wd=%E9%9D%B3%E4%B8%9C%EF%BC%9A%E2%80%9C%E9%9B%B7%E4%BA%BA%E2%80%9D%E7%9F%AD%E5%89%A7%E4%B8%8D%E4%BC%9A%E5%AD%98%E5%9C%A8%E5%A4%AA%E4%B9%85",
@@ -20,20 +34,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时27分 ~ 05时28分]"
-        },
-        {
-          "title": "3人48小时做出5亿播放量AI短剧",
-          "url": "https://s.weibo.com/weibo?q=%233%E4%BA%BA48%E5%B0%8F%E6%97%B6%E5%81%9A%E5%87%BA5%E4%BA%BF%E6%92%AD%E6%94%BE%E9%87%8FAI%E7%9F%AD%E5%89%A7%23&t=31&band_rank=15&Refer=top",
-          "source": "微博",
-          "ranks": [
-            15,
-            26,
-            30,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时36分 ~ 05时28分]"
         },
         {
           "title": "破5亿播放AI短剧成本仅3000元",
