@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-07T10:29:33.678457+08:00",
-  "total_titles_processed": 778,
+  "generated_at": "2026-03-07T12:26:20.052022+08:00",
+  "total_titles_processed": 910,
   "failed_sources": [],
   "trends": [
     {
@@ -29,8 +29,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时52分 ~ 10时29分]"
+          "appearance_count": 4,
+          "time_info": "[00时52分 ~ 12时26分]"
         },
         {
           "title": "破5亿播放AI短剧成本仅3000元",
@@ -39,9 +39,9 @@
           "ranks": [
             7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时29分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时29分 ~ 12时26分]"
         },
         {
           "title": "国产AI短剧《霍去病》火到海外",
