@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-03-07T07:34:47.780579+08:00",
-  "total_titles_processed": 607,
+  "generated_at": "2026-03-07T10:29:33.678457+08:00",
+  "total_titles_processed": 778,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "短剧",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "破5亿播放AI短剧成本仅3000",
           "url": "https://www.baidu.com/s?wd=%E7%A0%B45%E4%BA%BF%E6%92%AD%E6%94%BEAI%E7%9F%AD%E5%89%A7%E6%88%90%E6%9C%AC%E4%BB%853000",
           "source": "百度热搜",
           "ranks": [
-            7
+            7,
+            23
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时52分 ~ 07时34分]"
+          "appearance_count": 10,
+          "time_info": "[00时52分 ~ 10时29分]"
         },
         {
           "title": "AI短剧霍去病持续刷屏",
@@ -24,11 +25,23 @@
           "source": "抖音",
           "ranks": [
             23,
-            28
+            28,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时52分 ~ 01时41分]"
+          "appearance_count": 3,
+          "time_info": "[00时52分 ~ 10时29分]"
+        },
+        {
+          "title": "破5亿播放AI短剧成本仅3000元",
+          "url": "https://www.toutiao.com/trending/7614214812960034340/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时29分"
         },
         {
           "title": "国产AI短剧《霍去病》火到海外",
