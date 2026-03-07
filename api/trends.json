@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-07T19:27:23.824203+08:00",
-  "total_titles_processed": 1465,
+  "generated_at": "2026-03-07T21:02:01.832797+08:00",
+  "total_titles_processed": 1550,
   "failed_sources": [],
   "trends": [
     {
@@ -26,11 +26,25 @@
           "ranks": [
             23,
             28,
-            30
+            30,
+            24
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时52分 ~ 14时52分]"
+          "appearance_count": 8,
+          "time_info": "[00时52分 ~ 21时02分]"
+        },
+        {
+          "title": "AI 短剧与 AI 漫剧正以低成本、高效率迅速崛起，这会颠覆传统短剧行业吗？此新兴行业未来前景如何？",
+          "url": "https://www.zhihu.com/question/2004583095244911914",
+          "source": "知乎",
+          "ranks": [
+            20,
+            17,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时52分 ~ 21时02分]"
         },
         {
           "title": "破5亿播放AI短剧成本仅3000元",
@@ -44,18 +58,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[10时29分 ~ 14时52分]"
-        },
-        {
-          "title": "AI 短剧与 AI 漫剧正以低成本、高效率迅速崛起，这会颠覆传统短剧行业吗？此新兴行业未来前景如何？",
-          "url": "https://www.zhihu.com/question/2004583095244911914",
-          "source": "知乎",
-          "ranks": [
-            20,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时52分 ~ 17时36分]"
         },
         {
           "title": "国产AI短剧《霍去病》火到海外",
@@ -86,7 +88,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时27分"
         }
@@ -118,6 +120,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时52分 ~ 01时41分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "Apple",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "如何评价 Apple 全新推出的 Studio Display XDR，有哪些细节值得关注？",
+          "url": "https://www.zhihu.com/question/2012297721298563080",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时01分 ~ 21时02分]"
         }
       ]
     },
