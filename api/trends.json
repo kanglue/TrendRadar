@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-09T06:31:54.485955+08:00",
-  "total_titles_processed": 513,
+  "generated_at": "2026-03-09T07:32:13.658940+08:00",
+  "total_titles_processed": 563,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "短剧",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "3000元成本AI短剧5亿播放？导演澄清",
@@ -15,8 +15,19 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时37分 ~ 06时31分]"
+          "appearance_count": 11,
+          "time_info": "[00时37分 ~ 07时32分]"
+        },
+        {
+          "title": "短剧女主把宠粉玩明白了",
+          "url": "https://www.douyin.com/hot/2423571",
+          "source": "抖音",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时31分 ~ 07时32分]"
         }
       ]
     }
