@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-08T15:36:11.498709+08:00",
-  "total_titles_processed": 1031,
+  "generated_at": "2026-03-08T16:39:35.901569+08:00",
+  "total_titles_processed": 1103,
   "failed_sources": [],
   "trends": [
     {
@@ -94,11 +94,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            6
+            6,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时53分 ~ 15时36分]"
+          "appearance_count": 3,
+          "time_info": "[14时53分 ~ 16时39分]"
         },
         {
           "title": "千问AI眼镜G1现货开售",
