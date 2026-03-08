@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-08T21:02:32.805017+08:00",
-  "total_titles_processed": 1360,
+  "generated_at": "2026-03-08T22:32:20.195352+08:00",
+  "total_titles_processed": 1463,
   "failed_sources": [],
   "trends": [
     {
@@ -78,9 +78,9 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时02分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时02分 ~ 22时32分]"
         },
         {
           "title": "破 5 亿播放 AI 短剧成本仅 3000，这是新的风口吗？给影视行业带来哪些影响？",
