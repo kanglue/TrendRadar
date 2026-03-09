@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-10T06:36:56.825052+08:00",
-  "total_titles_processed": 659,
+  "generated_at": "2026-03-10T07:38:47.386144+08:00",
+  "total_titles_processed": 735,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             25,
             26,
-            21
+            21,
+            16
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时07分 ~ 06时36分]"
+          "appearance_count": 7,
+          "time_info": "[00时07分 ~ 07时38分]"
         }
       ]
     },
@@ -32,11 +33,29 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时07分 ~ 06时36分]"
+          "appearance_count": 8,
+          "time_info": "[00时07分 ~ 07时38分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "MiniMax",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "AH股低开高走，“龙虾”概念股爆发，油气股涨幅收窄，恒科指逼近翻红，大模型股MINIMAX暴涨超23%",
+          "url": "https://wallstreetcn.com/articles/3767001",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时38分"
         }
       ]
     },
@@ -49,11 +68,12 @@
           "url": "https://wallstreetcn.com/articles/3766992",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时07分 ~ 06时36分]"
+          "appearance_count": 8,
+          "time_info": "[00时07分 ~ 07时38分]"
         }
       ]
     }
