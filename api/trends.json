@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-09T18:58:15.545155+08:00",
-  "total_titles_processed": 1472,
+  "generated_at": "2026-03-09T19:41:17.250893+08:00",
+  "total_titles_processed": 1548,
   "failed_sources": [],
   "trends": [
     {
@@ -27,8 +27,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时00分 ~ 18时58分]"
+          "appearance_count": 5,
+          "time_info": "[18时00分 ~ 19时41分]"
         },
         {
           "title": "港股收盘：恒生指数收跌1.35%，恒生科技指数收跌0.12%，MiniMax收涨超23%，山东墨龙上涨25%；南向资金净买入额超370亿港元，创历史最高单日净买入纪录。",
@@ -83,8 +83,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时57分 ~ 18时58分]"
+          "appearance_count": 3,
+          "time_info": "[18时57分 ~ 19时41分]"
         }
       ]
     },
@@ -120,8 +120,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时43分 ~ 18时58分]"
+          "appearance_count": 11,
+          "time_info": "[10时43分 ~ 19时41分]"
         }
       ]
     }
