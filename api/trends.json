@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-10T13:52:30.073277+08:00",
-  "total_titles_processed": 1133,
+  "generated_at": "2026-03-10T15:02:09.220584+08:00",
+  "total_titles_processed": 1230,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://wallstreetcn.com/articles/3767001",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时38分"
+          "appearance_count": 3,
+          "time_info": "[07时38分 ~ 15时02分]"
         },
         {
           "title": "MiniMax盘初涨幅一度扩大至11％，股价突破1000港元关口，目前涨幅收窄至8.6%。",
@@ -45,11 +46,12 @@
             21,
             16,
             27,
-            30
+            30,
+            20
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时07分 ~ 13时52分]"
+          "appearance_count": 12,
+          "time_info": "[00时07分 ~ 15时02分]"
         }
       ]
     },
@@ -66,11 +68,12 @@
             9,
             7,
             6,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时07分 ~ 13时52分]"
+          "appearance_count": 14,
+          "time_info": "[00时07分 ~ 15时02分]"
         }
       ]
     },
