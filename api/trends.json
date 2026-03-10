@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-10T21:16:29.227142+08:00",
-  "total_titles_processed": 1868,
+  "generated_at": "2026-03-10T22:57:00.845941+08:00",
+  "total_titles_processed": 2007,
   "failed_sources": [],
   "trends": [
     {
@@ -29,6 +29,35 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时34分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "大模型",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "首个龙虾大模型排行榜来了！两个国产 AI 杀进全球前三，养虾前必看",
+          "url": "https://wallstreetcn.com/articles/3766992",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时07分 ~ 07时38分]"
+        },
+        {
+          "title": "代表委员热聊新质生产力：大模型读到这些高频词",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32733353",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时56分 ~ 22时57分]"
         }
       ]
     },
@@ -162,24 +191,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时34分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "大模型",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "首个龙虾大模型排行榜来了！两个国产 AI 杀进全球前三，养虾前必看",
-          "url": "https://wallstreetcn.com/articles/3766992",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时07分 ~ 07时38分]"
         }
       ]
     }
