@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-11T18:50:38.375931+08:00",
-  "total_titles_processed": 1571,
+  "generated_at": "2026-03-11T19:39:38.909058+08:00",
+  "total_titles_processed": 1653,
   "failed_sources": [],
   "trends": [
     {
@@ -68,7 +68,7 @@
     },
     {
       "keyword_group": "短剧",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "微短剧品质盛典红毯：短剧熟人都来了，主持人是刘萧旭",
@@ -81,8 +81,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时48分 ~ 18时50分]"
+          "appearance_count": 8,
+          "time_info": "[12时48分 ~ 19时39分]"
         },
         {
           "title": "短剧中老年演员日薪达上千元",
@@ -108,6 +108,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时36分 ~ 07时34分]"
+        },
+        {
+          "title": "靳东谈不看不拍短剧原因",
+          "url": "https://www.baidu.com/s?wd=%E9%9D%B3%E4%B8%9C%E8%B0%88%E4%B8%8D%E7%9C%8B%E4%B8%8D%E6%8B%8D%E7%9F%AD%E5%89%A7%E5%8E%9F%E5%9B%A0",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时39分"
         }
       ]
     },
