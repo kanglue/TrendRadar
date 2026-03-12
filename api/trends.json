@@ -1,93 +1,8 @@
 {
-  "generated_at": "2026-03-12T22:57:25.951978+08:00",
-  "total_titles_processed": 1865,
+  "generated_at": "2026-03-13T00:07:22.584983+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
-    {
-      "keyword_group": "大模型",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "2026AWE探营：家电AI化，大模型“养龙虾”，机器人、智能眼镜齐亮相",
-          "url": "https://www.cls.cn/detail/2310365",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            11,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时53分 ~ 17时53分]"
-        },
-        {
-          "title": "英伟达将豪掷260亿美元开发AI大模型",
-          "url": "https://wallstreetcn.com/livenews/3068642",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时08分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "短剧",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "短剧市场爆抢“董事长爹”",
-          "url": "https://www.baidu.com/s?wd=%E7%9F%AD%E5%89%A7%E5%B8%82%E5%9C%BA%E7%88%86%E6%8A%A2%E2%80%9C%E8%91%A3%E4%BA%8B%E9%95%BF%E7%88%B9%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            22,
-            7,
-            25,
-            26,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时53分 ~ 17时53分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "字节",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "报道：原千问后训练负责人郁博文据悉加盟字节Seed，曾与林俊旸同日宣布离职",
-          "url": "https://wallstreetcn.com/livenews/3068592",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时57分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "Deepseek",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "如何评价 openrouter 上疑似 deepseek V4 的匿名模型 Hunter Alpha ？",
-          "url": "https://www.zhihu.com/question/2015404541256959842",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时16分"
-        }
-      ]
-    },
     {
       "keyword_group": "MiniMax",
       "match_count": 1,
@@ -97,33 +12,11 @@
           "url": "https://www.zhihu.com/question/2015029846779065089",
           "source": "知乎",
           "ranks": [
-            18,
-            5,
-            10,
-            9,
-            7,
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时08分 ~ 22时57分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "爱诗科技",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "爱诗科技完成3亿美元C轮融资",
-          "url": "https://wallstreetcn.com/livenews/3068621",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时08分"
+          "time_info": "00时07分"
         }
       ]
     }
