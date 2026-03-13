@@ -1,8 +1,38 @@
 {
-  "generated_at": "2026-03-13T10:37:49.770983+08:00",
-  "total_titles_processed": 828,
+  "generated_at": "2026-03-13T12:50:39.500952+08:00",
+  "total_titles_processed": 973,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "MiniMax",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "MiniMax 市值超越百度，智谱市值超京东，如何看待资本市场给予 AI 企业更高溢价？",
+          "url": "https://www.zhihu.com/question/2015029846779065089",
+          "source": "知乎",
+          "ranks": [
+            2,
+            3,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时07分 ~ 03时03分]"
+        },
+        {
+          "title": "Baillie Gifford重仓中国AI赛道 MiniMax成新宠",
+          "url": "https://wallstreetcn.com/livenews/3069370",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时50分"
+        }
+      ]
+    },
     {
       "keyword_group": "大模型",
       "match_count": 2,
@@ -12,11 +42,12 @@
           "url": "https://www.zhihu.com/question/1662306083",
           "source": "知乎",
           "ranks": [
-            4
+            4,
+            1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时37分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时37分 ~ 12时50分]"
         },
         {
           "title": "AWE2026探展来了！大厂押注“物理AI” 大模型融入传统家电",
@@ -25,9 +56,9 @@
           "ranks": [
             5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时37分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时37分 ~ 12时50分]"
         }
       ]
     },
@@ -42,28 +73,9 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时37分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "MiniMax",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "MiniMax 市值超越百度，智谱市值超京东，如何看待资本市场给予 AI 企业更高溢价？",
-          "url": "https://www.zhihu.com/question/2015029846779065089",
-          "source": "知乎",
-          "ranks": [
-            2,
-            3,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时07分 ~ 03时03分]"
         }
       ]
     }
