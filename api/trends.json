@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-13T21:14:31.537060+08:00",
-  "total_titles_processed": 1746,
+  "generated_at": "2026-03-13T22:51:18.049742+08:00",
+  "total_titles_processed": 1877,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时51分 ~ 21时14分]"
+          "appearance_count": 8,
+          "time_info": "[16时51分 ~ 22时51分]"
         },
         {
           "title": "短剧会取代长剧的地位吗?",
@@ -92,6 +92,23 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[10时37分 ~ 15时03分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "Deepseek",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "DeepSeek V4 为什么还不发布？",
+          "url": "https://www.zhihu.com/question/2014783631814580088",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时51分"
         }
       ]
     },
