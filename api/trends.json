@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-13T12:50:39.500952+08:00",
-  "total_titles_processed": 973,
+  "generated_at": "2026-03-13T13:55:29.216896+08:00",
+  "total_titles_processed": 1067,
   "failed_sources": [],
   "trends": [
     {
@@ -25,11 +25,12 @@
           "url": "https://wallstreetcn.com/livenews/3069370",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            7,
+            26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时50分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时50分 ~ 13时55分]"
         }
       ]
     },
@@ -46,8 +47,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时37分 ~ 12时50分]"
+          "appearance_count": 3,
+          "time_info": "[10时37分 ~ 13时55分]"
         },
         {
           "title": "AWE2026探展来了！大厂押注“物理AI” 大模型融入传统家电",
@@ -57,8 +58,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时37分 ~ 12时50分]"
+          "appearance_count": 3,
+          "time_info": "[10时37分 ~ 13时55分]"
         }
       ]
     },
