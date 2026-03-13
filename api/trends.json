@@ -1,8 +1,53 @@
 {
-  "generated_at": "2026-03-13T07:35:10.406399+08:00",
-  "total_titles_processed": 666,
+  "generated_at": "2026-03-13T10:37:49.770983+08:00",
+  "total_titles_processed": 828,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "大模型",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "大模型的 token 究竟是什么？",
+          "url": "https://www.zhihu.com/question/1662306083",
+          "source": "知乎",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时37分"
+        },
+        {
+          "title": "AWE2026探展来了！大厂押注“物理AI” 大模型融入传统家电",
+          "url": "https://www.cls.cn/detail/2311468",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时37分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "短剧",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "短剧会取代长剧的地位吗?",
+          "url": "https://www.zhihu.com/question/2501562100",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时37分"
+        }
+      ]
+    },
     {
       "keyword_group": "MiniMax",
       "match_count": 1,
