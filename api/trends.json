@@ -1,8 +1,36 @@
 {
-  "generated_at": "2026-03-13T15:03:51.490497+08:00",
-  "total_titles_processed": 1178,
+  "generated_at": "2026-03-13T16:52:08.483710+08:00",
+  "total_titles_processed": 1308,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "短剧",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "竖屏市场格局突变，真人短剧项目骤减，AI 漫剧迎爆发式增长规模突破 200 亿，怎样看待未来发展趋势？",
+          "url": "https://www.zhihu.com/question/2012836051480178728",
+          "source": "知乎",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时51分 ~ 16时52分]"
+        },
+        {
+          "title": "短剧会取代长剧的地位吗?",
+          "url": "https://www.zhihu.com/question/2501562100",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时37分"
+        }
+      ]
+    },
     {
       "keyword_group": "MiniMax",
       "match_count": 2,
@@ -44,11 +72,12 @@
           "source": "知乎",
           "ranks": [
             4,
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时37分 ~ 15时03分]"
+          "appearance_count": 6,
+          "time_info": "[10时37分 ~ 16时52分]"
         },
         {
           "title": "AWE2026探展来了！大厂押注“物理AI” 大模型融入传统家电",
@@ -64,19 +93,19 @@
       ]
     },
     {
-      "keyword_group": "短剧",
+      "keyword_group": "万相",
       "match_count": 1,
       "titles": [
         {
-          "title": "短剧会取代长剧的地位吗?",
-          "url": "https://www.zhihu.com/question/2501562100",
-          "source": "知乎",
+          "title": "花10万相亲匹配5个70后报警",
+          "url": "https://www.baidu.com/s?wd=%E8%8A%B110%E4%B8%87%E7%9B%B8%E4%BA%B2%E5%8C%B9%E9%85%8D5%E4%B8%AA70%E5%90%8E%E6%8A%A5%E8%AD%A6",
+          "source": "百度热搜",
           "ranks": [
-            5
+            26
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时37分"
+          "appearance_count": 2,
+          "time_info": "[16时51分 ~ 16时52分]"
         }
       ]
     }
