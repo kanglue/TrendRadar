@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-15T01:33:48.182669+08:00",
-  "total_titles_processed": 344,
+  "generated_at": "2026-03-15T02:50:09.085821+08:00",
+  "total_titles_processed": 369,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.zhihu.com/question/1986155615169574349",
           "source": "知乎",
           "ranks": [
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时39分 ~ 01时33分]"
+          "appearance_count": 5,
+          "time_info": "[00时39分 ~ 02时50分]"
         },
         {
           "title": "据The Information：因与好莱坞存在版权纠纷，字节跳动暂停推出视频AI模型。",
@@ -24,11 +25,12 @@
           "source": "金十数据",
           "ranks": [
             6,
-            17
+            17,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时40分 ~ 01时33分]"
+          "appearance_count": 3,
+          "time_info": "[00时40分 ~ 02时50分]"
         }
       ]
     },
@@ -42,11 +44,12 @@
           "source": "知乎",
           "ranks": [
             19,
-            13
+            13,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时39分 ~ 01时33分]"
+          "appearance_count": 5,
+          "time_info": "[00时39分 ~ 02时50分]"
         }
       ]
     },
@@ -62,8 +65,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时39分 ~ 01时33分]"
+          "appearance_count": 5,
+          "time_info": "[00时39分 ~ 02时50分]"
         }
       ]
     }
