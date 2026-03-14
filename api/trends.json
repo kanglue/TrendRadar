@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-14T16:44:11.365922+08:00",
-  "total_titles_processed": 1152,
+  "generated_at": "2026-03-14T17:40:43.371987+08:00",
+  "total_titles_processed": 1217,
   "failed_sources": [],
   "trends": [
     {
@@ -39,6 +39,23 @@
       ]
     },
     {
+      "keyword_group": "短剧",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "央视主持人怎么也开始拍短剧了",
+          "url": "https://s.weibo.com/weibo?q=%E5%A4%AE%E8%A7%86%E4%B8%BB%E6%8C%81%E4%BA%BA%E6%80%8E%E4%B9%88%E4%B9%9F%E5%BC%80%E5%A7%8B%E6%8B%8D%E7%9F%AD%E5%89%A7%E4%BA%86&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时40分"
+        }
+      ]
+    },
+    {
       "keyword_group": "大模型",
       "match_count": 1,
       "titles": [
@@ -53,8 +70,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时53分 ~ 16时44分]"
+          "appearance_count": 7,
+          "time_info": "[13时53分 ~ 17时40分]"
         }
       ]
     }
