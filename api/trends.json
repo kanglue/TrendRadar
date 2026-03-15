@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-15T07:35:01.368774+08:00",
-  "total_titles_processed": 455,
+  "generated_at": "2026-03-15T10:56:27.957696+08:00",
+  "total_titles_processed": 620,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             7,
             5,
-            4
+            4,
+            10
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时39分 ~ 07时35分]"
+          "appearance_count": 12,
+          "time_info": "[00时39分 ~ 10时56分]"
         },
         {
           "title": "据The Information：因与好莱坞存在版权纠纷，字节跳动暂停推出视频AI模型。",
@@ -69,8 +70,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时39分 ~ 07时35分]"
+          "appearance_count": 12,
+          "time_info": "[00时39分 ~ 10时56分]"
         }
       ]
     }
