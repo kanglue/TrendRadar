@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-16T04:38:14.837780+08:00",
-  "total_titles_processed": 453,
+  "generated_at": "2026-03-16T05:34:43.728427+08:00",
+  "total_titles_processed": 463,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时39分 ~ 04时38分]"
+          "appearance_count": 9,
+          "time_info": "[00时39分 ~ 05时34分]"
         },
         {
           "title": "315曝光AI大模型遭投毒操控",
@@ -27,8 +27,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时39分 ~ 04时38分]"
+          "appearance_count": 9,
+          "time_info": "[00时39分 ~ 05时34分]"
         },
         {
           "title": "315晚会曝光AI大模型被投毒",
@@ -36,11 +36,12 @@
           "source": "微博",
           "ranks": [
             26,
-            22
+            22,
+            24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时34分 ~ 04时38分]"
+          "appearance_count": 4,
+          "time_info": "[03时34分 ~ 05时34分]"
         },
         {
           "title": "专家：AI大模型投毒是新型不正当竞争",
@@ -68,8 +69,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时39分 ~ 04时38分]"
+          "appearance_count": 9,
+          "time_info": "[00时39分 ~ 05时34分]"
         }
       ]
     },
@@ -88,8 +89,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时40分 ~ 04时38分]"
+          "appearance_count": 6,
+          "time_info": "[00时40分 ~ 05时34分]"
         }
       ]
     }
