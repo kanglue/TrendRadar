@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-16T06:35:24.924909+08:00",
-  "total_titles_processed": 499,
+  "generated_at": "2026-03-16T07:36:48.333405+08:00",
+  "total_titles_processed": 553,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时39分 ~ 06时35分]"
+          "appearance_count": 11,
+          "time_info": "[00时39分 ~ 07时36分]"
         },
         {
           "title": "315曝光AI大模型遭投毒操控",
@@ -27,8 +27,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时39分 ~ 06时35分]"
+          "appearance_count": 11,
+          "time_info": "[00时39分 ~ 07时36分]"
         },
         {
           "title": "315晚会曝光AI大模型被投毒",
@@ -69,8 +69,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时39分 ~ 06时35分]"
+          "appearance_count": 11,
+          "time_info": "[00时39分 ~ 07时36分]"
         }
       ]
     },
