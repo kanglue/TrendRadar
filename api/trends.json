@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-15T10:56:27.957696+08:00",
-  "total_titles_processed": 620,
+  "generated_at": "2026-03-15T13:12:14.356438+08:00",
+  "total_titles_processed": 720,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             7,
             5,
             4,
-            10
+            10,
+            20
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时39分 ~ 10时56分]"
+          "appearance_count": 14,
+          "time_info": "[00时39分 ~ 13时12分]"
         },
         {
           "title": "据The Information：因与好莱坞存在版权纠纷，字节跳动暂停推出视频AI模型。",
@@ -34,6 +35,23 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时40分 ~ 03时33分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "Gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "内测输给Gemini，还套壳？！Meta千亿自研大模型遭延期",
+          "url": "https://wallstreetcn.com/articles/3767525",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时11分 ~ 13时12分]"
         }
       ]
     },
