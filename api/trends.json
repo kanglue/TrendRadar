@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-16T01:35:15.499866+08:00",
-  "total_titles_processed": 354,
+  "generated_at": "2026-03-16T02:50:43.593916+08:00",
+  "total_titles_processed": 393,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.cls.cn/detail/2313341",
           "source": "财联社热门",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时39分 ~ 01时35分]"
+          "appearance_count": 5,
+          "time_info": "[00时39分 ~ 02时50分]"
         },
         {
           "title": "315曝光AI大模型遭投毒操控",
@@ -26,8 +27,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时39分 ~ 01时35分]"
+          "appearance_count": 5,
+          "time_info": "[00时39分 ~ 02时50分]"
         },
         {
           "title": "专家：AI大模型投毒是新型不正当竞争",
@@ -55,8 +56,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时39分 ~ 01时35分]"
+          "appearance_count": 5,
+          "time_info": "[00时39分 ~ 02时50分]"
         }
       ]
     },
@@ -70,11 +71,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             15,
-            18
+            18,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时40分 ~ 01时35分]"
+          "appearance_count": 3,
+          "time_info": "[00时40分 ~ 02时50分]"
         }
       ]
     }
