@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-17T06:41:33.265267+08:00",
-  "total_titles_processed": 563,
+  "generated_at": "2026-03-17T07:37:51.686355+08:00",
+  "total_titles_processed": 630,
   "failed_sources": [],
   "trends": [
     {
@@ -60,7 +60,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时41分"
         }
@@ -108,8 +108,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时10分 ~ 06时41分]"
+          "appearance_count": 7,
+          "time_info": "[01时10分 ~ 07时37分]"
         },
         {
           "title": "英伟达将豪掷 260 亿美元开发 AI 大模型，为什么英伟达要自己下场做大模型？",
