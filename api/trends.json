@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-16T10:57:00.361303+08:00",
-  "total_titles_processed": 733,
+  "generated_at": "2026-03-16T13:23:59.679034+08:00",
+  "total_titles_processed": 885,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "大模型",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "“3·15”晚会：起底荐股分成骗局 给AI大模型投毒已成产业链",
@@ -32,6 +32,29 @@
           "time_info": "[00时39分 ~ 10时57分]"
         },
         {
+          "title": "3月16日投资避雷针：315晚会曝光AI大模型被投毒 给AI投毒已成产业链",
+          "url": "https://www.cls.cn/detail/2313556",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时56分 ~ 13时23分]"
+        },
+        {
+          "title": "中国AI大模型调用量连续两周超越美国 神秘模型Hunter Alpha上榜",
+          "url": "https://wallstreetcn.com/livenews/3070595",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时23分"
+        },
+        {
           "title": "315晚会曝光AI大模型被投毒",
           "url": "https://s.weibo.com/weibo?q=%23315%E6%99%9A%E4%BC%9A%E6%9B%9D%E5%85%89AI%E5%A4%A7%E6%A8%A1%E5%9E%8B%E8%A2%AB%E6%8A%95%E6%AF%92%23&t=31&band_rank=26&Refer=top",
           "source": "微博",
@@ -45,17 +68,6 @@
           "time_info": "[03时34分 ~ 05时34分]"
         },
         {
-          "title": "3月16日投资避雷针：315晚会曝光AI大模型被投毒 给AI投毒已成产业链",
-          "url": "https://www.cls.cn/detail/2313556",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时56分 ~ 10时57分]"
-        },
-        {
           "title": "「315 曝光 AI 投毒产业链」，通过 GEO 能在大模型里让特定产品榜上有名，这种行为的套路危害会有多大？",
           "url": "https://www.zhihu.com/question/2016626718161465398",
           "source": "知乎",
@@ -63,8 +75,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时56分 ~ 10时57分]"
+          "appearance_count": 3,
+          "time_info": "[10时56分 ~ 13时23分]"
         },
         {
           "title": "专家：AI大模型投毒是新型不正当竞争",
@@ -81,6 +93,48 @@
       ]
     },
     {
+      "keyword_group": "千问",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "“Apollo-9手环怎么样？”315曝光AI大模型“投毒”后实测：千问拒答，DeepSeek翻车",
+          "url": "https://wallstreetcn.com/livenews/3070375",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            18,
+            27,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时40分 ~ 05时34分]"
+        },
+        {
+          "title": "市场消息：阿里巴巴(09988.HK)据悉计划推出面向企业，基于千问模型的AI智能体。",
+          "url": "https://flash.jin10.com/detail/20260316120755439800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时23分"
+        },
+        {
+          "title": "阿里巴巴据悉计划推出面向企业，基于千问模型的AI智能体。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3070581",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时23分"
+        }
+      ]
+    },
+    {
       "keyword_group": "智谱",
       "match_count": 2,
       "titles": [
@@ -89,11 +143,12 @@
           "url": "https://wallstreetcn.com/livenews/3070553",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时57分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时57分 ~ 13时23分]"
         },
         {
           "title": "智谱龙虾基座模型GLM-5-Turbo发布，API价格上涨20%并推出“龙虾套餐”",
@@ -102,7 +157,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时57分"
         }
@@ -122,26 +177,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时39分 ~ 07时36分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "千问",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "“Apollo-9手环怎么样？”315曝光AI大模型“投毒”后实测：千问拒答，DeepSeek翻车",
-          "url": "https://wallstreetcn.com/livenews/3070375",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15,
-            18,
-            27,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时40分 ~ 05时34分]"
         }
       ]
     }
