@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-17T18:57:40.790804+08:00",
-  "total_titles_processed": 1444,
+  "generated_at": "2026-03-17T19:50:01.299490+08:00",
+  "total_titles_processed": 1555,
   "failed_sources": [],
   "trends": [
     {
@@ -172,8 +172,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时03分 ~ 18时57分]"
+          "appearance_count": 4,
+          "time_info": "[17时03分 ~ 19时50分]"
         },
         {
           "title": "谷歌公司宣布，在Google AI Studio实施项目开支上限方案。 这将有助于掌控月度Gemini API开销。",
@@ -200,11 +200,12 @@
             5,
             4,
             6,
-            18
+            18,
+            12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时58分 ~ 18时57分]"
+          "appearance_count": 8,
+          "time_info": "[12时58分 ~ 19时50分]"
         },
         {
           "title": "AppleWatch国行上线房颤功能",
@@ -298,9 +299,26 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时57分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "算法",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "胡锡进：如果拉里贾尼真被暗杀，很可能是一场“算法猎杀”",
+          "url": "https://news.ifeng.com/c/8rZY3JgGeMD",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时49分 ~ 19时50分]"
         }
       ]
     }
