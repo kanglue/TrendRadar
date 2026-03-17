@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-17T17:03:39.352020+08:00",
-  "total_titles_processed": 1312,
+  "generated_at": "2026-03-17T18:57:40.790804+08:00",
+  "total_titles_processed": 1444,
   "failed_sources": [],
   "trends": [
     {
@@ -142,7 +142,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时03分"
         },
@@ -153,7 +153,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时03分"
         }
@@ -168,11 +168,12 @@
           "url": "https://www.zhihu.com/question/2016896539008726692",
           "source": "知乎",
           "ranks": [
-            8
+            8,
+            2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时03分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时03分 ~ 18时57分]"
         },
         {
           "title": "谷歌公司宣布，在Google AI Studio实施项目开支上限方案。 这将有助于掌控月度Gemini API开销。",
@@ -198,11 +199,12 @@
           "ranks": [
             5,
             4,
-            6
+            6,
+            18
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时58分 ~ 17时03分]"
+          "appearance_count": 6,
+          "time_info": "[12时58分 ~ 18时57分]"
         },
         {
           "title": "AppleWatch国行上线房颤功能",
@@ -282,6 +284,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时10分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "千问",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "东北大爷用千问把孙子教明白了",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%9C%E5%8C%97%E5%A4%A7%E7%88%B7%E7%94%A8%E5%8D%83%E9%97%AE%E6%8A%8A%E5%AD%99%E5%AD%90%E6%95%99%E6%98%8E%E7%99%BD%E4%BA%86%23&t=31&band_rank=15&Refer=top",
+          "source": "微博",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时57分"
         }
       ]
     }
