@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-17T19:50:01.299490+08:00",
-  "total_titles_processed": 1555,
+  "generated_at": "2026-03-17T21:26:43.644832+08:00",
+  "total_titles_processed": 1690,
   "failed_sources": [],
   "trends": [
     {
@@ -172,8 +172,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时03分 ~ 19时50分]"
+          "appearance_count": 5,
+          "time_info": "[17时03分 ~ 21时26分]"
         },
         {
           "title": "谷歌公司宣布，在Google AI Studio实施项目开支上限方案。 这将有助于掌控月度Gemini API开销。",
@@ -201,11 +201,12 @@
             4,
             6,
             18,
-            12
+            12,
+            14
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时58分 ~ 19时50分]"
+          "appearance_count": 9,
+          "time_info": "[12时58分 ~ 21时26分]"
         },
         {
           "title": "AppleWatch国行上线房颤功能",
@@ -236,8 +237,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时10分 ~ 17时03分]"
+          "appearance_count": 11,
+          "time_info": "[01时10分 ~ 21时26分]"
         },
         {
           "title": "英伟达将豪掷 260 亿美元开发 AI 大模型，为什么英伟达要自己下场做大模型？",
@@ -317,8 +318,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时49分 ~ 19时50分]"
+          "appearance_count": 3,
+          "time_info": "[19时49分 ~ 21时26分]"
         }
       ]
     }
