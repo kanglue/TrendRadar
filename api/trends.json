@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-19T18:51:22.063620+08:00",
-  "total_titles_processed": 1528,
+  "generated_at": "2026-03-19T19:41:36.999179+08:00",
+  "total_titles_processed": 1623,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             4,
             6,
             9,
-            20
+            20,
+            22
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时00分 ~ 18时51分]"
+          "appearance_count": 10,
+          "time_info": "[13时00分 ~ 19时41分]"
         },
         {
           "title": "小米集团涨超5%，此前推出大模型，且新一代SU7将于今日晚些时间公布。 恒生科技指数跌幅收窄至0.9%，开盘一度跌超2%。",
@@ -40,8 +41,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时53分 ~ 18时51分]"
+          "appearance_count": 5,
+          "time_info": "[16时53分 ~ 19时41分]"
         },
         {
           "title": "港股收盘：恒生指数收跌2.02%，恒生科技指数收跌2.19%，南向资金净买入超250亿港元。AI应用、有色金属等板块全线下跌，腾讯控股收跌超6%；小米逆势涨超3%，小米推出三款自研大模型，雷军称今年在AI领域将投入超160亿。",
@@ -80,11 +81,12 @@
             4,
             1,
             7,
-            20
+            20,
+            22
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时00分 ~ 18时51分]"
+          "appearance_count": 10,
+          "time_info": "[13时00分 ~ 19时41分]"
         },
         {
           "title": "上万部短剧数据告诉你，AI会抢走真人实拍的饭碗吗？",
@@ -119,9 +121,9 @@
           "ranks": [
             25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时51分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时51分 ~ 19时41分]"
         }
       ]
     },
@@ -172,6 +174,38 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时55分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "Deepseek",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "日本AI造假,套壳DeepSeek",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351991&amp;topic_name=%E6%97%A5%E6%9C%ACAI%E9%80%A0%E5%81%87%2C%E5%A5%97%E5%A3%B3DeepSeek",
+          "source": "贴吧",
+          "ranks": [
+            16,
+            20,
+            23,
+            26,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[01时10分 ~ 15时52分]"
+        },
+        {
+          "title": "小米凌晨模型三连发：罗福莉称为智能体时代打造，曾被误认为DeepSeek V4",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32793883",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时41分"
         }
       ]
     },
@@ -249,8 +283,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[01时10分 ~ 18时51分]"
+          "appearance_count": 19,
+          "time_info": "[01时10分 ~ 19时41分]"
         }
       ]
     },
@@ -268,27 +302,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时52分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "Deepseek",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "日本AI造假,套壳DeepSeek",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351991&amp;topic_name=%E6%97%A5%E6%9C%ACAI%E9%80%A0%E5%81%87%2C%E5%A5%97%E5%A3%B3DeepSeek",
-          "source": "贴吧",
-          "ranks": [
-            16,
-            20,
-            23,
-            26,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[01时10分 ~ 15时52分]"
         }
       ]
     },
