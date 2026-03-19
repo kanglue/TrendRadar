@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-19T21:21:23.639179+08:00",
-  "total_titles_processed": 1765,
+  "generated_at": "2026-03-19T22:56:06.194902+08:00",
+  "total_titles_processed": 1882,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "大模型",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "小米上线三款自研大模型",
@@ -50,11 +50,23 @@
           "url": "https://www.cls.cn/detail/2318157",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时21分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时21分 ~ 22时56分]"
+        },
+        {
+          "title": "让大模型学会选择性记忆",
+          "url": "https://search.bilibili.com/all?keyword=%E8%AE%A9%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%AD%A6%E4%BC%9A%E9%80%89%E6%8B%A9%E6%80%A7%E8%AE%B0%E5%BF%86",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时55分 ~ 22时56分]"
         },
         {
           "title": "港股收盘：恒生指数收跌2.02%，恒生科技指数收跌2.19%，南向资金净买入超250亿港元。AI应用、有色金属等板块全线下跌，腾讯控股收跌超6%；小米逆势涨超3%，小米推出三款自研大模型，雷军称今年在AI领域将投入超160亿。",
@@ -214,11 +226,12 @@
           "source": "澎湃新闻",
           "ranks": [
             19,
-            17
+            17,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时41分 ~ 21时21分]"
+          "appearance_count": 4,
+          "time_info": "[19时41分 ~ 22时56分]"
         }
       ]
     },
@@ -296,8 +309,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[01时10分 ~ 21时21分]"
+          "appearance_count": 22,
+          "time_info": "[01时10分 ~ 22时56分]"
         }
       ]
     },
