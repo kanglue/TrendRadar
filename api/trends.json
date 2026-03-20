@@ -1,8 +1,49 @@
 {
-  "generated_at": "2026-03-20T15:08:17.078205+08:00",
-  "total_titles_processed": 1207,
+  "generated_at": "2026-03-20T16:52:26.218936+08:00",
+  "total_titles_processed": 1335,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "短剧",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "为什么短剧明明剧情也不咋地，观众却那么宽容？",
+          "url": "https://www.zhihu.com/question/1908833817701095067",
+          "source": "知乎",
+          "ranks": [
+            10,
+            15,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时38分 ~ 16时52分]"
+        },
+        {
+          "title": "曝AI短剧使用杨紫的脸",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%9B%9DAI%E7%9F%AD%E5%89%A7%E4%BD%BF%E7%94%A8%E6%9D%A8%E7%B4%AB%E7%9A%84%E8%84%B8%23&t=31&band_rank=14&Refer=top",
+          "source": "微博",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时52分"
+        },
+        {
+          "title": "最高500万元！深圳微短剧产业迎重磅利好",
+          "url": "https://wallstreetcn.com/livenews/3073444",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时02分"
+        }
+      ]
+    },
     {
       "keyword_group": "GPT",
       "match_count": 3,
@@ -42,36 +83,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时36分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "短剧",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "为什么短剧明明剧情也不咋地，观众却那么宽容？",
-          "url": "https://www.zhihu.com/question/1908833817701095067",
-          "source": "知乎",
-          "ranks": [
-            10,
-            15,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时38分 ~ 15时08分]"
-        },
-        {
-          "title": "最高500万元！深圳微短剧产业迎重磅利好",
-          "url": "https://wallstreetcn.com/livenews/3073444",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时02分"
         }
       ]
     },
@@ -155,7 +166,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时08分"
         }
@@ -196,6 +207,23 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时01分 ~ 10时38分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "万相",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "阿里妈妈发布“AI万相”，多智能体协同重构经营新范式",
+          "url": "https://flash.jin10.com/detail/20260320162945026800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时52分"
         }
       ]
     },
