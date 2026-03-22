@@ -1,8 +1,25 @@
 {
-  "generated_at": "2026-03-22T07:32:24.818198+08:00",
-  "total_titles_processed": 460,
+  "generated_at": "2026-03-22T10:48:35.282676+08:00",
+  "total_titles_processed": 632,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "AIGC",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "华为成立传媒军团，将聚焦 AIGC 全场景赋能等三大核心方向，如何看待这一布局？将会带来哪些改变？",
+          "url": "https://www.zhihu.com/question/2018341688767160603",
+          "source": "知乎",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时48分"
+        }
+      ]
+    },
     {
       "keyword_group": "GPT",
       "match_count": 1,
