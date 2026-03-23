@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-23T19:52:03.255475+08:00",
-  "total_titles_processed": 1429,
+  "generated_at": "2026-03-23T21:22:44.161192+08:00",
+  "total_titles_processed": 1564,
   "failed_sources": [],
   "trends": [
     {
@@ -16,11 +16,12 @@
             6,
             9,
             11,
-            15
+            15,
+            14
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时09分 ~ 19时52分]"
+          "appearance_count": 7,
+          "time_info": "[13时09分 ~ 21时22分]"
         },
         {
           "title": "AI短剧付费后竟然变成PPT",
@@ -28,11 +29,12 @@
           "source": "微博",
           "ranks": [
             15,
-            2
+            2,
+            21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时59分 ~ 19时52分]"
+          "appearance_count": 4,
+          "time_info": "[18时59分 ~ 21时22分]"
         },
         {
           "title": "CF居然整了个恋爱互动短剧",
@@ -74,8 +76,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时48分 ~ 19时52分]"
+          "appearance_count": 8,
+          "time_info": "[10时48分 ~ 21时22分]"
         }
       ]
     },
