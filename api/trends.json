@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-23T21:22:44.161192+08:00",
-  "total_titles_processed": 1564,
+  "generated_at": "2026-03-23T23:03:26.408774+08:00",
+  "total_titles_processed": 1679,
   "failed_sources": [],
   "trends": [
     {
@@ -20,8 +20,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时09分 ~ 21时22分]"
+          "appearance_count": 8,
+          "time_info": "[13时09分 ~ 23时03分]"
         },
         {
           "title": "AI短剧付费后竟然变成PPT",
@@ -76,8 +76,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时48分 ~ 21时22分]"
+          "appearance_count": 9,
+          "time_info": "[10时48分 ~ 23时03分]"
         }
       ]
     },
