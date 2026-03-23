@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-23T17:06:26.998212+08:00",
-  "total_titles_processed": 1173,
+  "generated_at": "2026-03-23T18:59:20.635745+08:00",
+  "total_titles_processed": 1318,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "短剧",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "短剧套路深,5000总裁被下药",
@@ -14,11 +14,23 @@
           "ranks": [
             5,
             6,
-            9
+            9,
+            11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时09分 ~ 17时06分]"
+          "appearance_count": 4,
+          "time_info": "[13时09分 ~ 18时59分]"
+        },
+        {
+          "title": "AI短剧付费后竟然变成PPT",
+          "url": "https://s.weibo.com/weibo?q=%23AI%E7%9F%AD%E5%89%A7%E4%BB%98%E8%B4%B9%E5%90%8E%E7%AB%9F%E7%84%B6%E5%8F%98%E6%88%90PPT%23&t=31&band_rank=15&Refer=top",
+          "source": "微博",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时59分"
         },
         {
           "title": "CF居然整了个恋爱互动短剧",
@@ -56,11 +68,12 @@
             2,
             6,
             8,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时48分 ~ 17时06分]"
+          "appearance_count": 5,
+          "time_info": "[10时48分 ~ 18时59分]"
         }
       ]
     },
