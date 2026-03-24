@@ -1,8 +1,79 @@
 {
-  "generated_at": "2026-03-24T21:26:36.705704+08:00",
-  "total_titles_processed": 1742,
+  "generated_at": "2026-03-24T23:06:17.178036+08:00",
+  "total_titles_processed": 1864,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "大模型",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "在 AI 产业链上，利润最终会流向数据中心、大模型还是下游应用？",
+          "url": "https://www.zhihu.com/question/2016829250926243974",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时40分"
+        },
+        {
+          "title": "卢伟冰：小米大模型已跻身国内第一梯队，是全球唯一在人车家同时落地物理AI的公司",
+          "url": "https://wallstreetcn.com/livenews/3075921",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时51分"
+        },
+        {
+          "title": "中国科学院香港创新研究院发布“术影”SurgMotion手术视频大模型",
+          "url": "https://wallstreetcn.com/livenews/3076033",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时06分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "短剧",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "短剧套路深,5000总裁被下药",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352175&amp;topic_name=%E7%9F%AD%E5%89%A7%E5%A5%97%E8%B7%AF%E6%B7%B1%2C5000%E6%80%BB%E8%A3%81%E8%A2%AB%E4%B8%8B%E8%8D%AF",
+          "source": "贴吧",
+          "ranks": [
+            17,
+            20,
+            23,
+            27,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 18,
+          "time_info": "[01时01分 ~ 17时03分]"
+        },
+        {
+          "title": "李艺彤 短剧",
+          "url": "https://s.weibo.com/weibo?q=%E6%9D%8E%E8%89%BA%E5%BD%A4%20%E7%9F%AD%E5%89%A7&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时06分"
+        }
+      ]
+    },
     {
       "keyword_group": "字节",
       "match_count": 2,
@@ -14,7 +85,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时26分"
         },
@@ -25,7 +96,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时26分"
         }
@@ -60,55 +131,6 @@
       ]
     },
     {
-      "keyword_group": "大模型",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "在 AI 产业链上，利润最终会流向数据中心、大模型还是下游应用？",
-          "url": "https://www.zhihu.com/question/2016829250926243974",
-          "source": "知乎",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时40分"
-        },
-        {
-          "title": "卢伟冰：小米大模型已跻身国内第一梯队，是全球唯一在人车家同时落地物理AI的公司",
-          "url": "https://wallstreetcn.com/livenews/3075921",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时51分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "短剧",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "短剧套路深,5000总裁被下药",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352175&amp;topic_name=%E7%9F%AD%E5%89%A7%E5%A5%97%E8%B7%AF%E6%B7%B1%2C5000%E6%80%BB%E8%A3%81%E8%A2%AB%E4%B8%8B%E8%8D%AF",
-          "source": "贴吧",
-          "ranks": [
-            17,
-            20,
-            23,
-            27,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[01时01分 ~ 17时03分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "Deepseek",
       "match_count": 1,
       "titles": [
@@ -125,8 +147,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[01时01分 ~ 21时26分]"
+          "appearance_count": 20,
+          "time_info": "[01时01分 ~ 23时06分]"
         }
       ]
     }
