@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-26T01:11:26.465118+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-03-26T03:05:09.095517+08:00",
+  "total_titles_processed": 393,
   "failed_sources": [],
   "trends": [
     {
@@ -15,19 +15,37 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时11分"
+          "appearance_count": 3,
+          "time_info": "[01时11分 ~ 03时05分]"
         },
         {
           "title": "OpenAI宣布关停Sora",
           "url": "https://search.bilibili.com/all?keyword=OpenAI%E5%AE%A3%E5%B8%83%E5%85%B3%E5%81%9CSora",
           "source": "bilibili 热搜",
           "ranks": [
-            14
+            14,
+            16
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时11分"
+          "appearance_count": 3,
+          "time_info": "[01时11分 ~ 03时05分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "短剧",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "短剧演员成AI技术第一批“牺牲品”",
+          "url": "https://www.baidu.com/s?wd=%E7%9F%AD%E5%89%A7%E6%BC%94%E5%91%98%E6%88%90AI%E6%8A%80%E6%9C%AF%E7%AC%AC%E4%B8%80%E6%89%B9%E2%80%9C%E7%89%BA%E7%89%B2%E5%93%81%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时04分 ~ 03时05分]"
         }
       ]
     },
@@ -43,8 +61,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时11分"
+          "appearance_count": 3,
+          "time_info": "[01时11分 ~ 03时05分]"
         }
       ]
     }
