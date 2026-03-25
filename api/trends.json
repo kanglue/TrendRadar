@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-26T03:05:09.095517+08:00",
-  "total_titles_processed": 393,
+  "generated_at": "2026-03-26T04:48:55.908499+08:00",
+  "total_titles_processed": 469,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时11分 ~ 03时05分]"
+          "appearance_count": 4,
+          "time_info": "[01时11分 ~ 04时48分]"
         },
         {
           "title": "OpenAI宣布关停Sora",
@@ -27,8 +27,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时11分 ~ 03时05分]"
+          "appearance_count": 4,
+          "time_info": "[01时11分 ~ 04时48分]"
         }
       ]
     },
@@ -41,11 +41,12 @@
           "url": "https://www.baidu.com/s?wd=%E7%9F%AD%E5%89%A7%E6%BC%94%E5%91%98%E6%88%90AI%E6%8A%80%E6%9C%AF%E7%AC%AC%E4%B8%80%E6%89%B9%E2%80%9C%E7%89%BA%E7%89%B2%E5%93%81%E2%80%9D",
           "source": "百度热搜",
           "ranks": [
-            19
+            19,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时04分 ~ 03时05分]"
+          "appearance_count": 3,
+          "time_info": "[03时04分 ~ 04时48分]"
         }
       ]
     },
@@ -58,11 +59,12 @@
           "url": "https://www.zhihu.com/question/2020124278553625840",
           "source": "知乎",
           "ranks": [
-            8
+            8,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时11分 ~ 03时05分]"
+          "appearance_count": 4,
+          "time_info": "[01时11分 ~ 04时48分]"
         }
       ]
     }
