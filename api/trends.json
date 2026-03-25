@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-25T15:58:20.858755+08:00",
-  "total_titles_processed": 1253,
+  "generated_at": "2026-03-25T17:03:12.219989+08:00",
+  "total_titles_processed": 1371,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时01分 ~ 15时58分]"
+          "appearance_count": 6,
+          "time_info": "[13时01分 ~ 17时03分]"
         },
         {
           "title": "Sora关停背后",
@@ -26,11 +26,12 @@
           "source": "抖音",
           "ranks": [
             4,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时02分 ~ 15时58分]"
+          "appearance_count": 5,
+          "time_info": "[13时02分 ~ 17时03分]"
         },
         {
           "title": "什么情况？OpenAI 重大逆转：旗下Sora AI视频应用将终止服务",
@@ -43,8 +44,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时45分 ~ 15时58分]"
+          "appearance_count": 7,
+          "time_info": "[10时45分 ~ 17时03分]"
         },
         {
           "title": "OpenAI宣布关停Sora",
@@ -53,11 +54,12 @@
           "ranks": [
             7,
             19,
-            20
+            20,
+            16
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时45分 ~ 15时58分]"
+          "appearance_count": 7,
+          "time_info": "[10时45分 ~ 17时03分]"
         },
         {
           "title": "OpenAI为何关停Sora",
@@ -91,6 +93,56 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时51分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "快手",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "快手：2025年第四季度，经调整净利润达到人民币55亿元",
+          "url": "https://flash.jin10.com/detail/20260325163155203800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时03分"
+        },
+        {
+          "title": "快手(01024.HK)2025年全年营收1427.76亿元，上年同期为1268.98亿元；2025年全年净利润186.17亿元，上年同期为153.35亿元。",
+          "url": "https://flash.jin10.com/detail/20260325163108055800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时03分"
+        },
+        {
+          "title": "快手电商四季度GMV同比增长12.9%至5218亿元",
+          "url": "https://wallstreetcn.com/livenews/3076562",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时03分"
+        },
+        {
+          "title": "快手第四季度营收395.7亿元人民币，预估388.6亿元人民币 第四季度调整后净利润54.6亿元人民币，预估53.8亿元人民币。 第四季度调整后息税折旧及摊销前利润80.4亿元人民币，预估79.3亿元人民币。 第四季度净利润52.3亿元人民币，预估47.2亿元人民币。 第四季度销售费用114亿元人民币，预估115.1亿元人民币。 第四季度平均月活跃用户7.4亿，预估7.5亿。 快手全年营收1,427.8亿元人民币，预估1,421.6亿元人民币。 快手全年调整后净利润206.5亿元人民币，预估205.9亿元人民币。 快手全年调整后息税折旧及摊销前利润298.4亿元人民币。",
+          "url": "https://wallstreetcn.com/livenews/3076552",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时03分"
         }
       ]
     },
@@ -204,6 +256,40 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时07分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "AIGC",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "快手(01024.HK)：2025年第四季度，由AIGC营销素材带来的线上营销服务消耗金额达到人民币40亿元。",
+          "url": "https://flash.jin10.com/detail/20260325163347009800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时03分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "可灵",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "快手：2025年第四季度，可灵AI营业收入达人民币3.4亿元",
+          "url": "https://wallstreetcn.com/livenews/3076559",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时03分"
         }
       ]
     },
