@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-25T18:55:46.452107+08:00",
-  "total_titles_processed": 1531,
+  "generated_at": "2026-03-25T19:48:05.176821+08:00",
+  "total_titles_processed": 1623,
   "failed_sources": [],
   "trends": [
     {
@@ -15,25 +15,12 @@
             5,
             4,
             3,
-            8
+            8,
+            18
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时01分 ~ 18时55分]"
-        },
-        {
-          "title": "Sora关停背后",
-          "url": "https://www.douyin.com/hot/2442643",
-          "source": "抖音",
-          "ranks": [
-            4,
-            5,
-            6,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时02分 ~ 18时55分]"
+          "appearance_count": 9,
+          "time_info": "[13时01分 ~ 19时48分]"
         },
         {
           "title": "OpenAI宣布关停Sora",
@@ -46,8 +33,23 @@
             16
           ],
           "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[10时45分 ~ 19时48分]"
+        },
+        {
+          "title": "Sora关停背后",
+          "url": "https://www.douyin.com/hot/2442643",
+          "source": "抖音",
+          "ranks": [
+            4,
+            5,
+            6,
+            14,
+            12
+          ],
+          "is_new": false,
           "appearance_count": 8,
-          "time_info": "[10时45分 ~ 18时55分]"
+          "time_info": "[13时02分 ~ 19时48分]"
         },
         {
           "title": "什么情况？OpenAI 重大逆转：旗下Sora AI视频应用将终止服务",
@@ -234,6 +236,34 @@
       ]
     },
     {
+      "keyword_group": "可灵",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "程一笑：截至26年1月可灵AI ARR已超3亿美元，预计今年收入翻倍以上增长",
+          "url": "https://flash.jin10.com/detail/20260325193948964800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时48分"
+        },
+        {
+          "title": "快手：2025年第四季度，可灵AI营业收入达人民币3.4亿元",
+          "url": "https://wallstreetcn.com/livenews/3076559",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时03分"
+        }
+      ]
+    },
+    {
       "keyword_group": "大模型",
       "match_count": 2,
       "titles": [
@@ -279,23 +309,6 @@
       ]
     },
     {
-      "keyword_group": "可灵",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "快手：2025年第四季度，可灵AI营业收入达人民币3.4亿元",
-          "url": "https://wallstreetcn.com/livenews/3076559",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时03分"
-        }
-      ]
-    },
-    {
       "keyword_group": "Gemini",
       "match_count": 1,
       "titles": [
@@ -327,6 +340,23 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时07分 ~ 07时39分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "算法",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "湖北：超前布局算力设施，推进算法创新，加强高质量数据供给",
+          "url": "https://flash.jin10.com/detail/20260325193945768800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时48分"
         }
       ]
     }
