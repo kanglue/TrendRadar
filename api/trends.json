@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-25T19:48:05.176821+08:00",
-  "total_titles_processed": 1623,
+  "generated_at": "2026-03-25T21:25:36.042888+08:00",
+  "total_titles_processed": 1743,
   "failed_sources": [],
   "trends": [
     {
@@ -23,20 +23,6 @@
           "time_info": "[13时01分 ~ 19时48分]"
         },
         {
-          "title": "OpenAI宣布关停Sora",
-          "url": "https://search.bilibili.com/all?keyword=OpenAI%E5%AE%A3%E5%B8%83%E5%85%B3%E5%81%9CSora",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7,
-            19,
-            20,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时45分 ~ 19时48分]"
-        },
-        {
           "title": "Sora关停背后",
           "url": "https://www.douyin.com/hot/2442643",
           "source": "抖音",
@@ -45,11 +31,27 @@
             5,
             6,
             14,
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时02分 ~ 19时48分]"
+          "appearance_count": 9,
+          "time_info": "[13时02分 ~ 21时25分]"
+        },
+        {
+          "title": "OpenAI宣布关停Sora",
+          "url": "https://search.bilibili.com/all?keyword=OpenAI%E5%AE%A3%E5%B8%83%E5%85%B3%E5%81%9CSora",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7,
+            19,
+            20,
+            16,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[10时45分 ~ 21时25分]"
         },
         {
           "title": "什么情况？OpenAI 重大逆转：旗下Sora AI视频应用将终止服务",
@@ -246,7 +248,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时48分"
         },
@@ -344,6 +346,23 @@
       ]
     },
     {
+      "keyword_group": "Seedance",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "快手程一笑回应Seedance2.0影响：众多参与者可以提速行业进步",
+          "url": "https://wallstreetcn.com/livenews/3076672",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时25分"
+        }
+      ]
+    },
+    {
       "keyword_group": "算法",
       "match_count": 1,
       "titles": [
@@ -354,7 +373,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时48分"
         }
