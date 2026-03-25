@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-25T17:03:12.219989+08:00",
-  "total_titles_processed": 1371,
+  "generated_at": "2026-03-25T18:55:46.452107+08:00",
+  "total_titles_processed": 1531,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             5,
             4,
-            3
+            3,
+            8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时01分 ~ 17时03分]"
+          "appearance_count": 7,
+          "time_info": "[13时01分 ~ 18时55分]"
         },
         {
           "title": "Sora关停背后",
@@ -27,25 +28,12 @@
           "ranks": [
             4,
             5,
-            6
+            6,
+            14
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时02分 ~ 17时03分]"
-        },
-        {
-          "title": "什么情况？OpenAI 重大逆转：旗下Sora AI视频应用将终止服务",
-          "url": "https://www.cls.cn/detail/2323711",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            9,
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时45分 ~ 17时03分]"
+          "appearance_count": 6,
+          "time_info": "[13时02分 ~ 18时55分]"
         },
         {
           "title": "OpenAI宣布关停Sora",
@@ -56,6 +44,20 @@
             19,
             20,
             16
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[10时45分 ~ 18时55分]"
+        },
+        {
+          "title": "什么情况？OpenAI 重大逆转：旗下Sora AI视频应用将终止服务",
+          "url": "https://www.cls.cn/detail/2323711",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            9,
+            10,
+            7
           ],
           "is_new": false,
           "appearance_count": 7,
@@ -107,7 +109,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时03分"
         },
@@ -118,7 +120,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时03分"
         },
@@ -129,7 +131,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时03分"
         },
@@ -140,7 +142,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时03分"
         }
@@ -270,7 +272,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时03分"
         }
@@ -287,7 +289,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时03分"
         }
