@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-26T10:52:32.705594+08:00",
-  "total_titles_processed": 811,
+  "generated_at": "2026-03-26T13:12:37.947918+08:00",
+  "total_titles_processed": 969,
   "failed_sources": [],
   "trends": [
     {
@@ -14,7 +14,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时52分"
         },
@@ -25,7 +25,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时52分"
         },
@@ -36,7 +36,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时52分"
         }
@@ -67,7 +67,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时52分"
         }
@@ -85,11 +85,12 @@
             14,
             16,
             12,
-            17
+            17,
+            15
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时11分 ~ 10时52分]"
+          "appearance_count": 10,
+          "time_info": "[01时11分 ~ 13时12分]"
         },
         {
           "title": "Sora关停背后",
@@ -151,11 +152,12 @@
           "url": "https://wallstreetcn.com/articles/3768419",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时52分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时52分 ~ 13时12分]"
         }
       ]
     }
