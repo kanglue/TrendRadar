@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-26T21:46:12.917817+08:00",
-  "total_titles_processed": 1616,
+  "generated_at": "2026-03-26T23:13:14.020371+08:00",
+  "total_titles_processed": 1735,
   "failed_sources": [],
   "trends": [
     {
@@ -54,6 +54,38 @@
       ]
     },
     {
+      "keyword_group": "短剧",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "短剧演员成AI技术第一批“牺牲品”",
+          "url": "https://www.baidu.com/s?wd=%E7%9F%AD%E5%89%A7%E6%BC%94%E5%91%98%E6%88%90AI%E6%8A%80%E6%9C%AF%E7%AC%AC%E4%B8%80%E6%89%B9%E2%80%9C%E7%89%BA%E7%89%B2%E5%93%81%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            19,
+            14,
+            18,
+            20,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[03时04分 ~ 07时42分]"
+        },
+        {
+          "title": "AI短剧冲击横店 第一批受害者出现了",
+          "url": "https://www.baidu.com/s?wd=AI%E7%9F%AD%E5%89%A7%E5%86%B2%E5%87%BB%E6%A8%AA%E5%BA%97+%E7%AC%AC%E4%B8%80%E6%89%B9%E5%8F%97%E5%AE%B3%E8%80%85%E5%87%BA%E7%8E%B0%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时12分 ~ 23时13分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "Seedance",
       "match_count": 2,
       "titles": [
@@ -101,8 +133,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[01时11分 ~ 21时46分]"
+          "appearance_count": 19,
+          "time_info": "[01时11分 ~ 23时13分]"
         },
         {
           "title": "Sora关停背后",
@@ -129,11 +161,12 @@
             8,
             6,
             5,
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时19分 ~ 21时46分]"
+          "appearance_count": 9,
+          "time_info": "[15时19分 ~ 23时13分]"
         },
         {
           "title": "黄金500美元反弹，如何防范算法再砸盘？",
@@ -145,27 +178,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时57分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "短剧",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "短剧演员成AI技术第一批“牺牲品”",
-          "url": "https://www.baidu.com/s?wd=%E7%9F%AD%E5%89%A7%E6%BC%94%E5%91%98%E6%88%90AI%E6%8A%80%E6%9C%AF%E7%AC%AC%E4%B8%80%E6%89%B9%E2%80%9C%E7%89%BA%E7%89%B2%E5%93%81%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            19,
-            14,
-            18,
-            20,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[03时04分 ~ 07时42分]"
         }
       ]
     },
@@ -201,8 +213,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时52分 ~ 21时46分]"
+          "appearance_count": 11,
+          "time_info": "[10时52分 ~ 23时13分]"
         }
       ]
     }
