@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-26T15:19:37.851012+08:00",
-  "total_titles_processed": 1105,
+  "generated_at": "2026-03-26T17:14:16.433316+08:00",
+  "total_titles_processed": 1254,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "快手",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "恒生科技指数日内跌幅扩大至2%，恒指跌1.4%，快手跌超13%，地平线机器人、阿里巴巴、华虹半导体、腾讯音乐跌超3%。",
@@ -17,6 +17,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时52分"
+        },
+        {
+          "title": "沪指再度失守3900点，锂电产业链爆发，存储器下跌，恒科指跌超3%，快手重挫超13%，沪金跌破1000元",
+          "url": "https://wallstreetcn.com/articles/3768427",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时14分"
         },
         {
           "title": "港股快手盘中一度跌近14%，为去年4月7日以来盘中最大跌幅。公司此前发布业绩并预计今年营收增速将放缓至4%-4.5%；摩根士丹利下调目标价25%至55港元。",
@@ -89,8 +100,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时11分 ~ 15时19分]"
+          "appearance_count": 12,
+          "time_info": "[01时11分 ~ 17时14分]"
         },
         {
           "title": "Sora关停背后",
@@ -157,8 +168,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时52分 ~ 15时19分]"
+          "appearance_count": 4,
+          "time_info": "[10时52分 ~ 17时14分]"
         }
       ]
     },
@@ -171,11 +182,12 @@
           "url": "https://www.cls.cn/detail/2325322",
           "source": "财联社热门",
           "ranks": [
-            8
+            8,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时19分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时19分 ~ 17时14分]"
         }
       ]
     }
