@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-27T17:02:28.877512+08:00",
-  "total_titles_processed": 1312,
+  "generated_at": "2026-03-27T18:55:29.021480+08:00",
+  "total_titles_processed": 1464,
   "failed_sources": [],
   "trends": [
     {
@@ -19,6 +19,18 @@
           "time_info": "[01时10分 ~ 07时39分]"
         },
         {
+          "title": "AI 短剧《雪山救狐狸》为什么火了？它戳中了什么点？",
+          "url": "https://www.zhihu.com/question/2017224899635142906",
+          "source": "知乎",
+          "ranks": [
+            10,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时17分 ~ 18时55分]"
+        },
+        {
           "title": "陈飞宇迪丽热巴两集短剧",
           "url": "https://s.weibo.com/weibo?q=%23%E9%99%88%E9%A3%9E%E5%AE%87%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E4%B8%A4%E9%9B%86%E7%9F%AD%E5%89%A7%23&t=31&band_rank=4&Refer=top",
           "source": "微博",
@@ -32,18 +44,47 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[03时26分 ~ 07时39分]"
-        },
+        }
+      ]
+    },
+    {
+      "keyword_group": "大模型",
+      "match_count": 3,
+      "titles": [
         {
-          "title": "AI 短剧《雪山救狐狸》为什么火了？它戳中了什么点？",
-          "url": "https://www.zhihu.com/question/2017224899635142906",
-          "source": "知乎",
+          "title": "大模型输出答案前在思考什么",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A4%A7%E6%A8%A1%E5%9E%8B%E8%BE%93%E5%87%BA%E7%AD%94%E6%A1%88%E5%89%8D%E5%9C%A8%E6%80%9D%E8%80%83%E4%BB%80%E4%B9%88",
+          "source": "bilibili 热搜",
           "ranks": [
-            10,
-            1
+            7,
+            9,
+            15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时17分 ~ 17时02分]"
+          "appearance_count": 5,
+          "time_info": "[13时13分 ~ 17时02分]"
+        },
+        {
+          "title": "小米大模型负责人谈未来竞争",
+          "url": "https://www.douyin.com/hot/2445480",
+          "source": "抖音",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时55分"
+        },
+        {
+          "title": "美团开源原生多模态大模型LongCat-Next",
+          "url": "https://wallstreetcn.com/livenews/3077909",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时14分"
         }
       ]
     },
@@ -58,11 +99,24 @@
           "ranks": [
             9,
             5,
-            8
+            8,
+            18
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时13分 ~ 17时02分]"
+          "appearance_count": 6,
+          "time_info": "[13时13分 ~ 18时55分]"
+        },
+        {
+          "title": "谷歌新算法掀起“存储热降温恐慌” 华尔街分析师却不慌",
+          "url": "https://www.cls.cn/detail/2326397",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时02分 ~ 18时55分]"
         },
         {
           "title": "3月27日投资避雷针：谷歌推出压缩算法TurboQuant 美股存储板块遭重挫",
@@ -71,18 +125,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时02分"
-        },
-        {
-          "title": "谷歌新算法掀起“存储热降温恐慌” 华尔街分析师却不慌",
-          "url": "https://www.cls.cn/detail/2326397",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时02分"
         }
@@ -178,36 +221,6 @@
       ]
     },
     {
-      "keyword_group": "大模型",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "大模型输出答案前在思考什么",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A4%A7%E6%A8%A1%E5%9E%8B%E8%BE%93%E5%87%BA%E7%AD%94%E6%A1%88%E5%89%8D%E5%9C%A8%E6%80%9D%E8%80%83%E4%BB%80%E4%B9%88",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7,
-            9,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时13分 ~ 17时02分]"
-        },
-        {
-          "title": "美团开源原生多模态大模型LongCat-Next",
-          "url": "https://wallstreetcn.com/livenews/3077909",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时14分"
-        }
-      ]
-    },
-    {
       "keyword_group": "即梦",
       "match_count": 1,
       "titles": [
@@ -237,7 +250,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时02分"
         }
