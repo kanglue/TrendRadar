@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-27T21:21:08.705320+08:00",
-  "total_titles_processed": 1689,
+  "generated_at": "2026-03-27T22:58:39.502871+08:00",
+  "total_titles_processed": 1824,
   "failed_sources": [],
   "trends": [
     {
@@ -27,8 +27,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时17分 ~ 21时21分]"
+          "appearance_count": 8,
+          "time_info": "[15时17分 ~ 22时58分]"
         },
         {
           "title": "陈飞宇迪丽热巴两集短剧",
@@ -84,8 +84,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时55分 ~ 21时21分]"
+          "appearance_count": 5,
+          "time_info": "[18时55分 ~ 22时58分]"
         },
         {
           "title": "美团开源原生多模态大模型LongCat-Next",
@@ -114,11 +114,12 @@
             8,
             18,
             20,
-            16
+            16,
+            21
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时13分 ~ 21时21分]"
+          "appearance_count": 10,
+          "time_info": "[13时13分 ~ 22时58分]"
         },
         {
           "title": "谷歌新算法掀起“存储热降温恐慌” 华尔街分析师却不慌",
@@ -235,6 +236,34 @@
       ]
     },
     {
+      "keyword_group": "智谱",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "智谱：GLM-5.1已面向所有Coding Plan用户开放",
+          "url": "https://flash.jin10.com/detail/20260327192633175800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时47分"
+        },
+        {
+          "title": "智谱正式开源GLM-5.1",
+          "url": "https://search.bilibili.com/all?keyword=%E6%99%BA%E8%B0%B1%E6%AD%A3%E5%BC%8F%E5%BC%80%E6%BA%90GLM-5.1",
+          "source": "bilibili 热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时58分"
+        }
+      ]
+    },
+    {
       "keyword_group": "即梦",
       "match_count": 1,
       "titles": [
@@ -271,6 +300,23 @@
       ]
     },
     {
+      "keyword_group": "Apple",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "Apple50周年",
+          "url": "https://s.weibo.com/weibo?q=%23Apple50%E5%91%A8%E5%B9%B4%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时58分"
+        }
+      ]
+    },
+    {
       "keyword_group": "MiniMax",
       "match_count": 1,
       "titles": [
@@ -284,23 +330,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时54分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "智谱",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "智谱：GLM-5.1已面向所有Coding Plan用户开放",
-          "url": "https://flash.jin10.com/detail/20260327192633175800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时47分"
         }
       ]
     },
