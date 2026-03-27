@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-27T18:55:29.021480+08:00",
-  "total_titles_processed": 1464,
+  "generated_at": "2026-03-27T19:47:39.783969+08:00",
+  "total_titles_processed": 1562,
   "failed_sources": [],
   "trends": [
     {
@@ -27,8 +27,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时17分 ~ 18时55分]"
+          "appearance_count": 5,
+          "time_info": "[15时17分 ~ 19时47分]"
         },
         {
           "title": "陈飞宇迪丽热巴两集短剧",
@@ -71,9 +71,9 @@
           "ranks": [
             18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时55分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时55分 ~ 19时47分]"
         },
         {
           "title": "美团开源原生多模态大模型LongCat-Next",
@@ -100,11 +100,12 @@
             9,
             5,
             8,
-            18
+            18,
+            20
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时13分 ~ 18时55分]"
+          "appearance_count": 7,
+          "time_info": "[13时13分 ~ 19时47分]"
         },
         {
           "title": "谷歌新算法掀起“存储热降温恐慌” 华尔街分析师却不慌",
@@ -270,6 +271,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时54分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "智谱",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "智谱：GLM-5.1已面向所有Coding Plan用户开放",
+          "url": "https://flash.jin10.com/detail/20260327192633175800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时47分"
         }
       ]
     },
