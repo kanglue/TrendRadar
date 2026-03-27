@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-28T05:43:04.921495+08:00",
-  "total_titles_processed": 601,
+  "generated_at": "2026-03-28T06:40:43.084549+08:00",
+  "total_titles_processed": 635,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "财联社热门",
           "ranks": [
             11,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时02分 ~ 05时43分]"
+          "appearance_count": 7,
+          "time_info": "[00时02分 ~ 06时40分]"
         },
         {
           "title": "UP主实测谷歌压缩算法",
@@ -30,8 +31,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时02分 ~ 05时43分]"
+          "appearance_count": 7,
+          "time_info": "[00时02分 ~ 06时40分]"
         }
       ]
     },
@@ -81,11 +82,12 @@
           "source": "抖音",
           "ranks": [
             14,
-            11
+            11,
+            13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时02分 ~ 05时43分]"
+          "appearance_count": 7,
+          "time_info": "[00时02分 ~ 06时40分]"
         }
       ]
     }
