@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-28T01:05:51.982043+08:00",
-  "total_titles_processed": 392,
+  "generated_at": "2026-03-28T03:04:46.653156+08:00",
+  "total_titles_processed": 488,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.cls.cn/detail/2327153",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时02分 ~ 01时05分]"
+          "appearance_count": 3,
+          "time_info": "[00时02分 ~ 03时04分]"
         },
         {
           "title": "UP主实测谷歌压缩算法",
@@ -24,11 +25,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             21,
-            14
+            14,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时02分 ~ 01时05分]"
+          "appearance_count": 3,
+          "time_info": "[00时02分 ~ 03时04分]"
         }
       ]
     },
@@ -42,11 +44,12 @@
           "source": "知乎",
           "ranks": [
             1,
-            2
+            2,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时02分 ~ 01时05分]"
+          "appearance_count": 3,
+          "time_info": "[00时02分 ~ 03时04分]"
         }
       ]
     },
@@ -61,7 +64,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时05分"
         }
@@ -76,11 +79,12 @@
           "url": "https://www.douyin.com/hot/2445480",
           "source": "抖音",
           "ranks": [
-            14
+            14,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时02分 ~ 01时05分]"
+          "appearance_count": 3,
+          "time_info": "[00时02分 ~ 03时04分]"
         }
       ]
     }
