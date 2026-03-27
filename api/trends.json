@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-27T15:18:14.859646+08:00",
-  "total_titles_processed": 1170,
+  "generated_at": "2026-03-27T17:02:28.877512+08:00",
+  "total_titles_processed": 1312,
   "failed_sources": [],
   "trends": [
     {
@@ -38,11 +38,53 @@
           "url": "https://www.zhihu.com/question/2017224899635142906",
           "source": "知乎",
           "ranks": [
-            10
+            10,
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时17分 ~ 15时18分]"
+          "appearance_count": 3,
+          "time_info": "[15时17分 ~ 17时02分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "算法",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "UP主实测谷歌压缩算法",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%AE%9E%E6%B5%8B%E8%B0%B7%E6%AD%8C%E5%8E%8B%E7%BC%A9%E7%AE%97%E6%B3%95",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9,
+            5,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时13分 ~ 17时02分]"
+        },
+        {
+          "title": "3月27日投资避雷针：谷歌推出压缩算法TurboQuant 美股存储板块遭重挫",
+          "url": "https://www.cls.cn/detail/2326356",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时02分"
+        },
+        {
+          "title": "谷歌新算法掀起“存储热降温恐慌” 华尔街分析师却不慌",
+          "url": "https://www.cls.cn/detail/2326397",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时02分"
         }
       ]
     },
@@ -145,11 +187,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             7,
-            9
+            9,
+            15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时13分 ~ 15时18分]"
+          "appearance_count": 5,
+          "time_info": "[13时13分 ~ 17时02分]"
         },
         {
           "title": "美团开源原生多模态大模型LongCat-Next",
@@ -174,11 +217,29 @@
           "source": "知乎",
           "ranks": [
             11,
-            8
+            8,
+            4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时54分 ~ 15时18分]"
+          "appearance_count": 6,
+          "time_info": "[10时54分 ~ 17时02分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "字节",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "字节跳动发布2026年首份纪律通报，强化信息安全治理",
+          "url": "https://wallstreetcn.com/livenews/3078055",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时02分"
         }
       ]
     },
@@ -215,24 +276,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时10分 ~ 07时39分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "算法",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "UP主实测谷歌压缩算法",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%AE%9E%E6%B5%8B%E8%B0%B7%E6%AD%8C%E5%8E%8B%E7%BC%A9%E7%AE%97%E6%B3%95",
-          "source": "bilibili 热搜",
-          "ranks": [
-            9,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时13分 ~ 15时18分]"
         }
       ]
     }
