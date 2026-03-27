@@ -1,354 +1,67 @@
 {
-  "generated_at": "2026-03-27T22:58:39.502871+08:00",
-  "total_titles_processed": 1824,
+  "generated_at": "2026-03-28T00:02:36.394203+08:00",
+  "total_titles_processed": 306,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "短剧",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "AI短剧冲击横店 第一批受害者出现了",
-          "url": "https://www.baidu.com/s?wd=AI%E7%9F%AD%E5%89%A7%E5%86%B2%E5%87%BB%E6%A8%AA%E5%BA%97+%E7%AC%AC%E4%B8%80%E6%89%B9%E5%8F%97%E5%AE%B3%E8%80%85%E5%87%BA%E7%8E%B0%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时10分 ~ 07时39分]"
-        },
-        {
-          "title": "AI 短剧《雪山救狐狸》为什么火了？它戳中了什么点？",
-          "url": "https://www.zhihu.com/question/2017224899635142906",
-          "source": "知乎",
-          "ranks": [
-            10,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时17分 ~ 22时58分]"
-        },
-        {
-          "title": "陈飞宇迪丽热巴两集短剧",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%99%88%E9%A3%9E%E5%AE%87%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E4%B8%A4%E9%9B%86%E7%9F%AD%E5%89%A7%23&t=31&band_rank=4&Refer=top",
-          "source": "微博",
-          "ranks": [
-            4,
-            9,
-            8,
-            16,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时26分 ~ 07时39分]"
-        },
-        {
-          "title": "3.6万条社媒评论告诉你，短剧的“人感”为什么越来越重要",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32836392",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时20分 ~ 21时21分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "大模型",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "大模型输出答案前在思考什么",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A4%A7%E6%A8%A1%E5%9E%8B%E8%BE%93%E5%87%BA%E7%AD%94%E6%A1%88%E5%89%8D%E5%9C%A8%E6%80%9D%E8%80%83%E4%BB%80%E4%B9%88",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7,
-            9,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时13分 ~ 17时02分]"
-        },
-        {
-          "title": "小米大模型负责人谈未来竞争",
-          "url": "https://www.douyin.com/hot/2445480",
-          "source": "抖音",
-          "ranks": [
-            18,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时55分 ~ 22时58分]"
-        },
-        {
-          "title": "美团开源原生多模态大模型LongCat-Next",
-          "url": "https://wallstreetcn.com/livenews/3077909",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时14分"
-        }
-      ]
-    },
-    {
       "keyword_group": "算法",
-      "match_count": 3,
+      "match_count": 2,
       "titles": [
         {
-          "title": "UP主实测谷歌压缩算法",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%AE%9E%E6%B5%8B%E8%B0%B7%E6%AD%8C%E5%8E%8B%E7%BC%A9%E7%AE%97%E6%B3%95",
-          "source": "bilibili 热搜",
-          "ranks": [
-            9,
-            5,
-            8,
-            18,
-            20,
-            16,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[13时13分 ~ 22时58分]"
-        },
-        {
-          "title": "谷歌新算法掀起“存储热降温恐慌” 华尔街分析师却不慌",
-          "url": "https://www.cls.cn/detail/2326397",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时02分 ~ 18时55分]"
-        },
-        {
-          "title": "3月27日投资避雷针：谷歌推出压缩算法TurboQuant 美股存储板块遭重挫",
-          "url": "https://www.cls.cn/detail/2326356",
+          "title": "全球内存股惨遭谷歌新算法冲击 瑞穗：恰恰是一个上车机会！",
+          "url": "https://www.cls.cn/detail/2327153",
           "source": "财联社热门",
           "ranks": [
             11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时02分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "GPT",
-      "match_count": 2,
-      "titles": [
+          "time_info": "00时02分"
+        },
         {
-          "title": "OpenAI来自ChatGPT广告业务试点获得的年化收入超过1亿美元。（The Information）",
-          "url": "https://wallstreetcn.com/livenews/3077691",
-          "source": "华尔街见闻-快讯",
+          "title": "UP主实测谷歌压缩算法",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%AE%9E%E6%B5%8B%E8%B0%B7%E6%AD%8C%E5%8E%8B%E7%BC%A9%E7%AE%97%E6%B3%95",
+          "source": "bilibili 热搜",
           "ranks": [
-            6,
             21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时38分 ~ 06时38分]"
-        },
-        {
-          "title": "ChatGPT的心脏长什么样",
-          "url": "https://search.bilibili.com/all?keyword=ChatGPT%E7%9A%84%E5%BF%83%E8%84%8F%E9%95%BF%E4%BB%80%E4%B9%88%E6%A0%B7",
-          "source": "bilibili 热搜",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时13分 ~ 13时14分]"
+          "appearance_count": 1,
+          "time_info": "00时02分"
         }
       ]
     },
     {
-      "keyword_group": "Gemini",
-      "match_count": 2,
+      "keyword_group": "短剧",
+      "match_count": 1,
       "titles": [
         {
-          "title": "谷歌：用户可以将其他AI应用的记忆转移到Gemini。",
-          "url": "https://flash.jin10.com/detail/20260327032315760800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时42分"
-        },
-        {
-          "title": "谷歌公司：推出Gemini 3.1 Flash Live Audio & Voice模型。 在全球推广Search Live。 向那些已经存在人工智能（AI）模型的地方推广Search Live。",
-          "url": "https://wallstreetcn.com/livenews/3077571",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时11分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "Deepseek",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "网传 DeepSeekV4 要来了，这次是真的吗？目前有哪些信息？",
-          "url": "https://www.zhihu.com/question/2015379461017659100",
+          "title": "AI 短剧《雪山救狐狸》为什么火了？它戳中了什么点？",
+          "url": "https://www.zhihu.com/question/2017224899635142906",
           "source": "知乎",
           "ranks": [
-            19,
-            8,
-            7,
-            5
+            1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时38分 ~ 13时14分]"
-        },
-        {
-          "title": "TurboQuant“横空出世”，科技圈高呼“谷歌版DeepSeek”、“真实版Pied Piper”，华尔街“呵呵，抄底内存股”",
-          "url": "https://wallstreetcn.com/articles/3768419",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时10分 ~ 07时39分]"
+          "appearance_count": 1,
+          "time_info": "00时02分"
         }
       ]
     },
     {
-      "keyword_group": "智谱",
-      "match_count": 2,
+      "keyword_group": "大模型",
+      "match_count": 1,
       "titles": [
         {
-          "title": "智谱：GLM-5.1已面向所有Coding Plan用户开放",
-          "url": "https://flash.jin10.com/detail/20260327192633175800",
-          "source": "金十数据",
+          "title": "小米大模型负责人谈未来竞争",
+          "url": "https://www.douyin.com/hot/2445480",
+          "source": "抖音",
           "ranks": [
             14
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时47分"
-        },
-        {
-          "title": "智谱正式开源GLM-5.1",
-          "url": "https://search.bilibili.com/all?keyword=%E6%99%BA%E8%B0%B1%E6%AD%A3%E5%BC%8F%E5%BC%80%E6%BA%90GLM-5.1",
-          "source": "bilibili 热搜",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时58分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "即梦",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "如何看待 Sora 宣布下架当日，即梦随即取消折扣，国内 AI 市场是否已进入「一家独大」的收割期？",
-          "url": "https://www.zhihu.com/question/2020423157757028308",
-          "source": "知乎",
-          "ranks": [
-            11,
-            8,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时54分 ~ 17时02分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "字节",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "字节跳动发布2026年首份纪律通报，强化信息安全治理",
-          "url": "https://wallstreetcn.com/livenews/3078055",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时02分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "Apple",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "Apple50周年",
-          "url": "https://s.weibo.com/weibo?q=%23Apple50%E5%91%A8%E5%B9%B4%23&t=31&band_rank=18&Refer=top",
-          "source": "微博",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时58分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "MiniMax",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "港股AI应用股盘中走势分化，医脉通(02192.HK)涨超7%，网龙(00777.HK)涨超4%，文远知行-W(00800.HK)、微创机器人(02252.HK)、Keep(03650.HK)均涨超3%；小马智行-W(02026.HK)跌超13%，海致科技(02706.HK)跌超9.5%，MINIMAX-W(00100.HK)跌近4%，智谱(02513.HK)跌超2.5%。",
-          "url": "https://flash.jin10.com/detail/20260327103337076800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时54分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "Sora",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "OpenAI宣布关停Sora",
-          "url": "https://search.bilibili.com/all?keyword=OpenAI%E5%AE%A3%E5%B8%83%E5%85%B3%E5%81%9CSora",
-          "source": "bilibili 热搜",
-          "ranks": [
-            14,
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时10分 ~ 07时39分]"
+          "time_info": "00时02分"
         }
       ]
     }
