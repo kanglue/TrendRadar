@@ -1,8 +1,36 @@
 {
-  "generated_at": "2026-03-28T19:35:18.729690+08:00",
-  "total_titles_processed": 1373,
+  "generated_at": "2026-03-28T21:08:54.751392+08:00",
+  "total_titles_processed": 1462,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "智谱",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "智谱 GLM-5.1 面向所有 codingplan 用户开放，对开发者意味着什么？",
+          "url": "https://www.zhihu.com/question/2020954059209803141",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时08分"
+        },
+        {
+          "title": "智谱正式开放GLM-5.1",
+          "url": "https://search.bilibili.com/all?keyword=%E6%99%BA%E8%B0%B1%E6%AD%A3%E5%BC%8F%E5%BC%80%E6%94%BEGLM-5.1",
+          "source": "bilibili 热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时05分"
+        }
+      ]
+    },
     {
       "keyword_group": "大模型",
       "match_count": 2,
@@ -30,8 +58,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时45分 ~ 19时35分]"
+          "appearance_count": 5,
+          "time_info": "[17时45分 ~ 21时08分]"
         }
       ]
     },
@@ -67,11 +95,12 @@
             22,
             13,
             16,
-            19
+            19,
+            23
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时02分 ~ 19时35分]"
+          "appearance_count": 18,
+          "time_info": "[00时02分 ~ 21时08分]"
         }
       ]
     },
@@ -106,26 +135,9 @@
           "ranks": [
             20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时35分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "智谱",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "智谱正式开放GLM-5.1",
-          "url": "https://search.bilibili.com/all?keyword=%E6%99%BA%E8%B0%B1%E6%AD%A3%E5%BC%8F%E5%BC%80%E6%94%BEGLM-5.1",
-          "source": "bilibili 热搜",
-          "ranks": [
-            28
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时05分"
+          "time_info": "19时35分"
         }
       ]
     }
