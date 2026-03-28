@@ -1,158 +1,33 @@
 {
-  "generated_at": "2026-03-28T23:38:37.507720+08:00",
-  "total_titles_processed": 1638,
+  "generated_at": "2026-03-29T00:42:19.692094+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "算法",
-      "match_count": 3,
+      "match_count": 2,
       "titles": [
-        {
-          "title": "全球内存股惨遭谷歌新算法冲击 瑞穗：恰恰是一个上车机会！",
-          "url": "https://www.cls.cn/detail/2327153",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            7,
-            8,
-            9,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时02分 ~ 14时05分]"
-        },
         {
           "title": "UP主实测谷歌压缩算法",
           "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%AE%9E%E6%B5%8B%E8%B0%B7%E6%AD%8C%E5%8E%8B%E7%BC%A9%E7%AE%97%E6%B3%95",
           "source": "bilibili 热搜",
           "ranks": [
-            21,
-            14,
-            15,
-            17,
-            20,
-            22,
-            13,
-            16,
-            19,
-            23,
-            18
+            17
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时02分 ~ 23时38分]"
+          "appearance_count": 1,
+          "time_info": "00时42分"
         },
         {
           "title": "西门子中国董事长肖松：AI进工厂，成败关键不在“卷算法”",
           "url": "https://wallstreetcn.com/livenews/3078600",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            18,
             29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时39分 ~ 23时38分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "智谱",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "智谱 GLM-5.1 面向所有 codingplan 用户开放，对开发者意味着什么？",
-          "url": "https://www.zhihu.com/question/2020954059209803141",
-          "source": "知乎",
-          "ranks": [
-            18,
-            4,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[21时08分 ~ 23时38分]"
-        },
-        {
-          "title": "智谱正式开放GLM-5.1",
-          "url": "https://search.bilibili.com/all?keyword=%E6%99%BA%E8%B0%B1%E6%AD%A3%E5%BC%8F%E5%BC%80%E6%94%BEGLM-5.1",
-          "source": "bilibili 热搜",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时05分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "大模型",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "小米大模型负责人谈未来竞争",
-          "url": "https://www.douyin.com/hot/2445480",
-          "source": "抖音",
-          "ranks": [
-            14,
-            11,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时02分 ~ 06时40分]"
-        },
-        {
-          "title": "谷歌推出压缩算法 TurboQuant，宣称实现约 6 倍内存节省，会成为大模型端侧落地的突破口吗？",
-          "url": "https://www.zhihu.com/question/2020455049218712383",
-          "source": "知乎",
-          "ranks": [
-            19,
-            15,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时45分 ~ 21时08分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "短剧",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "AI 短剧《雪山救狐狸》为什么火了？它戳中了什么点？",
-          "url": "https://www.zhihu.com/question/2017224899635142906",
-          "source": "知乎",
-          "ranks": [
-            1,
-            2,
-            5,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时02分 ~ 07时40分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "GPT",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "采集数据，落地场景，具身智能行业何时迈向“GPT-3”时代？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32843426",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时35分"
+          "time_info": "00时42分"
         }
       ]
     }
