@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-28T10:44:25.131214+08:00",
-  "total_titles_processed": 841,
+  "generated_at": "2026-03-28T12:59:43.926408+08:00",
+  "total_titles_processed": 977,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             11,
             7,
             8,
-            9
+            9,
+            13
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时02分 ~ 10时44分]"
+          "appearance_count": 10,
+          "time_info": "[00时02分 ~ 12时59分]"
         },
         {
           "title": "UP主实测谷歌压缩算法",
@@ -30,11 +31,12 @@
             14,
             15,
             17,
-            20
+            20,
+            22
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时02分 ~ 10时44分]"
+          "appearance_count": 10,
+          "time_info": "[00时02分 ~ 12时59分]"
         }
       ]
     },
