@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-29T01:36:49.469447+08:00",
-  "total_titles_processed": 357,
+  "generated_at": "2026-03-29T02:52:16.460310+08:00",
+  "total_titles_processed": 409,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时42分 ~ 01时36分]"
+          "appearance_count": 3,
+          "time_info": "[00时42分 ~ 02时52分]"
         },
         {
           "title": "西门子中国董事长肖松：AI进工厂，成败关键不在“卷算法”",
@@ -27,8 +27,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时42分 ~ 01时36分]"
+          "appearance_count": 3,
+          "time_info": "[00时42分 ~ 02时52分]"
         }
       ]
     }
