@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-29T16:51:19.801345+08:00",
-  "total_titles_processed": 1000,
+  "generated_at": "2026-03-29T17:45:56.107551+08:00",
+  "total_titles_processed": 1053,
   "failed_sources": [],
   "trends": [
     {
@@ -25,6 +25,21 @@
           "time_info": "[00时42分 ~ 07时38分]"
         },
         {
+          "title": "谷歌AI内存压缩算法遭质疑",
+          "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8CAI%E5%86%85%E5%AD%98%E5%8E%8B%E7%BC%A9%E7%AE%97%E6%B3%95%E9%81%AD%E8%B4%A8%E7%96%91",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1,
+            7,
+            13,
+            20,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时58分 ~ 17时45分]"
+        },
+        {
           "title": "西门子中国董事长肖松：AI进工厂，成败关键不在“卷算法”",
           "url": "https://wallstreetcn.com/livenews/3078600",
           "source": "华尔街见闻-快讯",
@@ -34,20 +49,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时42分 ~ 07时38分]"
-        },
-        {
-          "title": "谷歌AI内存压缩算法遭质疑",
-          "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8CAI%E5%86%85%E5%AD%98%E5%8E%8B%E7%BC%A9%E7%AE%97%E6%B3%95%E9%81%AD%E8%B4%A8%E7%96%91",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1,
-            7,
-            13,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时58分 ~ 16时51分]"
         }
       ]
     },
@@ -61,11 +62,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            14
+            14,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时14分 ~ 16时51分]"
+          "appearance_count": 3,
+          "time_info": "[15时14分 ~ 17时45分]"
         },
         {
           "title": "王兴兴定义具身智能“GPT时刻”：带机器人到陌生场景，语音指令完成80%以上任务",
@@ -91,11 +93,12 @@
           "ranks": [
             5,
             7,
-            4
+            4,
+            8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时19分 ~ 16时51分]"
+          "appearance_count": 6,
+          "time_info": "[13时19分 ~ 17时45分]"
         }
       ]
     }
