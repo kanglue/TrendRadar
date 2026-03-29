@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-29T18:41:48.556980+08:00",
-  "total_titles_processed": 1110,
+  "generated_at": "2026-03-29T19:36:28.398447+08:00",
+  "total_titles_processed": 1161,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "算法",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "谷歌AI内存压缩算法遭质疑",
@@ -19,8 +19,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时58分 ~ 18时41分]"
+          "appearance_count": 9,
+          "time_info": "[10时58分 ~ 19时36分]"
         },
         {
           "title": "UP主实测谷歌压缩算法",
@@ -49,6 +49,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时42分 ~ 07时38分]"
+        },
+        {
+          "title": "新算法公布,谷歌干崩股市",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352482&amp;topic_name=%E6%96%B0%E7%AE%97%E6%B3%95%E5%85%AC%E5%B8%83%2C%E8%B0%B7%E6%AD%8C%E5%B9%B2%E5%B4%A9%E8%82%A1%E5%B8%82",
+          "source": "贴吧",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时36分"
         }
       ]
     },
@@ -95,11 +106,12 @@
             5,
             7,
             4,
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时19分 ~ 18时41分]"
+          "appearance_count": 8,
+          "time_info": "[13时19分 ~ 19时36分]"
         }
       ]
     }
