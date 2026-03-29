@@ -1,12 +1,27 @@
 {
-  "generated_at": "2026-03-29T17:45:56.107551+08:00",
-  "total_titles_processed": 1053,
+  "generated_at": "2026-03-29T18:41:48.556980+08:00",
+  "total_titles_processed": 1110,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "算法",
       "match_count": 3,
       "titles": [
+        {
+          "title": "谷歌AI内存压缩算法遭质疑",
+          "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8CAI%E5%86%85%E5%AD%98%E5%8E%8B%E7%BC%A9%E7%AE%97%E6%B3%95%E9%81%AD%E8%B4%A8%E7%96%91",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1,
+            7,
+            13,
+            20,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[10时58分 ~ 18时41分]"
+        },
         {
           "title": "UP主实测谷歌压缩算法",
           "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%AE%9E%E6%B5%8B%E8%B0%B7%E6%AD%8C%E5%8E%8B%E7%BC%A9%E7%AE%97%E6%B3%95",
@@ -23,21 +38,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时42分 ~ 07时38分]"
-        },
-        {
-          "title": "谷歌AI内存压缩算法遭质疑",
-          "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8CAI%E5%86%85%E5%AD%98%E5%8E%8B%E7%BC%A9%E7%AE%97%E6%B3%95%E9%81%AD%E8%B4%A8%E7%96%91",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1,
-            7,
-            13,
-            20,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时58分 ~ 17时45分]"
         },
         {
           "title": "西门子中国董事长肖松：AI进工厂，成败关键不在“卷算法”",
@@ -63,11 +63,12 @@
           "ranks": [
             3,
             14,
-            17
+            17,
+            26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时14分 ~ 17时45分]"
+          "appearance_count": 4,
+          "time_info": "[15时14分 ~ 18时41分]"
         },
         {
           "title": "王兴兴定义具身智能“GPT时刻”：带机器人到陌生场景，语音指令完成80%以上任务",
@@ -97,8 +98,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时19分 ~ 17时45分]"
+          "appearance_count": 7,
+          "time_info": "[13时19分 ~ 18时41分]"
         }
       ]
     }
