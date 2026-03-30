@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-30T21:55:41.635662+08:00",
-  "total_titles_processed": 1499,
+  "generated_at": "2026-03-30T23:11:25.474860+08:00",
+  "total_titles_processed": 1616,
   "failed_sources": [],
   "trends": [
     {
@@ -166,7 +166,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时55分"
         },
@@ -177,7 +177,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时55分"
         }
@@ -192,11 +192,12 @@
           "url": "https://www.zhihu.com/question/2021993070833525928",
           "source": "知乎",
           "ranks": [
-            4
+            4,
+            16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时55分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时55分 ~ 23时11分]"
         },
         {
           "title": "Seedance2.0造就了凌晨3点上班的公司",
@@ -246,8 +247,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时42分 ~ 21时55分]"
+          "appearance_count": 22,
+          "time_info": "[00时42分 ~ 23时11分]"
         }
       ]
     },
@@ -262,7 +263,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时55分"
         }
