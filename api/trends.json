@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-31T19:01:52.898821+08:00",
-  "total_titles_processed": 1409,
+  "generated_at": "2026-03-31T19:58:04.637507+08:00",
+  "total_titles_processed": 1509,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "Deepseek",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "DeepSeek为何宕机7小时",
@@ -36,11 +36,12 @@
           "url": "https://www.baidu.com/s?wd=DeepSeek%E8%A2%AB%E5%81%9A%E6%88%90%E6%B8%85%E6%98%8E%E8%8A%82%E7%BA%B8%E6%89%8E",
           "source": "百度热搜",
           "ranks": [
-            4
+            4,
+            25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时01分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时01分 ~ 19时58分]"
         },
         {
           "title": "DeepSeek服务中断一小时后恢复",
@@ -49,7 +50,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时01分"
         },
@@ -71,9 +72,20 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时01分"
+        },
+        {
+          "title": "DeepSeek连续三天发生服务异常，最长宕机超10小时",
+          "url": "https://flash.jin10.com/detail/20260331191726516800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时58分"
         },
         {
           "title": "DeepSeek服务中断一小时后恢复",
@@ -82,7 +94,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时01分"
         }
@@ -92,6 +104,18 @@
       "keyword_group": "短剧",
       "match_count": 4,
       "titles": [
+        {
+          "title": "女科学家硬核跨界做短剧课堂",
+          "url": "https://www.douyin.com/hot/2449863",
+          "source": "抖音",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时01分 ~ 19时58分]"
+        },
         {
           "title": "AI短剧 偷脸",
           "url": "https://s.weibo.com/weibo?q=AI%E7%9F%AD%E5%89%A7%20%E5%81%B7%E8%84%B8&t=31&band_rank=6&Refer=top",
@@ -103,17 +127,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时53分 ~ 13时16分]"
-        },
-        {
-          "title": "女科学家硬核跨界做短剧课堂",
-          "url": "https://www.douyin.com/hot/2449863",
-          "source": "抖音",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时01分"
         },
         {
           "title": "红果回应普通人形象被AI短剧盗脸",
@@ -144,6 +157,20 @@
       "match_count": 4,
       "titles": [
         {
+          "title": "交大学生推出校内恋爱匹配平台，65 道题筛选对象，算法真的靠谱吗？「系统派单」和「父母严选」哪个更好？",
+          "url": "https://www.zhihu.com/question/2017997183467672489",
+          "source": "知乎",
+          "ranks": [
+            18,
+            17,
+            4,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时27分 ~ 19时58分]"
+        },
+        {
           "title": "谷歌AI内存压缩算法遭质疑",
           "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8CAI%E5%86%85%E5%AD%98%E5%8E%8B%E7%BC%A9%E7%AE%97%E6%B3%95%E9%81%AD%E8%B4%A8%E7%96%91",
           "source": "bilibili 热搜",
@@ -157,19 +184,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时04分 ~ 07时42分]"
-        },
-        {
-          "title": "交大学生推出校内恋爱匹配平台，65 道题筛选对象，算法真的靠谱吗？「系统派单」和「父母严选」哪个更好？",
-          "url": "https://www.zhihu.com/question/2017997183467672489",
-          "source": "知乎",
-          "ranks": [
-            18,
-            17,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时27分 ~ 19时01分]"
         },
         {
           "title": "欧洲利率波动创纪录 算法交易加剧战争时期市场震荡",
@@ -206,7 +220,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时01分"
         },
@@ -217,7 +231,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时01分"
         }
