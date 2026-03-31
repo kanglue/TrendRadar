@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-31T21:55:56.821826+08:00",
-  "total_titles_processed": 1657,
+  "generated_at": "2026-03-31T23:09:57.287869+08:00",
+  "total_titles_processed": 1765,
   "failed_sources": [],
   "trends": [
     {
@@ -114,8 +114,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时01分 ~ 21时55分]"
+          "appearance_count": 5,
+          "time_info": "[19时01分 ~ 23时09分]"
         },
         {
           "title": "AI短剧 偷脸",
