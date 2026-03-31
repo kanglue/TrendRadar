@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-31T19:58:04.637507+08:00",
-  "total_titles_processed": 1509,
+  "generated_at": "2026-03-31T21:55:56.821826+08:00",
+  "total_titles_processed": 1657,
   "failed_sources": [],
   "trends": [
     {
@@ -37,11 +37,12 @@
           "source": "百度热搜",
           "ranks": [
             4,
-            25
+            25,
+            20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时01分 ~ 19时58分]"
+          "appearance_count": 4,
+          "time_info": "[19时01分 ~ 21时55分]"
         },
         {
           "title": "DeepSeek服务中断一小时后恢复",
@@ -83,7 +84,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时58分"
         },
@@ -113,8 +114,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时01分 ~ 19时58分]"
+          "appearance_count": 4,
+          "time_info": "[19时01分 ~ 21时55分]"
         },
         {
           "title": "AI短剧 偷脸",
