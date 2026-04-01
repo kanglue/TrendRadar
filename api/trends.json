@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-02T01:04:19.995904+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-04-02T03:13:11.944545+08:00",
+  "total_titles_processed": 393,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时04分"
+          "appearance_count": 3,
+          "time_info": "[01时04分 ~ 03时13分]"
         },
         {
           "title": "被AI短剧盗脸成丑角 女模特发声",
@@ -43,8 +43,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时04分"
+          "appearance_count": 3,
+          "time_info": "[01时04分 ~ 03时13分]"
         }
       ]
     }
