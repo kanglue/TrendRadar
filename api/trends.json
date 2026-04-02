@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-02T22:09:20.630786+08:00",
-  "total_titles_processed": 1655,
+  "generated_at": "2026-04-02T23:04:40.200579+08:00",
+  "total_titles_processed": 1756,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "短剧",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "李连杰首度回应拍短剧原因",
@@ -44,6 +44,51 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时09分"
+        },
+        {
+          "title": "向华强曝短剧投200万赚7000万",
+          "url": "https://www.baidu.com/s?wd=%E5%90%91%E5%8D%8E%E5%BC%BA%E6%9B%9D%E7%9F%AD%E5%89%A7%E6%8A%95200%E4%B8%87%E8%B5%9A7000%E4%B8%87",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时04分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "算法",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "愚人?B站下线猜你喜欢算法",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352627&amp;topic_name=%E6%84%9A%E4%BA%BA%3FB%E7%AB%99%E4%B8%8B%E7%BA%BF%E7%8C%9C%E4%BD%A0%E5%96%9C%E6%AC%A2%E7%AE%97%E6%B3%95",
+          "source": "贴吧",
+          "ranks": [
+            11,
+            13,
+            17,
+            19,
+            22,
+            26,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[01时04分 ~ 19时53分]"
+        },
+        {
+          "title": "法学何为 | 孙笑侠：在算法时代守住“人之判断”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32870157",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时04分"
         }
       ]
     },
@@ -147,29 +192,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时22分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "算法",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "愚人?B站下线猜你喜欢算法",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352627&amp;topic_name=%E6%84%9A%E4%BA%BA%3FB%E7%AB%99%E4%B8%8B%E7%BA%BF%E7%8C%9C%E4%BD%A0%E5%96%9C%E6%AC%A2%E7%AE%97%E6%B3%95",
-          "source": "贴吧",
-          "ranks": [
-            11,
-            13,
-            17,
-            19,
-            22,
-            26,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[01时04分 ~ 19时53分]"
         }
       ]
     },
