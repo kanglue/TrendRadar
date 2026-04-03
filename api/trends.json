@@ -1,8 +1,49 @@
 {
-  "generated_at": "2026-04-03T10:52:57.080283+08:00",
-  "total_titles_processed": 775,
+  "generated_at": "2026-04-03T13:11:44.658469+08:00",
+  "total_titles_processed": 939,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "大模型",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "如何评价 Google 发布的开源大模型 Gemma4？使用体验怎么样？",
+          "url": "https://www.zhihu.com/question/2023204569811828949",
+          "source": "知乎",
+          "ranks": [
+            8,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时52分 ~ 13时11分]"
+        },
+        {
+          "title": "错过张雪机车的重庆国资们 站上大模型与新能源的牌桌",
+          "url": "https://www.cls.cn/detail/2333899",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时52分 ~ 13时11分]"
+        },
+        {
+          "title": "雷军发文表示，MiMo大模型推出了Token Plan，提供四档套餐，Max套餐659元/月，首购优惠 88折。",
+          "url": "https://flash.jin10.com/detail/20260403121757644800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时11分"
+        }
+      ]
+    },
     {
       "keyword_group": "短剧",
       "match_count": 2,
@@ -34,34 +75,6 @@
       ]
     },
     {
-      "keyword_group": "大模型",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "如何评价 Google 发布的开源大模型 Gemma4？使用体验怎么样？",
-          "url": "https://www.zhihu.com/question/2023204569811828949",
-          "source": "知乎",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时52分"
-        },
-        {
-          "title": "错过张雪机车的重庆国资们 站上大模型与新能源的牌桌",
-          "url": "https://www.cls.cn/detail/2333899",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时52分"
-        }
-      ]
-    },
-    {
       "keyword_group": "GPT",
       "match_count": 1,
       "titles": [
@@ -89,9 +102,26 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时52分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "MiniMax",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "国内三大编程模型（Kimi K2.5, GLM 5, Minimax M2.7）我应该选择哪个？",
+          "url": "https://www.zhihu.com/question/2019834289672435071",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时11分"
         }
       ]
     },
@@ -124,7 +154,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时52分"
         }
