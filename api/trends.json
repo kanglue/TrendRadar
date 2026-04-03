@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-03T13:11:44.658469+08:00",
-  "total_titles_processed": 939,
+  "generated_at": "2026-04-03T15:20:01.720251+08:00",
+  "total_titles_processed": 1077,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "知乎",
           "ranks": [
             8,
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时52分 ~ 13时11分]"
+          "appearance_count": 4,
+          "time_info": "[10时52分 ~ 15时20分]"
         },
         {
           "title": "错过张雪机车的重庆国资们 站上大模型与新能源的牌桌",
@@ -38,7 +39,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时11分"
         }
@@ -92,6 +93,23 @@
       ]
     },
     {
+      "keyword_group": "Wan",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "阿里发布Wan2.7-Video视频生成模型",
+          "url": "https://wallstreetcn.com/livenews/3082014",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时20分"
+        }
+      ]
+    },
+    {
       "keyword_group": "千问",
       "match_count": 1,
       "titles": [
@@ -119,7 +137,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时11分"
         }
