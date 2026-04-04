@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-04T18:41:08.418366+08:00",
-  "total_titles_processed": 1243,
+  "generated_at": "2026-04-04T19:35:51.268840+08:00",
+  "total_titles_processed": 1302,
   "failed_sources": [],
   "trends": [
     {
@@ -53,6 +53,18 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "红果多部短剧AI角色撞脸易烊千玺",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BA%A2%E6%9E%9C%E5%A4%9A%E9%83%A8%E7%9F%AD%E5%89%A7AI%E8%A7%92%E8%89%B2%E6%92%9E%E8%84%B8%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%23&t=31&band_rank=24&Refer=top",
+          "source": "微博",
+          "ranks": [
+            24,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时40分 ~ 19时35分]"
+        },
+        {
           "title": "阿娇首部短剧",
           "url": "https://s.weibo.com/weibo?q=%23%E9%98%BF%E5%A8%87%E9%A6%96%E9%83%A8%E7%9F%AD%E5%89%A7%23&t=31&band_rank=8&Refer=top",
           "source": "微博",
@@ -62,17 +74,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时56分 ~ 12时57分]"
-        },
-        {
-          "title": "红果多部短剧AI角色撞脸易烊千玺",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%BA%A2%E6%9E%9C%E5%A4%9A%E9%83%A8%E7%9F%AD%E5%89%A7AI%E8%A7%92%E8%89%B2%E6%92%9E%E8%84%B8%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%23&t=31&band_rank=24&Refer=top",
-          "source": "微博",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时40分 ~ 18时41分]"
         }
       ]
     },
