@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-07T00:58:21.202008+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-04-07T01:55:27.021750+08:00",
+  "total_titles_processed": 386,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_32911737",
           "source": "澎湃新闻",
           "ranks": [
-            14
+            14,
+            15
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时58分"
+          "appearance_count": 2,
+          "time_info": "[00时58分 ~ 01时55分]"
         },
         {
           "title": "向华强称短剧投 200 万赚 7000 万，「能代替大电影」，如何看待这 35 倍回报率？短剧市场前景如何？",
@@ -26,8 +27,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时58分"
+          "appearance_count": 2,
+          "time_info": "[00时58分 ~ 01时55分]"
         }
       ]
     }
