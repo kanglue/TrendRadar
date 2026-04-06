@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-04-07T01:55:27.021750+08:00",
-  "total_titles_processed": 386,
+  "generated_at": "2026-04-07T03:11:32.527108+08:00",
+  "total_titles_processed": 457,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "短剧",
       "match_count": 2,
       "titles": [
+        {
+          "title": "向华强称短剧投 200 万赚 7000 万，「能代替大电影」，如何看待这 35 倍回报率？短剧市场前景如何？",
+          "url": "https://www.zhihu.com/question/2023169579090802363",
+          "source": "知乎",
+          "ranks": [
+            19,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时58分 ~ 03时11分]"
+        },
         {
           "title": "易烊千玺被“换脸”？红果短剧：坚决打击AI短剧素材违规使用、无授权盗用等行为",
           "url": "https://m.thepaper.cn/newsDetail_forward_32911737",
@@ -16,19 +28,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时58分 ~ 01时55分]"
-        },
-        {
-          "title": "向华强称短剧投 200 万赚 7000 万，「能代替大电影」，如何看待这 35 倍回报率？短剧市场前景如何？",
-          "url": "https://www.zhihu.com/question/2023169579090802363",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时58分 ~ 01时55分]"
+          "appearance_count": 3,
+          "time_info": "[00时58分 ~ 03时11分]"
         }
       ]
     }
