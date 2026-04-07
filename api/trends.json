@@ -1,8 +1,48 @@
 {
-  "generated_at": "2026-04-07T17:12:28.291825+08:00",
-  "total_titles_processed": 1339,
+  "generated_at": "2026-04-07T19:04:54.406267+08:00",
+  "total_titles_processed": 1476,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "GPT",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "曝GPT6本月发布",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9B%9DGPT6%E6%9C%AC%E6%9C%88%E5%8F%91%E5%B8%83",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时16分 ~ 17时12分]"
+        },
+        {
+          "title": "曝ChatGPT6本月发布",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9B%9DGPT6%E6%9C%AC%E6%9C%88%E5%8F%91%E5%B8%83",
+          "source": "bilibili 热搜",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时04分"
+        },
+        {
+          "title": "OpenAI：GPT5.4是处理复杂低级工程工作的最佳模型。在现有代码库中没有任何模型能与之媲美。",
+          "url": "https://flash.jin10.com/detail/20260407123739903800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时16分"
+        }
+      ]
+    },
     {
       "keyword_group": "短剧",
       "match_count": 2,
@@ -35,35 +75,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时58分 ~ 07时43分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "GPT",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "曝GPT6本月发布",
-          "url": "https://search.bilibili.com/all?keyword=%E6%9B%9DGPT6%E6%9C%AC%E6%9C%88%E5%8F%91%E5%B8%83",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时16分 ~ 17时12分]"
-        },
-        {
-          "title": "OpenAI：GPT5.4是处理复杂低级工程工作的最佳模型。在现有代码库中没有任何模型能与之媲美。",
-          "url": "https://flash.jin10.com/detail/20260407123739903800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时16分"
         }
       ]
     },
