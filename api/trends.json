@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-07T19:04:54.406267+08:00",
-  "total_titles_processed": 1476,
+  "generated_at": "2026-04-07T21:44:39.815787+08:00",
+  "total_titles_processed": 1634,
   "failed_sources": [],
   "trends": [
     {
@@ -24,11 +24,12 @@
           "url": "https://search.bilibili.com/all?keyword=%E6%9B%9DGPT6%E6%9C%AC%E6%9C%88%E5%8F%91%E5%B8%83",
           "source": "bilibili 热搜",
           "ranks": [
-            17
+            17,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时04分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时04分 ~ 21时44分]"
         },
         {
           "title": "OpenAI：GPT5.4是处理复杂低级工程工作的最佳模型。在现有代码库中没有任何模型能与之媲美。",
@@ -75,6 +76,23 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时58分 ~ 07时43分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "智谱",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "大模型第一股交卷，智谱 3000 亿市值对应 31.82 亿元亏损 ，如何解读大模型公司的财报？",
+          "url": "https://www.zhihu.com/question/2023344323463312345",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时44分"
         }
       ]
     },
