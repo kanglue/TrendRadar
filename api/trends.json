@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-07T15:41:51.127895+08:00",
-  "total_titles_processed": 1193,
+  "generated_at": "2026-04-07T17:12:28.291825+08:00",
+  "total_titles_processed": 1339,
   "failed_sources": [],
   "trends": [
     {
@@ -51,8 +51,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时16分 ~ 15时41分]"
+          "appearance_count": 3,
+          "time_info": "[13时16分 ~ 17时12分]"
         },
         {
           "title": "OpenAI：GPT5.4是处理复杂低级工程工作的最佳模型。在现有代码库中没有任何模型能与之媲美。",
