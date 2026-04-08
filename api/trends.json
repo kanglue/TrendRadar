@@ -1,11 +1,51 @@
 {
-  "generated_at": "2026-04-08T10:56:43.601367+08:00",
-  "total_titles_processed": 907,
+  "generated_at": "2026-04-08T13:20:02.674000+08:00",
+  "total_titles_processed": 1059,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "Deepseek",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "DeepSeek更新专家模式",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E6%9B%B4%E6%96%B0%E4%B8%93%E5%AE%B6%E6%A8%A1%E5%BC%8F",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时19分 ~ 13时20分]"
+        },
+        {
+          "title": "DeepSeek 更新「快速模式」和「专家模式」，二者有何区别？这是否意味着 V4 快来了？",
+          "url": "https://www.zhihu.com/question/2024876426596291384",
+          "source": "知乎",
+          "ranks": [
+            12,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时56分 ~ 13时20分]"
+        },
+        {
+          "title": "DeepSeek重要更新：上线专家模式",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E9%87%8D%E8%A6%81%E6%9B%B4%E6%96%B0%EF%BC%9A%E4%B8%8A%E7%BA%BF%E4%B8%93%E5%AE%B6%E6%A8%A1%E5%BC%8F",
+          "source": "百度热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时19分 ~ 13时20分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "智谱",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "智谱发布新一代开源模型GLM-5.1。",
@@ -14,7 +54,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时56分"
         },
@@ -25,9 +65,20 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时56分"
+        },
+        {
+          "title": "智谱早盘涨超14%，发布GLM-5.1并再度提价10%",
+          "url": "https://wallstreetcn.com/livenews/3083960",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时20分"
         }
       ]
     },
@@ -46,25 +97,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时09分 ~ 10时56分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "Deepseek",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "DeepSeek 更新「快速模式」和「专家模式」，二者有何区别？这是否意味着 V4 快来了？",
-          "url": "https://www.zhihu.com/question/2024876426596291384",
-          "source": "知乎",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时56分"
+          "appearance_count": 10,
+          "time_info": "[01时09分 ~ 13时20分]"
         }
       ]
     }
