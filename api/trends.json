@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-08T19:05:25.257189+08:00",
-  "total_titles_processed": 1499,
+  "generated_at": "2026-04-08T21:47:20.506914+08:00",
+  "total_titles_processed": 1660,
   "failed_sources": [],
   "trends": [
     {
@@ -94,11 +94,12 @@
           "source": "知乎",
           "ranks": [
             7,
-            9
+            9,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时12分 ~ 17时11分]"
+          "appearance_count": 3,
+          "time_info": "[16时12分 ~ 21时47分]"
         },
         {
           "title": "美国 AI 三巨头围剿模型蒸馏，对全球主要大模型公司将产生哪些影响？",
@@ -119,7 +120,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时05分"
         }
@@ -138,11 +139,12 @@
             15,
             14,
             19,
-            17
+            17,
+            25
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时09分 ~ 19时05分]"
+          "appearance_count": 14,
+          "time_info": "[01时09分 ~ 21时47分]"
         }
       ]
     },
