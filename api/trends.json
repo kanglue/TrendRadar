@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-09T17:17:38.116823+08:00",
-  "total_titles_processed": 1300,
+  "generated_at": "2026-04-09T19:06:13.281980+08:00",
+  "total_titles_processed": 1443,
   "failed_sources": [],
   "trends": [
     {
@@ -14,7 +14,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时17分"
         },
@@ -64,7 +64,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时17分"
         }
@@ -86,6 +86,23 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时12分 ~ 07时44分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "字节",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "字节发布全双工语音大模型Seeduplex",
+          "url": "https://www.toutiao.com/trending/7626368681664626731/",
+          "source": "今日头条",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时05分 ~ 19时06分]"
         }
       ]
     }
