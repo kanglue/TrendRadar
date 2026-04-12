@@ -1,8 +1,36 @@
 {
-  "generated_at": "2026-04-12T07:42:34.020961+08:00",
-  "total_titles_processed": 535,
+  "generated_at": "2026-04-12T11:26:43.857293+08:00",
+  "total_titles_processed": 711,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "大模型",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "小米推出 MiMo 大模型订阅套餐，罗福莉称不想「贱卖」token，将如何影响市场格局？",
+          "url": "https://www.zhihu.com/question/2025491195443311364",
+          "source": "知乎",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时26分"
+        },
+        {
+          "title": "顶尖大模型“能力突变”，算力需求“系统性超越供给”--大摩：“市场乐观的程度可能还不够”",
+          "url": "https://wallstreetcn.com/articles/3769750",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时26分"
+        }
+      ]
+    },
     {
       "keyword_group": "万相",
       "match_count": 1,
@@ -34,11 +62,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_32949929",
           "source": "澎湃新闻",
           "ranks": [
-            18
+            18,
+            11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时42分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时42分 ~ 11时26分]"
         }
       ]
     }
