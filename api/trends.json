@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-12T13:58:44.993512+08:00",
-  "total_titles_processed": 837,
+  "generated_at": "2026-04-12T15:38:49.170294+08:00",
+  "total_titles_processed": 926,
   "failed_sources": [],
   "trends": [
     {
@@ -8,15 +8,17 @@
       "match_count": 3,
       "titles": [
         {
-          "title": "小米推出 MiMo 大模型订阅套餐，罗福莉称不想「贱卖」token，将如何影响市场格局？",
-          "url": "https://www.zhihu.com/question/2025491195443311364",
-          "source": "知乎",
+          "title": "顶尖大模型“能力突变”，算力需求“系统性超越供给”--大摩：“市场乐观的程度可能还不够”",
+          "url": "https://wallstreetcn.com/articles/3769750",
+          "source": "华尔街见闻",
           "ranks": [
-            3
+            8,
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时26分"
+          "appearance_count": 3,
+          "time_info": "[11时26分 ~ 15时38分]"
         },
         {
           "title": "小米推出 MiMo 大模型订阅套餐，罗福莉称不想「贱卖」词元，将如何影响市场格局？",
@@ -25,21 +27,21 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时58分"
         },
         {
-          "title": "顶尖大模型“能力突变”，算力需求“系统性超越供给”--大摩：“市场乐观的程度可能还不够”",
-          "url": "https://wallstreetcn.com/articles/3769750",
-          "source": "华尔街见闻",
+          "title": "小米推出 MiMo 大模型订阅套餐，罗福莉称不想「贱卖」token，将如何影响市场格局？",
+          "url": "https://www.zhihu.com/question/2025491195443311364",
+          "source": "知乎",
           "ranks": [
-            8,
-            5
+            3,
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时26分 ~ 13时58分]"
+          "time_info": "[11时26分 ~ 15时38分]"
         }
       ]
     },
@@ -76,11 +78,12 @@
           "ranks": [
             18,
             11,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时42分 ~ 13时58分]"
+          "appearance_count": 4,
+          "time_info": "[07时42分 ~ 15时38分]"
         }
       ]
     }
