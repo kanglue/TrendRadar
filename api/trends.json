@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-12T16:58:09.777767+08:00",
-  "total_titles_processed": 1003,
+  "generated_at": "2026-04-12T17:54:14.405242+08:00",
+  "total_titles_processed": 1078,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             8,
             5,
             4,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时26分 ~ 16时58分]"
+          "appearance_count": 7,
+          "time_info": "[11时26分 ~ 17时54分]"
         },
         {
           "title": "小米推出 MiMo 大模型订阅套餐，罗福莉称不想「贱卖」token，将如何影响市场格局？",
@@ -27,11 +28,12 @@
           "source": "知乎",
           "ranks": [
             3,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时26分 ~ 16时58分]"
+          "appearance_count": 6,
+          "time_info": "[11时26分 ~ 17时54分]"
         },
         {
           "title": "小米推出 MiMo 大模型订阅套餐，罗福莉称不想「贱卖」词元，将如何影响市场格局？",
@@ -84,8 +86,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时42分 ~ 16时58分]"
+          "appearance_count": 8,
+          "time_info": "[07时42分 ~ 17时54分]"
         }
       ]
     }
