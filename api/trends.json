@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-12T22:47:44.677162+08:00",
-  "total_titles_processed": 1420,
+  "generated_at": "2026-04-12T23:42:42.527863+08:00",
+  "total_titles_processed": 1504,
   "failed_sources": [],
   "trends": [
     {
@@ -125,6 +125,23 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时38分 ~ 07时42分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "MiniMax",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "摩尔线程率先完成MiniMax M2.7大模型适配",
+          "url": "https://flash.jin10.com/detail/20260412224618363800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时42分"
         }
       ]
     }
