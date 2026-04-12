@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-12T19:39:28.574971+08:00",
-  "total_titles_processed": 1208,
+  "generated_at": "2026-04-12T21:15:06.957164+08:00",
+  "total_titles_processed": 1317,
   "failed_sources": [],
   "trends": [
     {
@@ -63,7 +63,7 @@
     },
     {
       "keyword_group": "算法",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "在线旅游平台频遭约谈背后（上）：流量与算法围城中的中小商家还有多少选择权",
@@ -92,6 +92,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时47分 ~ 19时39分]"
+        },
+        {
+          "title": "中国游戏算法第一案为何被驳回",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E6%B8%B8%E6%88%8F%E7%AE%97%E6%B3%95%E7%AC%AC%E4%B8%80%E6%A1%88%E4%B8%BA%E4%BD%95%E8%A2%AB%E9%A9%B3%E5%9B%9E",
+          "source": "bilibili 热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时14分 ~ 21时15分]"
         }
       ]
     },
