@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-13T07:43:02.593570+08:00",
-  "total_titles_processed": 549,
+  "generated_at": "2026-04-13T11:33:09.469743+08:00",
+  "total_titles_processed": 754,
   "failed_sources": [],
   "trends": [
     {
@@ -14,7 +14,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时43分"
         },
@@ -25,7 +25,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时43分"
         },
@@ -39,6 +39,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时50分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "短剧",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "陈赫 短剧",
+          "url": "https://s.weibo.com/weibo?q=%E9%99%88%E8%B5%AB%20%E7%9F%AD%E5%89%A7&t=31&band_rank=6&Refer=top",
+          "source": "微博",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时32分 ~ 11时33分]"
         }
       ]
     }
