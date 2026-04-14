@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-14T18:20:51.235296+08:00",
-  "total_titles_processed": 1298,
+  "generated_at": "2026-04-14T20:02:33.426238+08:00",
+  "total_titles_processed": 1439,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             7,
-            10
+            10,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时46分 ~ 18时20分]"
+          "appearance_count": 4,
+          "time_info": "[16时46分 ~ 20时02分]"
         },
         {
           "title": "卢洋洋去拍短剧了",
