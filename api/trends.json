@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-16T06:01:28.016579+08:00",
-  "total_titles_processed": 515,
+  "generated_at": "2026-04-16T06:56:37.651687+08:00",
+  "total_titles_processed": 561,
   "failed_sources": [],
   "trends": [
     {
@@ -32,11 +32,12 @@
             24,
             10,
             29,
-            28
+            28,
+            20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时13分 ~ 06时01分]"
+          "appearance_count": 5,
+          "time_info": "[01时13分 ~ 06时56分]"
         }
       ]
     },
@@ -49,11 +50,12 @@
           "url": "https://www.cls.cn/detail/2345128",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时13分 ~ 06时01分]"
+          "appearance_count": 5,
+          "time_info": "[01时13分 ~ 06时56分]"
         }
       ]
     }
