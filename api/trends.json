@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-04-17T01:22:16.569600+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-04-17T03:24:58.027899+08:00",
+  "total_titles_processed": 408,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "GPT",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "OpenAI：推出新模型GPT-Rosalind，旨在服务于生命科学研究。该模型最初将以研究预览版的形式提供给部分企业客户。",
+          "url": "https://flash.jin10.com/detail/20260417030201225800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时24分"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://kanglue.github.io/TrendRadar/img/news.jpg"
 }
