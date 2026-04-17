@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-17T19:56:52.677320+08:00",
-  "total_titles_processed": 1439,
+  "generated_at": "2026-04-17T21:45:58.804494+08:00",
+  "total_titles_processed": 1565,
   "failed_sources": [],
   "trends": [
     {
@@ -17,6 +17,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时24分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "字节",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "DeepSeek研究员入职字节，李亮：没招聘近亿元年薪技术员工，但不排除四年后收益数亿元",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32986995",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时45分"
         }
       ]
     },
@@ -48,7 +65,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时56分"
         }
