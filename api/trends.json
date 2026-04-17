@@ -1,76 +1,7 @@
 {
-  "generated_at": "2026-04-17T23:04:36.821066+08:00",
-  "total_titles_processed": 1693,
+  "generated_at": "2026-04-18T00:59:48.643661+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "GPT",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "OpenAI：推出新模型GPT-Rosalind，旨在服务于生命科学研究。该模型最初将以研究预览版的形式提供给部分企业客户。",
-          "url": "https://flash.jin10.com/detail/20260417030201225800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时24分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "字节",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "DeepSeek研究员入职字节，李亮：没招聘近亿元年薪技术员工，但不排除四年后收益数亿元",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32986995",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时45分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "Deepseek",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "黄仁勋：DeepSeek如果先在华为平台适配，对美国来说非常糟糕。（每经网）",
-          "url": "https://wallstreetcn.com/livenews/3089919",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时48分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "万兴",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "万兴科技旗下万兴剧厂全链路创作升级",
-          "url": "https://flash.jin10.com/detail/20260417191620521800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时56分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://kanglue.github.io/TrendRadar/img/news.jpg"
 }
