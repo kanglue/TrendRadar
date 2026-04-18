@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-19T00:52:00.136412+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-04-19T01:42:21.897320+08:00",
+  "total_titles_processed": 349,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时51分 ~ 00时52分]"
+          "appearance_count": 3,
+          "time_info": "[00时51分 ~ 01时42分]"
         }
       ]
     },
@@ -29,11 +29,12 @@
           "url": "https://www.douyin.com/hot/2470435",
           "source": "抖音",
           "ranks": [
-            18
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时51分 ~ 00时52分]"
+          "appearance_count": 3,
+          "time_info": "[00时51分 ~ 01时42分]"
         }
       ]
     }
