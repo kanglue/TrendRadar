@@ -1,22 +1,34 @@
 {
-  "generated_at": "2026-04-18T07:48:46.311579+08:00",
-  "total_titles_processed": 638,
+  "generated_at": "2026-04-18T10:55:41.397222+08:00",
+  "total_titles_processed": 809,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "Sora",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "Sora负责人离职",
           "url": "https://wallstreetcn.com/livenews/3090370",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时48分 ~ 10时55分]"
+        },
+        {
+          "title": "Sora之父宣布离职",
+          "url": "https://flash.jin10.com/detail/20260418091936040800",
+          "source": "金十数据",
+          "ranks": [
+            13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时48分"
+          "time_info": "10时55分"
         }
       ]
     }
