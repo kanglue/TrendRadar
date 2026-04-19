@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-19T17:54:23.144765+08:00",
-  "total_titles_processed": 959,
+  "generated_at": "2026-04-19T18:49:14.095736+08:00",
+  "total_titles_processed": 1017,
   "failed_sources": [],
   "trends": [
     {
@@ -27,8 +27,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时03分 ~ 17时54分]"
+          "appearance_count": 6,
+          "time_info": "[14时03分 ~ 18时49分]"
         },
         {
           "title": "DeepSeek被曝融资20亿",
@@ -51,11 +51,25 @@
             13,
             12,
             11,
-            6
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时31分 ~ 18时49分]"
+        },
+        {
+          "title": "DeepSeek被曝融资20亿",
+          "url": "https://www.toutiao.com/trending/7630341053001829938/",
+          "source": "今日头条",
+          "ranks": [
+            21,
+            24,
+            27
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[11时31分 ~ 17时54分]"
+          "time_info": "[16时09分 ~ 18时49分]"
         },
         {
           "title": "DeepSeek被曝启动融资",
@@ -79,18 +93,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[14时03分 ~ 16时10分]"
-        },
-        {
-          "title": "DeepSeek被曝融资20亿",
-          "url": "https://www.toutiao.com/trending/7630341053001829938/",
-          "source": "今日头条",
-          "ranks": [
-            21,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时09分 ~ 17时54分]"
         },
         {
           "title": "DeepSeek百亿融资背后的两张王牌",
