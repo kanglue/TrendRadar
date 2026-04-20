@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-21T03:16:35.459583+08:00",
-  "total_titles_processed": 401,
+  "generated_at": "2026-04-21T04:56:45.429921+08:00",
+  "total_titles_processed": 474,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.cls.cn/detail/2349602",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时12分 ~ 03时16分]"
+          "appearance_count": 4,
+          "time_info": "[01时12分 ~ 04时56分]"
         },
         {
           "title": "抖音回应“字节净利下滑70%”",
@@ -28,8 +29,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时12分 ~ 03时16分]"
+          "appearance_count": 4,
+          "time_info": "[01时12分 ~ 04时56分]"
         }
       ]
     },
@@ -44,7 +45,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时16分"
         }
