@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-21T04:56:45.429921+08:00",
-  "total_titles_processed": 474,
+  "generated_at": "2026-04-21T05:54:37.155763+08:00",
+  "total_titles_processed": 511,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时12分 ~ 04时56分]"
+          "appearance_count": 5,
+          "time_info": "[01时12分 ~ 05时54分]"
         },
         {
           "title": "抖音回应“字节净利下滑70%”",
@@ -26,11 +26,12 @@
           "ranks": [
             21,
             22,
-            19
+            19,
+            27
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时12分 ~ 04时56分]"
+          "appearance_count": 5,
+          "time_info": "[01时12分 ~ 05时54分]"
         }
       ]
     },
