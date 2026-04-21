@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-21T14:07:43.272621+08:00",
-  "total_titles_processed": 987,
+  "generated_at": "2026-04-21T16:56:15.154639+08:00",
+  "total_titles_processed": 1158,
   "failed_sources": [],
   "trends": [
     {
@@ -49,6 +49,34 @@
       ]
     },
     {
+      "keyword_group": "Deepseek",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "DeepSeek启动首轮外部融资 有望助推国产算力生态全面铺开",
+          "url": "https://www.cls.cn/detail/2350095",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时55分 ~ 16时56分]"
+        },
+        {
+          "title": "DeepSeek 被曝融资 20 亿，真实性如何？若属实，估值合理吗？一直说不融资的它，怎么突然松口了？",
+          "url": "https://www.zhihu.com/question/2029232145541980805",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时16分"
+        }
+      ]
+    },
+    {
       "keyword_group": "短剧",
       "match_count": 1,
       "titles": [
@@ -58,11 +86,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             16,
-            10
+            10,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时25分 ~ 14时07分]"
+          "appearance_count": 4,
+          "time_info": "[11时25分 ~ 16时56分]"
         }
       ]
     },
@@ -97,23 +126,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时53分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "Deepseek",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "DeepSeek 被曝融资 20 亿，真实性如何？若属实，估值合理吗？一直说不融资的它，怎么突然松口了？",
-          "url": "https://www.zhihu.com/question/2029232145541980805",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时16分"
         }
       ]
     }
