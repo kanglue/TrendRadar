@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-22T05:52:38.113371+08:00",
-  "total_titles_processed": 557,
+  "generated_at": "2026-04-22T06:44:44.708080+08:00",
+  "total_titles_processed": 588,
   "failed_sources": [],
   "trends": [
     {
@@ -55,7 +55,7 @@
     },
     {
       "keyword_group": "算法",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "如何评价 GitHub Copilot 在 4 月 20 日暂停 Pro 和 Pro+ 新用户注册，并修改使用限制算法？",
@@ -68,6 +68,34 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时14分 ~ 02时03分]"
+        },
+        {
+          "title": "现在端到端这么火的大背景下，对于规控领域学习传统规控算法还有意义吗?",
+          "url": "https://www.zhihu.com/question/656681201",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时44分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "短剧",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "当“娜拉”任职五星级酒店，为何《蜜语纪》被称为高定版短剧",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33008780",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时44分"
         }
       ]
     }
