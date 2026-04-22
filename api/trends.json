@@ -1,40 +1,11 @@
 {
-  "generated_at": "2026-04-23T04:09:31.314815+08:00",
-  "total_titles_processed": 477,
+  "generated_at": "2026-04-23T05:56:52.285356+08:00",
+  "total_titles_processed": 548,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "Deepseek",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "如何评价 Deepseek 于 2026 年 4 月 22 日上线的新模型 api？",
-          "url": "https://www.zhihu.com/question/2030308965683291022",
-          "source": "知乎",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时04分 ~ 04时09分]"
-        },
-        {
-          "title": "阿里等巨头洽谈投资DeepSeek",
-          "url": "https://www.baidu.com/s?wd=%E9%98%BF%E9%87%8C%E7%AD%89%E5%B7%A8%E5%A4%B4%E6%B4%BD%E8%B0%88%E6%8A%95%E8%B5%84DeepSeek",
-          "source": "百度热搜",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时09分"
-        }
-      ]
-    },
-    {
       "keyword_group": "GPT",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "OpenAI在ChatGPT引入Workspace Agents。",
@@ -46,6 +17,47 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时04分"
+        },
+        {
+          "title": "GPT-Image-2正式发布！设计师可以告别「古法设计」了",
+          "url": "https://wallstreetcn.com/articles/3770552",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时56分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "Deepseek",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "如何评价 Deepseek 于 2026 年 4 月 22 日上线的新模型 api？",
+          "url": "https://www.zhihu.com/question/2030308965683291022",
+          "source": "知乎",
+          "ranks": [
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时04分 ~ 05时56分]"
+        },
+        {
+          "title": "阿里等巨头洽谈投资DeepSeek",
+          "url": "https://www.baidu.com/s?wd=%E9%98%BF%E9%87%8C%E7%AD%89%E5%B7%A8%E5%A4%B4%E6%B4%BD%E8%B0%88%E6%8A%95%E8%B5%84DeepSeek",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时09分"
         }
       ]
     },
@@ -60,7 +72,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时09分"
         }
@@ -78,8 +90,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时13分 ~ 04时09分]"
+          "appearance_count": 4,
+          "time_info": "[00时13分 ~ 05时56分]"
         }
       ]
     }
