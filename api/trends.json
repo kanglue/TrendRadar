@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-22T14:19:14.508056+08:00",
-  "total_titles_processed": 1034,
+  "generated_at": "2026-04-22T16:52:18.664935+08:00",
+  "total_titles_processed": 1192,
   "failed_sources": [],
   "trends": [
     {
@@ -85,11 +85,12 @@
           "source": "贴吧",
           "ranks": [
             5,
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时23分 ~ 14时19分]"
+          "appearance_count": 4,
+          "time_info": "[11时23分 ~ 16时52分]"
         },
         {
           "title": "如何评价 GitHub Copilot 在 4 月 20 日暂停 Pro 和 Pro+ 新用户注册，并修改使用限制算法？",
@@ -125,11 +126,12 @@
           "url": "https://www.douyin.com/hot/2474856",
           "source": "抖音",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时18分 ~ 14时19分]"
+          "appearance_count": 3,
+          "time_info": "[14时18分 ~ 16时52分]"
         },
         {
           "title": "当“娜拉”任职五星级酒店，为何《蜜语纪》被称为高定版短剧",
@@ -157,11 +159,12 @@
           "source": "知乎",
           "ranks": [
             17,
-            14
+            14,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时23分 ~ 14时19分]"
+          "appearance_count": 4,
+          "time_info": "[11时23分 ~ 16时52分]"
         }
       ]
     },
@@ -193,7 +196,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时19分"
         }
