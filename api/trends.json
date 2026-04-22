@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-22T16:52:18.664935+08:00",
-  "total_titles_processed": 1192,
+  "generated_at": "2026-04-22T18:24:18.284565+08:00",
+  "total_titles_processed": 1317,
   "failed_sources": [],
   "trends": [
     {
@@ -86,11 +86,12 @@
           "ranks": [
             5,
             7,
-            9
+            9,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时23分 ~ 16时52分]"
+          "appearance_count": 5,
+          "time_info": "[11时23分 ~ 18时24分]"
         },
         {
           "title": "如何评价 GitHub Copilot 在 4 月 20 日暂停 Pro 和 Pro+ 新用户注册，并修改使用限制算法？",
@@ -160,11 +161,12 @@
           "ranks": [
             17,
             14,
-            6
+            6,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时23分 ~ 16时52分]"
+          "appearance_count": 5,
+          "time_info": "[11时23分 ~ 18时24分]"
         }
       ]
     },
