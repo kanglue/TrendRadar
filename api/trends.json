@@ -1,52 +1,11 @@
 {
-  "generated_at": "2026-04-23T07:52:40.356032+08:00",
-  "total_titles_processed": 686,
+  "generated_at": "2026-04-23T11:27:15.161709+08:00",
+  "total_titles_processed": 888,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "Deepseek",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "如何评价 Deepseek 于 2026 年 4 月 22 日上线的新模型 api？",
-          "url": "https://www.zhihu.com/question/2030308965683291022",
-          "source": "知乎",
-          "ranks": [
-            5,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时04分 ~ 06时55分]"
-        },
-        {
-          "title": "如何评价 DeepSeek API 更新百万 Token 上下文，看齐 App 及网页版？",
-          "url": "https://www.zhihu.com/question/2030308965683291022",
-          "source": "知乎",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时52分"
-        },
-        {
-          "title": "阿里等巨头洽谈投资DeepSeek",
-          "url": "https://www.baidu.com/s?wd=%E9%98%BF%E9%87%8C%E7%AD%89%E5%B7%A8%E5%A4%B4%E6%B4%BD%E8%B0%88%E6%8A%95%E8%B5%84DeepSeek",
-          "source": "百度热搜",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时09分"
-        }
-      ]
-    },
-    {
       "keyword_group": "GPT",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "OpenAI在ChatGPT引入Workspace Agents。",
@@ -70,6 +29,87 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时56分 ~ 07时52分]"
+        },
+        {
+          "title": "GPT Image2会影响设计行业吗",
+          "url": "https://search.bilibili.com/all?keyword=GPT%20Image2%E4%BC%9A%E5%BD%B1%E5%93%8D%E8%AE%BE%E8%AE%A1%E8%A1%8C%E4%B8%9A%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时26分 ~ 11时27分]"
+        },
+        {
+          "title": "ChatGPT Images 2.0发布",
+          "url": "https://www.douyin.com/hot/2474931",
+          "source": "抖音",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时26分 ~ 11时27分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "Deepseek",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "如何评价 Deepseek 于 2026 年 4 月 22 日上线的新模型 api？",
+          "url": "https://www.zhihu.com/question/2030308965683291022",
+          "source": "知乎",
+          "ranks": [
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时04分 ~ 06时55分]"
+        },
+        {
+          "title": "如何评价 DeepSeek API 更新百万 Token 上下文，看齐 App 及网页版？",
+          "url": "https://www.zhihu.com/question/2030308965683291022",
+          "source": "知乎",
+          "ranks": [
+            4,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时52分 ~ 11时27分]"
+        },
+        {
+          "title": "阿里等巨头洽谈投资DeepSeek",
+          "url": "https://www.baidu.com/s?wd=%E9%98%BF%E9%87%8C%E7%AD%89%E5%B7%A8%E5%A4%B4%E6%B4%BD%E8%B0%88%E6%8A%95%E8%B5%84DeepSeek",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时09分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "短剧",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "受AI冲击 短剧霸总回家种地",
+          "url": "https://www.baidu.com/s?wd=%E5%8F%97AI%E5%86%B2%E5%87%BB+%E7%9F%AD%E5%89%A7%E9%9C%B8%E6%80%BB%E5%9B%9E%E5%AE%B6%E7%A7%8D%E5%9C%B0",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时26分 ~ 11时27分]"
         }
       ]
     },
@@ -99,11 +139,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353556&amp;topic_name=%E9%A9%AC%E6%96%AF%E5%85%8B%E7%AE%97%E6%B3%95%E6%92%95%E5%BC%80%E6%97%A5%E6%9C%AC%E9%81%AE%E7%BE%9E%E5%B8%83",
           "source": "贴吧",
           "ranks": [
-            11
+            11,
+            15
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时13分 ~ 07时52分]"
+          "appearance_count": 8,
+          "time_info": "[00时13分 ~ 11时27分]"
         }
       ]
     }
