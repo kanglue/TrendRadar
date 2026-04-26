@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-26T17:59:29.192180+08:00",
-  "total_titles_processed": 1022,
+  "generated_at": "2026-04-26T18:57:12.252264+08:00",
+  "total_titles_processed": 1069,
   "failed_sources": [],
   "trends": [
     {
@@ -58,19 +58,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时36分 ~ 17时59分]"
+          "appearance_count": 6,
+          "time_info": "[11时36分 ~ 18时57分]"
         },
         {
           "title": "DeepSeek V4发布意味着什么",
           "url": "https://search.bilibili.com/all?keyword=DeepSeek%20V4%E5%8F%91%E5%B8%83%E6%84%8F%E5%91%B3%E7%9D%80%E4%BB%80%E4%B9%88",
           "source": "bilibili 热搜",
           "ranks": [
-            3
+            3,
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时59分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时59分 ~ 18时57分]"
         },
         {
           "title": "DeepSeekV4脱离英伟达了吗",
@@ -78,11 +79,52 @@
           "source": "bilibili 热搜",
           "ranks": [
             4,
-            7
+            7,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时12分 ~ 17时59分]"
+          "appearance_count": 5,
+          "time_info": "[14时12分 ~ 18时57分]"
+        },
+        {
+          "title": "高盛：DeepSeek V4对中国AI意味着什么？",
+          "url": "https://wallstreetcn.com/articles/3770911",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时19分 ~ 18时57分]"
+        },
+        {
+          "title": "沉默的DeepSeek，和不被定义的中国大模型",
+          "url": "https://wallstreetcn.com/articles/3770908",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时36分 ~ 18时57分]"
+        },
+        {
+          "title": "国家超算互联网推出DeepSeek-V4限时免费对话服务",
+          "url": "https://wallstreetcn.com/livenews/3094438",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            10,
+            13,
+            18,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时36分 ~ 18时57分]"
         },
         {
           "title": "DeepSeek V4评测解析",
@@ -96,55 +138,18 @@
           "time_info": "11时36分"
         },
         {
-          "title": "国家超算互联网推出DeepSeek-V4限时免费对话服务",
-          "url": "https://wallstreetcn.com/livenews/3094438",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            10,
-            13,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时36分 ~ 17时59分]"
-        },
-        {
           "title": "DeepSeek V4成OpenClaw默认模型",
           "url": "https://wallstreetcn.com/livenews/3094445",
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
             7,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时12分 ~ 17时59分]"
-        },
-        {
-          "title": "高盛：DeepSeek V4对中国AI意味着什么？",
-          "url": "https://wallstreetcn.com/articles/3770911",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时19分 ~ 17时59分]"
-        },
-        {
-          "title": "沉默的DeepSeek，和不被定义的中国大模型",
-          "url": "https://wallstreetcn.com/articles/3770908",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            7
+            12,
+            18
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[11时36分 ~ 17时59分]"
+          "time_info": "[14时12分 ~ 18时57分]"
         },
         {
           "title": "涨价浪潮下，DeepSeek推动AI“价格战”：百万Token输入0.25元",
@@ -153,9 +158,9 @@
           "ranks": [
             19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时59分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时59分 ~ 18时57分]"
         },
         {
           "title": "DeepSeek致谢近300研发者10人已离职",
@@ -179,22 +184,24 @@
           "url": "https://wallstreetcn.com/livenews/3094481",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时59分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时59分 ~ 18时57分]"
         },
         {
           "title": "中办、国办：加强互联网平台算法治理，保障新就业群体对算法规则的知情权、参与权、选择权",
           "url": "https://flash.jin10.com/detail/20260426171813220800",
           "source": "金十数据",
           "ranks": [
-            7
+            7,
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时59分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时59分 ~ 18时57分]"
         }
       ]
     },
@@ -207,11 +214,12 @@
           "url": "https://www.douyin.com/hot/2479735",
           "source": "抖音",
           "ranks": [
-            18
+            18,
+            21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时59分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时59分 ~ 18时57分]"
         }
       ]
     },
