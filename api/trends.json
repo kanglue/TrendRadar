@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-28T00:47:03.503403+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-04-28T02:09:24.740455+08:00",
+  "total_titles_processed": 393,
   "failed_sources": [],
   "trends": [
     {
@@ -15,19 +15,20 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时46分 ~ 00时47分]"
+          "appearance_count": 3,
+          "time_info": "[00时46分 ~ 02时09分]"
         },
         {
           "title": "如何评价小米 4 月 23 日发布的 MiMo-V2.5 系列模型，有可能比 DeepSeekV4 更强吗？",
           "url": "https://www.zhihu.com/question/2030445160417510538",
           "source": "知乎",
           "ranks": [
-            18
+            18,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时46分 ~ 00时47分]"
+          "appearance_count": 3,
+          "time_info": "[00时46分 ~ 02时09分]"
         },
         {
           "title": "中国石化完成DeepSeek-V4私有化部署",
@@ -71,8 +72,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时46分 ~ 00时47分]"
+          "appearance_count": 3,
+          "time_info": "[00时46分 ~ 02时09分]"
         }
       ]
     }
