@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-28T05:59:31.925086+08:00",
-  "total_titles_processed": 537,
+  "generated_at": "2026-04-28T07:03:17.349348+08:00",
+  "total_titles_processed": 585,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             18,
             17,
             5,
-            10
+            10,
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时46分 ~ 05时59分]"
+          "appearance_count": 7,
+          "time_info": "[00时46分 ~ 07时03分]"
         },
         {
           "title": "国芯+国模！DeepSeek适配国产芯片 AI算力底座迈向多样化",
@@ -30,8 +31,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时46分 ~ 05时59分]"
+          "appearance_count": 7,
+          "time_info": "[00时46分 ~ 07时03分]"
         },
         {
           "title": "中国石化完成DeepSeek-V4私有化部署",
@@ -73,11 +74,12 @@
           "url": "https://flash.jin10.com/detail/20260428054512315800",
           "source": "金十数据",
           "ranks": [
-            1
+            1,
+            14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时59分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时59分 ~ 07时03分]"
         }
       ]
     },
@@ -93,8 +95,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时46分 ~ 05时59分]"
+          "appearance_count": 7,
+          "time_info": "[00时46分 ~ 07时03分]"
         }
       ]
     }
