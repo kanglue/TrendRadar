@@ -1,8 +1,36 @@
 {
-  "generated_at": "2026-04-29T04:22:44.601756+08:00",
-  "total_titles_processed": 469,
+  "generated_at": "2026-04-29T06:04:56.060672+08:00",
+  "total_titles_processed": 542,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "GPT",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "据The Information：OpenAI预计今年将有1.12亿用户订阅ChatGPT Go。",
+          "url": "https://flash.jin10.com/detail/20260429060010713800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时04分"
+        },
+        {
+          "title": "据The Information：OpenAI预计今年“8美元ChatGPT Go”的订阅量将大幅增长。",
+          "url": "https://flash.jin10.com/detail/20260429055922440800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时04分"
+        }
+      ]
+    },
     {
       "keyword_group": "Deepseek",
       "match_count": 2,
@@ -15,8 +43,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时59分 ~ 04时22分]"
+          "appearance_count": 4,
+          "time_info": "[00时59分 ~ 06时04分]"
         },
         {
           "title": "如何评价 DeepSeek V4 降价的事？",
@@ -42,11 +70,29 @@
           "ranks": [
             5,
             9,
-            20
+            20,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时59分 ~ 04时22分]"
+          "appearance_count": 4,
+          "time_info": "[00时59分 ~ 06时04分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "Gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "据CNBC记者：美国国防部的人工智能负责人确认，该部门正在扩大对谷歌Gemini人工智能模型的使用。",
+          "url": "https://flash.jin10.com/detail/20260429054900131800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时04分"
         }
       ]
     }
