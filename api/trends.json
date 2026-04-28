@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-28T19:51:34.305609+08:00",
-  "total_titles_processed": 1321,
+  "generated_at": "2026-04-28T22:28:28.793601+08:00",
+  "total_titles_processed": 1482,
   "failed_sources": [],
   "trends": [
     {
@@ -35,15 +35,28 @@
           "time_info": "[00时46分 ~ 07时03分]"
         },
         {
+          "title": "DeepSeek 为什么选择在内蒙古自建数据中心，而不是租用阿里云、腾讯云等大厂的算力资源？",
+          "url": "https://www.zhihu.com/question/2031729357580919027",
+          "source": "知乎",
+          "ranks": [
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时28分 ~ 22时28分]"
+        },
+        {
           "title": "DeepSeek还是最强国产AI吗",
           "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E8%BF%98%E6%98%AF%E6%9C%80%E5%BC%BA%E5%9B%BD%E4%BA%A7AI%E5%90%97%23&t=31&band_rank=5&Refer=top",
           "source": "微博",
           "ranks": [
-            5
+            5,
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时51分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时51分 ~ 22时28分]"
         },
         {
           "title": "中国石化完成DeepSeek-V4私有化部署",
@@ -56,17 +69,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时46分 ~ 05时59分]"
-        },
-        {
-          "title": "DeepSeek 为什么选择在内蒙古自建数据中心，而不是租用阿里云、腾讯云等大厂的算力资源？",
-          "url": "https://www.zhihu.com/question/2031729357580919027",
-          "source": "知乎",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时28分 ~ 19时51分]"
         },
         {
           "title": "DeepSeek 为什么选择在内蒙古自建数据中心，而不是租用阿里云的算力资源？",
@@ -97,7 +99,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时51分"
         }
@@ -113,11 +115,12 @@
           "source": "知乎",
           "ranks": [
             4,
-            5
+            5,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时35分 ~ 19时51分]"
+          "appearance_count": 4,
+          "time_info": "[14时35分 ~ 22时28分]"
         },
         {
           "title": "AI短剧 融脸",
@@ -137,7 +140,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时51分"
         }
