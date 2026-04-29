@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-30T02:17:09.700026+08:00",
-  "total_titles_processed": 381,
+  "generated_at": "2026-04-30T04:15:47.392314+08:00",
+  "total_titles_processed": 466,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "知乎",
           "ranks": [
             13,
-            6
+            6,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时47分 ~ 02时17分]"
+          "appearance_count": 4,
+          "time_info": "[00时47分 ~ 04时15分]"
         },
         {
           "title": "从硅谷视角看DeepSeekV4",
@@ -28,8 +29,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时47分 ~ 02时17分]"
+          "appearance_count": 4,
+          "time_info": "[00时47分 ~ 04时15分]"
         },
         {
           "title": "DeepSeek上线识图模式",
@@ -67,8 +68,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时47分 ~ 02时17分]"
+          "appearance_count": 4,
+          "time_info": "[00时47分 ~ 04时15分]"
         }
       ]
     },
@@ -85,8 +86,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时47分 ~ 02时17分]"
+          "appearance_count": 4,
+          "time_info": "[00时47分 ~ 04时15分]"
         }
       ]
     }
