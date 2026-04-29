@@ -1,8 +1,72 @@
 {
-  "generated_at": "2026-04-29T17:15:22.826008+08:00",
-  "total_titles_processed": 1169,
+  "generated_at": "2026-04-29T19:44:41.844936+08:00",
+  "total_titles_processed": 1315,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "Deepseek",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "DeepSeek 为什么选择在内蒙古自建数据中心，而不是租用阿里云、腾讯云等大厂的算力资源？",
+          "url": "https://www.zhihu.com/question/2031729357580919027",
+          "source": "知乎",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时59分 ~ 06时04分]"
+        },
+        {
+          "title": "从硅谷视角看DeepSeekV4",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BB%8E%E7%A1%85%E8%B0%B7%E8%A7%86%E8%A7%92%E7%9C%8BDeepSeekV4",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2,
+            3,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时32分 ~ 19时44分]"
+        },
+        {
+          "title": "6家券商抢先部署DeepSeek V4，2小时接入、24小时上线，新一轮竞速开始",
+          "url": "https://www.cls.cn/detail/2359433",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时15分 ~ 19时44分]"
+        },
+        {
+          "title": "如何评价 DeepSeek V4 降价的事？",
+          "url": "https://www.zhihu.com/question/2032100000558229357",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时59分"
+        },
+        {
+          "title": "DeepSeek上线识图模式",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E4%B8%8A%E7%BA%BF%E8%AF%86%E5%9B%BE%E6%A8%A1%E5%BC%8F",
+          "source": "百度热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时44分"
+        }
+      ]
+    },
     {
       "keyword_group": "短剧",
       "match_count": 4,
@@ -27,11 +91,12 @@
           "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E6%BC%94%E5%91%98%E6%8B%8D%E7%9F%AD%E5%89%A73%E5%A4%A9%E4%BB%85%E7%9D%A11%E5%B0%8F%E6%97%B6%EF%BC%9A%E4%B8%8D%E6%95%A2%E4%BC%91%E6%81%AF",
           "source": "百度热搜",
           "ranks": [
-            4
+            4,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时15分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时15分 ~ 19时44分]"
         },
         {
           "title": "掌阅科技：2026年将全面推进AI短剧工业化布局",
@@ -54,57 +119,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时57分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "Deepseek",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "DeepSeek 为什么选择在内蒙古自建数据中心，而不是租用阿里云、腾讯云等大厂的算力资源？",
-          "url": "https://www.zhihu.com/question/2031729357580919027",
-          "source": "知乎",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时59分 ~ 06时04分]"
-        },
-        {
-          "title": "从硅谷视角看DeepSeekV4",
-          "url": "https://search.bilibili.com/all?keyword=%E4%BB%8E%E7%A1%85%E8%B0%B7%E8%A7%86%E8%A7%92%E7%9C%8BDeepSeekV4",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时32分 ~ 17时15分]"
-        },
-        {
-          "title": "6家券商抢先部署DeepSeek V4，2小时接入、24小时上线，新一轮竞速开始",
-          "url": "https://www.cls.cn/detail/2359433",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时15分"
-        },
-        {
-          "title": "如何评价 DeepSeek V4 降价的事？",
-          "url": "https://www.zhihu.com/question/2032100000558229357",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时59分"
         }
       ]
     },
@@ -160,9 +174,9 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时15分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时15分 ~ 19时44分]"
         },
         {
           "title": "2025年我国数据生产量达52.26泽字节",
@@ -200,9 +214,9 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时15分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时15分 ~ 19时44分]"
         }
       ]
     },
@@ -251,7 +265,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时15分"
         }
