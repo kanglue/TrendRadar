@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-30T06:05:38.627319+08:00",
-  "total_titles_processed": 540,
+  "generated_at": "2026-04-30T08:01:55.861390+08:00",
+  "total_titles_processed": 642,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时47分 ~ 06时05分]"
+          "appearance_count": 6,
+          "time_info": "[00时47分 ~ 08时01分]"
         },
         {
           "title": "从硅谷视角看DeepSeekV4",
@@ -27,11 +27,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             14,
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时47分 ~ 06时05分]"
+          "appearance_count": 6,
+          "time_info": "[00时47分 ~ 08时01分]"
         },
         {
           "title": "DeepSeek上线识图模式",
@@ -68,7 +69,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时05分"
         },
@@ -79,7 +80,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时05分"
         }
@@ -94,11 +95,12 @@
           "url": "https://wallstreetcn.com/articles/3771194",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时47分 ~ 06时05分]"
+          "appearance_count": 6,
+          "time_info": "[00时47分 ~ 08时01分]"
         }
       ]
     },
@@ -115,8 +117,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时47分 ~ 06时05分]"
+          "appearance_count": 6,
+          "time_info": "[00时47分 ~ 08时01分]"
         }
       ]
     }
