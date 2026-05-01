@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-01T12:06:49.076413+08:00",
-  "total_titles_processed": 854,
+  "generated_at": "2026-05-01T15:29:16.325718+08:00",
+  "total_titles_processed": 1018,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "Deepseek",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "DeepSeek破底价,友商瑟瑟发抖",
@@ -13,11 +13,12 @@
           "source": "贴吧",
           "ranks": [
             2,
-            4
+            4,
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时25分 ~ 12时06分]"
+          "appearance_count": 7,
+          "time_info": "[00时25分 ~ 15时29分]"
         },
         {
           "title": "从硅谷视角看DeepSeekV4",
@@ -61,11 +62,12 @@
           "url": "https://www.douyin.com/hot/2485029",
           "source": "抖音",
           "ranks": [
-            6
+            6,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时06分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时06分 ~ 15时29分]"
         },
         {
           "title": "DeepSeek思考过程好萌",
@@ -85,9 +87,20 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时06分"
+        },
+        {
+          "title": "DeepSeek梦话大赏",
+          "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E6%A2%A6%E8%AF%9D%E5%A4%A7%E8%B5%8F%23&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时29分"
         }
       ]
     },
@@ -119,11 +132,12 @@
           "ranks": [
             12,
             8,
-            11
+            11,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时02分 ~ 12时06分]"
+          "appearance_count": 4,
+          "time_info": "[06时02分 ~ 15时29分]"
         }
       ]
     },
