@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-01T15:29:16.325718+08:00",
-  "total_titles_processed": 1018,
+  "generated_at": "2026-05-01T17:52:55.636625+08:00",
+  "total_titles_processed": 1174,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             2,
             4,
-            7
+            7,
+            10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时25分 ~ 15时29分]"
+          "appearance_count": 8,
+          "time_info": "[00时25分 ~ 17时52分]"
         },
         {
           "title": "从硅谷视角看DeepSeekV4",
@@ -45,6 +46,19 @@
           "time_info": "[00时25分 ~ 07时57分]"
         },
         {
+          "title": "DeepSeek多模态正式发布",
+          "url": "https://www.douyin.com/hot/2485029",
+          "source": "抖音",
+          "ranks": [
+            6,
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时06分 ~ 17时52分]"
+        },
+        {
           "title": "Deepseek-V4 究竟在编程上和 Claude-Opus-4.7 差距有多大？",
           "url": "https://www.zhihu.com/question/2031352480852915686",
           "source": "知乎",
@@ -56,18 +70,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时25分 ~ 04时18分]"
-        },
-        {
-          "title": "DeepSeek多模态正式发布",
-          "url": "https://www.douyin.com/hot/2485029",
-          "source": "抖音",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时06分 ~ 15时29分]"
         },
         {
           "title": "DeepSeek思考过程好萌",
@@ -98,7 +100,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时29分"
         }
@@ -136,8 +138,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时02分 ~ 15时29分]"
+          "appearance_count": 5,
+          "time_info": "[06时02分 ~ 17时52分]"
         }
       ]
     },
