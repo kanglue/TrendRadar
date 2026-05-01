@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-01T17:52:55.636625+08:00",
-  "total_titles_processed": 1174,
+  "generated_at": "2026-05-01T19:13:29.738923+08:00",
+  "total_titles_processed": 1281,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             2,
             4,
             7,
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时25分 ~ 17时52分]"
+          "appearance_count": 9,
+          "time_info": "[00时25分 ~ 19时13分]"
         },
         {
           "title": "从硅谷视角看DeepSeekV4",
@@ -138,8 +139,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时02分 ~ 17时52分]"
+          "appearance_count": 6,
+          "time_info": "[06时02分 ~ 19时13分]"
         }
       ]
     },
