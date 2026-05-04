@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-04T17:27:06.382555+08:00",
-  "total_titles_processed": 1046,
+  "generated_at": "2026-05-04T19:55:58.353219+08:00",
+  "total_titles_processed": 1200,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "短剧",
-      "match_count": 1,
+      "match_count": 3,
       "titles": [
         {
           "title": "赛道挤爆,AI短剧收益不够电费",
@@ -18,8 +18,30 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时59分 ~ 17时27分]"
+          "appearance_count": 15,
+          "time_info": "[00时59分 ~ 19时55分]"
+        },
+        {
+          "title": "红果回应：VIP付费非新增，仅限极少量影视，短剧仍免费",
+          "url": "https://wallstreetcn.com/livenews/3098471",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时55分"
+        },
+        {
+          "title": "于正看短剧Enemy看哭了",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BA%8E%E6%AD%A3%E7%9C%8B%E7%9F%AD%E5%89%A7Enemy%E7%9C%8B%E5%93%AD%E4%BA%86%23&t=31&band_rank=22&Refer=top",
+          "source": "微博",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时55分"
         }
       ]
     },
@@ -39,6 +61,23 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[11时48分 ~ 17时27分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "大模型",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "大模型免费时代结束？豆包官宣新增付费订阅，主打生产力场景",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33096657",
+          "source": "澎湃新闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时55分"
         }
       ]
     }
