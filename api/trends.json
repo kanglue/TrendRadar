@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-05T04:21:54.993912+08:00",
-  "total_titles_processed": 474,
+  "generated_at": "2026-05-05T06:09:07.920782+08:00",
+  "total_titles_processed": 548,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             27,
             24,
-            8
+            8,
+            26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时53分 ~ 04时21分]"
+          "appearance_count": 5,
+          "time_info": "[00时53分 ~ 06时09分]"
         },
         {
           "title": "于正看短剧Enemy看哭了",
@@ -63,8 +64,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时53分 ~ 04时21分]"
+          "appearance_count": 5,
+          "time_info": "[00时53分 ~ 06时09分]"
         }
       ]
     }
