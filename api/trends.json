@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-05T11:44:15.607584+08:00",
-  "total_titles_processed": 829,
+  "generated_at": "2026-05-05T14:24:51.283837+08:00",
+  "total_titles_processed": 961,
   "failed_sources": [],
   "trends": [
     {
@@ -17,11 +17,12 @@
             8,
             26,
             4,
-            18
+            18,
+            16
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时53分 ~ 11时44分]"
+          "appearance_count": 9,
+          "time_info": "[00时53分 ~ 14时24分]"
         },
         {
           "title": "抖音集团副总裁：网传所谓红果短剧收费的消息不实",
@@ -41,11 +42,12 @@
           "source": "澎湃新闻",
           "ranks": [
             19,
-            17
+            17,
+            15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时01分 ~ 11时44分]"
+          "appearance_count": 4,
+          "time_info": "[08时01分 ~ 14时24分]"
         },
         {
           "title": "于正看短剧Enemy看哭了",
