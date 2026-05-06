@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-06T14:36:35.060138+08:00",
-  "total_titles_processed": 1016,
+  "generated_at": "2026-05-06T17:31:47.439151+08:00",
+  "total_titles_processed": 1185,
   "failed_sources": [],
   "trends": [
     {
@@ -76,11 +76,12 @@
             25,
             19,
             17,
-            28
+            28,
+            18
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时54分 ~ 14时36分]"
+          "appearance_count": 10,
+          "time_info": "[00时54分 ~ 17时31分]"
         },
         {
           "title": "从猫狗到水果 AI短剧还能火多久",
@@ -140,11 +141,12 @@
             15,
             19,
             28,
-            20
+            20,
+            23
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时54分 ~ 14时36分]"
+          "appearance_count": 10,
+          "time_info": "[00时54分 ~ 17时31分]"
         }
       ]
     },
@@ -158,11 +160,12 @@
           "source": "澎湃新闻",
           "ranks": [
             14,
-            11
+            11,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时43分 ~ 14时36分]"
+          "appearance_count": 4,
+          "time_info": "[11时43分 ~ 17时31分]"
         }
       ]
     }
