@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-07T02:23:05.209172+08:00",
-  "total_titles_processed": 387,
+  "generated_at": "2026-05-07T04:29:55.551312+08:00",
+  "total_titles_processed": 458,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时48分 ~ 02时23分]"
+          "appearance_count": 4,
+          "time_info": "[00时48分 ~ 04时29分]"
         }
       ]
     },
@@ -30,11 +30,12 @@
           "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E4%BC%98%E5%8C%96DeepSeek%20V4",
           "source": "bilibili 热搜",
           "ranks": [
-            15
+            15,
+            14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时48分 ~ 02时23分]"
+          "appearance_count": 4,
+          "time_info": "[00时48分 ~ 04时29分]"
         }
       ]
     },
@@ -50,8 +51,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时48分 ~ 02时23分]"
+          "appearance_count": 4,
+          "time_info": "[00时48分 ~ 04时29分]"
         }
       ]
     }
