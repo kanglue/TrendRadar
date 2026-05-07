@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-08T04:20:20.653472+08:00",
-  "total_titles_processed": 457,
+  "generated_at": "2026-05-08T06:07:26.611132+08:00",
+  "total_titles_processed": 528,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时57分 ~ 04时20分]"
+          "appearance_count": 4,
+          "time_info": "[00时57分 ~ 06时07分]"
         },
         {
           "title": "无限流短剧《Enemy》爆火",
@@ -29,8 +29,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时57分 ~ 04时20分]"
+          "appearance_count": 4,
+          "time_info": "[00时57分 ~ 06时07分]"
         }
       ]
     },
@@ -61,11 +61,12 @@
           "source": "财联社热门",
           "ranks": [
             11,
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时57分 ~ 04时20分]"
+          "appearance_count": 4,
+          "time_info": "[00时57分 ~ 06时07分]"
         }
       ]
     }
