@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-08T06:07:26.611132+08:00",
-  "total_titles_processed": 528,
+  "generated_at": "2026-05-08T07:59:34.544167+08:00",
+  "total_titles_processed": 641,
   "failed_sources": [],
   "trends": [
     {
@@ -8,24 +8,25 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "无限流短剧《Enemy》爆火",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A0%E9%99%90%E6%B5%81%E7%9F%AD%E5%89%A7%E3%80%8AEnemy%E3%80%8B%E7%88%86%E7%81%AB",
+          "source": "百度热搜",
+          "ranks": [
+            15,
+            10,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时57分 ~ 07时59分]"
+        },
+        {
           "title": "短剧Enemy民国戏虐哭全网",
           "url": "https://www.douyin.com/hot/2491312",
           "source": "抖音",
           "ranks": [
             13,
             9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时57分 ~ 06时07分]"
-        },
-        {
-          "title": "无限流短剧《Enemy》爆火",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A0%E9%99%90%E6%B5%81%E7%9F%AD%E5%89%A7%E3%80%8AEnemy%E3%80%8B%E7%88%86%E7%81%AB",
-          "source": "百度热搜",
-          "ranks": [
-            15,
             10
           ],
           "is_new": false,
@@ -65,8 +66,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时57分 ~ 06时07分]"
+          "appearance_count": 5,
+          "time_info": "[00时57分 ~ 07时59分]"
         }
       ]
     }
