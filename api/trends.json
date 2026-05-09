@@ -1,34 +1,12 @@
 {
-  "generated_at": "2026-05-09T16:46:02.548660+08:00",
-  "total_titles_processed": 1095,
+  "generated_at": "2026-05-09T18:13:09.565240+08:00",
+  "total_titles_processed": 1192,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "Deepseek",
       "match_count": 5,
       "titles": [
-        {
-          "title": "DeepSeek睁眼,开放识图模式",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354128&amp;topic_name=DeepSeek%E7%9D%81%E7%9C%BC%2C%E5%BC%80%E6%94%BE%E8%AF%86%E5%9B%BE%E6%A8%A1%E5%BC%8F",
-          "source": "贴吧",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时45分 ~ 16时46分]"
-        },
-        {
-          "title": "Deepseek和阿里谈崩了？市场人士：双方应该没有进行谈判",
-          "url": "https://wallstreetcn.com/livenews/3101032",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时46分"
-        },
         {
           "title": "冲击中国AI融资王！报道：DeepSeek首轮融资目标500亿元，估值或突破3500亿元",
           "url": "https://wallstreetcn.com/articles/3771864",
@@ -39,8 +17,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时51分 ~ 16时46分]"
+          "appearance_count": 6,
+          "time_info": "[11时51分 ~ 18时13分]"
         },
         {
           "title": "DeepSeek识图模式大范围开放",
@@ -49,11 +27,36 @@
           "ranks": [
             7,
             5,
-            14
+            14,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时51分 ~ 18时13分]"
+        },
+        {
+          "title": "DeepSeek睁眼,开放识图模式",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354128&amp;topic_name=DeepSeek%E7%9D%81%E7%9C%BC%2C%E5%BC%80%E6%94%BE%E8%AF%86%E5%9B%BE%E6%A8%A1%E5%BC%8F",
+          "source": "贴吧",
+          "ranks": [
+            5,
+            6
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[11时51分 ~ 16时46分]"
+          "time_info": "[16时45分 ~ 18时13分]"
+        },
+        {
+          "title": "Deepseek和阿里谈崩了？市场人士：双方应该没有进行谈判",
+          "url": "https://wallstreetcn.com/livenews/3101032",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时46分 ~ 18时13分]"
         },
         {
           "title": "DeepSeek正式跨入图文交互时代",
@@ -70,18 +73,19 @@
     },
     {
       "keyword_group": "短剧",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "8名中国人在泰国拍短剧被捕",
           "url": "https://www.baidu.com/s?wd=8%E5%90%8D%E4%B8%AD%E5%9B%BD%E4%BA%BA%E5%9C%A8%E6%B3%B0%E5%9B%BD%E6%8B%8D%E7%9F%AD%E5%89%A7%E8%A2%AB%E6%8D%95",
           "source": "百度热搜",
           "ranks": [
-            1
+            1,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时22分 ~ 16时46分]"
+          "appearance_count": 5,
+          "time_info": "[14时22分 ~ 18时13分]"
         },
         {
           "title": "8名中国人赴泰私拍短剧被逮捕",
@@ -89,11 +93,64 @@
           "source": "微博",
           "ranks": [
             7,
-            9
+            9,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时22分 ~ 16时46分]"
+          "appearance_count": 5,
+          "time_info": "[14时22分 ~ 18时13分]"
+        },
+        {
+          "title": "8名中国人在泰国拍短剧被捕",
+          "url": "https://www.toutiao.com/trending/7637779265550913070/",
+          "source": "今日头条",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时12分 ~ 18时13分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "字节",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "据悉字节跳动计划将AI基础设施支出增加25%",
+          "url": "https://flash.jin10.com/detail/20260509162004695800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时46分 ~ 18时13分]"
+        },
+        {
+          "title": "字节跳动已将今年的AI基础设施支出计划增加25%至2,000亿元人民币。（南华早报）",
+          "url": "https://wallstreetcn.com/livenews/3101029",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时46分 ~ 18时13分]"
+        },
+        {
+          "title": "报道：字节跳动计划将AI基础设施支出增加25%",
+          "url": "https://wallstreetcn.com/articles/3771900",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时12分 ~ 18时13分]"
         }
       ]
     },
@@ -106,11 +163,12 @@
           "url": "https://www.cls.cn/detail/2366733",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时22分 ~ 16时46分]"
+          "appearance_count": 5,
+          "time_info": "[14时22分 ~ 18时13分]"
         },
         {
           "title": "ChatGPT的恐怖我后知后觉",
@@ -122,34 +180,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时51分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "字节",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "据悉字节跳动计划将AI基础设施支出增加25%",
-          "url": "https://flash.jin10.com/detail/20260509162004695800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时46分"
-        },
-        {
-          "title": "字节跳动已将今年的AI基础设施支出计划增加25%至2,000亿元人民币。（南华早报）",
-          "url": "https://wallstreetcn.com/livenews/3101029",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时46分"
         }
       ]
     },
