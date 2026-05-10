@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-11T05:55:40.551249+08:00",
-  "total_titles_processed": 516,
+  "generated_at": "2026-05-11T06:56:00.622773+08:00",
+  "total_titles_processed": 563,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时03分 ~ 05时55分]"
+          "appearance_count": 8,
+          "time_info": "[00时03分 ~ 06时56分]"
         },
         {
           "title": "DeepSeek睁眼,开放识图模式",
@@ -29,19 +29,20 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时03分 ~ 05时55分]"
+          "appearance_count": 8,
+          "time_info": "[00时03分 ~ 06时56分]"
         },
         {
           "title": "周末要闻汇总：DeepSeek据悉拟募资最高500亿元人民币；证监会查处2起财务造假案件",
           "url": "https://www.cls.cn/detail/2367192",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时56分 ~ 05时55分]"
+          "appearance_count": 6,
+          "time_info": "[01时56分 ~ 06时56分]"
         },
         {
           "title": "Kimi与DeepSeek到底谁更值钱",
@@ -65,11 +66,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_33139696",
           "source": "澎湃新闻",
           "ranks": [
-            3
+            3,
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时03分 ~ 05时55分]"
+          "appearance_count": 8,
+          "time_info": "[00时03分 ~ 06时56分]"
         },
         {
           "title": "《ENEMY》：两个年轻人手搓的短剧，证明真诚才是必杀技",
@@ -77,11 +79,12 @@
           "source": "澎湃新闻",
           "ranks": [
             15,
-            16
+            16,
+            19
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时03分 ~ 05时55分]"
+          "appearance_count": 8,
+          "time_info": "[00时03分 ~ 06时56分]"
         }
       ]
     },
@@ -97,8 +100,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时03分 ~ 05时55分]"
+          "appearance_count": 8,
+          "time_info": "[00时03分 ~ 06时56分]"
         },
         {
           "title": "字节再加码！全球AI资本开支持续上修 算力步入全链通胀",
@@ -109,8 +112,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时03分 ~ 05时55分]"
+          "appearance_count": 8,
+          "time_info": "[00时03分 ~ 06时56分]"
         }
       ]
     }
