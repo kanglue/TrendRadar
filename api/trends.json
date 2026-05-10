@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-10T14:39:19.526758+08:00",
-  "total_titles_processed": 861,
+  "generated_at": "2026-05-10T16:59:42.163669+08:00",
+  "total_titles_processed": 979,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             11,
             15,
-            16
+            16,
+            17
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时02分 ~ 14时39分]"
+          "appearance_count": 12,
+          "time_info": "[00时02分 ~ 16时59分]"
         },
         {
           "title": "deepseek 首轮融资估值近 450 亿美元，将对 AI 领域产生哪些影响？",
@@ -26,11 +27,12 @@
           "source": "知乎",
           "ranks": [
             5,
-            4
+            4,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时53分 ~ 14时39分]"
+          "appearance_count": 3,
+          "time_info": "[11时53分 ~ 16时59分]"
         },
         {
           "title": "Deepseek和阿里谈崩了？市场人士回应",
@@ -51,9 +53,50 @@
           "ranks": [
             18
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时39分 ~ 16时59分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "字节",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "报道：字节跳动计划将AI基础设施支出增加25%",
+          "url": "https://wallstreetcn.com/articles/3771900",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时02分 ~ 16时59分]"
+        },
+        {
+          "title": "【早报】字节被爆今年AI支出将超2000亿；我国第四代自主超导量子计算机上线",
+          "url": "https://www.cls.cn/detail/2367077",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时56分 ~ 16时59分]"
+        },
+        {
+          "title": "字节再加码！全球AI资本开支持续上修 算力步入全链通胀",
+          "url": "https://www.cls.cn/detail/2367107",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时39分"
+          "time_info": "16时59分"
         }
       ]
     },
@@ -85,8 +128,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时53分 ~ 14时39分]"
+          "appearance_count": 3,
+          "time_info": "[11时53分 ~ 16时59分]"
         }
       ]
     },
@@ -126,36 +169,6 @@
       ]
     },
     {
-      "keyword_group": "字节",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "报道：字节跳动计划将AI基础设施支出增加25%",
-          "url": "https://wallstreetcn.com/articles/3771900",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时02分 ~ 14时39分]"
-        },
-        {
-          "title": "【早报】字节被爆今年AI支出将超2000亿；我国第四代自主超导量子计算机上线",
-          "url": "https://www.cls.cn/detail/2367077",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时56分 ~ 14时39分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "千问",
       "match_count": 2,
       "titles": [
@@ -165,11 +178,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            10
+            10,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时53分 ~ 14时39分]"
+          "appearance_count": 3,
+          "time_info": "[11时53分 ~ 16时59分]"
         },
         {
           "title": "消息人士：阿里巴巴将把千问AI与淘宝整合，推出智能购物服务",
