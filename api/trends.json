@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-12T04:53:11.393604+08:00",
-  "total_titles_processed": 487,
+  "generated_at": "2026-05-12T06:13:34.281646+08:00",
+  "total_titles_processed": 539,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             12,
             8,
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时06分 ~ 04时53分]"
+          "appearance_count": 6,
+          "time_info": "[00时06分 ~ 06时13分]"
         },
         {
           "title": "鲁豫说刘晓庆演短剧是降维打击",
@@ -27,11 +28,12 @@
           "ranks": [
             17,
             26,
-            27
+            27,
+            28
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时06分 ~ 04时53分]"
+          "appearance_count": 6,
+          "time_info": "[00时06分 ~ 06时13分]"
         }
       ]
     },
@@ -76,8 +78,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时06分 ~ 04时53分]"
+          "appearance_count": 6,
+          "time_info": "[00时06分 ~ 06时13分]"
         }
       ]
     }
