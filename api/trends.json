@@ -1,221 +1,78 @@
 {
-  "generated_at": "2026-05-11T20:17:16.884428+08:00",
-  "total_titles_processed": 1243,
+  "generated_at": "2026-05-12T00:06:45.051329+08:00",
+  "total_titles_processed": 304,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "短剧",
-      "match_count": 4,
+      "match_count": 2,
       "titles": [
         {
-          "title": "上戏、澎湃联合出品，红色穿越文旅微短剧《朝花》开播",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33139696",
-          "source": "澎湃新闻",
+          "title": "8 名中国人赴泰国私拍短剧被逮捕，涉嫌非法工作，带来哪些警示？短剧出海的粗放管理是常态吗？",
+          "url": "https://www.zhihu.com/question/2036439174819968894",
+          "source": "知乎",
           "ranks": [
-            3,
-            5
+            12
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时03分 ~ 07时58分]"
-        },
-        {
-          "title": "《ENEMY》：两个年轻人手搓的短剧，证明真诚才是必杀技",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33144542",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            16,
-            19,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时03分 ~ 12时17分]"
+          "appearance_count": 1,
+          "time_info": "00时06分"
         },
         {
           "title": "鲁豫说刘晓庆演短剧是降维打击",
           "url": "https://search.bilibili.com/all?keyword=%E9%B2%81%E8%B1%AB%E8%AF%B4%E5%88%98%E6%99%93%E5%BA%86%E6%BC%94%E7%9F%AD%E5%89%A7%E6%98%AF%E9%99%8D%E7%BB%B4%E6%89%93%E5%87%BB",
           "source": "bilibili 热搜",
           "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时28分"
-        },
-        {
-          "title": "8 名中国人赴泰国私拍短剧被逮捕，涉嫌非法工作，带来哪些警示？短剧出海的粗放管理是常态吗？",
-          "url": "https://www.zhihu.com/question/2036439174819968894",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时17分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "Deepseek",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "DeepSeek 大范围开放识图模式，你能用了吗？体验感如何？",
-          "url": "https://www.zhihu.com/question/2036432998422115875",
-          "source": "知乎",
-          "ranks": [
-            7,
-            4,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时03分 ~ 07时58分]"
-        },
-        {
-          "title": "DeepSeek睁眼,开放识图模式",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354128&amp;topic_name=DeepSeek%E7%9D%81%E7%9C%BC%2C%E5%BC%80%E6%94%BE%E8%AF%86%E5%9B%BE%E6%A8%A1%E5%BC%8F",
-          "source": "贴吧",
-          "ranks": [
-            23,
-            24,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时03分 ~ 12时17分]"
-        },
-        {
-          "title": "周末要闻汇总：DeepSeek据悉拟募资最高500亿元人民币；证监会查处2起财务造假案件",
-          "url": "https://www.cls.cn/detail/2367192",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            11,
-            12,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时56分 ~ 12时17分]"
-        },
-        {
-          "title": "Kimi与DeepSeek到底谁更值钱",
-          "url": "https://www.toutiao.com/trending/7638234526786784804/",
-          "source": "今日头条",
-          "ranks": [
             17
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时56分"
+          "time_info": "00时06分"
         }
       ]
     },
     {
-      "keyword_group": "字节",
+      "keyword_group": "GPT",
       "match_count": 2,
       "titles": [
         {
-          "title": "【早报】字节被爆今年AI支出将超2000亿；我国第四代自主超导量子计算机上线",
-          "url": "https://www.cls.cn/detail/2367077",
-          "source": "财联社热门",
+          "title": "英国审慎监管局（PRA）的伍兹表示，有理由预期 ChatGPT 和 Mythos 将给英国金融服务行业带来“相当严重的 disruption（冲击/扰乱）”。 英国金融行为监管局（FCA）的拉蒂表示，对私募市场中的诚信问题及金融犯罪风险感到“担忧”。",
+          "url": "https://wallstreetcn.com/livenews/3101759",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时03分 ~ 07时58分]"
+          "appearance_count": 1,
+          "time_info": "00时06分"
         },
         {
-          "title": "字节再加码！全球AI资本开支持续上修 算力步入全链通胀",
-          "url": "https://www.cls.cn/detail/2367107",
-          "source": "财联社热门",
+          "title": "英国审慎监管局局长伍兹：合理预期ChatGPT和Mythos将对英国金融服务造成相当显著的干扰。",
+          "url": "https://flash.jin10.com/detail/20260511233650428800",
+          "source": "金十数据",
           "ranks": [
-            8,
-            9,
-            10
+            9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时03分 ~ 07时58分]"
+          "appearance_count": 1,
+          "time_info": "00时06分"
         }
       ]
     },
     {
       "keyword_group": "千问",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "阿里或将整合千问与淘宝，打造 AI 对话式购物，你会把购物交给 AI 吗？",
-          "url": "https://www.zhihu.com/question/2037110129963661155",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时28分"
-        },
-        {
-          "title": "阿里千问与淘宝全面打通，打通AI购物全链路",
-          "url": "https://wallstreetcn.com/livenews/3101317",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时17分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "大模型",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "2.11倍领先！中国AI大模型周调用量再超美国",
-          "url": "https://wallstreetcn.com/livenews/3101343",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时17分"
-        },
-        {
-          "title": "月之暗面Kimi创始人在人民日报刊文：让中国大模型成为全球创新的基座",
-          "url": "https://www.cls.cn/detail/2367387",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时17分 ~ 16时28分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "可灵",
       "match_count": 1,
       "titles": [
         {
-          "title": "快手计划以200亿美元的估值分拆其AI视频生成模型可灵。（The Information）",
-          "url": "https://wallstreetcn.com/livenews/3101633",
-          "source": "华尔街见闻-快讯",
+          "title": "千问+淘宝！试水大模型变现新入口",
+          "url": "https://www.cls.cn/detail/2368276",
+          "source": "财联社热门",
           "ranks": [
-            7
+            12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时17分"
+          "time_info": "00时06分"
         }
       ]
     }
