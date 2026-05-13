@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-13T20:11:15.237517+08:00",
-  "total_titles_processed": 1308,
+  "generated_at": "2026-05-13T23:51:29.474654+08:00",
+  "total_titles_processed": 1476,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "短剧",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "抖音集团超15亿扶持真人短剧",
@@ -26,8 +26,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时49分 ~ 20时11分]"
+          "appearance_count": 3,
+          "time_info": "[17时49分 ~ 23时51分]"
         },
         {
           "title": "如何看待最近爆火的《ENEMY》短剧？",
@@ -62,6 +62,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时56分"
+        },
+        {
+          "title": "王格格刘萧旭上演短剧圈盛大婚礼",
+          "url": "https://www.douyin.com/hot/2498104",
+          "source": "抖音",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时51分"
         }
       ]
     },
@@ -100,7 +111,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时11分"
         }
