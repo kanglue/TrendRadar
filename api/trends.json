@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-15T01:58:39.133642+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-05-15T03:57:59.429512+08:00",
+  "total_titles_processed": 376,
   "failed_sources": [],
   "trends": [
     {
@@ -8,22 +8,22 @@
       "match_count": 2,
       "titles": [
         {
-          "title": "周星驰经典影片《食神》上映 30 周年将推出短剧版，对此你有何期待？能还原电影中的众多经典名场面吗？",
-          "url": "https://www.zhihu.com/question/2037198868282962243",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时58分"
-        },
-        {
           "title": "官方认证的短剧片单含金量",
           "url": "https://www.douyin.com/hot/2498784",
           "source": "抖音",
           "ranks": [
             22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时58分 ~ 03时57分]"
+        },
+        {
+          "title": "周星驰经典影片《食神》上映 30 周年将推出短剧版，对此你有何期待？能还原电影中的众多经典名场面吗？",
+          "url": "https://www.zhihu.com/question/2037198868282962243",
+          "source": "知乎",
+          "ranks": [
+            16
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -40,11 +40,12 @@
           "url": "https://www.zhihu.com/question/2037926535315677917",
           "source": "知乎",
           "ranks": [
-            5
+            5,
+            12
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时58分"
+          "appearance_count": 2,
+          "time_info": "[01时58分 ~ 03时57分]"
         }
       ]
     }
