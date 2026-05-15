@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-15T20:59:49.133248+08:00",
-  "total_titles_processed": 1233,
+  "generated_at": "2026-05-15T23:24:56.483413+08:00",
+  "total_titles_processed": 1381,
   "failed_sources": [],
   "trends": [
     {
@@ -99,6 +99,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时32分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "大模型",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "2026 年像 4B 、 7B 、 13B 这种大模型到底有什么使用场景？",
+          "url": "https://www.zhihu.com/question/2006125343182963479",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时24分"
         }
       ]
     }
