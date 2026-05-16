@@ -1,8 +1,25 @@
 {
-  "generated_at": "2026-05-16T12:33:05.560403+08:00",
-  "total_titles_processed": 755,
+  "generated_at": "2026-05-16T15:20:43.917454+08:00",
+  "total_titles_processed": 906,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "短剧",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "毛巾少爷家族亮相洁丽雅活动，家庭关系引发热议被戏称「短剧照进现实」，你怎么看？会对品牌造成影响吗？",
+          "url": "https://www.zhihu.com/question/2038581694551123942",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时20分"
+        }
+      ]
+    },
     {
       "keyword_group": "字节",
       "match_count": 1,
@@ -12,11 +29,12 @@
           "url": "https://www.zhihu.com/question/2038603109828486376",
           "source": "知乎",
           "ranks": [
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时32分 ~ 12时33分]"
+          "appearance_count": 3,
+          "time_info": "[12时32分 ~ 15时20分]"
         }
       ]
     },
