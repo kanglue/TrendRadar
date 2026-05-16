@@ -1,8 +1,25 @@
 {
-  "generated_at": "2026-05-16T08:04:08.060866+08:00",
-  "total_titles_processed": 546,
+  "generated_at": "2026-05-16T12:33:05.560403+08:00",
+  "total_titles_processed": 755,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "字节",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "为什么特朗普访华晚宴上有字节梁汝波，但没有腾讯阿里高管？",
+          "url": "https://www.zhihu.com/question/2038603109828486376",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时32分 ~ 12时33分]"
+        }
+      ]
+    },
     {
       "keyword_group": "Deepseek",
       "match_count": 1,
