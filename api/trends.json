@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-18T13:11:27.951156+08:00",
-  "total_titles_processed": 767,
+  "generated_at": "2026-05-18T18:17:25.870572+08:00",
+  "total_titles_processed": 983,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "短剧",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "短剧演员从三年百部到无戏可拍",
@@ -14,9 +14,65 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时11分"
+        },
+        {
+          "title": "短剧演员从三年百部到无戏可拍",
+          "url": "https://www.baidu.com/s?wd=%E7%9F%AD%E5%89%A7%E6%BC%94%E5%91%98%E4%BB%8E%E4%B8%89%E5%B9%B4%E7%99%BE%E9%83%A8%E5%88%B0%E6%97%A0%E6%88%8F%E5%8F%AF%E6%8B%8D",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时17分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "大模型",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "杭州公司推宠物翻译神器，大模型 + 超 500 万条声纹数据，号称准确率 94%，是真突破还是智商税？",
+          "url": "https://www.zhihu.com/question/2039331976692200758",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时17分"
+        },
+        {
+          "title": "百度一季度AI业务收入占比过半，昆仑芯全国产集群已完成对文心大模型5.1重要版本的训练",
+          "url": "https://flash.jin10.com/detail/20260518173119052800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时17分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "番茄小说",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "番茄小说正推动AI动漫上院线，开放头部IP改编权限",
+          "url": "https://flash.jin10.com/detail/20260518174736274800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时17分"
         }
       ]
     }
