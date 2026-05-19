@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-20T05:25:58.637893+08:00",
-  "total_titles_processed": 485,
+  "generated_at": "2026-05-20T07:10:40.684972+08:00",
+  "total_titles_processed": 563,
   "failed_sources": [],
   "trends": [
     {
@@ -130,11 +130,12 @@
           "ranks": [
             26,
             18,
-            23
+            23,
+            30
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时27分 ~ 05时25分]"
+          "appearance_count": 5,
+          "time_info": "[00时27分 ~ 07时10分]"
         },
         {
           "title": "24岁短剧男演员去世",
@@ -154,6 +155,18 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "DeepSeek：特殊字符引发模型幻觉，不涉及安全问题或隐私泄露",
+          "url": "https://www.cls.cn/detail/2375756",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时27分 ~ 07时10分]"
+        },
+        {
           "title": "DeepSeek最新回应",
           "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E6%9C%80%E6%96%B0%E5%9B%9E%E5%BA%94%23&t=31&band_rank=5&Refer=top",
           "source": "微博",
@@ -164,17 +177,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时06分 ~ 05时25分]"
-        },
-        {
-          "title": "DeepSeek：特殊字符引发模型幻觉，不涉及安全问题或隐私泄露",
-          "url": "https://www.cls.cn/detail/2375756",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时27分 ~ 05时25分]"
         }
       ]
     },
@@ -188,11 +190,12 @@
           "source": "百度热搜",
           "ranks": [
             18,
-            28
+            28,
+            16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时27分 ~ 03时06分]"
+          "appearance_count": 4,
+          "time_info": "[00时27分 ~ 07时10分]"
         }
       ]
     }
