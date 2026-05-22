@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-22T19:49:52.120698+08:00",
-  "total_titles_processed": 1149,
+  "generated_at": "2026-05-22T22:51:40.674335+08:00",
+  "total_titles_processed": 1328,
   "failed_sources": [],
   "trends": [
     {
@@ -25,9 +25,9 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时49分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时49分 ~ 22时51分]"
         },
         {
           "title": "智谱大涨逾20% 公司推出ZCube组网架构且有望入恒生科技指数",
@@ -54,6 +54,36 @@
       ]
     },
     {
+      "keyword_group": "Deepseek",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "不小心把DeepSeek叫成豆包",
+          "url": "https://s.weibo.com/weibo?q=%E4%B8%8D%E5%B0%8F%E5%BF%83%E6%8A%8ADeepSeek%E5%8F%AB%E6%88%90%E8%B1%86%E5%8C%85&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8,
+            6,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时19分 ~ 16时26分]"
+        },
+        {
+          "title": "如何看待 DeepSeek V4 Pro 模型价格于 5 月 31 日结束 2.5 折优惠，调整为原定价的 1/4？",
+          "url": "https://www.zhihu.com/question/2041260640740927118",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时51分"
+        }
+      ]
+    },
+    {
       "keyword_group": "MiniMax",
       "match_count": 2,
       "titles": [
@@ -75,7 +105,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时49分"
         }
@@ -92,28 +122,9 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时49分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "Deepseek",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "不小心把DeepSeek叫成豆包",
-          "url": "https://s.weibo.com/weibo?q=%E4%B8%8D%E5%B0%8F%E5%BF%83%E6%8A%8ADeepSeek%E5%8F%AB%E6%88%90%E8%B1%86%E5%8C%85&t=31&band_rank=8&Refer=top",
-          "source": "微博",
-          "ranks": [
-            8,
-            6,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时19分 ~ 16时26分]"
         }
       ]
     },
