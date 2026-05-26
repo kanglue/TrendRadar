@@ -1,89 +1,8 @@
 {
-  "generated_at": "2026-05-26T21:58:20.977704+08:00",
-  "total_titles_processed": 1202,
+  "generated_at": "2026-05-27T01:32:02.799025+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
-    {
-      "keyword_group": "字节",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "字节反击腾讯称“都是卖猪食的，谁也别看不起谁”？抖音副总裁李亮：相关内容系谣言",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33226639",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时26分 ~ 08时12分]"
-        },
-        {
-          "title": "香农芯创：预计2026年来自阿里、腾讯、字节跳动等客户收入有较大增长",
-          "url": "https://wallstreetcn.com/livenews/3109318",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时08分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "AIGC",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "如何看待媒体报道《毕业论文将检测 AIGC 率，检测标准科学吗》， 该文章在知网检测 AIGC 率接近 30%？",
-          "url": "https://www.zhihu.com/question/2041915902292217866",
-          "source": "知乎",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时58分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "千问",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "阿里千问3.7编程能力跻身全球前二",
-          "url": "https://wallstreetcn.com/livenews/3109181",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时07分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "Deepseek",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "如何看待 DeepSeek 连续多次降价？",
-          "url": "https://www.zhihu.com/question/2033335202307647295",
-          "source": "知乎",
-          "ranks": [
-            11,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时07分 ~ 18时08分]"
-        }
-      ]
-    },
     {
       "keyword_group": "智谱",
       "match_count": 1,
@@ -93,11 +12,11 @@
           "url": "https://wallstreetcn.com/articles/3773113",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            6
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时08分 ~ 21时58分]"
+          "time_info": "[01时31分 ~ 01时32分]"
         }
       ]
     }
