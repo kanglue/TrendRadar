@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-26T13:07:58.753149+08:00",
-  "total_titles_processed": 808,
+  "generated_at": "2026-05-26T18:08:41.693441+08:00",
+  "total_titles_processed": 1018,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "字节",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "字节反击腾讯称“都是卖猪食的，谁也别看不起谁”？抖音副总裁李亮：相关内容系谣言",
@@ -18,6 +18,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时26分 ~ 08时12分]"
+        },
+        {
+          "title": "香农芯创：预计2026年来自阿里、腾讯、字节跳动等客户收入有较大增长",
+          "url": "https://wallstreetcn.com/livenews/3109318",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时08分"
         }
       ]
     },
@@ -32,7 +43,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时07分"
         }
@@ -47,11 +58,29 @@
           "url": "https://www.zhihu.com/question/2033335202307647295",
           "source": "知乎",
           "ranks": [
-            11
+            11,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时07分 ~ 18时08分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "智谱",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "A股尾盘拉升，沪指险翻红，有色金属拉升，芯片半导体集体下挫，恒科指涨超1%，智谱再创新高",
+          "url": "https://wallstreetcn.com/articles/3773113",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时07分"
+          "time_info": "18时08分"
         }
       ]
     }
