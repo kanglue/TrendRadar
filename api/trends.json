@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-30T14:53:31.616500+08:00",
-  "total_titles_processed": 854,
+  "generated_at": "2026-05-30T17:24:19.569117+08:00",
+  "total_titles_processed": 1001,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "财联社热门",
           "ranks": [
             7,
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时57分 ~ 14时53分]"
+          "appearance_count": 4,
+          "time_info": "[11时57分 ~ 17时24分]"
         },
         {
           "title": "MiniMax启动A股IPO辅导备案",
