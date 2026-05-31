@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-01T01:15:25.719282+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-06-01T03:26:04.669586+08:00",
+  "total_titles_processed": 366,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时15分"
+          "appearance_count": 3,
+          "time_info": "[01时15分 ~ 03时26分]"
         },
         {
           "title": "【早报】中际旭创发布严正声明；MiniMax启动A股IPO",
@@ -26,8 +26,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时15分"
+          "appearance_count": 3,
+          "time_info": "[01时15分 ~ 03时26分]"
         },
         {
           "title": "市值超2600亿港元！MiniMax再冲A股 港股“大模型双雄”即将又会师",
@@ -37,8 +37,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时15分"
+          "appearance_count": 3,
+          "time_info": "[01时15分 ~ 03时26分]"
         },
         {
           "title": "MINIMAX-W：截至本公告日期，本公司已聘请专业顾问就本公司符合在科创板上市的条件提供咨询，并已签订辅导协议。",
@@ -48,8 +48,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时15分"
+          "appearance_count": 2,
+          "time_info": "[01时15分 ~ 03时26分]"
         }
       ]
     },
@@ -65,8 +65,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时15分"
+          "appearance_count": 3,
+          "time_info": "[01时15分 ~ 03时26分]"
         }
       ]
     },
@@ -82,8 +82,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时15分"
+          "appearance_count": 3,
+          "time_info": "[01时15分 ~ 03时26分]"
         }
       ]
     }
