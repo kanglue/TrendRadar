@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-06T08:14:25.271269+08:00",
-  "total_titles_processed": 620,
+  "generated_at": "2026-06-06T12:59:10.542039+08:00",
+  "total_titles_processed": 830,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "短剧",
-      "match_count": 1,
+      "match_count": 3,
       "titles": [
         {
           "title": "红果3类短剧禁拍13类受限",
@@ -18,6 +18,67 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时03分 ~ 08时14分]"
+        },
+        {
+          "title": "加码严打,短剧行业遭整改",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354918&amp;topic_name=%E5%8A%A0%E7%A0%81%E4%B8%A5%E6%89%93%2C%E7%9F%AD%E5%89%A7%E8%A1%8C%E4%B8%9A%E9%81%AD%E6%95%B4%E6%94%B9",
+          "source": "贴吧",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时58分 ~ 12时59分]"
+        },
+        {
+          "title": "红果3类短剧禁拍13类受限",
+          "url": "https://www.baidu.com/s?wd=%E7%BA%A2%E6%9E%9C3%E7%B1%BB%E7%9F%AD%E5%89%A7%E7%A6%81%E6%8B%8D13%E7%B1%BB%E5%8F%97%E9%99%90",
+          "source": "百度热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时58分 ~ 12时59分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "大模型",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "腾讯姚顺雨称 AI 实用价值高于「刷榜」价值，如何看待这一观点？国产大模型该告别榜单内卷吗？",
+          "url": "https://www.zhihu.com/question/2046178335382843425",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时14分"
+        },
+        {
+          "title": "算得更快更准 全球海洋现象智能预报大模型“琅琊”2.0发布",
+          "url": "https://wallstreetcn.com/livenews/3115413",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时59分"
+        },
+        {
+          "title": "算得更快更准 全球海洋现象智能预报大模型“琅琊”2.0发布",
+          "url": "https://flash.jin10.com/detail/20260606104241798800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时59分"
         }
       ]
     },
@@ -35,23 +96,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时03分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "大模型",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "腾讯姚顺雨称 AI 实用价值高于「刷榜」价值，如何看待这一观点？国产大模型该告别榜单内卷吗？",
-          "url": "https://www.zhihu.com/question/2046178335382843425",
-          "source": "知乎",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时14分"
         }
       ]
     }
