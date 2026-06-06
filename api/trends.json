@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-06T12:59:10.542039+08:00",
-  "total_titles_processed": 830,
+  "generated_at": "2026-06-06T15:53:46.161764+08:00",
+  "total_titles_processed": 988,
   "failed_sources": [],
   "trends": [
     {
@@ -27,8 +27,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时58分 ~ 12时59分]"
+          "appearance_count": 3,
+          "time_info": "[12时58分 ~ 15时53分]"
         },
         {
           "title": "红果3类短剧禁拍13类受限",
@@ -48,6 +48,18 @@
       "match_count": 3,
       "titles": [
         {
+          "title": "算得更快更准 全球海洋现象智能预报大模型“琅琊”2.0发布",
+          "url": "https://wallstreetcn.com/livenews/3115413",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时59分 ~ 15时53分]"
+        },
+        {
           "title": "腾讯姚顺雨称 AI 实用价值高于「刷榜」价值，如何看待这一观点？国产大模型该告别榜单内卷吗？",
           "url": "https://www.zhihu.com/question/2046178335382843425",
           "source": "知乎",
@@ -60,23 +72,12 @@
         },
         {
           "title": "算得更快更准 全球海洋现象智能预报大模型“琅琊”2.0发布",
-          "url": "https://wallstreetcn.com/livenews/3115413",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时59分"
-        },
-        {
-          "title": "算得更快更准 全球海洋现象智能预报大模型“琅琊”2.0发布",
           "url": "https://flash.jin10.com/detail/20260606104241798800",
           "source": "金十数据",
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时59分"
         }
@@ -84,7 +85,7 @@
     },
     {
       "keyword_group": "字节",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "赛力斯字节联手造车",
@@ -96,6 +97,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时03分"
+        },
+        {
+          "title": "字节跳动：没有造车或推出汽车品牌的计划",
+          "url": "https://wallstreetcn.com/livenews/3115424",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时53分"
         }
       ]
     }
