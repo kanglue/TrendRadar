@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-06T06:20:30.265940+08:00",
-  "total_titles_processed": 536,
+  "generated_at": "2026-06-06T08:14:25.271269+08:00",
+  "total_titles_processed": 620,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时03分 ~ 06时20分]"
+          "appearance_count": 7,
+          "time_info": "[00时03分 ~ 08时14分]"
         }
       ]
     },
@@ -35,6 +35,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时03分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "大模型",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "腾讯姚顺雨称 AI 实用价值高于「刷榜」价值，如何看待这一观点？国产大模型该告别榜单内卷吗？",
+          "url": "https://www.zhihu.com/question/2046178335382843425",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时14分"
         }
       ]
     }
