@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-09T03:25:26.077718+08:00",
-  "total_titles_processed": 416,
+  "generated_at": "2026-06-09T05:55:43.234891+08:00",
+  "total_titles_processed": 497,
   "failed_sources": [],
   "trends": [
     {
@@ -8,24 +8,25 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "Apple Intelligence 的缺席为什么没有影响到 iPhone 在中国大陆的销量？",
+          "url": "https://www.zhihu.com/question/2047276644910552070",
+          "source": "知乎",
+          "ranks": [
+            18,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时25分 ~ 05时55分]"
+        },
+        {
           "title": "苹果软件主管克雷格·费德里吉：许多Apple Intelligence请求是在设备端处理的，而更复杂的请求则会被发送至苹果专有的私有云端进行处理。",
           "url": "https://flash.jin10.com/detail/20260609031726881800",
           "source": "金十数据",
           "ranks": [
             8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时25分"
-        },
-        {
-          "title": "Apple Intelligence 的缺席为什么没有影响到 iPhone 在中国大陆的销量？",
-          "url": "https://www.zhihu.com/question/2047276644910552070",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时25分"
         }
@@ -43,8 +44,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时05分"
+          "appearance_count": 2,
+          "time_info": "[00时05分 ~ 05时55分]"
         }
       ]
     },
@@ -59,7 +60,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时25分"
         }
@@ -76,9 +77,9 @@
           "ranks": [
             12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时25分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时25分 ~ 05时55分]"
         }
       ]
     }
