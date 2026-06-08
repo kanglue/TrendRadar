@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-09T05:55:43.234891+08:00",
-  "total_titles_processed": 497,
+  "generated_at": "2026-06-09T07:17:06.653747+08:00",
+  "total_titles_processed": 556,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "知乎",
           "ranks": [
             18,
-            7
+            7,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时25分 ~ 05时55分]"
+          "appearance_count": 4,
+          "time_info": "[03时25分 ~ 07时17分]"
         },
         {
           "title": "苹果软件主管克雷格·费德里吉：许多Apple Intelligence请求是在设备端处理的，而更复杂的请求则会被发送至苹果专有的私有云端进行处理。",
@@ -75,11 +76,12 @@
           "url": "https://www.cls.cn/detail/2393706",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时25分 ~ 05时55分]"
+          "appearance_count": 4,
+          "time_info": "[03时25分 ~ 07时17分]"
         }
       ]
     }
