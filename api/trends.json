@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-14T13:56:47.692693+08:00",
-  "total_titles_processed": 722,
+  "generated_at": "2026-06-14T17:47:19.480786+08:00",
+  "total_titles_processed": 874,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "大模型",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "亚马逊之后，Meta也限制AI使用量了！当大厂都用不起Token，大模型巨头该“控制利润率”了？",
@@ -16,8 +16,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时14分 ~ 13时56分]"
+          "appearance_count": 4,
+          "time_info": "[08时14分 ~ 17时47分]"
         },
         {
           "title": "“机器人伴侣”来了！10天已预售3800台，男款身着修身西装，女款可上妆，搭载“养成系”情感大模型，仅限成人购买！",
@@ -26,9 +26,51 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时56分"
+        },
+        {
+          "title": "小米工程师谈某大模型重新出山",
+          "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B3%E5%B7%A5%E7%A8%8B%E5%B8%88%E8%B0%88%E6%9F%90%E5%A4%A7%E6%A8%A1%E5%9E%8B%E9%87%8D%E6%96%B0%E5%87%BA%E5%B1%B1&t=31&band_rank=15&Refer=top",
+          "source": "微博",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时47分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "智谱",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "如何评价智谱 6 月 13 日发布的 GLM5.2 模型？",
+          "url": "https://www.zhihu.com/question/2049161661567723164",
+          "source": "知乎",
+          "ranks": [
+            4,
+            3,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时19分 ~ 08时15分]"
+        },
+        {
+          "title": "Anthropic最强模型被禁后，智谱宣布GLM5.2全量开放",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33374548",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时47分"
         }
       ]
     },
@@ -43,7 +85,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时56分"
         }
@@ -59,31 +101,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时14分 ~ 13时56分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "智谱",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "如何评价智谱 6 月 13 日发布的 GLM5.2 模型？",
-          "url": "https://www.zhihu.com/question/2049161661567723164",
-          "source": "知乎",
-          "ranks": [
-            4,
-            3,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时19分 ~ 08时15分]"
+          "appearance_count": 4,
+          "time_info": "[08时14分 ~ 17时47分]"
         }
       ]
     },
@@ -99,11 +122,12 @@
             13,
             8,
             7,
-            6
+            6,
+            10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时19分 ~ 13时56分]"
+          "appearance_count": 10,
+          "time_info": "[00时19分 ~ 17时47分]"
         }
       ]
     }
