@@ -1,8 +1,54 @@
 {
-  "generated_at": "2026-06-14T08:15:03.508382+08:00",
-  "total_titles_processed": 511,
+  "generated_at": "2026-06-14T13:56:47.692693+08:00",
+  "total_titles_processed": 722,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "大模型",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "亚马逊之后，Meta也限制AI使用量了！当大厂都用不起Token，大模型巨头该“控制利润率”了？",
+          "url": "https://wallstreetcn.com/articles/3774595",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时14分 ~ 13时56分]"
+        },
+        {
+          "title": "“机器人伴侣”来了！10天已预售3800台，男款身着修身西装，女款可上妆，搭载“养成系”情感大模型，仅限成人购买！",
+          "url": "https://wallstreetcn.com/articles/3774586",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时56分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "短剧",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "短剧香蜜沉沉烬如霜上线",
+          "url": "https://s.weibo.com/weibo?q=%E7%9F%AD%E5%89%A7%E9%A6%99%E8%9C%9C%E6%B2%89%E6%B2%89%E7%83%AC%E5%A6%82%E9%9C%9C%E4%B8%8A%E7%BA%BF&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时56分"
+        }
+      ]
+    },
     {
       "keyword_group": "MiniMax",
       "match_count": 1,
@@ -12,11 +58,12 @@
           "url": "https://wallstreetcn.com/articles/3774596",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时14分 ~ 08时15分]"
+          "appearance_count": 3,
+          "time_info": "[08时14分 ~ 13时56分]"
         }
       ]
     },
@@ -41,23 +88,6 @@
       ]
     },
     {
-      "keyword_group": "大模型",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "亚马逊之后，Meta也限制AI使用量了！当大厂都用不起Token，大模型巨头该“控制利润率”了？",
-          "url": "https://wallstreetcn.com/articles/3774595",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时14分 ~ 08时15分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "数字人",
       "match_count": 1,
       "titles": [
@@ -72,8 +102,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时19分 ~ 08时15分]"
+          "appearance_count": 9,
+          "time_info": "[00时19分 ~ 13时56分]"
         }
       ]
     }
