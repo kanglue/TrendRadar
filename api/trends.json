@@ -1,8 +1,25 @@
 {
-  "generated_at": "2026-06-15T01:25:53.666391+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-06-15T03:46:05.924036+08:00",
+  "total_titles_processed": 384,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "短剧",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "短剧版香蜜上线口碑两极分化",
+          "url": "https://www.douyin.com/hot/2534486",
+          "source": "抖音",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时45分 ~ 03时46分]"
+        }
+      ]
+    },
     {
       "keyword_group": "数字人",
       "match_count": 1,
@@ -15,8 +32,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时25分"
+          "appearance_count": 3,
+          "time_info": "[01时25分 ~ 03时46分]"
         }
       ]
     }
