@@ -1,8 +1,25 @@
 {
-  "generated_at": "2026-06-14T06:11:20.546578+08:00",
-  "total_titles_processed": 451,
+  "generated_at": "2026-06-14T08:15:03.508382+08:00",
+  "total_titles_processed": 511,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "MiniMax",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "谁降价谁更弱势！摩根大通：智谱和Minimax做了同样的实验，但结果相反",
+          "url": "https://wallstreetcn.com/articles/3774596",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时14分 ~ 08时15分]"
+        }
+      ]
+    },
     {
       "keyword_group": "智谱",
       "match_count": 1,
@@ -14,11 +31,29 @@
           "ranks": [
             4,
             3,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时19分 ~ 06时11分]"
+          "appearance_count": 8,
+          "time_info": "[00时19分 ~ 08时15分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "大模型",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "亚马逊之后，Meta也限制AI使用量了！当大厂都用不起Token，大模型巨头该“控制利润率”了？",
+          "url": "https://wallstreetcn.com/articles/3774595",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时14分 ~ 08时15分]"
         }
       ]
     },
@@ -33,11 +68,12 @@
           "ranks": [
             13,
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时19分 ~ 06时11分]"
+          "appearance_count": 8,
+          "time_info": "[00时19分 ~ 08时15分]"
         }
       ]
     }
