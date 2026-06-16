@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-17T05:10:37.518785+08:00",
-  "total_titles_processed": 419,
+  "generated_at": "2026-06-17T07:28:34.302352+08:00",
+  "total_titles_processed": 532,
   "failed_sources": [],
   "trends": [
     {
@@ -13,39 +13,42 @@
           "source": "今日头条",
           "ranks": [
             1,
-            23
+            23,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时06分 ~ 05时10分]"
+          "appearance_count": 3,
+          "time_info": "[01时06分 ~ 07时28分]"
         },
         {
           "title": "曝DeepSeek首轮融资梁文锋出资200亿",
           "url": "https://www.toutiao.com/trending/7651579346738855979/",
           "source": "今日头条",
           "ranks": [
-            18
+            18,
+            12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时10分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时10分 ~ 07时28分]"
         },
         {
           "title": "DeepSeek首轮融资梁文锋出资200亿",
           "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E9%A6%96%E8%BD%AE%E8%9E%8D%E8%B5%84%E6%A2%81%E6%96%87%E9%94%8B%E5%87%BA%E8%B5%84200%E4%BA%BF%23&t=31&band_rank=18&Refer=top",
           "source": "微博",
           "ranks": [
-            18
+            18,
+            29
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时06分"
+          "appearance_count": 2,
+          "time_info": "[01时06分 ~ 07时28分]"
         }
       ]
     },
     {
       "keyword_group": "短剧",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "现在知道短剧滤镜有多吓人了吧",
@@ -53,11 +56,23 @@
           "source": "微博",
           "ranks": [
             1,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时06分 ~ 05时10分]"
+          "appearance_count": 3,
+          "time_info": "[01时06分 ~ 07时28分]"
+        },
+        {
+          "title": "都在说电影行业低迷，究竟是短视频、短剧抢占用户，还是观众的审美阈值变高，不再为宣发物料、演员名气买单？",
+          "url": "https://www.zhihu.com/question/2049483220899426511",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时28分"
         }
       ]
     },
@@ -70,11 +85,12 @@
           "url": "https://www.zhihu.com/question/2042539496676352614",
           "source": "知乎",
           "ranks": [
-            10
+            10,
+            18
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时06分"
+          "appearance_count": 2,
+          "time_info": "[01时06分 ~ 07时28分]"
         }
       ]
     }
