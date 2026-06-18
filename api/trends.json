@@ -1,8 +1,42 @@
 {
-  "generated_at": "2026-06-18T08:20:06.614262+08:00",
-  "total_titles_processed": 663,
+  "generated_at": "2026-06-18T14:01:24.571690+08:00",
+  "total_titles_processed": 894,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "短剧",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "短剧小满人间东北文学具象化",
+          "url": "https://www.douyin.com/hot/2539006",
+          "source": "抖音",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时59分 ~ 14时01分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "Deepseek",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "如何看待 6 月 16 日 DeepSeek 网页端 /App 中的「快速模式」思维链发生明显变化？",
+          "url": "https://www.zhihu.com/question/2050272536898835791",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时59分 ~ 14时01分]"
+        }
+      ]
+    },
     {
       "keyword_group": "MiniMax",
       "match_count": 1,
@@ -14,7 +48,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时20分"
         }
