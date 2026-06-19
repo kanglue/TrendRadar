@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-20T04:43:44.428124+08:00",
-  "total_titles_processed": 462,
+  "generated_at": "2026-06-20T06:10:05.741642+08:00",
+  "total_titles_processed": 492,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时34分 ~ 04时43分]"
+          "appearance_count": 7,
+          "time_info": "[00时34分 ~ 06时10分]"
         },
         {
           "title": "中国大模型何时达「fable 级别」？马斯克与智谱 CEO 预测不同，你更认同谁？",
@@ -24,11 +24,12 @@
           "source": "知乎",
           "ranks": [
             8,
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时01分 ~ 04时43分]"
+          "appearance_count": 5,
+          "time_info": "[03时01分 ~ 06时10分]"
         }
       ]
     },
@@ -45,8 +46,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时34分 ~ 04时43分]"
+          "appearance_count": 7,
+          "time_info": "[00时34分 ~ 06时10分]"
         },
         {
           "title": "我国首个水产育种专用智能大模型平台发布",
