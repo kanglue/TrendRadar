@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-20T13:21:38.629463+08:00",
-  "total_titles_processed": 789,
+  "generated_at": "2026-06-20T17:28:15.701497+08:00",
+  "total_titles_processed": 966,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时34分 ~ 13时21分]"
+          "appearance_count": 11,
+          "time_info": "[00时34分 ~ 17时28分]"
         },
         {
           "title": "导演於水直言 AI 是无所不能的大模型，每个人是不完美的小模型，不完美才能产生艺术，你认可这种说法吗？",
@@ -27,7 +27,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时21分"
         },
