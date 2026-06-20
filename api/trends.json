@@ -1,8 +1,49 @@
 {
-  "generated_at": "2026-06-20T08:15:54.960517+08:00",
-  "total_titles_processed": 578,
+  "generated_at": "2026-06-20T13:21:38.629463+08:00",
+  "total_titles_processed": 789,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "大模型",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "中国大模型何时能达Fable级别？马斯克预计明年Q1 唐杰称不用那么久",
+          "url": "https://www.cls.cn/detail/2404332",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时34分 ~ 13时21分]"
+        },
+        {
+          "title": "导演於水直言 AI 是无所不能的大模型，每个人是不完美的小模型，不完美才能产生艺术，你认可这种说法吗？",
+          "url": "https://www.zhihu.com/question/2050584252303893056",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时21分"
+        },
+        {
+          "title": "我国首个水产育种专用智能大模型平台发布",
+          "url": "https://wallstreetcn.com/livenews/3122129",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时35分"
+        }
+      ]
+    },
     {
       "keyword_group": "智谱",
       "match_count": 2,
@@ -32,35 +73,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[03时01分 ~ 08时15分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "大模型",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "中国大模型何时能达Fable级别？马斯克预计明年Q1 唐杰称不用那么久",
-          "url": "https://www.cls.cn/detail/2404332",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时34分 ~ 08时15分]"
-        },
-        {
-          "title": "我国首个水产育种专用智能大模型平台发布",
-          "url": "https://wallstreetcn.com/livenews/3122129",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时35分"
         }
       ]
     }
