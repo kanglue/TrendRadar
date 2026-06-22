@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-22T08:18:48.299479+08:00",
-  "total_titles_processed": 622,
+  "generated_at": "2026-06-22T14:34:05.045815+08:00",
+  "total_titles_processed": 877,
   "failed_sources": [],
   "trends": [
     {
@@ -14,7 +14,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时18分"
         }
@@ -34,6 +34,23 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时49分 ~ 08时18分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "智谱",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "A股三大股指午后均涨1%，培育钻石飙升，大金融崛起，恒科指跌超1%，智谱暴涨17%市值破万亿",
+          "url": "https://wallstreetcn.com/articles/3775154",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时33分 ~ 14时34分]"
         }
       ]
     }
