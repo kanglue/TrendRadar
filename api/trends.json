@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-24T05:03:45.858155+08:00",
-  "total_titles_processed": 420,
+  "generated_at": "2026-06-24T07:13:17.125091+08:00",
+  "total_titles_processed": 508,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://wallstreetcn.com/articles/3775254",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时04分 ~ 05时03分]"
+          "appearance_count": 3,
+          "time_info": "[02时04分 ~ 07时13分]"
         },
         {
           "title": "大模型横评:多款AI翻车实录",
