@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-24T02:04:59.263256+08:00",
-  "total_titles_processed": 309,
+  "generated_at": "2026-06-24T05:03:45.858155+08:00",
+  "total_titles_processed": 420,
   "failed_sources": [],
   "trends": [
     {
@@ -15,19 +15,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时04分"
+          "appearance_count": 2,
+          "time_info": "[02时04分 ~ 05时03分]"
         },
         {
           "title": "大模型横评:多款AI翻车实录",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355576&amp;topic_name=%E5%A4%A7%E6%A8%A1%E5%9E%8B%E6%A8%AA%E8%AF%84%3A%E5%A4%9A%E6%AC%BEAI%E7%BF%BB%E8%BD%A6%E5%AE%9E%E5%BD%95",
           "source": "贴吧",
           "ranks": [
-            28
+            28,
+            29
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时04分"
+          "appearance_count": 2,
+          "time_info": "[02时04分 ~ 05时03分]"
         }
       ]
     },
