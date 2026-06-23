@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-23T17:54:13.330949+08:00",
-  "total_titles_processed": 1080,
+  "generated_at": "2026-06-23T20:39:14.544868+08:00",
+  "total_titles_processed": 1250,
   "failed_sources": [],
   "trends": [
     {
@@ -24,11 +24,12 @@
           "url": "https://www.zhihu.com/question/2044875348719005741",
           "source": "知乎",
           "ranks": [
-            6
+            6,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时53分 ~ 17时54分]"
+          "appearance_count": 4,
+          "time_info": "[17时53分 ~ 20时39分]"
         },
         {
           "title": "DeepSeek新部门疯狂招人，负责人否认“不招外国人”",
@@ -37,7 +38,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时54分"
         }
@@ -45,18 +46,30 @@
     },
     {
       "keyword_group": "大模型",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "创业板跌逾3%，算力硬件、有色金属重挫，创新药、大金融拉升，港股“大模型双雄”大跌",
           "url": "https://wallstreetcn.com/articles/3775254",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时53分 ~ 20时39分]"
+        },
+        {
+          "title": "大模型横评:多款AI翻车实录",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355576&amp;topic_name=%E5%A4%A7%E6%A8%A1%E5%9E%8B%E6%A8%AA%E8%AF%84%3A%E5%A4%9A%E6%AC%BEAI%E7%BF%BB%E8%BD%A6%E5%AE%9E%E5%BD%95",
+          "source": "贴吧",
+          "ranks": [
+            23
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[17时53分 ~ 17时54分]"
+          "time_info": "[20时38分 ~ 20时39分]"
         },
         {
           "title": "豆包大模型2.1发布，Coding能力进入国际第一梯队",
@@ -68,6 +81,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时08分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "短剧",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "在白玉兰看到了短剧生命力",
+          "url": "https://www.douyin.com/hot/2544829",
+          "source": "抖音",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时38分 ~ 20时39分]"
         }
       ]
     },
@@ -102,6 +132,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时08分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "快手",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "快手电商上线快时效服务“极速达”",
+          "url": "https://flash.jin10.com/detail/20260623201700179800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时39分"
         }
       ]
     },
