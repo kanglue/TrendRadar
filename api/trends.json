@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-24T12:06:17.568038+08:00",
-  "total_titles_processed": 738,
+  "generated_at": "2026-06-24T16:27:06.793990+08:00",
+  "total_titles_processed": 937,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.zhihu.com/question/2052734400673190128",
           "source": "知乎",
           "ranks": [
-            10
+            10,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时06分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时06分 ~ 16时27分]"
         },
         {
           "title": "字节跳动豆包上线专业版，升级复杂生产力工具并开启订阅",
@@ -25,7 +26,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时06分"
         }
@@ -44,8 +45,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时04分 ~ 12时06分]"
+          "appearance_count": 6,
+          "time_info": "[02时04分 ~ 16时27分]"
         },
         {
           "title": "大模型横评:多款AI翻车实录",
@@ -72,7 +73,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时06分"
         }
@@ -89,7 +90,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时06分"
         }
@@ -121,11 +122,12 @@
           "url": "https://www.douyin.com/hot/2545026",
           "source": "抖音",
           "ranks": [
-            1
+            1,
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时06分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时06分 ~ 16时27分]"
         }
       ]
     }
