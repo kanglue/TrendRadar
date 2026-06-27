@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-28T00:11:20.300490+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-06-28T02:10:18.011601+08:00",
+  "total_titles_processed": 388,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时11分"
+          "appearance_count": 2,
+          "time_info": "[00时11分 ~ 02时10分]"
         },
         {
           "title": "刚刚，DeepSeek V4更新DSpark，推理速度提升80%",
@@ -26,8 +26,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时11分"
+          "appearance_count": 2,
+          "time_info": "[00时11分 ~ 02时10分]"
         },
         {
           "title": "如何评价 DeepSeek 与智谱均声明将在下半年大规模使用华为昇腾 950 超节点？",
@@ -37,8 +37,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时11分"
+          "appearance_count": 2,
+          "time_info": "[00时11分 ~ 02时10分]"
         }
       ]
     },
@@ -54,8 +54,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时11分"
+          "appearance_count": 2,
+          "time_info": "[00时11分 ~ 02时10分]"
         }
       ]
     },
