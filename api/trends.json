@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-27T11:59:11.373275+08:00",
-  "total_titles_processed": 735,
+  "generated_at": "2026-06-27T15:24:27.628707+08:00",
+  "total_titles_processed": 892,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "GPT",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "GPT-5.6深夜亮相！性能反超竞品Mythos 但大多数用户暂无缘使用",
@@ -74,6 +74,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时56分"
+        },
+        {
+          "title": "OpenAI发布GPT5.6",
+          "url": "https://www.baidu.com/s?wd=OpenAI%E5%8F%91%E5%B8%83GPT5.6",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时24分"
         }
       ]
     },
@@ -116,6 +127,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时14分 ~ 07时15分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "字节",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "网传字节员工为专心加班需请假在家，称居家办公无人打扰，在字节这是普遍现象吗？你会专门请假来加班吗？",
+          "url": "https://www.zhihu.com/question/2053888577218372923",
+          "source": "知乎",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时24分"
         }
       ]
     },
