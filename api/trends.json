@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-28T19:50:52.486222+08:00",
-  "total_titles_processed": 1048,
+  "generated_at": "2026-06-28T22:04:42.705669+08:00",
+  "total_titles_processed": 1192,
   "failed_sources": [],
   "trends": [
     {
@@ -35,17 +35,6 @@
           "time_info": "[00时11分 ~ 08时08分]"
         },
         {
-          "title": "豆包和DeepSeek的博弈",
-          "url": "https://s.weibo.com/weibo?q=%E8%B1%86%E5%8C%85%E5%92%8CDeepSeek%E7%9A%84%E5%8D%9A%E5%BC%88&t=31&band_rank=5&Refer=top",
-          "source": "微博",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时50分"
-        },
-        {
           "title": "如何评价 DeepSeek 与智谱均声明将在下半年大规模使用华为昇腾 950 超节点？",
           "url": "https://www.zhihu.com/question/2050591443664779181",
           "source": "知乎",
@@ -63,11 +52,24 @@
           "source": "财联社热门",
           "ranks": [
             9,
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时19分 ~ 22时04分]"
+        },
+        {
+          "title": "豆包和DeepSeek的博弈",
+          "url": "https://s.weibo.com/weibo?q=%E8%B1%86%E5%8C%85%E5%92%8CDeepSeek%E7%9A%84%E5%8D%9A%E5%BC%88&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5,
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时19分 ~ 19时50分]"
+          "appearance_count": 2,
+          "time_info": "[19时50分 ~ 22时04分]"
         }
       ]
     },
@@ -92,6 +94,34 @@
           "title": "海外研究员眼中的中国AI：智谱是“中国Palantir”，MiniMax对标Character AI，豆包是“中国ChatGPT”",
           "url": "https://wallstreetcn.com/articles/3775673",
           "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时21分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "Gemini",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "算力告急：谷歌悄然对Meta实施Gemini使用上限",
+          "url": "https://wallstreetcn.com/articles/3775694",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时04分"
+        },
+        {
+          "title": "据英国金融时报：谷歌限制Meta对Gemini的使用，因AI需求挤压算力容量。",
+          "url": "https://flash.jin10.com/detail/20260628120732763800",
+          "source": "金十数据",
           "ranks": [
             9
           ],
@@ -144,23 +174,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时11分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "Gemini",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "据英国金融时报：谷歌限制Meta对Gemini的使用，因AI需求挤压算力容量。",
-          "url": "https://flash.jin10.com/detail/20260628120732763800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时21分"
         }
       ]
     }
