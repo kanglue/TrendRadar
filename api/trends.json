@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-30T02:18:06.044631+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-06-30T04:52:10.550408+08:00",
+  "total_titles_processed": 404,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.zhihu.com/question/2054981283089069609",
           "source": "知乎",
           "ranks": [
-            1
+            1,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时17分 ~ 02时18分]"
+          "appearance_count": 4,
+          "time_info": "[02时17分 ~ 04时52分]"
         },
         {
           "title": "DeepSeek启动成立来最大规模招聘",
@@ -42,7 +43,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时18分"
         }
@@ -59,7 +60,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时18分"
         }
@@ -74,11 +75,12 @@
           "url": "https://www.zhihu.com/question/2054634184275128712",
           "source": "知乎",
           "ranks": [
-            6
+            6,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时17分 ~ 02时18分]"
+          "appearance_count": 4,
+          "time_info": "[02时17分 ~ 04时52分]"
         }
       ]
     }
