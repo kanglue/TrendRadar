@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-03T05:16:10.169669+08:00",
-  "total_titles_processed": 451,
+  "generated_at": "2026-07-03T07:15:06.874996+08:00",
+  "total_titles_processed": 546,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             10,
             8,
-            7
+            7,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时57分 ~ 05时16分]"
+          "appearance_count": 6,
+          "time_info": "[01时57分 ~ 07时15分]"
         },
         {
           "title": "为什么现在 DeepSeek 快速模式豆包化？",
@@ -27,11 +28,12 @@
           "ranks": [
             19,
             13,
-            15
+            15,
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时57分 ~ 05时16分]"
+          "appearance_count": 6,
+          "time_info": "[01时57分 ~ 07时15分]"
         },
         {
           "title": "出现性能下降问题 DeepSeek回应",
@@ -40,11 +42,12 @@
           "ranks": [
             22,
             17,
-            19
+            19,
+            16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时57分 ~ 05时16分]"
+          "appearance_count": 6,
+          "time_info": "[01时57分 ~ 07时15分]"
         }
       ]
     },
