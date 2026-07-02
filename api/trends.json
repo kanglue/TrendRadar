@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-03T03:42:26.897016+08:00",
-  "total_titles_processed": 376,
+  "generated_at": "2026-07-03T05:16:10.169669+08:00",
+  "total_titles_processed": 451,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "知乎",
           "ranks": [
             10,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时57分 ~ 03时42分]"
+          "appearance_count": 4,
+          "time_info": "[01时57分 ~ 05时16分]"
         },
         {
           "title": "为什么现在 DeepSeek 快速模式豆包化？",
@@ -25,11 +26,12 @@
           "source": "知乎",
           "ranks": [
             19,
-            13
+            13,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时57分 ~ 03时42分]"
+          "appearance_count": 4,
+          "time_info": "[01时57分 ~ 05时16分]"
         },
         {
           "title": "出现性能下降问题 DeepSeek回应",
@@ -37,11 +39,12 @@
           "source": "百度热搜",
           "ranks": [
             22,
-            17
+            17,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时57分 ~ 03时42分]"
+          "appearance_count": 4,
+          "time_info": "[01时57分 ~ 05时16分]"
         }
       ]
     },
@@ -54,11 +57,12 @@
           "url": "https://www.zhihu.com/question/2055686422682494046",
           "source": "知乎",
           "ranks": [
-            6
+            6,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时57分 ~ 03时42分]"
+          "appearance_count": 4,
+          "time_info": "[01时57分 ~ 05时16分]"
         }
       ]
     }
