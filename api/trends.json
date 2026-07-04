@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-04T19:38:55.743722+08:00",
-  "total_titles_processed": 1094,
+  "generated_at": "2026-07-04T21:47:30.765630+08:00",
+  "total_titles_processed": 1210,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             6,
             3,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时52分 ~ 19时38分]"
+          "appearance_count": 4,
+          "time_info": "[14时52分 ~ 21时47分]"
         },
         {
           "title": "智能体新变化！ 豆包、千问即将下线智能体功能！",
@@ -30,8 +31,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时52分 ~ 19时38分]"
+          "appearance_count": 4,
+          "time_info": "[14时52分 ~ 21时47分]"
         },
         {
           "title": "千问：拟人化互动类智能体及用户自建智能体功能将于7月10日正式下线",
@@ -76,6 +77,18 @@
           "time_info": "[11时41分 ~ 14时52分]"
         },
         {
+          "title": "卡点发布！GPT-5.6三大模型全曝，定档7月7日？",
+          "url": "https://wallstreetcn.com/articles/3776196",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时38分 ~ 21时47分]"
+        },
+        {
           "title": "Meta“算力过剩”疑云背后：扎克伯格说AI进展慢了，AI负责人新模型说已追上GPT-5.5",
           "url": "https://wallstreetcn.com/articles/3776134",
           "source": "华尔街见闻",
@@ -85,17 +98,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时41分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "短剧",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "曝买超与短剧女演员乔仙童恋情",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%9B%9D%E4%B9%B0%E8%B6%85%E4%B8%8E%E7%9F%AD%E5%89%A7%E5%A5%B3%E6%BC%94%E5%91%98%E4%B9%94%E4%BB%99%E7%AB%A5%E6%81%8B%E6%83%85%23&t=31&band_rank=15&Refer=top",
+          "source": "微博",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时52分"
         },
         {
-          "title": "卡点发布！GPT-5.6三大模型全曝，定档7月7日？",
-          "url": "https://wallstreetcn.com/articles/3776196",
-          "source": "华尔街见闻",
+          "title": "曝买超与短剧女演员乔仙童恋情",
+          "url": "https://www.toutiao.com/trending/7658523628504416262/",
+          "source": "今日头条",
           "ranks": [
-            9
+            23
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时38分"
+          "time_info": "21时47分"
         }
       ]
     },
@@ -128,23 +158,6 @@
       ]
     },
     {
-      "keyword_group": "短剧",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "曝买超与短剧女演员乔仙童恋情",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%9B%9D%E4%B9%B0%E8%B6%85%E4%B8%8E%E7%9F%AD%E5%89%A7%E5%A5%B3%E6%BC%94%E5%91%98%E4%B9%94%E4%BB%99%E7%AB%A5%E6%81%8B%E6%83%85%23&t=31&band_rank=15&Refer=top",
-          "source": "微博",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时52分"
-        }
-      ]
-    },
-    {
       "keyword_group": "字节",
       "match_count": 1,
       "titles": [
@@ -158,8 +171,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时52分 ~ 19时38分]"
+          "appearance_count": 4,
+          "time_info": "[14时52分 ~ 21时47分]"
         }
       ]
     },
@@ -174,11 +187,12 @@
           "ranks": [
             8,
             7,
-            6
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时41分 ~ 19时38分]"
+          "appearance_count": 5,
+          "time_info": "[11时41分 ~ 21时47分]"
         }
       ]
     }
