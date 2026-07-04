@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-04T17:27:46.812319+08:00",
-  "total_titles_processed": 989,
+  "generated_at": "2026-07-04T19:38:55.743722+08:00",
+  "total_titles_processed": 1094,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,25 @@
           "source": "华尔街见闻",
           "ranks": [
             6,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时52分 ~ 17时27分]"
+          "appearance_count": 3,
+          "time_info": "[14时52分 ~ 19时38分]"
+        },
+        {
+          "title": "智能体新变化！ 豆包、千问即将下线智能体功能！",
+          "url": "https://www.cls.cn/detail/2417079",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时52分 ~ 19时38分]"
         },
         {
           "title": "千问：拟人化互动类智能体及用户自建智能体功能将于7月10日正式下线",
@@ -30,18 +44,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时41分 ~ 14时52分]"
-        },
-        {
-          "title": "智能体新变化！ 豆包、千问即将下线智能体功能！",
-          "url": "https://www.cls.cn/detail/2417079",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时52分 ~ 17时27分]"
         },
         {
           "title": "千问：拟人化互动类智能体及用户自建智能体功能将于7月10日正式下线",
@@ -59,7 +61,7 @@
     },
     {
       "keyword_group": "GPT",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "宇树高管谈具身智能ChatGPT时刻",
@@ -83,6 +85,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时41分"
+        },
+        {
+          "title": "卡点发布！GPT-5.6三大模型全曝，定档7月7日？",
+          "url": "https://wallstreetcn.com/articles/3776196",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时38分"
         }
       ]
     },
@@ -141,11 +154,12 @@
           "source": "贴吧",
           "ranks": [
             8,
-            11
+            11,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时52分 ~ 17时27分]"
+          "appearance_count": 3,
+          "time_info": "[14时52分 ~ 19时38分]"
         }
       ]
     },
@@ -159,11 +173,12 @@
           "source": "华尔街见闻",
           "ranks": [
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时41分 ~ 17时27分]"
+          "appearance_count": 4,
+          "time_info": "[11时41分 ~ 19时38分]"
         }
       ]
     }
