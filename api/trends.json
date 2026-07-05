@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-05T07:03:30.224239+08:00",
-  "total_titles_processed": 461,
+  "generated_at": "2026-07-05T12:01:49.898027+08:00",
+  "total_titles_processed": 662,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "千问",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "豆包、千问：将下线智能体功能",
@@ -27,8 +27,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时13分 ~ 07时03分]"
+          "appearance_count": 7,
+          "time_info": "[01时13分 ~ 12时01分]"
         },
         {
           "title": "豆包、千问将于7月15日下线智能体功能：建议用户提前备份数据",
@@ -36,17 +36,29 @@
           "source": "澎湃新闻",
           "ranks": [
             17,
-            19
+            19,
+            18
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时13分 ~ 07时03分]"
+          "appearance_count": 7,
+          "time_info": "[01时13分 ~ 12时01分]"
+        },
+        {
+          "title": "【早报】华为发布V2版“韬定律”论文；豆包、千问：智能体功能将下线",
+          "url": "https://www.cls.cn/detail/2417200",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时00分 ~ 12时01分]"
         }
       ]
     },
     {
       "keyword_group": "短剧",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "没戏拍的短剧演员在横店卖凉皮",
@@ -73,6 +85,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时23分 ~ 07时03分]"
+        },
+        {
+          "title": "大批头部短剧演员取消行程图，出于哪些原因？反映了哪些问题？",
+          "url": "https://www.zhihu.com/question/2055959456802758681",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时00分 ~ 12时01分]"
         }
       ]
     },
@@ -85,11 +108,12 @@
           "url": "https://wallstreetcn.com/articles/3776196",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            3,
+            1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时13分 ~ 07时03分]"
+          "appearance_count": 7,
+          "time_info": "[01时13分 ~ 12时01分]"
         }
       ]
     },
@@ -104,11 +128,12 @@
           "ranks": [
             16,
             17,
-            18
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时13分 ~ 07时03分]"
+          "appearance_count": 7,
+          "time_info": "[01时13分 ~ 12时01分]"
         }
       ]
     },
@@ -123,7 +148,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时03分"
         }
@@ -138,11 +163,12 @@
           "url": "https://wallstreetcn.com/articles/3776197",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时03分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时03分 ~ 12时01分]"
         }
       ]
     },
