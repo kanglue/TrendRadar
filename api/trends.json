@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-06T18:50:41.025418+08:00",
-  "total_titles_processed": 1062,
+  "generated_at": "2026-07-06T22:32:21.975603+08:00",
+  "total_titles_processed": 1245,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "澎湃新闻",
           "ranks": [
             15,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时18分 ~ 18时50分]"
+          "appearance_count": 3,
+          "time_info": "[13时18分 ~ 22时32分]"
         },
         {
           "title": "如何看待短剧顶流郭宇欣称「我与周也不一定谁蹭谁呢」录音曝光？具体怎么回事？",
@@ -48,16 +49,29 @@
       "match_count": 3,
       "titles": [
         {
+          "title": "字节批量申请网络热梗「咕咕嘎嘎」「香蕉猫」等著作权，背后目的是什么？这算侵占网友的共创成果吗？",
+          "url": "https://www.zhihu.com/question/2057372465282512177",
+          "source": "知乎",
+          "ranks": [
+            17,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时50分 ~ 22时32分]"
+        },
+        {
           "title": "版权警察?字节抢注meme著作权",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355930&amp;topic_name=%E7%89%88%E6%9D%83%E8%AD%A6%E5%AF%9F%3F%E5%AD%97%E8%8A%82%E6%8A%A2%E6%B3%A8meme%E8%91%97%E4%BD%9C%E6%9D%83",
           "source": "贴吧",
           "ranks": [
             9,
-            15
+            15,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时18分 ~ 18时50分]"
+          "appearance_count": 3,
+          "time_info": "[13时18分 ~ 22时32分]"
         },
         {
           "title": "字节申请热门网络梗著作权",
@@ -69,17 +83,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时13分"
-        },
-        {
-          "title": "字节批量申请网络热梗「咕咕嘎嘎」「香蕉猫」等著作权，背后目的是什么？这算侵占网友的共创成果吗？",
-          "url": "https://www.zhihu.com/question/2057372465282512177",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时50分"
         }
       ]
     },
@@ -94,7 +97,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时50分"
         },
@@ -105,7 +108,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时50分"
         }
@@ -165,8 +168,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时18分 ~ 18时50分]"
+          "appearance_count": 3,
+          "time_info": "[13时18分 ~ 22时32分]"
         }
       ]
     },
@@ -181,9 +184,26 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时50分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "腾讯",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "如何评价腾讯 7 月 6 日发布的混元 Hy3 ？",
+          "url": "https://www.zhihu.com/question/2057495402358596554",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时32分"
         }
       ]
     }
