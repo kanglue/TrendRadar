@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-06T13:18:19.020445+08:00",
-  "total_titles_processed": 838,
+  "generated_at": "2026-07-06T18:50:41.025418+08:00",
+  "total_titles_processed": 1062,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_33523848",
           "source": "澎湃新闻",
           "ranks": [
-            15
+            15,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时18分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时18分 ~ 18时50分]"
         },
         {
           "title": "如何看待短剧顶流郭宇欣称「我与周也不一定谁蹭谁呢」录音曝光？具体怎么回事？",
@@ -25,7 +26,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时18分"
         },
@@ -44,18 +45,19 @@
     },
     {
       "keyword_group": "字节",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "版权警察?字节抢注meme著作权",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355930&amp;topic_name=%E7%89%88%E6%9D%83%E8%AD%A6%E5%AF%9F%3F%E5%AD%97%E8%8A%82%E6%8A%A2%E6%B3%A8meme%E8%91%97%E4%BD%9C%E6%9D%83",
           "source": "贴吧",
           "ranks": [
-            9
+            9,
+            15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时18分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时18分 ~ 18时50分]"
         },
         {
           "title": "字节申请热门网络梗著作权",
@@ -67,6 +69,45 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时13分"
+        },
+        {
+          "title": "字节批量申请网络热梗「咕咕嘎嘎」「香蕉猫」等著作权，背后目的是什么？这算侵占网友的共创成果吗？",
+          "url": "https://www.zhihu.com/question/2057372465282512177",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时50分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "Gemini",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "马士基股价下跌4.5%，消息面上，AE15 Gemini服务将通过苏伊士运河航行。",
+          "url": "https://flash.jin10.com/detail/20260706181642847800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时50分"
+        },
+        {
+          "title": "马士基表示，AE15 Gemini 服务将通过苏伊士运河航行。此决定标志着逐步恢复通过苏伊士运河的第一步。",
+          "url": "https://flash.jin10.com/detail/20260706180948644800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时50分"
         }
       ]
     },
@@ -120,11 +161,29 @@
           "url": "https://wallstreetcn.com/articles/3776130",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时18分 ~ 18时50分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "快手",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "文件显示，Tencent Mobility寻求通过减持快手最多套现16亿美元。快手股东拟大宗出售约2.73亿股股份，售价定为每股43.15至44.53港元。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3129331",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时18分"
+          "time_info": "18时50分"
         }
       ]
     }
