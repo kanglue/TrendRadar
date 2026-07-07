@@ -1,12 +1,38 @@
 {
-  "generated_at": "2026-07-07T06:19:51.534882+08:00",
-  "total_titles_processed": 504,
+  "generated_at": "2026-07-07T08:15:06.118537+08:00",
+  "total_titles_processed": 628,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "字节",
       "match_count": 3,
       "titles": [
+        {
+          "title": "版权警察?字节抢注meme著作权",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355930&amp;topic_name=%E7%89%88%E6%9D%83%E8%AD%A6%E5%AF%9F%3F%E5%AD%97%E8%8A%82%E6%8A%A2%E6%B3%A8meme%E8%91%97%E4%BD%9C%E6%9D%83",
+          "source": "贴吧",
+          "ranks": [
+            20,
+            21,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时48分 ~ 08时15分]"
+        },
+        {
+          "title": "字节 草地牛",
+          "url": "https://s.weibo.com/weibo?q=%E5%AD%97%E8%8A%82%20%E8%8D%89%E5%9C%B0%E7%89%9B&t=31&band_rank=7&Refer=top",
+          "source": "微博",
+          "ranks": [
+            7,
+            25,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时48分 ~ 08时15分]"
+        },
         {
           "title": "字节批量申请网络热梗「咕咕嘎嘎」「香蕉猫」等著作权，背后目的是什么？这算侵占网友的共创成果吗？",
           "url": "https://www.zhihu.com/question/2057372465282512177",
@@ -19,30 +45,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时48分 ~ 06时19分]"
-        },
-        {
-          "title": "版权警察?字节抢注meme著作权",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355930&amp;topic_name=%E7%89%88%E6%9D%83%E8%AD%A6%E5%AF%9F%3F%E5%AD%97%E8%8A%82%E6%8A%A2%E6%B3%A8meme%E8%91%97%E4%BD%9C%E6%9D%83",
-          "source": "贴吧",
-          "ranks": [
-            20,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时48分 ~ 06时19分]"
-        },
-        {
-          "title": "字节 草地牛",
-          "url": "https://s.weibo.com/weibo?q=%E5%AD%97%E8%8A%82%20%E8%8D%89%E5%9C%B0%E7%89%9B&t=31&band_rank=7&Refer=top",
-          "source": "微博",
-          "ranks": [
-            7,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时48分 ~ 04时06分]"
         }
       ]
     },
@@ -129,11 +131,12 @@
           "url": "https://wallstreetcn.com/articles/3776130",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时48分 ~ 06时19分]"
+          "appearance_count": 5,
+          "time_info": "[01时48分 ~ 08时15分]"
         }
       ]
     }
