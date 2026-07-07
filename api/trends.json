@@ -1,348 +1,72 @@
 {
-  "generated_at": "2026-07-07T22:55:49.075650+08:00",
-  "total_titles_processed": 1397,
+  "generated_at": "2026-07-08T01:23:41.906434+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "快手",
-      "match_count": 8,
-      "titles": [
-        {
-          "title": "港股收盘：恒生指数收跌0.51%，恒生科技指数收跌0.75%。快手跌超12%，此前腾讯减持快手，套现超百亿元；兆易创新跌超12%，澜起科技跌超10%。",
-          "url": "https://wallstreetcn.com/livenews/3129835",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时33分"
-        },
-        {
-          "title": "交易条款显示：腾讯提议按每股43.25港元的价格出售快手股票。 腾讯提议出售价值15.1亿美元的快手股份。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3129505",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时48分"
-        },
-        {
-          "title": "套现超百亿元 腾讯大幅减持快手退出主要股东行列",
-          "url": "https://www.cls.cn/detail/2418836",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时57分"
-        },
-        {
-          "title": "港股收评：恒指收跌0.5% 快手跌超12%",
-          "url": "https://flash.jin10.com/detail/20260707161411342800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时33分"
-        },
-        {
-          "title": "港股收盘，恒指收跌0.51%，科指收跌0.75%；遭腾讯减持，快手(01024.HK)跌超12%；存储概念下跌，兆易创新(03986.HK)跌超12%，澜起科技(06809.HK)跌超10%。",
-          "url": "https://flash.jin10.com/detail/20260707160931308800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时33分"
-        },
-        {
-          "title": "港股午评：科指冲高回落半日跌0.28% 快手跌9.5%",
-          "url": "https://flash.jin10.com/detail/20260707120404858800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时59分"
-        },
-        {
-          "title": "千亿快手被严重低估了吗",
-          "url": "https://www.toutiao.com/trending/7659280402674093614/",
-          "source": "今日头条",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时48分"
-        },
-        {
-          "title": "快手(01024.HK)跌超10%，公司称预期腾讯控股(00700.HK)出售事项将不会对本集团营运产生任何重大不利影响。",
-          "url": "https://flash.jin10.com/detail/20260707115226430800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时59分"
-        }
-      ]
-    },
-    {
       "keyword_group": "Deepseek",
-      "match_count": 7,
+      "match_count": 4,
       "titles": [
         {
           "title": "如何看待华为首批天才少年计划入选者李博杰吐槽 DeepSeek 的面试流程拖沓，被面试官指控抄袭？",
           "url": "https://www.zhihu.com/question/2057753624717911009",
           "source": "知乎",
           "ranks": [
-            5,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时58分 ~ 22时55分]"
-        },
-        {
-          "title": "前华为天才少年吐槽DeepSeek面试",
-          "url": "https://www.baidu.com/s?wd=%E5%89%8D%E5%8D%8E%E4%B8%BA%E5%A4%A9%E6%89%8D%E5%B0%91%E5%B9%B4%E5%90%90%E6%A7%BDDeepSeek%E9%9D%A2%E8%AF%95",
-          "source": "百度热搜",
-          "ranks": [
-            24,
-            25,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时58分 ~ 16时33分]"
-        },
-        {
-          "title": "前华为天才少年吐槽DeepSeek面试",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%89%8D%E5%8D%8E%E4%B8%BA%E5%A4%A9%E6%89%8D%E5%B0%91%E5%B9%B4%E5%90%90%E6%A7%BDDeepSeek%E9%9D%A2%E8%AF%95%23&t=31&band_rank=7&Refer=top",
-          "source": "微博",
-          "ranks": [
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时58分 ~ 12时59分]"
+          "appearance_count": 1,
+          "time_info": "01时23分"
         },
         {
           "title": "前华为“天才少年”公开发文称DeepSeek面试流程不规范",
           "url": "https://m.thepaper.cn/newsDetail_forward_33531570",
           "source": "澎湃新闻",
           "ranks": [
-            10,
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时57分 ~ 22时55分]"
+          "appearance_count": 1,
+          "time_info": "01时23分"
         },
         {
           "title": "前华为“天才少年”公开吐槽DeepSeek面试流程",
           "url": "https://tech.ifeng.com/c/8uYAqpu54ML",
           "source": "凤凰网",
           "ranks": [
-            11,
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时57分 ~ 22时55分]"
+          "appearance_count": 1,
+          "time_info": "01时23分"
         },
         {
-          "title": "DeepSeek面试",
-          "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E9%9D%A2%E8%AF%95%23&t=31&band_rank=19&Refer=top",
-          "source": "微博",
+          "title": "前华为天才少年吐槽DeepSeek面试",
+          "url": "https://www.toutiao.com/trending/7658530038409969718/",
+          "source": "今日头条",
           "ranks": [
-            19
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时32分 ~ 16时33分]"
-        },
-        {
-          "title": "DeepSeek被曝自研芯片",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E8%A2%AB%E6%9B%9D%E8%87%AA%E7%A0%94%E8%8A%AF%E7%89%87",
-          "source": "bilibili 热搜",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时55分"
+          "time_info": "01时23分"
         }
       ]
     },
     {
-      "keyword_group": "字节",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "版权警察?字节抢注meme著作权",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355930&amp;topic_name=%E7%89%88%E6%9D%83%E8%AD%A6%E5%AF%9F%3F%E5%AD%97%E8%8A%82%E6%8A%A2%E6%B3%A8meme%E8%91%97%E4%BD%9C%E6%9D%83",
-          "source": "贴吧",
-          "ranks": [
-            20,
-            21,
-            22,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时48分 ~ 12时59分]"
-        },
-        {
-          "title": "字节 草地牛",
-          "url": "https://s.weibo.com/weibo?q=%E5%AD%97%E8%8A%82%20%E8%8D%89%E5%9C%B0%E7%89%9B&t=31&band_rank=7&Refer=top",
-          "source": "微博",
-          "ranks": [
-            7,
-            25,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时48分 ~ 08时15分]"
-        },
-        {
-          "title": "字节批量申请网络热梗「咕咕嘎嘎」「香蕉猫」等著作权，背后目的是什么？这算侵占网友的共创成果吗？",
-          "url": "https://www.zhihu.com/question/2057372465282512177",
-          "source": "知乎",
-          "ranks": [
-            13,
-            6,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时48分 ~ 06时19分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "腾讯",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "如何评价腾讯 7 月 6 日发布的混元 Hy3 ？",
-          "url": "https://www.zhihu.com/question/2057495402358596554",
-          "source": "知乎",
-          "ranks": [
-            7,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时48分 ~ 04时06分]"
-        },
-        {
-          "title": "招商证券国际：腾讯混元Hy3跻身第一梯队 AI产品生态加速",
-          "url": "https://flash.jin10.com/detail/20260707121237234800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时59分"
-        },
-        {
-          "title": "【腾讯正式发布升级版人工智能模型混元Hy3】腾讯在微信公众号发布声明，正式发布混元模型Hy3。声明称，Hy3是在今年4月发布的预览版基础上的升级版本。",
-          "url": "https://wallstreetcn.com/livenews/3129495",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时48分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "智谱",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "智谱：媒体称撤回A股辅导备案报道失实",
-          "url": "https://wallstreetcn.com/livenews/3129739",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时59分"
-        },
-        {
-          "title": "报道：智谱考虑自研AI芯片",
-          "url": "https://wallstreetcn.com/livenews/3130039",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时55分"
-        },
-        {
-          "title": "智谱基石解禁日获近七成基石投资者表态长期持有",
-          "url": "https://wallstreetcn.com/livenews/3129927",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时57分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "短剧",
+      "keyword_group": "Gemini",
       "match_count": 1,
       "titles": [
         {
-          "title": "高考699分女孩被堵门直播，媒体：寒门逆袭不该是流量短剧",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33523848",
-          "source": "澎湃新闻",
+          "title": "谷歌公司：Gemini API中受管理的Agents具备新的能力。",
+          "url": "https://wallstreetcn.com/livenews/3130107",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时48分 ~ 06时19分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "MiniMax",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "本周重磅日程：中国通胀数据、三星业绩预告、SK海力士美股首秀、智谱MiniMax解禁",
-          "url": "https://wallstreetcn.com/articles/3776130",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时48分 ~ 08时15分]"
+          "appearance_count": 1,
+          "time_info": "01时23分"
         }
       ]
     }
