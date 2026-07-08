@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-09T03:43:24.376944+08:00",
-  "total_titles_processed": 381,
+  "generated_at": "2026-07-09T05:14:58.972248+08:00",
+  "total_titles_processed": 452,
   "failed_sources": [],
   "trends": [
     {
@@ -24,11 +24,12 @@
           "source": "知乎",
           "ranks": [
             13,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时44分 ~ 03时43分]"
+          "appearance_count": 3,
+          "time_info": "[01时44分 ~ 05时14分]"
         },
         {
           "title": "OpenAI：在发布初期，GPT-Live将在后台使用GPT-5.5。GPT-Live在ChatGPT中将不支持带视频或屏幕共享功能的语音交互。",
@@ -48,7 +49,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时43分"
         }
