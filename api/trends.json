@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-09T11:56:29.912721+08:00",
-  "total_titles_processed": 762,
+  "generated_at": "2026-07-09T15:48:38.141196+08:00",
+  "total_titles_processed": 944,
   "failed_sources": [],
   "trends": [
     {
@@ -36,11 +36,12 @@
           "url": "https://www.cls.cn/detail/2421059",
           "source": "财联社热门",
           "ranks": [
-            8
+            8,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时56分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时56分 ~ 15时48分]"
         },
         {
           "title": "GPT5.6哪些能力值得期待",
@@ -78,6 +79,51 @@
       ]
     },
     {
+      "keyword_group": "MiniMax",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "创业板涨超4%，科创50狂飙7%，中芯国际市值超贵州茅台，AI大模型双雄分化，智谱涨5%、MINIMAX大跌20%",
+          "url": "https://wallstreetcn.com/articles/3776526",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时48分"
+        },
+        {
+          "title": "MINIMAX-W(00100.HK)跌超10%。",
+          "url": "https://flash.jin10.com/detail/20260709111418050800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时56分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "Gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "RedVelvet海报疑似Gemini生成",
+          "url": "https://s.weibo.com/weibo?q=RedVelvet%E6%B5%B7%E6%8A%A5%E7%96%91%E4%BC%BCGemini%E7%94%9F%E6%88%90&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时48分"
+        }
+      ]
+    },
+    {
       "keyword_group": "Deepseek",
       "match_count": 1,
       "titles": [
@@ -92,23 +138,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时44分 ~ 03时43分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "MiniMax",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "MINIMAX-W(00100.HK)跌超10%。",
-          "url": "https://flash.jin10.com/detail/20260709111418050800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时56分"
         }
       ]
     }
