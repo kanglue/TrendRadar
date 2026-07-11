@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-12T05:58:50.808361+08:00",
-  "total_titles_processed": 434,
+  "generated_at": "2026-07-12T07:01:22.431473+08:00",
+  "total_titles_processed": 458,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时05分 ~ 05时58分]"
+          "appearance_count": 6,
+          "time_info": "[00时05分 ~ 07时01分]"
         },
         {
           "title": "智谱创始人唐杰发布内部信：将开启 Touch High（摸高）计划，“不登顶，就是失败”",
@@ -28,8 +28,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时19分 ~ 05时58分]"
+          "appearance_count": 5,
+          "time_info": "[03时19分 ~ 07时01分]"
         }
       ]
     },
@@ -45,11 +45,12 @@
             1,
             9,
             14,
-            19
+            19,
+            21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时58分 ~ 05时58分]"
+          "appearance_count": 5,
+          "time_info": "[01时58分 ~ 07时01分]"
         }
       ]
     },
@@ -67,8 +68,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时19分 ~ 05时58分]"
+          "appearance_count": 5,
+          "time_info": "[03时19分 ~ 07时01分]"
         }
       ]
     }
