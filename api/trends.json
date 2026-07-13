@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-13T12:35:06.399230+08:00",
-  "total_titles_processed": 766,
+  "generated_at": "2026-07-13T16:21:26.674667+08:00",
+  "total_titles_processed": 963,
   "failed_sources": [],
   "trends": [
     {
@@ -14,7 +14,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时35分"
         },
@@ -25,7 +25,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时35分"
         }
@@ -49,6 +49,23 @@
       ]
     },
     {
+      "keyword_group": "MiniMax",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "港股收盘，恒生指数收涨0.16%，恒生科技指数收跌0.96%；MINIMAX-W(00100.HK)收跌17.13%，赛力斯(09927.HK)跌13.56%。",
+          "url": "https://flash.jin10.com/detail/20260713161011424800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时21分"
+        }
+      ]
+    },
+    {
       "keyword_group": "世界模型",
       "match_count": 1,
       "titles": [
@@ -59,7 +76,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时35分"
         }
