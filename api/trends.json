@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-07-15T02:09:07.407216+08:00",
-  "total_titles_processed": 410,
+  "generated_at": "2026-07-15T04:18:29.582252+08:00",
+  "total_titles_processed": 504,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "GPT",
       "match_count": 2,
       "titles": [
+        {
+          "title": "为什么 Codex 搭载 GPT-5.6 后，越来越多用户开始弃用 Skills？",
+          "url": "https://www.zhihu.com/question/2060378207459566963",
+          "source": "知乎",
+          "ranks": [
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时08分 ~ 04时18分]"
+        },
         {
           "title": "如何评价 OpenAI 新模型 GPT-5.6 Sol Ultra，在不到一小时内证明循环双覆盖猜想？",
           "url": "https://www.zhihu.com/question/2059349642496710015",
@@ -18,17 +30,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时22分 ~ 02时09分]"
-        },
-        {
-          "title": "为什么 Codex 搭载 GPT-5.6 后，越来越多用户开始弃用 Skills？",
-          "url": "https://www.zhihu.com/question/2060378207459566963",
-          "source": "知乎",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时08分 ~ 02时09分]"
         }
       ]
     },
@@ -44,8 +45,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时22分 ~ 02时09分]"
+          "appearance_count": 5,
+          "time_info": "[00时22分 ~ 04时18分]"
         },
         {
           "title": "DeepSeek估值或达4814亿",
@@ -71,7 +72,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时09分"
         }
