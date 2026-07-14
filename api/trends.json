@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-07-14T08:02:42.048824+08:00",
-  "total_titles_processed": 624,
+  "generated_at": "2026-07-14T12:08:06.508816+08:00",
+  "total_titles_processed": 827,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "Deepseek",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "AI时代需要什么样的人：从DeepSeek招聘清单说起",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33570712",
+          "source": "澎湃新闻",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时07分 ~ 12时08分]"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://kanglue.github.io/TrendRadar/img/news.jpg"
 }
