@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-16T05:06:40.491455+08:00",
-  "total_titles_processed": 500,
+  "generated_at": "2026-07-16T07:03:00.671019+08:00",
+  "total_titles_processed": 604,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时23分 ~ 05时06分]"
+          "appearance_count": 5,
+          "time_info": "[01时23分 ~ 07时03分]"
         },
         {
           "title": "市场消息：苹果(AAPL.O)上调AppleCare+服务价格，Mac和iPad月度套餐费用上涨50美分，年度套餐上涨5美元，仅影响新用户。",
@@ -42,7 +42,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时06分"
         }
@@ -77,8 +77,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时23分 ~ 05时06分]"
+          "appearance_count": 5,
+          "time_info": "[01时23分 ~ 07时03分]"
         }
       ]
     },
@@ -96,8 +96,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时23分 ~ 05时06分]"
+          "appearance_count": 5,
+          "time_info": "[01时23分 ~ 07时03分]"
         }
       ]
     }
