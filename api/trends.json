@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-16T01:23:18.081196+08:00",
-  "total_titles_processed": 309,
+  "generated_at": "2026-07-16T03:20:42.392436+08:00",
+  "total_titles_processed": 393,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "Apple",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "7款手机端侧大模型获备案！苹果Apple智能在列，阿里、百度提供支持",
@@ -15,8 +15,19 @@
             4
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时23分 ~ 03时20分]"
+        },
+        {
+          "title": "市场消息：苹果(AAPL.O)上调AppleCare+服务价格，Mac和iPad月度套餐费用上涨50美分，年度套餐上涨5美元，仅影响新用户。",
+          "url": "https://flash.jin10.com/detail/20260716023335900800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时23分"
+          "time_info": "03时20分"
         }
       ]
     },
@@ -49,8 +60,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时23分"
+          "appearance_count": 2,
+          "time_info": "[01时23分 ~ 03时20分]"
         }
       ]
     },
@@ -63,11 +74,12 @@
           "url": "https://www.zhihu.com/question/2060645375338180828",
           "source": "知乎",
           "ranks": [
-            8
+            8,
+            12
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时23分"
+          "appearance_count": 2,
+          "time_info": "[01时23分 ~ 03时20分]"
         }
       ]
     }
