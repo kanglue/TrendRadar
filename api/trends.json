@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-17T18:04:51.844142+08:00",
-  "total_titles_processed": 1237,
+  "generated_at": "2026-07-17T20:14:59.534659+08:00",
+  "total_titles_processed": 1387,
   "failed_sources": [],
   "trends": [
     {
@@ -96,11 +96,12 @@
           "url": "https://wallstreetcn.com/articles/3777165",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时04分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时04分 ~ 20时14分]"
         },
         {
           "title": "南向资金今日净卖出14.57亿元。港股通（沪）方面，美团-W、阿里巴巴-W分别获净卖出9.66亿港元、9.62亿港元；智谱净买入额居首，金额为11.3亿港元；港股通（深）方面，中芯国际、华虹宏力分别获净卖出20.14亿港元、16.33亿港元；盈富基金净买入额居首，金额为29.75亿港元。",
@@ -109,7 +110,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时04分"
         }
@@ -126,7 +127,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时04分"
         }
