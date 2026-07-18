@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-19T04:58:01.442713+08:00",
-  "total_titles_processed": 475,
+  "generated_at": "2026-07-19T05:58:45.666903+08:00",
+  "total_titles_processed": 505,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时05分 ~ 04时58分]"
+          "appearance_count": 5,
+          "time_info": "[00时05分 ~ 05时58分]"
         },
         {
           "title": "日媒：印企越来越依赖中国AI大模型",
@@ -58,8 +58,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时05分 ~ 04时58分]"
+          "appearance_count": 8,
+          "time_info": "[00时05分 ~ 05时58分]"
         }
       ]
     },
@@ -76,8 +76,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时05分 ~ 04时58分]"
+          "appearance_count": 8,
+          "time_info": "[00时05分 ~ 05时58分]"
         }
       ]
     },
@@ -92,11 +92,12 @@
           "ranks": [
             17,
             16,
-            12
+            12,
+            10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时00分 ~ 04时58分]"
+          "appearance_count": 7,
+          "time_info": "[02时00分 ~ 05时58分]"
         }
       ]
     }
