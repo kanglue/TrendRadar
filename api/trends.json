@@ -1,7 +1,9 @@
 {
-  "generated_at": "2026-07-18T21:40:53.800192+08:00",
-  "total_titles_processed": 1416,
-  "failed_sources": [],
+  "generated_at": "2026-07-18T23:02:03.728114+08:00",
+  "total_titles_processed": 1491,
+  "failed_sources": [
+    "wallstreetcn-quick"
+  ],
   "trends": [
     {
       "keyword_group": "大模型",
@@ -23,6 +25,21 @@
           "time_info": "[08时01分 ~ 21时40分]"
         },
         {
+          "title": "如何评价月之暗面 kimi 最新发布的大模型 k3？对比全球其他大模型能力如何？",
+          "url": "https://www.zhihu.com/question/2061412232924337204",
+          "source": "知乎",
+          "ranks": [
+            4,
+            2,
+            8,
+            15,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时52分 ~ 23时02分]"
+        },
+        {
           "title": "如何评价月之暗面 kimi 最新发布的大模型 k3 ?",
           "url": "https://www.zhihu.com/question/2061412232924337204",
           "source": "知乎",
@@ -32,20 +49,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时10分 ~ 14时11分]"
-        },
-        {
-          "title": "如何评价月之暗面 kimi 最新发布的大模型 k3？对比全球其他大模型能力如何？",
-          "url": "https://www.zhihu.com/question/2061412232924337204",
-          "source": "知乎",
-          "ranks": [
-            4,
-            2,
-            8,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时52分 ~ 21时40分]"
         },
         {
           "title": "大模型哪大了 深入解读kimi k3",
@@ -141,11 +144,12 @@
           "source": "财联社热门",
           "ranks": [
             10,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时10分 ~ 21时40分]"
+          "appearance_count": 8,
+          "time_info": "[14时10分 ~ 23时02分]"
         },
         {
           "title": "商汤科技发布多模态基座模型日日新U1 Pro 对标GPT-Image 2",
@@ -254,7 +258,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时40分"
         }
@@ -271,7 +275,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时40分"
         }
