@@ -1,22 +1,36 @@
 {
-  "generated_at": "2026-07-19T00:05:28.339866+08:00",
-  "total_titles_processed": 312,
-  "failed_sources": [],
+  "generated_at": "2026-07-19T02:02:04.869925+08:00",
+  "total_titles_processed": 401,
+  "failed_sources": [
+    "wallstreetcn-hot"
+  ],
   "trends": [
     {
       "keyword_group": "大模型",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "聚焦极端天气与城市灾害预警，“华雨GeoAI”大模型在WAIC首发",
           "url": "https://wallstreetcn.com/livenews/3136055",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            13
+            13,
+            27
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时05分"
+          "appearance_count": 2,
+          "time_info": "[00时05分 ~ 02时02分]"
+        },
+        {
+          "title": "日媒：印企越来越依赖中国AI大模型",
+          "url": "https://www.toutiao.com/trending/7662655184850780187/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时00分 ~ 02时02分]"
         },
         {
           "title": "中国万亿级开源大模型震惊华尔街",
@@ -40,11 +54,12 @@
           "url": "https://www.baidu.com/s?wd=95%E5%90%8E%E5%A4%AB%E5%A6%BB%E6%89%8B%E6%90%93500%E9%9B%86AI%E6%BC%AB%E5%89%A7%E7%88%86%E7%81%AB",
           "source": "百度热搜",
           "ranks": [
-            14
+            14,
+            6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时05分"
+          "appearance_count": 3,
+          "time_info": "[00时05分 ~ 02时02分]"
         }
       ]
     },
@@ -60,8 +75,25 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时05分"
+          "appearance_count": 3,
+          "time_info": "[00时05分 ~ 02时02分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "Deepseek",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "DeepSeek V4 正式版即将发布，有哪些值得关注的亮点？",
+          "url": "https://www.zhihu.com/question/2061407401308152796",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时00分 ~ 02时02分]"
         }
       ]
     }
