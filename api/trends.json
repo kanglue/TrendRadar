@@ -1,9 +1,7 @@
 {
-  "generated_at": "2026-07-19T02:02:04.869925+08:00",
-  "total_titles_processed": 401,
-  "failed_sources": [
-    "wallstreetcn-hot"
-  ],
+  "generated_at": "2026-07-19T03:19:01.099379+08:00",
+  "total_titles_processed": 439,
+  "failed_sources": [],
   "trends": [
     {
       "keyword_group": "大模型",
@@ -18,8 +16,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时05分 ~ 02时02分]"
+          "appearance_count": 3,
+          "time_info": "[00时05分 ~ 03时19分]"
         },
         {
           "title": "日媒：印企越来越依赖中国AI大模型",
@@ -55,11 +53,12 @@
           "source": "百度热搜",
           "ranks": [
             14,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时05分 ~ 02时02分]"
+          "appearance_count": 5,
+          "time_info": "[00时05分 ~ 03时19分]"
         }
       ]
     },
@@ -75,8 +74,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时05分 ~ 02时02分]"
+          "appearance_count": 5,
+          "time_info": "[00时05分 ~ 03时19分]"
         }
       ]
     },
@@ -89,11 +88,12 @@
           "url": "https://www.zhihu.com/question/2061407401308152796",
           "source": "知乎",
           "ranks": [
-            17
+            17,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时00分 ~ 02时02分]"
+          "appearance_count": 4,
+          "time_info": "[02时00分 ~ 03时19分]"
         }
       ]
     }
