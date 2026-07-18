@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-19T03:19:01.099379+08:00",
-  "total_titles_processed": 439,
+  "generated_at": "2026-07-19T04:58:01.442713+08:00",
+  "total_titles_processed": 475,
   "failed_sources": [],
   "trends": [
     {
@@ -16,19 +16,20 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时05分 ~ 03时19分]"
+          "appearance_count": 4,
+          "time_info": "[00时05分 ~ 04时58分]"
         },
         {
           "title": "日媒：印企越来越依赖中国AI大模型",
           "url": "https://www.toutiao.com/trending/7662655184850780187/",
           "source": "今日头条",
           "ranks": [
-            21
+            21,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时00分 ~ 02时02分]"
+          "appearance_count": 4,
+          "time_info": "[02时00分 ~ 04时58分]"
         },
         {
           "title": "中国万亿级开源大模型震惊华尔街",
@@ -57,8 +58,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时05分 ~ 03时19分]"
+          "appearance_count": 7,
+          "time_info": "[00时05分 ~ 04时58分]"
         }
       ]
     },
@@ -71,11 +72,12 @@
           "url": "https://www.cls.cn/detail/2430120",
           "source": "财联社热门",
           "ranks": [
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时05分 ~ 03时19分]"
+          "appearance_count": 7,
+          "time_info": "[00时05分 ~ 04时58分]"
         }
       ]
     },
@@ -89,11 +91,12 @@
           "source": "知乎",
           "ranks": [
             17,
-            16
+            16,
+            12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时00分 ~ 03时19分]"
+          "appearance_count": 6,
+          "time_info": "[02时00分 ~ 04时58分]"
         }
       ]
     }
