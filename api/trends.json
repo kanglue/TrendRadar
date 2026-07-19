@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-19T15:31:51.657282+08:00",
-  "total_titles_processed": 960,
+  "generated_at": "2026-07-19T17:58:13.971693+08:00",
+  "total_titles_processed": 1116,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "大模型",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "聚焦极端天气与城市灾害预警，“华雨GeoAI”大模型在WAIC首发",
@@ -30,6 +30,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时00分 ~ 04时58分]"
+        },
+        {
+          "title": "月之暗面 Kimi 最新发布的大模型 K3 有哪些局限性？",
+          "url": "https://www.zhihu.com/question/2061509036919316967",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时57分 ~ 17时58分]"
         },
         {
           "title": "中国万亿级开源大模型震惊华尔街",
@@ -70,11 +81,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时25分 ~ 15时31分]"
+          "appearance_count": 4,
+          "time_info": "[12时25分 ~ 17时58分]"
         }
       ]
     },
@@ -87,11 +99,12 @@
           "url": "https://s.weibo.com/weibo?q=%E8%BF%99%E4%B8%80%E7%A7%92%E8%BF%87%E7%81%AB%20%E7%9F%AD%E5%89%A7%E6%84%9F&t=31&band_rank=1&Refer=top",
           "source": "微博",
           "ranks": [
-            1
+            1,
+            29
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时31分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时31分 ~ 17时58分]"
         }
       ]
     },
@@ -130,8 +143,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时05分 ~ 15时31分]"
+          "appearance_count": 14,
+          "time_info": "[00时05分 ~ 17时58分]"
         }
       ]
     },
