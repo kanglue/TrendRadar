@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-19T19:16:23.996828+08:00",
-  "total_titles_processed": 1237,
+  "generated_at": "2026-07-19T21:37:32.815660+08:00",
+  "total_titles_processed": 1397,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "大模型",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "聚焦极端天气与城市灾害预警，“华雨GeoAI”大模型在WAIC首发",
@@ -18,6 +18,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时05分 ~ 08时03分]"
+        },
+        {
+          "title": "中国大模型首次登顶全球代码榜",
+          "url": "https://www.douyin.com/hot/2577641",
+          "source": "抖音",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时37分"
         },
         {
           "title": "日媒：印企越来越依赖中国AI大模型",
@@ -79,7 +90,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时16分"
         }
@@ -115,8 +126,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时25分 ~ 19时16分]"
+          "appearance_count": 6,
+          "time_info": "[12时25分 ~ 21时37分]"
         }
       ]
     },
@@ -131,7 +142,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时16分"
         },
@@ -198,7 +209,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时16分"
         }
