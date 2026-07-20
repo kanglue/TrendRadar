@@ -1,11 +1,84 @@
 {
-  "generated_at": "2026-07-20T18:17:43.246235+08:00",
-  "total_titles_processed": 1178,
+  "generated_at": "2026-07-20T21:12:27.509040+08:00",
+  "total_titles_processed": 1360,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "大模型",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "中国大模型首次登顶全球代码榜",
+          "url": "https://www.douyin.com/hot/2577641",
+          "source": "抖音",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时04分 ~ 07时05分]"
+        },
+        {
+          "title": "尾盘变盘！上证50大涨超3%，“煤电酒油”爆发，科技股再度下跌，恒指、恒科指均涨超2%，AI大模型股逆势下挫",
+          "url": "https://wallstreetcn.com/articles/3777388",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时17分 ~ 21时12分]"
+        },
+        {
+          "title": "直击WAIC 2026：大模型迈入万亿参数时代，国产AI超节点上演“群雄逐鹿”",
+          "url": "https://www.cls.cn/detail/2430567",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时54分"
+        },
+        {
+          "title": "中国 K3 大模型震惊 AI 界，美巨头高价模式还能撑多久？",
+          "url": "https://www.zhihu.com/question/2061405940272960418",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时12分"
+        },
+        {
+          "title": "美国为何急着打压中国开源大模型",
+          "url": "https://www.toutiao.com/trending/7663664769782431787/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时12分"
+        },
+        {
+          "title": "​中国信通院正式启动“AISHPerf大模型训练与推理工程实践性能基准研究工作”",
+          "url": "https://flash.jin10.com/detail/20260720105806876800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时48分"
+        }
+      ]
+    },
+    {
       "keyword_group": "Deepseek",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "DeepSeek V4「满血版」曝光了！最快明天发布",
@@ -33,6 +106,17 @@
           "time_info": "[01时04分 ~ 06时02分]"
         },
         {
+          "title": "如何看待最近网传的 DeepSeek v4 正式版灰测？",
+          "url": "https://www.zhihu.com/question/2059057378591613636",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时12分"
+        },
+        {
           "title": "中信建投：Kimi K3模型达全球Tier1，国产模型再现DeepSeek时刻",
           "url": "https://wallstreetcn.com/livenews/3136627",
           "source": "华尔街见闻-快讯",
@@ -57,52 +141,19 @@
       ]
     },
     {
-      "keyword_group": "大模型",
-      "match_count": 4,
+      "keyword_group": "Gemini",
+      "match_count": 1,
       "titles": [
         {
-          "title": "中国大模型首次登顶全球代码榜",
-          "url": "https://www.douyin.com/hot/2577641",
-          "source": "抖音",
+          "title": "据The Information：谷歌(GOOG.O)正在开发“Frozen V2”芯片，以更高效地服务其Gemini人工智能模型。",
+          "url": "https://flash.jin10.com/detail/20260720210331676800",
+          "source": "金十数据",
           "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时04分 ~ 07时05分]"
-        },
-        {
-          "title": "尾盘变盘！上证50大涨超3%，“煤电酒油”爆发，科技股再度下跌，恒指、恒科指均涨超2%，AI大模型股逆势下挫",
-          "url": "https://wallstreetcn.com/articles/3777388",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
+            5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时17分"
-        },
-        {
-          "title": "直击WAIC 2026：大模型迈入万亿参数时代，国产AI超节点上演“群雄逐鹿”",
-          "url": "https://www.cls.cn/detail/2430567",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时54分"
-        },
-        {
-          "title": "​中国信通院正式启动“AISHPerf大模型训练与推理工程实践性能基准研究工作”",
-          "url": "https://flash.jin10.com/detail/20260720105806876800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时48分"
+          "time_info": "21时12分"
         }
       ]
     },
@@ -117,7 +168,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时17分"
         }
@@ -137,6 +188,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时48分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "Sona",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "Tempus AI美股盘前跌近4%，报道称医疗科技公司Tempus AI将以每股16.25美元的价格收购Personalis。",
+          "url": "https://wallstreetcn.com/livenews/3136909",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时12分"
         }
       ]
     }
