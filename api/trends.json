@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-22T03:40:11.249618+08:00",
-  "total_titles_processed": 389,
+  "generated_at": "2026-07-22T05:17:11.814792+08:00",
+  "total_titles_processed": 459,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "Gemini",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "报道：谷歌正在开发新款芯片，Gemini架构直接写入硅片，效率最高提升10倍",
@@ -15,8 +15,19 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时27分 ~ 03时40分]"
+          "appearance_count": 5,
+          "time_info": "[01时27分 ~ 05时17分]"
+        },
+        {
+          "title": "怎么看谷歌发布了 Gemini 3.6 flash 和 3.5 lite，但是 pro 又缺席？",
+          "url": "https://www.zhihu.com/question/2063033606767895735",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时16分 ~ 05时17分]"
         },
         {
           "title": "谷歌发布一系列更低成本的Gemini模型",
@@ -75,7 +86,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时40分"
         }
@@ -93,8 +104,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时27分 ~ 03时40分]"
+          "appearance_count": 5,
+          "time_info": "[01时27分 ~ 05时17分]"
         }
       ]
     },
@@ -110,8 +121,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时27分 ~ 03时40分]"
+          "appearance_count": 5,
+          "time_info": "[01时27分 ~ 05时17分]"
         }
       ]
     }
