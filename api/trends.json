@@ -1,12 +1,26 @@
 {
-  "generated_at": "2026-07-21T06:05:50.037343+08:00",
-  "total_titles_processed": 463,
+  "generated_at": "2026-07-21T08:02:29.577119+08:00",
+  "total_titles_processed": 572,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "Deepseek",
       "match_count": 3,
       "titles": [
+        {
+          "title": "为什么豆包没有被 DeepSeek「斩杀」？",
+          "url": "https://www.zhihu.com/question/2061575313973416591",
+          "source": "知乎",
+          "ranks": [
+            15,
+            12,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时10分 ~ 08时02分]"
+        },
         {
           "title": "如何看待最近网传的 DeepSeek v4 正式版灰测？",
           "url": "https://www.zhihu.com/question/2059057378591613636",
@@ -19,28 +33,16 @@
           "time_info": "02时10分"
         },
         {
-          "title": "为什么豆包没有被 DeepSeek「斩杀」？",
-          "url": "https://www.zhihu.com/question/2061575313973416591",
-          "source": "知乎",
-          "ranks": [
-            15,
-            12,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时10分 ~ 06时05分]"
-        },
-        {
           "title": "如何看待追光总裁称《三国第一部：争洛阳》以曹操为主角，是参考了 DeepSeek 的建议?",
           "url": "https://www.zhihu.com/question/2061868472049652679",
           "source": "知乎",
           "ranks": [
-            15
+            15,
+            17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时05分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时05分 ~ 08时02分]"
         }
       ]
     },
@@ -57,8 +59,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时10分 ~ 06时05分]"
+          "appearance_count": 4,
+          "time_info": "[02时10分 ~ 08时02分]"
         },
         {
           "title": "中国 K3 大模型震惊 AI 界，美巨头高价模式还能撑多久？",
@@ -78,7 +80,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时05分"
         }
