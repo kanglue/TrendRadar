@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-21T08:02:29.577119+08:00",
-  "total_titles_processed": 572,
+  "generated_at": "2026-07-21T12:19:16.590326+08:00",
+  "total_titles_processed": 797,
   "failed_sources": [],
   "trends": [
     {
@@ -59,8 +59,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时10分 ~ 08时02分]"
+          "appearance_count": 6,
+          "time_info": "[02时10分 ~ 12时19分]"
         },
         {
           "title": "中国 K3 大模型震惊 AI 界，美巨头高价模式还能撑多久？",
@@ -83,6 +83,85 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时05分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "Gemini",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "谷歌被曝正打造新型AI服务器芯片 目标大幅提升Gemini运行效率",
+          "url": "https://www.cls.cn/detail/2431896",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时18分 ~ 12时19分]"
+        },
+        {
+          "title": "报道：谷歌正在开发新款芯片，Gemini架构直接写入硅片，效率最高提升10倍",
+          "url": "https://wallstreetcn.com/articles/3777467",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时18分 ~ 12时19分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "腾讯",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "腾讯混元推出智能体Hyra-1.0",
+          "url": "https://flash.jin10.com/detail/20260721114744570800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时19分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "MiniMax",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "港股AI股震荡走高，智谱(02513.HK)涨超23%，兆易创新(03986.HK)涨超13%，MINIMAX-W(00100.HK)涨超10%，澜起科技(06809.HK)涨超9%，壁仞科技(06082.HK)、天数智芯(09903.HK)等个股跟涨。",
+          "url": "https://flash.jin10.com/detail/20260721114242170800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时19分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "智谱",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "智谱股价一度涨19%，落地1GW级算力数据中心建设，全部采用国产AI芯片",
+          "url": "https://wallstreetcn.com/livenews/3137250",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时19分"
         }
       ]
     }
