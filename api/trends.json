@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-22T07:02:54.093150+08:00",
-  "total_titles_processed": 542,
+  "generated_at": "2026-07-22T11:18:54.925700+08:00",
+  "total_titles_processed": 759,
   "failed_sources": [],
   "trends": [
     {
@@ -67,7 +67,7 @@
     },
     {
       "keyword_group": "GPT",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "OpenAI：宣布推出面向小型企业的ChatGPT服务计划。ChatGPT Work和GPT-5.6今日起面向小型企业开放。",
@@ -79,6 +79,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时27分"
+        },
+        {
+          "title": "微软计划用中国Kimi K3算法替换GPT",
+          "url": "https://www.toutiao.com/trending/7665023703121399306/",
+          "source": "今日头条",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时18分"
         },
         {
           "title": "OpenAI产品负责人Tibo表示，Codex和 ChatGPT Work每周活跃用户已突破1000万人。",
@@ -120,11 +131,12 @@
           "url": "https://wallstreetcn.com/articles/3777521",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时27分 ~ 07时02分]"
+          "appearance_count": 7,
+          "time_info": "[01时27分 ~ 11时18分]"
         }
       ]
     },
@@ -139,7 +151,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
         }
