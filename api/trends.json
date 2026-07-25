@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-26T01:07:12.274086+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-07-26T03:17:04.789291+08:00",
+  "total_titles_processed": 358,
   "failed_sources": [],
   "trends": [
     {
@@ -15,19 +15,20 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时06分 ~ 01时07分]"
+          "appearance_count": 4,
+          "time_info": "[01时06分 ~ 03时17分]"
         },
         {
           "title": "如何看待月之暗面发布 kimi K3-256K 大模型，能力和 K3 一样，不能看视频，上下文只有 256K？",
           "url": "https://www.zhihu.com/question/2064106505993971519",
           "source": "知乎",
           "ranks": [
-            19
+            19,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时06分 ~ 01时07分]"
+          "appearance_count": 4,
+          "time_info": "[01时06分 ~ 03时17分]"
         }
       ]
     }
