@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-26T05:00:18.750704+08:00",
-  "total_titles_processed": 403,
+  "generated_at": "2026-07-26T06:04:01.047359+08:00",
+  "total_titles_processed": 427,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             19,
             10,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时06分 ~ 05时00分]"
+          "appearance_count": 8,
+          "time_info": "[01时06分 ~ 06时04分]"
         },
         {
           "title": "有人呼吁美“封杀”中国大模型，黄仁勋等人急了：快开源美国AI",
@@ -28,8 +29,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时06分 ~ 05时00分]"
+          "appearance_count": 8,
+          "time_info": "[01时06分 ~ 06时04分]"
         }
       ]
     },
@@ -42,11 +43,12 @@
           "url": "https://flash.jin10.com/detail/20260726031905539800",
           "source": "金十数据",
           "ranks": [
-            14
+            14,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时00分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时00分 ~ 06时04分]"
         }
       ]
     }
