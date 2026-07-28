@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-07-28T13:53:52.795883+08:00",
-  "total_titles_processed": 909,
+  "generated_at": "2026-07-28T16:44:45.662137+08:00",
+  "total_titles_processed": 1090,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "大模型",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "我国启动人工智能大模型IPv6能力提升专项行动",
+          "url": "https://www.cls.cn/detail/2438712",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时44分"
+        },
         {
           "title": "小米大模型调用量全球第一",
           "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E7%B1%B3%E5%A4%A7%E6%A8%A1%E5%9E%8B%E8%B0%83%E7%94%A8%E9%87%8F%E5%85%A8%E7%90%83%E7%AC%AC%E4%B8%80",
@@ -25,11 +36,12 @@
           "url": "https://www.zhihu.com/question/2065097727604741240",
           "source": "知乎",
           "ranks": [
-            16
+            16,
+            11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时53分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时53分 ~ 16时44分]"
         },
         {
           "title": "我国启动人工智能大模型IPv6能力提升专项行动",
@@ -38,7 +50,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时53分"
         }
@@ -54,11 +66,12 @@
           "source": "贴吧",
           "ranks": [
             1,
-            7
+            7,
+            13
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时49分 ~ 13时53分]"
+          "appearance_count": 8,
+          "time_info": "[01时49分 ~ 16时44分]"
         },
         {
           "title": "DeepSeek说他先去吃饭了",
@@ -85,9 +98,60 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时53分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "GPT",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "GPTLive能自己挂电话",
+          "url": "https://s.weibo.com/weibo?q=GPTLive%E8%83%BD%E8%87%AA%E5%B7%B1%E6%8C%82%E7%94%B5%E8%AF%9D&t=31&band_rank=24&Refer=top",
+          "source": "微博",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时44分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "MiniMax",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "港股收盘：恒生指数收涨0.41%，恒生科技指数收涨0.61%。地平线机器人涨逾8%，网易、京东集团涨逾4%。智谱跌逾18%，MINIMAX跌逾14%，华虹宏力跌近7%。",
+          "url": "https://wallstreetcn.com/livenews/3140869",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时44分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "智谱",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "创业板跌超7%，光刻机、大消费逆势活跃，芯片、算力硬件齐跌，港股AI大模型双雄下挫、智谱跌近20%",
+          "url": "https://wallstreetcn.com/articles/3778088",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时44分"
         }
       ]
     }
