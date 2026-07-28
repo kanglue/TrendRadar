@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-28T19:24:22.319407+08:00",
-  "total_titles_processed": 1253,
+  "generated_at": "2026-07-28T22:23:44.096018+08:00",
+  "total_titles_processed": 1430,
   "failed_sources": [],
   "trends": [
     {
@@ -20,6 +20,20 @@
           "time_info": "[16时44分 ~ 19时24分]"
         },
         {
+          "title": "小米 MiMo-V2.5 升至全球大模型调用量第一，这背后反映了哪些趋势和挑战？",
+          "url": "https://www.zhihu.com/question/2065097727604741240",
+          "source": "知乎",
+          "ranks": [
+            16,
+            11,
+            14,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时53分 ~ 22时23分]"
+        },
+        {
           "title": "小米大模型调用量全球第一",
           "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E7%B1%B3%E5%A4%A7%E6%A8%A1%E5%9E%8B%E8%B0%83%E7%94%A8%E9%87%8F%E5%85%A8%E7%90%83%E7%AC%AC%E4%B8%80",
           "source": "百度热搜",
@@ -31,19 +45,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时49分 ~ 07时10分]"
-        },
-        {
-          "title": "小米 MiMo-V2.5 升至全球大模型调用量第一，这背后反映了哪些趋势和挑战？",
-          "url": "https://www.zhihu.com/question/2065097727604741240",
-          "source": "知乎",
-          "ranks": [
-            16,
-            11,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时53分 ~ 19时24分]"
         },
         {
           "title": "我国启动人工智能大模型IPv6能力提升专项行动",
@@ -70,11 +71,12 @@
             1,
             7,
             13,
-            17
+            17,
+            19
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时49分 ~ 19时24分]"
+          "appearance_count": 10,
+          "time_info": "[01时49分 ~ 22时23分]"
         },
         {
           "title": "DeepSeek说他先去吃饭了",
@@ -153,8 +155,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时44分 ~ 19时24分]"
+          "appearance_count": 3,
+          "time_info": "[16时44分 ~ 22时23分]"
         }
       ]
     }
