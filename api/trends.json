@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-29T02:19:58.414131+08:00",
-  "total_titles_processed": 398,
+  "generated_at": "2026-07-29T06:11:45.321852+08:00",
+  "total_titles_processed": 480,
   "failed_sources": [],
   "trends": [
     {
@@ -33,6 +33,35 @@
       ]
     },
     {
+      "keyword_group": "大模型",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "时隔八年 QQ 宠物正式回归，保留喂食等玩法，取消死亡机制，接入大模型，有哪些亮点？能重新打动用户吗？",
+          "url": "https://www.zhihu.com/question/2065066004346926732",
+          "source": "知乎",
+          "ranks": [
+            17,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时45分 ~ 06时11分]"
+        },
+        {
+          "title": "小米 MiMo-V2.5 升至全球大模型调用量第一，这背后反映了哪些趋势和挑战？",
+          "url": "https://www.zhihu.com/question/2065097727604741240",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时11分"
+        }
+      ]
+    },
+    {
       "keyword_group": "GPT",
       "match_count": 1,
       "titles": [
@@ -43,7 +72,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时19分"
         }
@@ -61,8 +90,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时45分 ~ 02时19分]"
+          "appearance_count": 3,
+          "time_info": "[00时45分 ~ 06时11分]"
         }
       ]
     },
@@ -79,25 +108,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时45分 ~ 02时19分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "大模型",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "时隔八年 QQ 宠物正式回归，保留喂食等玩法，取消死亡机制，接入大模型，有哪些亮点？能重新打动用户吗？",
-          "url": "https://www.zhihu.com/question/2065066004346926732",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时45分 ~ 02时19分]"
+          "appearance_count": 3,
+          "time_info": "[00时45分 ~ 06时11分]"
         }
       ]
     }
