@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-30T16:37:29.734345+08:00",
-  "total_titles_processed": 1117,
+  "generated_at": "2026-07-30T19:14:00.893489+08:00",
+  "total_titles_processed": 1285,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "GPT",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "为什么 ChatGPT 已经发布 4 年了，社会总生产力纹丝不动？",
@@ -13,11 +13,23 @@
           "source": "知乎",
           "ranks": [
             7,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时48分 ~ 16时37分]"
+          "appearance_count": 6,
+          "time_info": "[10时48分 ~ 19时14分]"
+        },
+        {
+          "title": "欧盟委员会发言人：ChatGPT和Roblox均已宣布用户数量超过数字服务法（DSA）阈值。",
+          "url": "https://flash.jin10.com/detail/20260730185354553800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时14分"
         },
         {
           "title": "OpenAI针对学术研究员推出ChatGPT。",
@@ -89,11 +101,12 @@
           "url": "https://www.cls.cn/detail/2441092",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时37分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时37分 ~ 19时14分]"
         }
       ]
     },
@@ -108,7 +121,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时37分"
         }
