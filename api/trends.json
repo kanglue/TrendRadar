@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-01T03:43:12.075033+08:00",
-  "total_titles_processed": 384,
+  "generated_at": "2026-08-01T05:13:13.622636+08:00",
+  "total_titles_processed": 457,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.zhihu.com/question/2066521165246489298",
           "source": "知乎",
           "ranks": [
-            1
+            1,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时45分 ~ 03时43分]"
+          "appearance_count": 6,
+          "time_info": "[01时45分 ~ 05时13分]"
         },
         {
           "title": "DeepSeek V4 Flash正式版强在哪",
@@ -24,11 +25,24 @@
           "source": "bilibili 热搜",
           "ranks": [
             8,
-            17
+            17,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时45分 ~ 05时13分]"
+        },
+        {
+          "title": "DeepSeek拟在内蒙古建超算中心",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E6%8B%9F%E5%9C%A8%E5%86%85%E8%92%99%E5%8F%A4%E5%BB%BA%E8%B6%85%E7%AE%97%E4%B8%AD%E5%BF%83",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10,
+            20
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[01时45分 ~ 03时43分]"
+          "time_info": "[01时45分 ~ 05时13分]"
         },
         {
           "title": "DeepSeek-V4-Flash 正式版API上线",
@@ -36,17 +50,6 @@
           "source": "bilibili 热搜",
           "ranks": [
             6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时45分 ~ 01时46分]"
-        },
-        {
-          "title": "DeepSeek拟在内蒙古建超算中心",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E6%8B%9F%E5%9C%A8%E5%86%85%E8%92%99%E5%8F%A4%E5%BB%BA%E8%B6%85%E7%AE%97%E4%B8%AD%E5%BF%83",
-          "source": "bilibili 热搜",
-          "ranks": [
-            10
           ],
           "is_new": false,
           "appearance_count": 2,
