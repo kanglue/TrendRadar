@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-31T21:02:14.450073+08:00",
-  "total_titles_processed": 1398,
+  "generated_at": "2026-07-31T23:27:32.489797+08:00",
+  "total_titles_processed": 1559,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时55分 ~ 21时02分]"
+          "appearance_count": 5,
+          "time_info": "[15时55分 ~ 23时27分]"
         },
         {
           "title": "DeepSeek-V4-Flash 正式版API上线",
@@ -36,11 +36,24 @@
           "source": "微博",
           "ranks": [
             10,
-            20
+            20,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时45分 ~ 21时02分]"
+          "appearance_count": 4,
+          "time_info": "[18时45分 ~ 23时27分]"
+        },
+        {
+          "title": "DeepSeek V4 Flash正式版强在哪",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20Flash%E6%AD%A3%E5%BC%8F%E7%89%88%E5%BC%BA%E5%9C%A8%E5%93%AA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时45分 ~ 23时27分]"
         },
         {
           "title": "DeepSeekV4Flash正式版上线",
@@ -53,17 +66,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时55分 ~ 18时45分]"
-        },
-        {
-          "title": "DeepSeek V4 Flash正式版强在哪",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20Flash%E6%AD%A3%E5%BC%8F%E7%89%88%E5%BC%BA%E5%9C%A8%E5%93%AA",
-          "source": "bilibili 热搜",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时45分"
         },
         {
           "title": "DeepSeek-V4-Flash正式版上线",
@@ -87,11 +89,12 @@
           "url": "https://www.zhihu.com/question/2066526486505461299",
           "source": "知乎",
           "ranks": [
-            10
+            10,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时01分 ~ 21时02分]"
+          "appearance_count": 3,
+          "time_info": "[21时01分 ~ 23时27分]"
         },
         {
           "title": "OpenAI：将GPT-5.6Luna的价格下调80%",
@@ -131,8 +134,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时55分 ~ 21时02分]"
+          "appearance_count": 5,
+          "time_info": "[15时55分 ~ 23时27分]"
         },
         {
           "title": "国家广播电视总局：微短剧按照投资额度、题材等分为一类微短剧、二类微短剧和三类微短剧",
