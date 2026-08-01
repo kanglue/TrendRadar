@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-02T01:07:18.396692+08:00",
-  "total_titles_processed": 312,
+  "generated_at": "2026-08-02T03:18:11.817029+08:00",
+  "total_titles_processed": 359,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,25 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时07分"
+          "appearance_count": 3,
+          "time_info": "[01时07分 ~ 03时18分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "大模型",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美两家AI巨头承认自家大模型“失控”",
+          "url": "https://www.toutiao.com/trending/7668948314036899378/",
+          "source": "今日头条",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时17分 ~ 03时18分]"
         }
       ]
     }
