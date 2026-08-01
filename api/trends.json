@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-08-01T21:41:07.598630+08:00",
-  "total_titles_processed": 1294,
+  "generated_at": "2026-08-01T23:06:12.489461+08:00",
+  "total_titles_processed": 1378,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "Deepseek",
       "match_count": 13,
       "titles": [
+        {
+          "title": "DeepSeek 居然会对用户说「我去吃饭了」「我去睡了」，为啥会出现这样的现象？",
+          "url": "https://www.zhihu.com/question/2066223484309434997",
+          "source": "知乎",
+          "ranks": [
+            2,
+            3,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时11分 ~ 23时06分]"
+        },
         {
           "title": "DeepSeek V4 flash 正式版发布，有哪些亮点值得关注？",
           "url": "https://www.zhihu.com/question/2066521165246489298",
@@ -19,18 +32,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时45分 ~ 07时08分]"
-        },
-        {
-          "title": "DeepSeek 居然会对用户说「我去吃饭了」「我去睡了」，为啥会出现这样的现象？",
-          "url": "https://www.zhihu.com/question/2066223484309434997",
-          "source": "知乎",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时11分 ~ 21时41分]"
         },
         {
           "title": "DeepSeek（官方 API 接入 Agent）居然会对用户说「我去吃饭了」、「我去睡了」，为啥会这样？",
@@ -83,6 +84,18 @@
           "time_info": "[01时45分 ~ 07时08分]"
         },
         {
+          "title": "为什么 DeepSeek-V4-Flash-0731 的后训练如此有效？",
+          "url": "https://www.zhihu.com/question/2066595452238160814",
+          "source": "知乎",
+          "ranks": [
+            11,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时22分 ~ 23时06分]"
+        },
+        {
           "title": "DeepSeek V4 flash 上线，相较 Kimi K3 各有哪些优劣？现版本大模型中你的选择是啥？",
           "url": "https://www.zhihu.com/question/2066599476764964006",
           "source": "知乎",
@@ -107,18 +120,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[11时30分 ~ 17时11分]"
-        },
-        {
-          "title": "为什么 DeepSeek-V4-Flash-0731 的后训练如此有效？",
-          "url": "https://www.zhihu.com/question/2066595452238160814",
-          "source": "知乎",
-          "ranks": [
-            11,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时22分 ~ 21时41分]"
         },
         {
           "title": "DeepSeek-V4-Flash 正式版API上线",
@@ -257,6 +258,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时08分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "大模型",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "开源崛起、降价80%，大模型真的还能赚到钱吗？",
+          "url": "https://wallstreetcn.com/articles/3778491",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时05分 ~ 23时06分]"
         }
       ]
     }
