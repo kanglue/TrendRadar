@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-03T06:01:43.306814+08:00",
-  "total_titles_processed": 471,
+  "generated_at": "2026-08-03T07:05:05.018129+08:00",
+  "total_titles_processed": 527,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时04分 ~ 06时01分]"
+          "appearance_count": 8,
+          "time_info": "[00时04分 ~ 07时05分]"
         },
         {
           "title": "DeepSeek-V4系列迎重大升级 性能追平旗舰模型 Agent能力大幅增强",
@@ -30,8 +30,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时04分 ~ 06时01分]"
+          "appearance_count": 8,
+          "time_info": "[00时04分 ~ 07时05分]"
         },
         {
           "title": "deepseek 定价按 10 个月回本算都这么便宜了，为什么谷歌投资 ai 还会现金流转负？",
@@ -39,11 +39,29 @@
           "source": "知乎",
           "ranks": [
             17,
-            10
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时13分 ~ 07时05分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "短剧",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "网上爆火的AI短剧男主",
+          "url": "https://s.weibo.com/weibo?q=%E7%BD%91%E4%B8%8A%E7%88%86%E7%81%AB%E7%9A%84AI%E7%9F%AD%E5%89%A7%E7%94%B7%E4%B8%BB&t=31&band_rank=16&Refer=top",
+          "source": "微博",
+          "ranks": [
+            16
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[04时13分 ~ 06时01分]"
+          "time_info": "[07时04分 ~ 07时05分]"
         }
       ]
     },
@@ -59,8 +77,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时04分 ~ 06时01分]"
+          "appearance_count": 8,
+          "time_info": "[00时04分 ~ 07时05分]"
         }
       ]
     }
