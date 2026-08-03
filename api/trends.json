@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-04T05:11:07.378313+08:00",
-  "total_titles_processed": 468,
+  "generated_at": "2026-08-04T07:09:24.228573+08:00",
+  "total_titles_processed": 534,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时13分 ~ 05时11分]"
+          "appearance_count": 5,
+          "time_info": "[01时13分 ~ 07时09分]"
         },
         {
           "title": "DeepSeek一天消耗了8万亿",
@@ -26,8 +26,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时13分 ~ 05时11分]"
+          "appearance_count": 5,
+          "time_info": "[01时13分 ~ 07时09分]"
         },
         {
           "title": "如何看待 7 月末至 8 月初有多家韩国公司发布 AI 称性能强于 DeepSeek？",
@@ -38,8 +38,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时13分 ~ 05时11分]"
+          "appearance_count": 5,
+          "time_info": "[01时13分 ~ 07时09分]"
         },
         {
           "title": "为什么大家都说 DeepSeek 已经成为大模型的「斩杀线」？",
@@ -50,8 +50,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时45分 ~ 05时11分]"
+          "appearance_count": 4,
+          "time_info": "[03时45分 ~ 07时09分]"
         },
         {
           "title": "DeepSeek斩杀线斩的是什么",
@@ -60,11 +60,12 @@
           "ranks": [
             17,
             10,
-            13
+            13,
+            20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时13分 ~ 05时11分]"
+          "appearance_count": 5,
+          "time_info": "[01时13分 ~ 07时09分]"
         },
         {
           "title": "DeepSeek登顶全球第一",
@@ -73,11 +74,12 @@
           "ranks": [
             14,
             19,
-            18
+            18,
+            16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时13分 ~ 05时11分]"
+          "appearance_count": 5,
+          "time_info": "[01时13分 ~ 07时09分]"
         },
         {
           "title": "DeepSeek模型单日吞下8万亿Token",
@@ -89,8 +91,50 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时13分 ~ 05时11分]"
+          "appearance_count": 5,
+          "time_info": "[01时13分 ~ 07时09分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "MiniMax",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "Minimax H3测评",
+          "url": "https://search.bilibili.com/all?keyword=Minimax%20H3%E6%B5%8B%E8%AF%84",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时09分"
+        },
+        {
+          "title": "MiniMax H3正式开源",
+          "url": "https://search.bilibili.com/all?keyword=MiniMax%20H3%E6%AD%A3%E5%BC%8F%E5%BC%80%E6%BA%90",
+          "source": "bilibili 热搜",
+          "ranks": [
+            13,
+            18,
+            22,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时13分 ~ 07时09分]"
+        },
+        {
+          "title": "MiniMax H3满血版开源",
+          "url": "https://search.bilibili.com/all?keyword=MiniMax%20H3%E6%BB%A1%E8%A1%80%E7%89%88%E5%BC%80%E6%BA%90",
+          "source": "bilibili 热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时09分"
         }
       ]
     },
@@ -134,27 +178,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时13分 ~ 05时11分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "MiniMax",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "MiniMax H3正式开源",
-          "url": "https://search.bilibili.com/all?keyword=MiniMax%20H3%E6%AD%A3%E5%BC%8F%E5%BC%80%E6%BA%90",
-          "source": "bilibili 热搜",
-          "ranks": [
-            13,
-            18,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时13分 ~ 05时11分]"
+          "appearance_count": 5,
+          "time_info": "[01时13分 ~ 07时09分]"
         }
       ]
     }
