@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-08-04T07:09:24.228573+08:00",
-  "total_titles_processed": 534,
+  "generated_at": "2026-08-04T11:27:14.206843+08:00",
+  "total_titles_processed": 759,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "Deepseek",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
+        {
+          "title": "为什么大家都说 DeepSeek 已经成为大模型的「斩杀线」？",
+          "url": "https://www.zhihu.com/question/2067545767003120313",
+          "source": "知乎",
+          "ranks": [
+            5,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[03时45分 ~ 11时27分]"
+        },
         {
           "title": "DeepSeek 斩杀线",
           "url": "https://www.baidu.com/s?wd=DeepSeek+%E6%96%A9%E6%9D%80%E7%BA%BF",
@@ -40,18 +53,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时13分 ~ 07时09分]"
-        },
-        {
-          "title": "为什么大家都说 DeepSeek 已经成为大模型的「斩杀线」？",
-          "url": "https://www.zhihu.com/question/2067545767003120313",
-          "source": "知乎",
-          "ranks": [
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时45分 ~ 07时09分]"
         },
         {
           "title": "DeepSeek斩杀线斩的是什么",
@@ -93,6 +94,28 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时13分 ~ 07时09分]"
+        },
+        {
+          "title": "OpenAI等巨头大幅降价对标DeepSeek",
+          "url": "https://www.baidu.com/s?wd=OpenAI%E7%AD%89%E5%B7%A8%E5%A4%B4%E5%A4%A7%E5%B9%85%E9%99%8D%E4%BB%B7%E5%AF%B9%E6%A0%87DeepSeek",
+          "source": "百度热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时26分 ~ 11时27分]"
+        },
+        {
+          "title": "DeepSeek斩杀线",
+          "url": "https://s.weibo.com/weibo?q=DeepSeek%E6%96%A9%E6%9D%80%E7%BA%BF&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时26分"
         }
       ]
     },
@@ -107,7 +130,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时09分"
         },
@@ -132,7 +155,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时09分"
         }
@@ -167,6 +190,23 @@
       ]
     },
     {
+      "keyword_group": "短剧",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "上半年 AI 短剧全网上线超二十万部，但播放破亿作品仅有千部，爆款率为啥这么低？大家都不爱看吗？",
+          "url": "https://www.zhihu.com/question/2067564276433401082",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时26分 ~ 11时27分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "千问",
       "match_count": 1,
       "titles": [
@@ -180,6 +220,23 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时13分 ~ 07时09分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "昆仑万维",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "A股游戏板块拉升，中青宝20CM涨停，凯撒文化、大晟文化此前涨停，宝通科技、昆仑万维、冰川网络涨幅居前。",
+          "url": "https://flash.jin10.com/detail/20260804105433472800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时27分"
         }
       ]
     }
