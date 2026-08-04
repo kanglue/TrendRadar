@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-08-05T05:17:55.902401+08:00",
-  "total_titles_processed": 448,
+  "generated_at": "2026-08-05T07:08:12.306210+08:00",
+  "total_titles_processed": 519,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "Deepseek",
       "match_count": 3,
       "titles": [
+        {
+          "title": "DeepSeek斩杀了谁",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E6%96%A9%E6%9D%80%E4%BA%86%E8%B0%81",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时54分 ~ 07时08分]"
+        },
         {
           "title": "中国版“生物DeepSeek”诞生",
           "url": "https://www.toutiao.com/trending/7670182284162502194/",
@@ -28,17 +39,6 @@
             14,
             17,
             16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时54分 ~ 05时17分]"
-        },
-        {
-          "title": "DeepSeek斩杀了谁",
-          "url": "https://www.baidu.com/s?wd=DeepSeek%E6%96%A9%E6%9D%80%E4%BA%86%E8%B0%81",
-          "source": "百度热搜",
-          "ranks": [
-            28
           ],
           "is_new": false,
           "appearance_count": 3,
