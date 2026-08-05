@@ -1,22 +1,34 @@
 {
-  "generated_at": "2026-08-06T00:46:26.990582+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-08-06T02:26:52.045260+08:00",
+  "total_titles_processed": 397,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "Seedance",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "小云雀seedance2.5故事大赛",
           "url": "https://www.douyin.com/hot/2598925",
           "source": "抖音",
           "ranks": [
-            24
+            24,
+            18
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时46分 ~ 02时26分]"
+        },
+        {
+          "title": "Seedance2.5满血版",
+          "url": "https://www.douyin.com/hot/2598221",
+          "source": "抖音",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时46分"
+          "time_info": "02时26分"
         }
       ]
     }
