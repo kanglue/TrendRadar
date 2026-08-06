@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-06T06:16:44.101066+08:00",
-  "total_titles_processed": 544,
+  "generated_at": "2026-08-06T08:04:41.405334+08:00",
+  "total_titles_processed": 665,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时46分 ~ 06时16分]"
+          "appearance_count": 5,
+          "time_info": "[00时46分 ~ 08时04分]"
         },
         {
           "title": "Seedance2.5满血版",
@@ -28,11 +28,12 @@
           "ranks": [
             23,
             18,
-            19
+            19,
+            25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时26分 ~ 06时16分]"
+          "appearance_count": 4,
+          "time_info": "[02时26分 ~ 08时04分]"
         }
       ]
     }
