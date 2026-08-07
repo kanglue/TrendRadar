@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-08T00:03:50.291386+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-08-08T01:52:59.877269+08:00",
+  "total_titles_processed": 414,
   "failed_sources": [],
   "trends": [
     {
@@ -40,11 +40,12 @@
           "url": "https://www.zhihu.com/question/2068986574256312589",
           "source": "知乎",
           "ranks": [
-            6
+            6,
+            11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时03分"
+          "appearance_count": 2,
+          "time_info": "[00时03分 ~ 01时52分]"
         }
       ]
     },
@@ -57,11 +58,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356949&amp;topic_name=%E6%A0%B8%E5%BF%83%E5%9B%A2%E9%98%9F%E8%B7%91%E8%B7%AF%2CGemini%E9%99%B7%E5%A4%A7%E5%8D%B1%E6%9C%BA",
           "source": "贴吧",
           "ranks": [
-            18
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时03分"
+          "appearance_count": 2,
+          "time_info": "[00时03分 ~ 01时52分]"
         }
       ]
     },
@@ -77,8 +79,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时03分"
+          "appearance_count": 2,
+          "time_info": "[00时03分 ~ 01时52分]"
         }
       ]
     }
