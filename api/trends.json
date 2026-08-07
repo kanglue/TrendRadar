@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-08T05:45:29.689522+08:00",
-  "total_titles_processed": 568,
+  "generated_at": "2026-08-08T06:43:12.566706+08:00",
+  "total_titles_processed": 586,
   "failed_sources": [],
   "trends": [
     {
@@ -15,19 +15,20 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时03分 ~ 05时45分]"
+          "appearance_count": 7,
+          "time_info": "[00时03分 ~ 06时43分]"
         },
         {
           "title": "业绩如何支撑高估值？与DeepSeek如何合作？如何看待股价炒作？王兴兴回应多个热点",
           "url": "https://m.thepaper.cn/newsDetail_forward_33739348",
           "source": "澎湃新闻",
           "ranks": [
-            18
+            18,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时48分 ~ 05时45分]"
+          "appearance_count": 4,
+          "time_info": "[04时48分 ~ 06时43分]"
         }
       ]
     },
@@ -91,8 +92,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时03分 ~ 05时45分]"
+          "appearance_count": 7,
+          "time_info": "[00时03分 ~ 06时43分]"
         }
       ]
     },
@@ -105,11 +106,12 @@
           "url": "https://search.bilibili.com/all?keyword=%E9%B8%A3%E6%BD%AEiWanna%E6%8C%91%E6%88%98",
           "source": "bilibili 热搜",
           "ranks": [
-            28
+            28,
+            23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时45分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时45分 ~ 06时43分]"
         }
       ]
     }
