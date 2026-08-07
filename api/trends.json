@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-07T18:58:42.870909+08:00",
-  "total_titles_processed": 1104,
+  "generated_at": "2026-08-07T19:52:43.823040+08:00",
+  "total_titles_processed": 1216,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "Deepseek",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "宇树科技IPO定价150.8元，DeepSeek、腾讯等获战略配售",
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[08时07分 ~ 18时58分]"
+          "appearance_count": 10,
+          "time_info": "[08时07分 ~ 19时52分]"
         },
         {
           "title": "DeepSeek拟上调API服务价格",
@@ -28,11 +28,12 @@
             18,
             23,
             25,
-            27
+            27,
+            28
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[08时07分 ~ 18时58分]"
+          "appearance_count": 10,
+          "time_info": "[08时07分 ~ 19时52分]"
         },
         {
           "title": "DeepSeek终于打算激进扩张了",
@@ -44,6 +45,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时07分"
+        },
+        {
+          "title": "王兴兴回应DeepSeek参与宇树科技IPO战略配售",
+          "url": "https://wallstreetcn.com/livenews/3146694",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时52分"
         },
         {
           "title": "DeepSeek宣布大幅涨价，业内人士预计V4 Pro正式版即将发布",
@@ -69,6 +81,17 @@
           "time_info": "[15时25分 ~ 18时58分]"
         },
         {
+          "title": "怎么看 OpenCode 创始人说「DeepSeek 涨价不是因为亏钱，而是为了劝退用户」？",
+          "url": "https://www.zhihu.com/question/2069015264461579129",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时05分 ~ 19时52分]"
+        },
+        {
           "title": "DeepSeek官宣涨价，且“幅度较大”！",
           "url": "https://wallstreetcn.com/articles/3778814",
           "source": "华尔街见闻",
@@ -79,17 +102,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[08时07分 ~ 11时54分]"
-        },
-        {
-          "title": "怎么看 OpenCode 创始人说「DeepSeek 涨价不是因为亏钱，而是为了劝退用户」？",
-          "url": "https://www.zhihu.com/question/2069015264461579129",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时05分 ~ 18时58分]"
         },
         {
           "title": "DeepSeek豪掷1.4亿护航宇树IPO",
@@ -166,6 +178,46 @@
       ]
     },
     {
+      "keyword_group": "大模型",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "沪指冲高回落涨0.6%，煤炭掀涨停潮，贵金属集体大涨，半导体材料再拉升，恒科指跌超2%，AI大模型双雄逆势拉升",
+          "url": "https://wallstreetcn.com/articles/3778805",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[08时07分 ~ 15时25分]"
+        },
+        {
+          "title": "金山办公CEO章庆元：大模型会平权，办公软件真正的护城河是上下文",
+          "url": "https://flash.jin10.com/detail/20260807184254925800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时58分"
+        },
+        {
+          "title": "金山办公CEO章庆元：大模型会平权，办公软件真正的护城河是上下文",
+          "url": "https://wallstreetcn.com/livenews/3146668",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时52分"
+        }
+      ]
+    },
+    {
       "keyword_group": "短剧",
       "match_count": 2,
       "titles": [
@@ -189,7 +241,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时58分"
         }
@@ -206,11 +258,12 @@
           "ranks": [
             13,
             12,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时25分 ~ 18时58分]"
+          "appearance_count": 5,
+          "time_info": "[15时25分 ~ 19时52分]"
         },
         {
           "title": "OpenAI为免费用户升级GPT-5.6 Luna",
@@ -250,35 +303,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时07分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "大模型",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "沪指冲高回落涨0.6%，煤炭掀涨停潮，贵金属集体大涨，半导体材料再拉升，恒科指跌超2%，AI大模型双雄逆势拉升",
-          "url": "https://wallstreetcn.com/articles/3778805",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时07分 ~ 15时25分]"
-        },
-        {
-          "title": "金山办公CEO章庆元：大模型会平权，办公软件真正的护城河是上下文",
-          "url": "https://flash.jin10.com/detail/20260807184254925800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时58分"
         }
       ]
     },
