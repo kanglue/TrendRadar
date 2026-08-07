@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-07T19:52:43.823040+08:00",
-  "total_titles_processed": 1216,
+  "generated_at": "2026-08-07T21:17:04.846397+08:00",
+  "total_titles_processed": 1346,
   "failed_sources": [],
   "trends": [
     {
@@ -36,6 +36,17 @@
           "time_info": "[08时07分 ~ 19时52分]"
         },
         {
+          "title": "怎么看 OpenCode 创始人说「DeepSeek 涨价不是因为亏钱，而是为了劝退用户」？",
+          "url": "https://www.zhihu.com/question/2069015264461579129",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时05分 ~ 21时17分]"
+        },
+        {
           "title": "DeepSeek终于打算激进扩张了",
           "url": "https://www.baidu.com/s?wd=DeepSeek%E7%BB%88%E4%BA%8E%E6%89%93%E7%AE%97%E6%BF%80%E8%BF%9B%E6%89%A9%E5%BC%A0%E4%BA%86",
           "source": "百度热搜",
@@ -53,7 +64,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时52分"
         },
@@ -79,17 +90,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[15时25分 ~ 18时58分]"
-        },
-        {
-          "title": "怎么看 OpenCode 创始人说「DeepSeek 涨价不是因为亏钱，而是为了劝退用户」？",
-          "url": "https://www.zhihu.com/question/2069015264461579129",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时05分 ~ 19时52分]"
         },
         {
           "title": "DeepSeek官宣涨价，且“幅度较大”！",
@@ -131,6 +131,49 @@
           "source": "知乎",
           "ranks": [
             17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时07分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "GPT",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "如何评价 GPT-5.6Luna 免费不限量，后续基础大模型都会走向免费吗？",
+          "url": "https://www.zhihu.com/question/2068986574256312589",
+          "source": "知乎",
+          "ranks": [
+            13,
+            12,
+            8,
+            9,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[15时25分 ~ 21时17分]"
+        },
+        {
+          "title": "如何直接编辑GPT生成的图片",
+          "url": "https://s.weibo.com/weibo?q=%E5%A6%82%E4%BD%95%E7%9B%B4%E6%8E%A5%E7%BC%96%E8%BE%91GPT%E7%94%9F%E6%88%90%E7%9A%84%E5%9B%BE%E7%89%87&t=31&band_rank=25&Refer=top",
+          "source": "微博",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时16分 ~ 21时17分]"
+        },
+        {
+          "title": "OpenAI为免费用户升级GPT-5.6 Luna",
+          "url": "https://www.baidu.com/s?wd=OpenAI%E4%B8%BA%E5%85%8D%E8%B4%B9%E7%94%A8%E6%88%B7%E5%8D%87%E7%BA%A7GPT-5.6+Luna",
+          "source": "百度热搜",
+          "ranks": [
+            20
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -211,7 +254,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时52分"
         }
@@ -244,37 +287,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时58分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "GPT",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "如何评价 GPT-5.6Luna 免费不限量，后续基础大模型都会走向免费吗？",
-          "url": "https://www.zhihu.com/question/2068986574256312589",
-          "source": "知乎",
-          "ranks": [
-            13,
-            12,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时25分 ~ 19时52分]"
-        },
-        {
-          "title": "OpenAI为免费用户升级GPT-5.6 Luna",
-          "url": "https://www.baidu.com/s?wd=OpenAI%E4%B8%BA%E5%85%8D%E8%B4%B9%E7%94%A8%E6%88%B7%E5%8D%87%E7%BA%A7GPT-5.6+Luna",
-          "source": "百度热搜",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时07分"
         }
       ]
     },
