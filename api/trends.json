@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-07T11:54:09.967108+08:00",
-  "total_titles_processed": 532,
+  "generated_at": "2026-08-07T13:46:02.253637+08:00",
+  "total_titles_processed": 672,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "Deepseek",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "宇树科技IPO定价150.8元，DeepSeek、腾讯等获战略配售",
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时07分 ~ 11时54分]"
+          "appearance_count": 5,
+          "time_info": "[08时07分 ~ 13时46分]"
         },
         {
           "title": "DeepSeek终于打算激进扩张了",
@@ -41,6 +41,19 @@
           "time_info": "08时07分"
         },
         {
+          "title": "DeepSeek拟上调API服务价格",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356822&amp;topic_name=DeepSeek%E6%8B%9F%E4%B8%8A%E8%B0%83API%E6%9C%8D%E5%8A%A1%E4%BB%B7%E6%A0%BC",
+          "source": "贴吧",
+          "ranks": [
+            12,
+            14,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[08时07分 ~ 13时46分]"
+        },
+        {
           "title": "DeepSeek官宣涨价，且“幅度较大”！",
           "url": "https://wallstreetcn.com/articles/3778814",
           "source": "华尔街见闻",
@@ -53,16 +66,15 @@
           "time_info": "[08时07分 ~ 11时54分]"
         },
         {
-          "title": "DeepSeek拟上调API服务价格",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356822&amp;topic_name=DeepSeek%E6%8B%9F%E4%B8%8A%E8%B0%83API%E6%9C%8D%E5%8A%A1%E4%BB%B7%E6%A0%BC",
-          "source": "贴吧",
+          "title": "DeepSeek豪掷1.4亿护航宇树IPO",
+          "url": "https://www.toutiao.com/trending/7671088097861307923/",
+          "source": "今日头条",
           "ranks": [
-            12,
-            14
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时07分 ~ 11时54分]"
+          "appearance_count": 2,
+          "time_info": "[13时45分 ~ 13时46分]"
         },
         {
           "title": "DeepSeek、腾讯等获宇树科技战略配售",
@@ -99,7 +111,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时54分"
         },
@@ -110,9 +122,26 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时54分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "短剧",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "戚薇AI短剧 雷霆视角",
+          "url": "https://s.weibo.com/weibo?q=%E6%88%9A%E8%96%87AI%E7%9F%AD%E5%89%A7%20%E9%9B%B7%E9%9C%86%E8%A7%86%E8%A7%92&t=31&band_rank=12&Refer=top",
+          "source": "微博",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时45分 ~ 13时46分]"
         }
       ]
     },
@@ -198,8 +227,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时07分 ~ 11时54分]"
+          "appearance_count": 5,
+          "time_info": "[08时07分 ~ 13时46分]"
         }
       ]
     }
