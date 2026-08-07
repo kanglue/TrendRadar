@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-07T08:07:47.815318+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-08-07T11:54:09.967108+08:00",
+  "total_titles_processed": 532,
   "failed_sources": [],
   "trends": [
     {
@@ -8,22 +8,22 @@
       "match_count": 7,
       "titles": [
         {
-          "title": "DeepSeek终于打算激进扩张了",
-          "url": "https://www.baidu.com/s?wd=DeepSeek%E7%BB%88%E4%BA%8E%E6%89%93%E7%AE%97%E6%BF%80%E8%BF%9B%E6%89%A9%E5%BC%A0%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时07分"
-        },
-        {
           "title": "宇树科技IPO定价150.8元，DeepSeek、腾讯等获战略配售",
           "url": "https://wallstreetcn.com/articles/3778857",
           "source": "华尔街见闻",
           "ranks": [
             4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时07分 ~ 11时54分]"
+        },
+        {
+          "title": "DeepSeek终于打算激进扩张了",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E7%BB%88%E4%BA%8E%E6%89%93%E7%AE%97%E6%BF%80%E8%BF%9B%E6%89%A9%E5%BC%A0%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            2
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -41,33 +41,35 @@
           "time_info": "08时07分"
         },
         {
-          "title": "DeepSeek、腾讯等获宇树科技战略配售",
-          "url": "https://www.cls.cn/detail/2447658",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时07分"
-        },
-        {
           "title": "DeepSeek官宣涨价，且“幅度较大”！",
           "url": "https://wallstreetcn.com/articles/3778814",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时07分"
+          "appearance_count": 3,
+          "time_info": "[08时07分 ~ 11时54分]"
         },
         {
           "title": "DeepSeek拟上调API服务价格",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356822&amp;topic_name=DeepSeek%E6%8B%9F%E4%B8%8A%E8%B0%83API%E6%9C%8D%E5%8A%A1%E4%BB%B7%E6%A0%BC",
           "source": "贴吧",
           "ranks": [
-            12
+            12,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时07分 ~ 11时54分]"
+        },
+        {
+          "title": "DeepSeek、腾讯等获宇树科技战略配售",
+          "url": "https://www.cls.cn/detail/2447658",
+          "source": "财联社热门",
+          "ranks": [
+            7
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -83,6 +85,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时07分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "MiniMax",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "港股大模型概念股持续拉升，MINIMAX-W、智谱盘中一度涨超15％。",
+          "url": "https://wallstreetcn.com/livenews/3146390",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时54分"
+        },
+        {
+          "title": "港股大模型概念股持续走高，MINIMAX-W(00100.HK)涨近25%，智谱(02513.HK)涨超17%。",
+          "url": "https://flash.jin10.com/detail/20260807104654889800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时54分"
         }
       ]
     },
@@ -112,11 +142,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_33728476",
           "source": "澎湃新闻",
           "ranks": [
-            7
+            7,
+            4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时07分"
+          "appearance_count": 3,
+          "time_info": "[08时07分 ~ 11时54分]"
         }
       ]
     },
@@ -163,11 +194,12 @@
           "url": "https://wallstreetcn.com/articles/3778805",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时07分"
+          "appearance_count": 3,
+          "time_info": "[08时07分 ~ 11时54分]"
         }
       ]
     }
