@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-08T22:37:58.323200+08:00",
-  "total_titles_processed": 1515,
+  "generated_at": "2026-08-08T23:36:17.859252+08:00",
+  "total_titles_processed": 1571,
   "failed_sources": [],
   "trends": [
     {
@@ -58,8 +58,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[20时59分 ~ 22时37分]"
+          "appearance_count": 6,
+          "time_info": "[20时59分 ~ 23时36分]"
         },
         {
           "title": "苹果与阿里巴巴合作，千问AI功能上线Mac",
@@ -68,11 +68,12 @@
           "ranks": [
             5,
             11,
-            14
+            14,
+            24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时00分 ~ 22时37分]"
+          "appearance_count": 4,
+          "time_info": "[21时00分 ~ 23时36分]"
         },
         {
           "title": "苹果官宣Mac接入阿里千问AI，相关功能仅限中国大陆地区",
