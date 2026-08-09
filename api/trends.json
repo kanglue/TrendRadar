@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-08-10T04:40:07.922805+08:00",
-  "total_titles_processed": 413,
+  "generated_at": "2026-08-10T05:39:02.346632+08:00",
+  "total_titles_processed": 432,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "短剧",
       "match_count": 2,
       "titles": [
+        {
+          "title": "15部短剧获百花奖肯定",
+          "url": "https://www.douyin.com/hot/2603647",
+          "source": "抖音",
+          "ranks": [
+            29,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时42分 ~ 05时39分]"
+        },
         {
           "title": "15部短剧作品获颁百花奖五项荣誉",
           "url": "https://www.baidu.com/s?wd=15%E9%83%A8%E7%9F%AD%E5%89%A7%E4%BD%9C%E5%93%81%E8%8E%B7%E9%A2%81%E7%99%BE%E8%8A%B1%E5%A5%96%E4%BA%94%E9%A1%B9%E8%8D%A3%E8%AA%89",
@@ -18,17 +30,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时51分 ~ 04时39分]"
-        },
-        {
-          "title": "15部短剧获百花奖肯定",
-          "url": "https://www.douyin.com/hot/2603647",
-          "source": "抖音",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时42分 ~ 00时43分]"
         }
       ]
     },
@@ -45,8 +46,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时42分 ~ 04时40分]"
+          "appearance_count": 9,
+          "time_info": "[00时42分 ~ 05时39分]"
         }
       ]
     },
@@ -62,8 +63,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时42分 ~ 04时40分]"
+          "appearance_count": 9,
+          "time_info": "[00时42分 ~ 05时39分]"
         }
       ]
     }
