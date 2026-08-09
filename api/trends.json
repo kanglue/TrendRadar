@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-10T05:39:02.346632+08:00",
-  "total_titles_processed": 432,
+  "generated_at": "2026-08-10T06:38:16.490503+08:00",
+  "total_titles_processed": 465,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "抖音",
           "ranks": [
             29,
-            17
+            17,
+            14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时42分 ~ 05时39分]"
+          "appearance_count": 6,
+          "time_info": "[00时42分 ~ 06时38分]"
         },
         {
           "title": "15部短剧作品获颁百花奖五项荣誉",
@@ -46,8 +47,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时42分 ~ 05时39分]"
+          "appearance_count": 11,
+          "time_info": "[00时42分 ~ 06时38分]"
         }
       ]
     },
@@ -63,8 +64,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时42分 ~ 05时39分]"
+          "appearance_count": 11,
+          "time_info": "[00时42分 ~ 06时38分]"
         }
       ]
     }
