@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-10T03:39:35.127888+08:00",
-  "total_titles_processed": 398,
+  "generated_at": "2026-08-10T04:40:07.922805+08:00",
+  "total_titles_processed": 413,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时51分 ~ 03时39分]"
+          "appearance_count": 3,
+          "time_info": "[02时51分 ~ 04时39分]"
         },
         {
           "title": "15部短剧获百花奖肯定",
@@ -45,8 +45,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时42分 ~ 03时39分]"
+          "appearance_count": 7,
+          "time_info": "[00时42分 ~ 04时40分]"
         }
       ]
     },
@@ -62,8 +62,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时42分 ~ 03时39分]"
+          "appearance_count": 7,
+          "time_info": "[00时42分 ~ 04时40分]"
         }
       ]
     }
