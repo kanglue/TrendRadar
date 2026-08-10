@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-11T01:01:06.668342+08:00",
-  "total_titles_processed": 312,
+  "generated_at": "2026-08-11T03:07:47.673958+08:00",
+  "total_titles_processed": 398,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "GPT",
-      "match_count": 2,
+      "match_count": 6,
       "titles": [
         {
           "title": "OpenAI：为ChatGPT Business推出高级席位（Premium Seats）。",
@@ -14,7 +14,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时01分"
         },
@@ -23,11 +23,56 @@
           "url": "https://wallstreetcn.com/articles/3779038",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时00分 ~ 01时01分]"
+          "appearance_count": 3,
+          "time_info": "[01时00分 ~ 03时07分]"
+        },
+        {
+          "title": "OpenAI：GPT‑5.6‑CYBER并未被用于攻击Hugging Face，计划即将发布的其他模型也未参与此事。 强烈建议使用Codex的Daybreak客户，通过应用默认设置和界面功能，将“完全访问模式”切换至“自动审查模式”。 自9月1日起，要求Daybreak中的所有个人账户启用硬件安全密钥。 OpenAI正在扩大Daybreak项目规模，为开展授权工作的个人及获批机构设立两级访问权限：Daybreak Blue，提供包括 GPT‑5.6 Sol在内的前沿通用模型；Daybreak Red，开放全新GPT‑5.6‑Cyber模型，用于经授权的漏洞研究、漏洞利用验证以及安全测试。",
+          "url": "https://wallstreetcn.com/livenews/3147642",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时07分"
+        },
+        {
+          "title": "OpenAI：GPT-5.6-Cyber并未参与利用漏洞攻击Hugging Face，其他即将发布的模型也不存在参与相关事件的情况。",
+          "url": "https://flash.jin10.com/detail/20260811022757566800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时07分"
+        },
+        {
+          "title": "OpenAI推出GPT-5.6-Cyber，面向安全人员开放更强AI能力",
+          "url": "https://wallstreetcn.com/livenews/3147635",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时07分"
+        },
+        {
+          "title": "OpenAI：推出ChatGPT企业版高级席位，月租至少100美元",
+          "url": "https://wallstreetcn.com/livenews/3147627",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时07分"
         }
       ]
     },
@@ -43,8 +88,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时00分 ~ 01时01分]"
+          "appearance_count": 3,
+          "time_info": "[01时00分 ~ 03时07分]"
         }
       ]
     },
