@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-11T03:07:47.673958+08:00",
-  "total_titles_processed": 398,
+  "generated_at": "2026-08-11T05:49:18.518548+08:00",
+  "total_titles_processed": 477,
   "failed_sources": [],
   "trends": [
     {
@@ -27,8 +27,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时00分 ~ 03时07分]"
+          "appearance_count": 4,
+          "time_info": "[01时00分 ~ 05时49分]"
         },
         {
           "title": "OpenAI：GPT‑5.6‑CYBER并未被用于攻击Hugging Face，计划即将发布的其他模型也未参与此事。 强烈建议使用Codex的Daybreak客户，通过应用默认设置和界面功能，将“完全访问模式”切换至“自动审查模式”。 自9月1日起，要求Daybreak中的所有个人账户启用硬件安全密钥。 OpenAI正在扩大Daybreak项目规模，为开展授权工作的个人及获批机构设立两级访问权限：Daybreak Blue，提供包括 GPT‑5.6 Sol在内的前沿通用模型；Daybreak Red，开放全新GPT‑5.6‑Cyber模型，用于经授权的漏洞研究、漏洞利用验证以及安全测试。",
@@ -37,7 +37,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时07分"
         },
@@ -48,7 +48,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时07分"
         },
@@ -59,7 +59,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时07分"
         },
@@ -70,7 +70,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时07分"
         }
@@ -88,8 +88,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时00分 ~ 03时07分]"
+          "appearance_count": 4,
+          "time_info": "[01时00分 ~ 05时49分]"
         }
       ]
     },
