@@ -1,11 +1,72 @@
 {
-  "generated_at": "2026-08-10T16:44:25.340545+08:00",
-  "total_titles_processed": 1160,
+  "generated_at": "2026-08-10T18:23:50.753748+08:00",
+  "total_titles_processed": 1302,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "MiniMax",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "港股AI应用板块走强，文远知行-W(00800.HK)涨超%，智谱(02513.HK)、MINIMAX-W(00100.HK)涨超4%阅文集团(00772.HK)、小马智行-W(02026.HK)等跟涨。",
+          "url": "https://flash.jin10.com/detail/20260810093625841800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时12分"
+        },
+        {
+          "title": "MiniMax将被纳入香港交易所科技100等指数",
+          "url": "https://flash.jin10.com/detail/20260810180012095800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时23分"
+        },
+        {
+          "title": "香港交易所：MiniMax将被纳入香港交易所科技100指数及香港交易所科技与美国科技100指数",
+          "url": "https://wallstreetcn.com/livenews/3147425",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时23分"
+        },
+        {
+          "title": "恒指高开0.53%，报25805.18点；恒生科技指数涨0.85%。MINIMAX涨4.8%，智谱涨3.7%，蔚来涨2.2%。",
+          "url": "https://wallstreetcn.com/livenews/3147180",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时12分"
+        },
+        {
+          "title": "摩根士丹利：继续对MiniMax持建设性观点，即将发布的M3升级版本以及M3 Pro将成为重要催化剂。不过认为其增长更多将在后期释放，将目标价下调至900港元。",
+          "url": "https://wallstreetcn.com/livenews/3147177",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时12分"
+        }
+      ]
+    },
+    {
       "keyword_group": "短剧",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "15部短剧获百花奖肯定",
@@ -39,11 +100,23 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357005&amp;topic_name=AI%E6%8C%A4%E5%8D%A0%E7%9F%AD%E5%89%A7%E4%B8%9A%2C%E7%9C%9F%E4%BA%BA%E6%BC%94%E5%91%98%E9%81%AD%E5%81%B7%E5%AE%B6",
           "source": "贴吧",
           "ranks": [
-            14
+            14,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时44分 ~ 18时23分]"
+        },
+        {
+          "title": "短剧女演员百花奖造型",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%9F%AD%E5%89%A7%E5%A5%B3%E6%BC%94%E5%91%98%E7%99%BE%E8%8A%B1%E5%A5%96%E9%80%A0%E5%9E%8B%23&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时44分"
+          "time_info": "18时23分"
         }
       ]
     },
@@ -64,6 +137,18 @@
           "time_info": "[00时42分 ~ 10时12分]"
         },
         {
+          "title": "苹果被曝探索无屏Apple Watch",
+          "url": "https://www.douyin.com/hot/2604193",
+          "source": "抖音",
+          "ranks": [
+            9,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时44分 ~ 18时23分]"
+        },
+        {
           "title": "苹果考虑重塑Apple Watch产品线，探索无屏设备及更多形态",
           "url": "https://flash.jin10.com/detail/20260810071100788800",
           "source": "金十数据",
@@ -73,56 +158,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时37分"
-        },
-        {
-          "title": "苹果被曝探索无屏Apple Watch",
-          "url": "https://www.douyin.com/hot/2604193",
-          "source": "抖音",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时44分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "MiniMax",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "港股AI应用板块走强，文远知行-W(00800.HK)涨超%，智谱(02513.HK)、MINIMAX-W(00100.HK)涨超4%阅文集团(00772.HK)、小马智行-W(02026.HK)等跟涨。",
-          "url": "https://flash.jin10.com/detail/20260810093625841800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时12分"
-        },
-        {
-          "title": "恒指高开0.53%，报25805.18点；恒生科技指数涨0.85%。MINIMAX涨4.8%，智谱涨3.7%，蔚来涨2.2%。",
-          "url": "https://wallstreetcn.com/livenews/3147180",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时12分"
-        },
-        {
-          "title": "摩根士丹利：继续对MiniMax持建设性观点，即将发布的M3升级版本以及M3 Pro将成为重要催化剂。不过认为其增长更多将在后期释放，将目标价下调至900港元。",
-          "url": "https://wallstreetcn.com/livenews/3147177",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时12分"
         }
       ]
     },
@@ -156,6 +191,34 @@
       ]
     },
     {
+      "keyword_group": "智谱",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "摩根士丹利：上调智谱目标价近72%，算力获取和新融资等支持强劲增长",
+          "url": "https://wallstreetcn.com/livenews/3147176",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时12分"
+        },
+        {
+          "title": "南向资金今日净买入20.21亿元。港股通（沪）方面，、智谱分别获净买入8.33亿港元、5.6亿港元；中芯国际净卖出额居首，金额为1.39亿港元；港股通（深）方面，金斯瑞生物科技、小米集团-W分别获净买入4.72亿港元、1.95亿港元；中芯国际净卖出额居首，金额为3.13亿港元。",
+          "url": "https://flash.jin10.com/detail/20260810173143516800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时23分"
+        }
+      ]
+    },
+    {
       "keyword_group": "GPT",
       "match_count": 1,
       "titles": [
@@ -166,11 +229,12 @@
           "ranks": [
             9,
             8,
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时44分 ~ 16时44分]"
+          "appearance_count": 4,
+          "time_info": "[12时44分 ~ 18时23分]"
         }
       ]
     },
@@ -192,19 +256,19 @@
       ]
     },
     {
-      "keyword_group": "智谱",
+      "keyword_group": "大模型",
       "match_count": 1,
       "titles": [
         {
-          "title": "摩根士丹利：上调智谱目标价近72%，算力获取和新融资等支持强劲增长",
-          "url": "https://wallstreetcn.com/livenews/3147176",
+          "title": "【上海：推动算力和基础大模型扩大境外调用，支持智能体、多模态生成等模型产品出口】上海市商务委等七部门印发《上海市国家服务贸易创新发展示范区建设方案》。其中指出，吸引企业和机构设立人工智能研发中心、开源平台和合作实验室。推动算力和基础大模型扩大境外调用，支持智能体、多模态生成等模型产品出口。推动具身智能等智能终端企业拓展全周期服务新模式。支持人工智能赋能医疗、教育、专业服务等行业。办好世界人工智能大会和全球开发者活动，加快世界人工智能合作组织总部建设。支持浦东新区建设人工智能创新应用先导区，支持徐汇区建设“模速空间”大模型创新生态社区。探索建立人工智能全球治理体系。",
+          "url": "https://wallstreetcn.com/livenews/3147407",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            24
+            23
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时12分"
+          "time_info": "18时23分"
         }
       ]
     },
