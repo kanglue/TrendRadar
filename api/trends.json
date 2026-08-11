@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-11T10:07:00.688501+08:00",
-  "total_titles_processed": 706,
+  "generated_at": "2026-08-11T12:25:01.055827+08:00",
+  "total_titles_processed": 868,
   "failed_sources": [],
   "trends": [
     {
@@ -97,11 +97,12 @@
           "source": "贴吧",
           "ranks": [
             21,
-            22
+            22,
+            26
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时00分 ~ 10时07分]"
+          "appearance_count": 9,
+          "time_info": "[01时00分 ~ 12时25分]"
         },
         {
           "title": "短剧演员王译磊谈参加百花奖感受",
@@ -121,22 +122,23 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "豆包否认推荐酒店抽取 12% 佣金，称仅在订单成交后收取渠道服务费，字节在打哪些商业算盘？",
+          "url": "https://www.zhihu.com/question/2070274629227083477",
+          "source": "知乎",
+          "ranks": [
+            15,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时06分 ~ 12时25分]"
+        },
+        {
           "title": "原字节跳动机器人一号位加入小米，负责基座模型研发，这透露出小米在人工智能领域的哪些战略意图？",
           "url": "https://www.zhihu.com/question/2069868469005326051",
           "source": "知乎",
           "ranks": [
             13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时06分 ~ 10时07分]"
-        },
-        {
-          "title": "豆包否认推荐酒店抽取 12% 佣金，称仅在订单成交后收取渠道服务费，字节在打哪些商业算盘？",
-          "url": "https://www.zhihu.com/question/2070274629227083477",
-          "source": "知乎",
-          "ranks": [
-            15
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -162,6 +164,23 @@
       ]
     },
     {
+      "keyword_group": "千问",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "千问开放AI眼镜生态 支持自建导游、教练、巡检等多种skill",
+          "url": "https://flash.jin10.com/detail/20260811111212869800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时25分"
+        }
+      ]
+    },
+    {
       "keyword_group": "智谱",
       "match_count": 1,
       "titles": [
@@ -172,9 +191,26 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时07分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "大模型",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "爱芯元智下一代大算力AI芯片完成流片，支持多芯级联实现边缘侧满血大模型推理",
+          "url": "https://flash.jin10.com/detail/20260811115612569800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时25分"
         }
       ]
     }
