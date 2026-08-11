@@ -1,12 +1,26 @@
 {
-  "generated_at": "2026-08-11T17:05:44.545398+08:00",
-  "total_titles_processed": 1245,
+  "generated_at": "2026-08-11T18:55:46.799233+08:00",
+  "total_titles_processed": 1392,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "GPT",
       "match_count": 7,
       "titles": [
+        {
+          "title": "如何看待 GPT-6 （Astra）？",
+          "url": "https://www.zhihu.com/question/2070082903229347029",
+          "source": "知乎",
+          "ranks": [
+            18,
+            17,
+            14,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时06分 ~ 18时55分]"
+        },
         {
           "title": "OpenAI曝光GPT-6！传10万亿参数，8月强行发布",
           "url": "https://wallstreetcn.com/articles/3779038",
@@ -29,19 +43,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时01分"
-        },
-        {
-          "title": "如何看待 GPT-6 （Astra）？",
-          "url": "https://www.zhihu.com/question/2070082903229347029",
-          "source": "知乎",
-          "ranks": [
-            18,
-            17,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时06分 ~ 17时05分]"
         },
         {
           "title": "OpenAI：GPT‑5.6‑CYBER并未被用于攻击Hugging Face，计划即将发布的其他模型也未参与此事。 强烈建议使用Codex的Daybreak客户，通过应用默认设置和界面功能，将“完全访问模式”切换至“自动审查模式”。 自9月1日起，要求Daybreak中的所有个人账户启用硬件安全密钥。 OpenAI正在扩大Daybreak项目规模，为开展授权工作的个人及获批机构设立两级访问权限：Daybreak Blue，提供包括 GPT‑5.6 Sol在内的前沿通用模型；Daybreak Red，开放全新GPT‑5.6‑Cyber模型，用于经授权的漏洞研究、漏洞利用验证以及安全测试。",
@@ -91,7 +92,7 @@
     },
     {
       "keyword_group": "短剧",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "AI挤占短剧业,真人演员遭偷家",
@@ -111,11 +112,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_33710549",
           "source": "澎湃新闻",
           "ranks": [
-            11
+            11,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时17分 ~ 17时05分]"
+          "appearance_count": 3,
+          "time_info": "[15时17分 ~ 18时55分]"
         },
         {
           "title": "短剧演员王译磊谈参加百花奖感受",
@@ -135,15 +137,26 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时05分"
+        },
+        {
+          "title": "短剧演员谈出席百花奖：好多明星啊",
+          "url": "https://www.toutiao.com/trending/7671895441127194678/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时55分"
         }
       ]
     },
     {
       "keyword_group": "字节",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "豆包否认推荐酒店抽取 12% 佣金，称仅在订单成交后收取渠道服务费，字节在打哪些商业算盘？",
@@ -156,8 +169,19 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时06分 ~ 17时05分]"
+          "appearance_count": 8,
+          "time_info": "[10时06分 ~ 18时55分]"
+        },
+        {
+          "title": "字节跳动新成立AI数据与安全部门",
+          "url": "https://flash.jin10.com/detail/20260811183836039800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时55分"
         },
         {
           "title": "原字节跳动机器人一号位加入小米，负责基座模型研发，这透露出小米在人工智能领域的哪些战略意图？",
@@ -169,6 +193,45 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时06分 ~ 10时07分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "大模型",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "爱芯元智下一代大算力AI芯片完成流片，支持多芯级联实现边缘侧满血大模型推理",
+          "url": "https://flash.jin10.com/detail/20260811115612569800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时25分"
+        },
+        {
+          "title": "大模型攻入OTA腹地？豆包称酒店推荐“按成交收费” 或挑战“佣金+广告”模式|深度",
+          "url": "https://www.cls.cn/detail/2451001",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时55分"
+        },
+        {
+          "title": "上海：推动自主芯片与主流大模型深度融合",
+          "url": "https://wallstreetcn.com/livenews/3147983",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时55分"
         }
       ]
     },
@@ -245,7 +308,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时05分"
         }
@@ -269,19 +332,19 @@
       ]
     },
     {
-      "keyword_group": "大模型",
+      "keyword_group": "算法",
       "match_count": 1,
       "titles": [
         {
-          "title": "爱芯元智下一代大算力AI芯片完成流片，支持多芯级联实现边缘侧满血大模型推理",
-          "url": "https://flash.jin10.com/detail/20260811115612569800",
-          "source": "金十数据",
+          "title": "上海：大力推动开源体系建设，推动智能软件、语料、算法、模型、智能体、人形机器人软硬件等开源项目在沪“首发”",
+          "url": "https://wallstreetcn.com/livenews/3147986",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            29
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时25分"
+          "time_info": "18时55分"
         }
       ]
     }
