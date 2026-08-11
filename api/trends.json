@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-12T05:55:26.398981+08:00",
-  "total_titles_processed": 518,
+  "generated_at": "2026-08-12T06:51:20.861080+08:00",
+  "total_titles_processed": 556,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时03分 ~ 05时55分]"
+          "appearance_count": 6,
+          "time_info": "[01时03分 ~ 06时51分]"
         },
         {
           "title": "短剧演员自曝富婆带资进组演女主，给自己硬加 60 多场吻戏，短剧上线仅数日便被下架，如何看待此事？",
@@ -24,11 +24,12 @@
           "source": "知乎",
           "ranks": [
             15,
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时03分 ~ 05时55分]"
+          "appearance_count": 6,
+          "time_info": "[01时03分 ~ 06时51分]"
         }
       ]
     },
@@ -77,11 +78,12 @@
           "ranks": [
             19,
             18,
-            14
+            14,
+            9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时03分 ~ 05时55分]"
+          "appearance_count": 6,
+          "time_info": "[01时03分 ~ 06时51分]"
         }
       ]
     }
