@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-11T21:18:24.510540+08:00",
-  "total_titles_processed": 1605,
+  "generated_at": "2026-08-11T23:10:06.070831+08:00",
+  "total_titles_processed": 1733,
   "failed_sources": [],
   "trends": [
     {
@@ -92,7 +92,7 @@
     },
     {
       "keyword_group": "短剧",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "AI挤占短剧业,真人演员遭偷家",
@@ -114,11 +114,12 @@
           "ranks": [
             11,
             7,
-            8
+            8,
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时17分 ~ 21时18分]"
+          "appearance_count": 8,
+          "time_info": "[15时17分 ~ 23时10分]"
         },
         {
           "title": "短剧演员王译磊谈参加百花奖感受",
@@ -130,6 +131,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时06分 ~ 10时07分]"
+        },
+        {
+          "title": "短剧演员自曝富婆带资进组演女主，给自己硬加 60 多场吻戏，短剧上线仅数日便被下架，如何看待此事？",
+          "url": "https://www.zhihu.com/question/2069387389651215691",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时09分 ~ 23时10分]"
         },
         {
           "title": "短剧演员陈添祥谈出席百花奖感受",
@@ -206,11 +218,12 @@
           "url": "https://www.cls.cn/detail/2451001",
           "source": "财联社热门",
           "ranks": [
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时55分 ~ 21时18分]"
+          "appearance_count": 6,
+          "time_info": "[18时55分 ~ 23时10分]"
         },
         {
           "title": "爱芯元智下一代大算力AI芯片完成流片，支持多芯级联实现边缘侧满血大模型推理",
