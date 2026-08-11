@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-11T06:44:25.076935+08:00",
-  "total_titles_processed": 516,
+  "generated_at": "2026-08-11T10:07:00.688501+08:00",
+  "total_titles_processed": 706,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "GPT",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "OpenAI曝光GPT-6！传10万亿参数，8月强行发布",
@@ -29,6 +29,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时01分"
+        },
+        {
+          "title": "如何看待 GPT-6 （Astra）？",
+          "url": "https://www.zhihu.com/question/2070082903229347029",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时06分 ~ 10时07分]"
         },
         {
           "title": "OpenAI：GPT‑5.6‑CYBER并未被用于攻击Hugging Face，计划即将发布的其他模型也未参与此事。 强烈建议使用Codex的Daybreak客户，通过应用默认设置和界面功能，将“完全访问模式”切换至“自动审查模式”。 自9月1日起，要求Daybreak中的所有个人账户启用硬件安全密钥。 OpenAI正在扩大Daybreak项目规模，为开展授权工作的个人及获批机构设立两级访问权限：Daybreak Blue，提供包括 GPT‑5.6 Sol在内的前沿通用模型；Daybreak Red，开放全新GPT‑5.6‑Cyber模型，用于经授权的漏洞研究、漏洞利用验证以及安全测试。",
@@ -78,18 +89,58 @@
     },
     {
       "keyword_group": "短剧",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "AI挤占短剧业,真人演员遭偷家",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357005&amp;topic_name=AI%E6%8C%A4%E5%8D%A0%E7%9F%AD%E5%89%A7%E4%B8%9A%2C%E7%9C%9F%E4%BA%BA%E6%BC%94%E5%91%98%E9%81%AD%E5%81%B7%E5%AE%B6",
           "source": "贴吧",
           "ranks": [
-            21
+            21,
+            22
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时00分 ~ 06时44分]"
+          "appearance_count": 7,
+          "time_info": "[01时00分 ~ 10时07分]"
+        },
+        {
+          "title": "短剧演员王译磊谈参加百花奖感受",
+          "url": "https://www.toutiao.com/trending/7672236935222493190/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时06分 ~ 10时07分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "字节",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "原字节跳动机器人一号位加入小米，负责基座模型研发，这透露出小米在人工智能领域的哪些战略意图？",
+          "url": "https://www.zhihu.com/question/2069868469005326051",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时06分 ~ 10时07分]"
+        },
+        {
+          "title": "豆包否认推荐酒店抽取 12% 佣金，称仅在订单成交后收取渠道服务费，字节在打哪些商业算盘？",
+          "url": "https://www.zhihu.com/question/2070274629227083477",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时06分 ~ 10时07分]"
         }
       ]
     },
@@ -107,6 +158,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时00分 ~ 01时01分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "智谱",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "香港恒生指数开盘上涨0.24%，报25998.59点；恒生科技指数涨0.27%。MNIMAX涨4.2%，智谱涨3%。",
+          "url": "https://wallstreetcn.com/livenews/3147768",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时07分"
         }
       ]
     }
