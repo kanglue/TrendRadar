@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-13T12:57:12.069196+08:00",
-  "total_titles_processed": 935,
+  "generated_at": "2026-08-13T14:22:33.096415+08:00",
+  "total_titles_processed": 1022,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时49分 ~ 12时57分]"
+          "appearance_count": 6,
+          "time_info": "[07时49分 ~ 14时22分]"
         },
         {
           "title": "DeepSeek V4 Pro正式版上线",
@@ -31,6 +31,18 @@
           "time_info": "[01时03分 ~ 10时26分]"
         },
         {
+          "title": "DeepSeek V4 Pro正式版来了！尚未公布调价方案",
+          "url": "https://www.cls.cn/detail/2452920",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时26分 ~ 14时22分]"
+        },
+        {
           "title": "DeepSeek Pro 正式版已经发布，如何评价该模型？",
           "url": "https://www.zhihu.com/question/2071014727606703118",
           "source": "知乎",
@@ -43,16 +55,17 @@
           "time_info": "[01时03分 ~ 06时49分]"
         },
         {
-          "title": "DeepSeek V4 Pro正式版来了！尚未公布调价方案",
-          "url": "https://www.cls.cn/detail/2452920",
-          "source": "财联社热门",
+          "title": "DeepSeek V4 Pro正式版深夜“突袭”：多项测试逼近Fable 5，撞车Grok 4.6",
+          "url": "https://wallstreetcn.com/articles/3779306",
+          "source": "华尔街见闻",
           "ranks": [
-            3,
-            2
+            6,
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时26分 ~ 12时57分]"
+          "appearance_count": 4,
+          "time_info": "[10时26分 ~ 14时22分]"
         },
         {
           "title": "DeepSeek重磅更新 V4Pro正式版上线",
@@ -64,18 +77,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时49分 ~ 07时50分]"
-        },
-        {
-          "title": "DeepSeek V4 Pro正式版深夜“突袭”：多项测试逼近Fable 5，撞车Grok 4.6",
-          "url": "https://wallstreetcn.com/articles/3779306",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时26分 ~ 12时57分]"
         },
         {
           "title": "DeepSeek发布V4Pro正式版",
@@ -274,11 +275,12 @@
             18,
             7,
             21,
-            16
+            16,
+            13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时49分 ~ 12时57分]"
+          "appearance_count": 7,
+          "time_info": "[06时49分 ~ 14时22分]"
         }
       ]
     }
