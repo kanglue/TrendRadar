@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-14T04:50:52.637351+08:00",
-  "total_titles_processed": 387,
+  "generated_at": "2026-08-14T05:53:35.523650+08:00",
+  "total_titles_processed": 441,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时09分 ~ 04时50分]"
+          "appearance_count": 4,
+          "time_info": "[03时09分 ~ 05时53分]"
         },
         {
           "title": "如何评价在 8 月 13 日发布的 DeepSeek Harness？",
@@ -26,19 +26,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时09分 ~ 04时50分]"
+          "appearance_count": 4,
+          "time_info": "[03时09分 ~ 05时53分]"
         },
         {
-          "title": "DeepSeek宣布API涨价，8月17日起峰值价格最高涨至27元，新版V4 Pro正式上线",
-          "url": "https://wallstreetcn.com/articles/3779377",
-          "source": "华尔街见闻",
+          "title": "DeepSeek API确认涨价",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20API%E7%A1%AE%E8%AE%A4%E6%B6%A8%E4%BB%B7",
+          "source": "bilibili 热搜",
           "ranks": [
-            3
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时09分 ~ 04时50分]"
+          "appearance_count": 4,
+          "time_info": "[03时09分 ~ 05时53分]"
         },
         {
           "title": "俱往矣!DeepSeek大幅涨价",
@@ -48,41 +49,32 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时09分 ~ 04时50分]"
+          "appearance_count": 4,
+          "time_info": "[03时09分 ~ 05时53分]"
         },
         {
-          "title": "DeepSeek API确认涨价",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20API%E7%A1%AE%E8%AE%A4%E6%B6%A8%E4%BB%B7",
-          "source": "bilibili 热搜",
+          "title": "DeepSeek宣布API涨价，8月17日起峰值价格最高涨至27元，新版V4 Pro正式上线",
+          "url": "https://wallstreetcn.com/articles/3779377",
+          "source": "华尔街见闻",
           "ranks": [
+            3,
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时09分 ~ 04时50分]"
+          "appearance_count": 4,
+          "time_info": "[03时09分 ~ 05时53分]"
         },
         {
           "title": "DeepSeek智能体曝光！人人用得起的Agent？",
           "url": "https://wallstreetcn.com/articles/3779332",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时09分 ~ 04时50分]"
-        },
-        {
-          "title": "怎么看 DeepSeek Harness 正式开源，采用一切皆插件的架构？",
-          "url": "https://www.zhihu.com/question/2071348486667237276",
-          "source": "知乎",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时09分 ~ 04时50分]"
+          "appearance_count": 4,
+          "time_info": "[03时09分 ~ 05时53分]"
         },
         {
           "title": "DeepSeek Harness发布",
@@ -90,11 +82,24 @@
           "source": "bilibili 热搜",
           "ranks": [
             9,
-            17
+            17,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时09分 ~ 04时50分]"
+          "appearance_count": 4,
+          "time_info": "[03时09分 ~ 05时53分]"
+        },
+        {
+          "title": "怎么看 DeepSeek Harness 正式开源，采用一切皆插件的架构？",
+          "url": "https://www.zhihu.com/question/2071348486667237276",
+          "source": "知乎",
+          "ranks": [
+            8,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时09分 ~ 05时53分]"
         },
         {
           "title": "如何看待 Deepseek Harness 发布？",
@@ -102,22 +107,24 @@
           "source": "知乎",
           "ranks": [
             9,
-            10
+            10,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时09分 ~ 04时50分]"
+          "appearance_count": 4,
+          "time_info": "[03时09分 ~ 05时53分]"
         },
         {
           "title": "DeepSeek官方Agent发布",
           "url": "https://search.bilibili.com/all?keyword=DeepSeek%E5%AE%98%E6%96%B9Agent%E5%8F%91%E5%B8%83",
           "source": "bilibili 热搜",
           "ranks": [
-            23
+            23,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时09分 ~ 03时10分]"
+          "appearance_count": 3,
+          "time_info": "[03时09分 ~ 05时53分]"
         }
       ]
     },
