@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-14T18:10:16.033971+08:00",
-  "total_titles_processed": 1136,
+  "generated_at": "2026-08-14T19:50:09.927943+08:00",
+  "total_titles_processed": 1275,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[03时09分 ~ 18时10分]"
+          "appearance_count": 13,
+          "time_info": "[03时09分 ~ 19时50分]"
         },
         {
           "title": "DeepSeek宣布API涨价，8月17日起峰值价格最高涨至27元，新版V4 Pro正式上线",
@@ -30,8 +30,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[03时09分 ~ 18时10分]"
+          "appearance_count": 13,
+          "time_info": "[03时09分 ~ 19时50分]"
         },
         {
           "title": "怎么看 DeepSeek 8 月 17 日涨价后的价格，这个峰谷定价你接受吗？",
@@ -75,6 +75,19 @@
           "time_info": "[03时09分 ~ 10时24分]"
         },
         {
+          "title": "DeepSeek Harness 开发者预览版：一切皆插件",
+          "url": "https://wallstreetcn.com/articles/3779385",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[07时49分 ~ 19时50分]"
+        },
+        {
           "title": "DeepSeek API确认涨价",
           "url": "https://search.bilibili.com/all?keyword=DeepSeek%20API%E7%A1%AE%E8%AE%A4%E6%B6%A8%E4%BB%B7",
           "source": "bilibili 热搜",
@@ -115,17 +128,17 @@
           "time_info": "[03时09分 ~ 07时50分]"
         },
         {
-          "title": "DeepSeek Harness 开发者预览版：一切皆插件",
-          "url": "https://wallstreetcn.com/articles/3779385",
+          "title": "DeepSeek Harness 来了，它不想做下一个Codex",
+          "url": "https://wallstreetcn.com/articles/3779390",
           "source": "华尔街见闻",
           "ranks": [
-            9,
-            7,
-            6
+            10,
+            8,
+            7
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[07时49分 ~ 18时10分]"
+          "time_info": "[10时24分 ~ 19时50分]"
         },
         {
           "title": "DeepSeek Harness是什么",
@@ -186,19 +199,6 @@
           "time_info": "[10时24分 ~ 12时53分]"
         },
         {
-          "title": "DeepSeek Harness 来了，它不想做下一个Codex",
-          "url": "https://wallstreetcn.com/articles/3779390",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时24分 ~ 18时10分]"
-        },
-        {
           "title": "如何看待 Deepseek Harness 发布？",
           "url": "https://www.zhihu.com/question/2071331484284220938",
           "source": "知乎",
@@ -219,8 +219,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时09分 ~ 18时10分]"
+          "appearance_count": 4,
+          "time_info": "[18时09分 ~ 19时50分]"
         },
         {
           "title": "DeepSeek官网撤公告疑似回滚",
@@ -341,8 +341,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时09分 ~ 18时10分]"
+          "appearance_count": 4,
+          "time_info": "[18时09分 ~ 19时50分]"
         },
         {
           "title": "OpenAI：GPT-5.6 Sol超高速模式（UltraFast Mode）已向部分客户群体开放有限预览。",
@@ -373,17 +373,6 @@
       "match_count": 2,
       "titles": [
         {
-          "title": "智谱发布GLM-5.3模型",
-          "url": "https://search.bilibili.com/all?keyword=%E6%99%BA%E8%B0%B1%E5%8F%91%E5%B8%83%20GLM-5.3%20%E6%A8%A1%E5%9E%8B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时09分 ~ 18时10分]"
-        },
-        {
           "title": "智谱发布 GLM-5.3，如何评价前沿编程能力与涌现的网络安全能力?",
           "url": "https://www.zhihu.com/question/2071591447367770456",
           "source": "知乎",
@@ -391,8 +380,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时09分 ~ 18时10分]"
+          "appearance_count": 4,
+          "time_info": "[18时09分 ~ 19时50分]"
+        },
+        {
+          "title": "智谱发布GLM-5.3模型",
+          "url": "https://search.bilibili.com/all?keyword=%E6%99%BA%E8%B0%B1%E5%8F%91%E5%B8%83%20GLM-5.3%20%E6%A8%A1%E5%9E%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时09分 ~ 19时50分]"
         }
       ]
     },
@@ -407,7 +408,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时10分"
         }
@@ -422,11 +423,12 @@
           "url": "https://www.cls.cn/detail/2454596",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时09分 ~ 18时10分]"
+          "appearance_count": 4,
+          "time_info": "[18时09分 ~ 19时50分]"
         }
       ]
     }
