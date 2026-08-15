@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-15T07:28:31.742293+08:00",
-  "total_titles_processed": 491,
+  "generated_at": "2026-08-15T09:36:39.650509+08:00",
+  "total_titles_processed": 618,
   "failed_sources": [],
   "trends": [
     {
@@ -26,8 +26,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时02分 ~ 07时28分]"
+          "appearance_count": 5,
+          "time_info": "[03时02分 ~ 09时36分]"
         },
         {
           "title": "DeepSeek Harness实测",
@@ -36,11 +36,12 @@
           "ranks": [
             8,
             9,
-            18
+            18,
+            22
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时02分 ~ 07时28分]"
+          "appearance_count": 5,
+          "time_info": "[03时02分 ~ 09时36分]"
         },
         {
           "title": "网友热议DeepSeek Harness：“自进化软件”的雏形",
@@ -56,26 +57,20 @@
       ]
     },
     {
-      "keyword_group": "GPT",
-      "match_count": 1,
+      "keyword_group": "智谱",
+      "match_count": 2,
       "titles": [
         {
-          "title": "美国少年杀死母亲、弟弟，被指用ChatGPT策划",
-          "url": "https://news.ifeng.com/c/8vaHkh2o1IS",
-          "source": "凤凰网",
+          "title": "刚刚！智谱发布GLM-5.3模型、“为编程而生”，性能比肩Fable 5",
+          "url": "https://wallstreetcn.com/articles/3779432",
+          "source": "华尔街见闻",
           "ranks": [
-            11
+            6
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时02分 ~ 07时28分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "智谱",
-      "match_count": 1,
-      "titles": [
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时36分"
+        },
         {
           "title": "智谱发布GLM-5.3模型",
           "url": "https://search.bilibili.com/all?keyword=%E6%99%BA%E8%B0%B1%E5%8F%91%E5%B8%83%20GLM-5.3%20%E6%A8%A1%E5%9E%8B",
@@ -90,6 +85,23 @@
       ]
     },
     {
+      "keyword_group": "GPT",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美国少年杀死母亲、弟弟，被指用ChatGPT策划",
+          "url": "https://news.ifeng.com/c/8vaHkh2o1IS",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[03时02分 ~ 09时36分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "大模型",
       "match_count": 1,
       "titles": [
@@ -98,11 +110,12 @@
           "url": "https://www.cls.cn/detail/2454596",
           "source": "财联社热门",
           "ranks": [
-            10
+            10,
+            12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时02分 ~ 07时28分]"
+          "appearance_count": 5,
+          "time_info": "[03时02分 ~ 09时36分]"
         }
       ]
     }
