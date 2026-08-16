@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-16T14:49:52.568862+08:00",
-  "total_titles_processed": 721,
+  "generated_at": "2026-08-16T15:36:33.455099+08:00",
+  "total_titles_processed": 778,
   "failed_sources": [],
   "trends": [
     {
@@ -31,6 +31,18 @@
           "time_info": "07时26分"
         },
         {
+          "title": "Anthropic Q2 营收逾 115 亿美元，同比增 14 倍，是何引爆了其业绩，大模型商业化成功了？",
+          "url": "https://www.zhihu.com/question/2071916942760342436",
+          "source": "知乎",
+          "ranks": [
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时49分 ~ 15时36分]"
+        },
+        {
           "title": "美国大模型帮日本对AI进行投毒",
           "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%B8%AE%E6%97%A5%E6%9C%AC%E5%AF%B9AI%E8%BF%9B%E8%A1%8C%E6%8A%95%E6%AF%92%23&t=31&band_rank=20&Refer=top",
           "source": "微博",
@@ -40,17 +52,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时42分 ~ 09时43分]"
-        },
-        {
-          "title": "Anthropic Q2 营收逾 115 亿美元，同比增 14 倍，是何引爆了其业绩，大模型商业化成功了？",
-          "url": "https://www.zhihu.com/question/2071916942760342436",
-          "source": "知乎",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时49分"
         }
       ]
     },
@@ -105,11 +106,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             5,
-            10
+            10,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时34分 ~ 14时49分]"
+          "appearance_count": 3,
+          "time_info": "[13时34分 ~ 15时36分]"
         }
       ]
     }
