@@ -1,39 +1,12 @@
 {
-  "generated_at": "2026-10-17T20:51:32.832906+08:00",
-  "total_titles_processed": 1059,
+  "generated_at": "2026-10-18T00:15:49.564301+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "Deepseek",
-      "match_count": 9,
+      "match_count": 4,
       "titles": [
-        {
-          "title": "DeepSeek 将整合多团队成立产品部，崔添翼任负责人，怎样看待这一调整？会带来哪些影响？",
-          "url": "https://www.zhihu.com/question/2094475735796643677",
-          "source": "知乎",
-          "ranks": [
-            3,
-            4,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时48分 ~ 11时53分]"
-        },
-        {
-          "title": "已恢复!DeepSeek发故障补偿",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367231&amp;topic_name=%E5%B7%B2%E6%81%A2%E5%A4%8D%21DeepSeek%E5%8F%91%E6%95%85%E9%9A%9C%E8%A1%A5%E5%81%BF",
-          "source": "贴吧",
-          "ranks": [
-            9,
-            14,
-            18,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时16分 ~ 20时51分]"
-        },
         {
           "title": "如何评价 DeepSeek V4.1 Flash 1017?",
           "url": "https://www.zhihu.com/question/2094773240036061683",
@@ -41,163 +14,42 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时51分"
+          "time_info": "00时15分"
+        },
+        {
+          "title": "“许愿式”编程能力升级！DeepSeek上新：开放自研搜索API，千次调用仅5元",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34271084",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时15分"
         },
         {
           "title": "用DeepSeek翻唱人是猫",
           "url": "https://search.bilibili.com/all?keyword=%E7%94%A8DeepSeek%E7%BF%BB%E5%94%B1%E4%BA%BA%E6%98%AF%E7%8C%AB",
           "source": "bilibili 热搜",
           "ranks": [
-            16,
-            23,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时16分 ~ 20时51分]"
-        },
-        {
-          "title": "如何看待网友说 DeepSeek 在爱里长大？",
-          "url": "https://www.zhihu.com/question/2093751116613866755",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时16分 ~ 07时24分]"
-        },
-        {
-          "title": "Deepseek V4.1 Flash新版本发布",
-          "url": "https://search.bilibili.com/all?keyword=Deepseek%20V4.1%20Flash",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时51分"
-        },
-        {
-          "title": "DeepSeek上线搜索抓取API",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E4%B8%8A%E7%BA%BF%E6%90%9C%E7%B4%A2%E6%8A%93%E5%8F%96API",
-          "source": "bilibili 热搜",
-          "ranks": [
-            12
+            22
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时53分"
+          "time_info": "00时15分"
         },
         {
-          "title": "DeepSeek新版本 许愿式编程一键成真",
-          "url": "https://www.baidu.com/s?wd=DeepSeek%E6%96%B0%E7%89%88%E6%9C%AC+%E8%AE%B8%E6%84%BF%E5%BC%8F%E7%BC%96%E7%A8%8B%E4%B8%80%E9%94%AE%E6%88%90%E7%9C%9F",
-          "source": "百度热搜",
+          "title": "已恢复!DeepSeek发故障补偿",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367231&amp;topic_name=%E5%B7%B2%E6%81%A2%E5%A4%8D%21DeepSeek%E5%8F%91%E6%95%85%E9%9A%9C%E8%A1%A5%E5%81%BF",
+          "source": "贴吧",
           "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时51分"
-        },
-        {
-          "title": "DeepSeek V4.1 Flash发布新版本",
-          "url": "https://wallstreetcn.com/livenews/3180557",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时51分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "大模型",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "国产大模型攻克世界级数学难题",
-          "url": "https://wallstreetcn.com/livenews/3180533",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时53分 ~ 16时26分]"
-        },
-        {
-          "title": "如何看待微软已完成 2.8T 大模型的预训练？",
-          "url": "https://www.zhihu.com/question/2094234009622599449",
-          "source": "知乎",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时16分 ~ 04时48分]"
-        },
-        {
-          "title": "国产大模型攻克世界级数学难题",
-          "url": "https://flash.jin10.com/detail/20261017105437724800",
-          "source": "金十数据",
-          "ranks": [
-            9
+            22
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时53分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "GPT",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "OpenAI：ChatGPT中的GPT-6 Astra Pro获得升级，响应速度更快，插件和工具的使用也得到改进。 现在，多个智能体可以并行处理一项任务的不同部分。 用户可以跟踪每个智能体的进度，并打开已完成的任务查看其工作成果。",
-          "url": "https://wallstreetcn.com/livenews/3180472",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时48分"
-        },
-        {
-          "title": "OpenAI：ChatGPT中的GPT-6 Astra Pro已升级，响应速度更快，插件与工具调用能力也得到提升。现在，多个智能体可并行处理任务的不同部分。你可以实时跟踪每个智能体的进展，并打开已完成的任务查看其工作成果。该功能现已面向Pro用户，在Chat标签页中上线。",
-          "url": "https://flash.jin10.com/detail/20261017042959135800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时48分 ~ 07时24分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "短剧",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "短剧式恶女反派演技",
-          "url": "https://s.weibo.com/weibo?q=%E7%9F%AD%E5%89%A7%E5%BC%8F%E6%81%B6%E5%A5%B3%E5%8F%8D%E6%B4%BE%E6%BC%94%E6%8A%80&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时48分"
+          "time_info": "00时15分"
         }
       ]
     }
