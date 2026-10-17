@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-18T03:10:42.801100+08:00",
-  "total_titles_processed": 383,
+  "generated_at": "2026-10-18T06:06:50.497149+08:00",
+  "total_titles_processed": 437,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时15分 ~ 03时10分]"
+          "appearance_count": 3,
+          "time_info": "[00时15分 ~ 06时06分]"
         },
         {
           "title": "用DeepSeek翻唱人是猫",
@@ -24,11 +24,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             22,
-            12
+            12,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时15分 ~ 03时10分]"
+          "appearance_count": 3,
+          "time_info": "[00时15分 ~ 06时06分]"
         },
         {
           "title": "“许愿式”编程能力升级！DeepSeek上新：开放自研搜索API，千次调用仅5元",
@@ -39,8 +40,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时15分 ~ 03时10分]"
+          "appearance_count": 3,
+          "time_info": "[00时15分 ~ 06时06分]"
         },
         {
           "title": "已恢复!DeepSeek发故障补偿",
@@ -50,8 +51,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时15分 ~ 03时10分]"
+          "appearance_count": 3,
+          "time_info": "[00时15分 ~ 06时06分]"
         }
       ]
     }
