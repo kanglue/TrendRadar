@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-18T00:15:49.564301+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-10-18T03:10:42.801100+08:00",
+  "total_titles_processed": 383,
   "failed_sources": [],
   "trends": [
     {
@@ -15,30 +15,32 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时15分"
-        },
-        {
-          "title": "“许愿式”编程能力升级！DeepSeek上新：开放自研搜索API，千次调用仅5元",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34271084",
-          "source": "澎湃新闻",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时15分"
+          "appearance_count": 2,
+          "time_info": "[00时15分 ~ 03时10分]"
         },
         {
           "title": "用DeepSeek翻唱人是猫",
           "url": "https://search.bilibili.com/all?keyword=%E7%94%A8DeepSeek%E7%BF%BB%E5%94%B1%E4%BA%BA%E6%98%AF%E7%8C%AB",
           "source": "bilibili 热搜",
           "ranks": [
-            22
+            22,
+            12
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时15分"
+          "appearance_count": 2,
+          "time_info": "[00时15分 ~ 03时10分]"
+        },
+        {
+          "title": "“许愿式”编程能力升级！DeepSeek上新：开放自研搜索API，千次调用仅5元",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34271084",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时15分 ~ 03时10分]"
         },
         {
           "title": "已恢复!DeepSeek发故障补偿",
@@ -48,8 +50,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时15分"
+          "appearance_count": 2,
+          "time_info": "[00时15分 ~ 03时10分]"
         }
       ]
     }
