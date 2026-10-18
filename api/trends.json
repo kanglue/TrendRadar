@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-18T13:38:25.030369+08:00",
-  "total_titles_processed": 719,
+  "generated_at": "2026-10-18T18:45:22.371292+08:00",
+  "total_titles_processed": 908,
   "failed_sources": [],
   "trends": [
     {
@@ -18,6 +18,19 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时15分 ~ 08时47分]"
+        },
+        {
+          "title": "【早报】两部门：支持体育运动进影院；DeepSeek新模型登场",
+          "url": "https://www.cls.cn/detail/2507548",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时46分 ~ 18时45分]"
         },
         {
           "title": "“许愿式”编程能力升级！DeepSeek上新：开放自研搜索API，千次调用仅5元",
@@ -49,18 +62,6 @@
           "time_info": "[00时15分 ~ 13时38分]"
         },
         {
-          "title": "【早报】两部门：支持体育运动进影院；DeepSeek新模型登场",
-          "url": "https://www.cls.cn/detail/2507548",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时46分 ~ 13时38分]"
-        },
-        {
           "title": "已恢复!DeepSeek发故障补偿",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367231&amp;topic_name=%E5%B7%B2%E6%81%A2%E5%A4%8D%21DeepSeek%E5%8F%91%E6%95%85%E9%9A%9C%E8%A1%A5%E5%81%BF",
           "source": "贴吧",
@@ -77,11 +78,12 @@
           "url": "https://search.bilibili.com/all?keyword=DeepSeek%E6%96%B0%E6%A8%A1%E5%9E%8B%E5%AF%B9%E6%AF%94Astra",
           "source": "bilibili 热搜",
           "ranks": [
-            7
+            7,
+            30
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时38分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时38分 ~ 18时45分]"
         },
         {
           "title": "如何看待 DeepSeek-4.1-flash-1017 指纹测出来是 6-astra，版本实测如何？",
@@ -90,7 +92,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时38分"
         }
@@ -98,8 +100,19 @@
     },
     {
       "keyword_group": "短剧",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "短剧 降智",
+          "url": "https://www.baidu.com/s?wd=%E7%9F%AD%E5%89%A7+%E9%99%8D%E6%99%BA",
+          "source": "百度热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时45分"
+        },
         {
           "title": "AI短剧是如何成功出海的",
           "url": "https://search.bilibili.com/all?keyword=AI%E7%9F%AD%E5%89%A7%E6%98%AF%E5%A6%82%E4%BD%95%E6%88%90%E5%8A%9F%E5%87%BA%E6%B5%B7%E7%9A%84",
@@ -110,6 +123,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时46分 ~ 08时47分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "GPT",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "网传 DeepSeek V4.1 Flash 1017 指纹测出 GPT-6 Astra，这是怎么回事？",
+          "url": "https://www.zhihu.com/question/2094959269275878409",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时45分"
         }
       ]
     }
