@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-19T01:58:11.470299+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-10-19T04:26:21.227095+08:00",
+  "total_titles_processed": 366,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时57分 ~ 01时58分]"
+          "appearance_count": 3,
+          "time_info": "[01时57分 ~ 04时26分]"
         },
         {
           "title": "Deepseek公布API网页搜索与抓取费用：每1000次成功请求5元",
@@ -25,9 +25,9 @@
           "ranks": [
             11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时58分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时58分 ~ 04时26分]"
         }
       ]
     },
@@ -40,11 +40,12 @@
           "url": "https://www.zhihu.com/question/2094959269275878409",
           "source": "知乎",
           "ranks": [
-            13
+            13,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时57分 ~ 01时58分]"
+          "appearance_count": 3,
+          "time_info": "[01时57分 ~ 04时26分]"
         }
       ]
     }
