@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-19T04:26:21.227095+08:00",
-  "total_titles_processed": 366,
+  "generated_at": "2026-10-19T06:56:05.683976+08:00",
+  "total_titles_processed": 438,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时57分 ~ 04时26分]"
+          "appearance_count": 5,
+          "time_info": "[01时57分 ~ 06时56分]"
         },
         {
           "title": "Deepseek公布API网页搜索与抓取费用：每1000次成功请求5元",
@@ -41,11 +41,12 @@
           "source": "知乎",
           "ranks": [
             13,
-            11
+            11,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时57分 ~ 04时26分]"
+          "appearance_count": 5,
+          "time_info": "[01时57分 ~ 06时56分]"
         }
       ]
     }
