@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-19T14:03:06.702724+08:00",
-  "total_titles_processed": 801,
+  "generated_at": "2026-10-19T22:31:19.649311+08:00",
+  "total_titles_processed": 1048,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "Deepseek",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "【早报】两部门：支持体育运动进影院；DeepSeek新模型登场",
@@ -24,11 +24,24 @@
           "url": "https://www.zhihu.com/question/2093628371448217836",
           "source": "知乎",
           "ranks": [
-            2
+            2,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时02分 ~ 14时03分]"
+          "appearance_count": 3,
+          "time_info": "[14时02分 ~ 22时31分]"
+        },
+        {
+          "title": "如何评价 DeepSeek 开放自研搜索 API，单价为每 1000 次成功请求 5 元？",
+          "url": "https://www.zhihu.com/question/2094892066190915387",
+          "source": "知乎",
+          "ranks": [
+            16,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时02分 ~ 22时31分]"
         },
         {
           "title": "Deepseek 对百度搜索的冲击有多大？",
@@ -53,15 +66,15 @@
           "time_info": "[01时58分 ~ 04时26分]"
         },
         {
-          "title": "如何评价 DeepSeek 开放自研搜索 API，单价为每 1000 次成功请求 5 元？",
-          "url": "https://www.zhihu.com/question/2094892066190915387",
+          "title": "Deepseek对传统搜索的冲击有多大？",
+          "url": "https://www.zhihu.com/question/13453602540",
           "source": "知乎",
           "ranks": [
             16
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时02分 ~ 14时03分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时31分"
         }
       ]
     },
@@ -95,9 +108,26 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时03分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "MiniMax",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "MiniMax M3.1 Flash 上线，性能全面加强，速度提升 3 倍，价格降低 70%",
+          "url": "https://wallstreetcn.com/livenews/3181212",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时31分"
         }
       ]
     },
@@ -115,6 +145,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时01分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "算法",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "马上评｜孕妇没投诉却被快递员找上门，算法别冤枉劳动者",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34279785",
+          "source": "澎湃新闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时31分"
         }
       ]
     }
