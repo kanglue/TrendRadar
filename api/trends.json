@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-21T04:22:34.609566+08:00",
-  "total_titles_processed": 425,
+  "generated_at": "2026-10-21T07:44:00.010696+08:00",
+  "total_titles_processed": 545,
   "failed_sources": [],
   "trends": [
     {
@@ -34,11 +34,12 @@
           "url": "https://www.zhihu.com/question/2095938083422262957",
           "source": "知乎",
           "ranks": [
-            4
+            4,
+            1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时22分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时22分 ~ 07时43分]"
         },
         {
           "title": "无理打压中企！美国政府下令全面移除DeepSeek技术",
@@ -48,8 +49,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时39分 ~ 04时22分]"
+          "appearance_count": 4,
+          "time_info": "[00时39分 ~ 07时43分]"
         },
         {
           "title": "DeepSeek一张卡每小时收入38美元",
@@ -69,7 +70,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时22分"
         }
@@ -79,6 +80,18 @@
       "keyword_group": "短剧",
       "match_count": 2,
       "titles": [
+        {
+          "title": "「红果短剧降智」引发广泛热议，为什么越是剧情粗糙的短剧越让人停不下来？",
+          "url": "https://www.zhihu.com/question/2095511427201159433",
+          "source": "知乎",
+          "ranks": [
+            20,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时22分 ~ 07时43分]"
+        },
         {
           "title": "现在 AI 短剧满天飞，怎么没见影视行业人员发声？",
           "url": "https://www.zhihu.com/question/2090228809819862141",
@@ -90,17 +103,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时39分 ~ 04时22分]"
-        },
-        {
-          "title": "「红果短剧降智」引发广泛热议，为什么越是剧情粗糙的短剧越让人停不下来？",
-          "url": "https://www.zhihu.com/question/2095511427201159433",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时22分"
         }
       ]
     }
