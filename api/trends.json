@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-10-21T00:40:10.854472+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2026-10-21T04:22:34.609566+08:00",
+  "total_titles_processed": 425,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "Deepseek",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
+        {
+          "title": "如何看待 DeepSeek 开源的大规模云服务推理框架 DeepInfer ？",
+          "url": "https://www.zhihu.com/question/2095922064804636469",
+          "source": "知乎",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时39分 ~ 04时22分]"
+        },
         {
           "title": "美国政府指示各机构停用DeepSeek，外交部：反对将科技经贸问题政治化",
           "url": "https://www.cls.cn/detail/2509748",
@@ -19,15 +30,15 @@
           "time_info": "[00时39分 ~ 00时40分]"
         },
         {
-          "title": "如何看待 DeepSeek 开源的大规模云服务推理框架 DeepInfer ？",
-          "url": "https://www.zhihu.com/question/2095922064804636469",
+          "title": "怎么看 DeepSeek 官宣单集群日均吞吐达 155 万亿 Token，单卡每小时收入 38 美金？",
+          "url": "https://www.zhihu.com/question/2095938083422262957",
           "source": "知乎",
           "ranks": [
-            2
+            4
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时39分 ~ 00时40分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时22分"
         },
         {
           "title": "无理打压中企！美国政府下令全面移除DeepSeek技术",
@@ -37,8 +48,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时39分 ~ 00时40分]"
+          "appearance_count": 3,
+          "time_info": "[00时39分 ~ 04时22分]"
         },
         {
           "title": "DeepSeek一张卡每小时收入38美元",
@@ -50,23 +61,46 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时39分 ~ 00时40分]"
+        },
+        {
+          "title": "如何评价 DeepSeek V4.1 Flash 1017 登顶「史上最差 AI 模型名称排行榜」?",
+          "url": "https://www.zhihu.com/question/2095476625228019430",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时22分"
         }
       ]
     },
     {
       "keyword_group": "短剧",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "现在 AI 短剧满天飞，怎么没见影视行业人员发声？",
           "url": "https://www.zhihu.com/question/2090228809819862141",
           "source": "知乎",
           "ranks": [
-            7
+            7,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时39分 ~ 00时40分]"
+          "appearance_count": 3,
+          "time_info": "[00时39分 ~ 04时22分]"
+        },
+        {
+          "title": "「红果短剧降智」引发广泛热议，为什么越是剧情粗糙的短剧越让人停不下来？",
+          "url": "https://www.zhihu.com/question/2095511427201159433",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时22分"
         }
       ]
     }
