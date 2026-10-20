@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-10-20T08:12:24.769261+08:00",
-  "total_titles_processed": 451,
+  "generated_at": "2026-10-20T13:48:20.870233+08:00",
+  "total_titles_processed": 671,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "Deepseek",
-      "match_count": 5,
+      "match_count": 8,
       "titles": [
         {
           "title": "如何评价 DeepSeek V4.1 Flash 1017 登顶「史上最差 AI 模型名称排行榜」?",
           "url": "https://www.zhihu.com/question/2095476625228019430",
           "source": "知乎",
           "ranks": [
-            3
+            3,
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时12分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时12分 ~ 13时48分]"
         },
         {
           "title": "梁文锋和 DeepSeek，为什么配得上 「 国运级 」 三个字？",
@@ -53,13 +54,46 @@
           "time_info": "[04时29分 ~ 04时30分]"
         },
         {
+          "title": "如何评价美国国土安全部将 DeepSeek 及相关第三方产品排除出联邦文职采购？",
+          "url": "https://www.zhihu.com/question/2095646780692099465",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时48分"
+        },
+        {
+          "title": "DeepSeek新模型升级背后",
+          "url": "https://www.toutiao.com/trending/7698600981168147977/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时48分"
+        },
+        {
+          "title": "针对DeepSeek 美国政府下黑手",
+          "url": "https://www.baidu.com/s?wd=%E9%92%88%E5%AF%B9DeepSeek+%E7%BE%8E%E5%9B%BD%E6%94%BF%E5%BA%9C%E4%B8%8B%E9%BB%91%E6%89%8B",
+          "source": "百度热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时48分"
+        },
+        {
           "title": "实测Deepseek v4.1动画效果",
           "url": "https://www.douyin.com/hot/2703379",
           "source": "抖音",
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时12分"
         }
@@ -67,8 +101,30 @@
     },
     {
       "keyword_group": "MiniMax",
-      "match_count": 1,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "港股大模型股持续走低，智谱跌超5%，股价跌破500港元；MINIMAX跌超6%。",
+          "url": "https://wallstreetcn.com/livenews/3181598",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时48分"
+        },
+        {
+          "title": "港股大模型双雄齐跌，智谱(02513.HK)跌超5%，股价跌破500港元；MINIMAX-W(00100.HK)跌6.5%。",
+          "url": "https://flash.jin10.com/detail/20261020131806118800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时48分"
+        },
         {
           "title": "MiniMax认领Space Bunny",
           "url": "https://search.bilibili.com/all?keyword=MiniMax%E8%AE%A4%E9%A2%86Space%20Bunny",
