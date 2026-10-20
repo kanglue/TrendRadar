@@ -1,22 +1,34 @@
 {
-  "generated_at": "2026-10-20T04:30:18.771990+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-10-20T08:12:24.769261+08:00",
+  "total_titles_processed": 451,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "Deepseek",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "如何评价 DeepSeek V4.1 Flash 1017 登顶「史上最差 AI 模型名称排行榜」?",
+          "url": "https://www.zhihu.com/question/2095476625228019430",
+          "source": "知乎",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时12分"
+        },
         {
           "title": "梁文锋和 DeepSeek，为什么配得上 「 国运级 」 三个字？",
           "url": "https://www.zhihu.com/question/2093628371448217836",
           "source": "知乎",
           "ranks": [
-            11
+            11,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时29分 ~ 04时30分]"
+          "appearance_count": 3,
+          "time_info": "[04时29分 ~ 08时12分]"
         },
         {
           "title": "Deepseek对传统搜索的冲击有多大？",
@@ -39,6 +51,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时29分 ~ 04时30分]"
+        },
+        {
+          "title": "实测Deepseek v4.1动画效果",
+          "url": "https://www.douyin.com/hot/2703379",
+          "source": "抖音",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时12分"
         }
       ]
     },
@@ -68,11 +91,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_34279785",
           "source": "澎湃新闻",
           "ranks": [
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时29分 ~ 04时30分]"
+          "appearance_count": 3,
+          "time_info": "[04时29分 ~ 08时12分]"
         }
       ]
     }
