@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-21T12:10:21.810463+08:00",
-  "total_titles_processed": 758,
+  "generated_at": "2026-10-21T17:57:01.116697+08:00",
+  "total_titles_processed": 973,
   "failed_sources": [],
   "trends": [
     {
@@ -70,7 +70,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时10分"
         },
@@ -89,7 +89,7 @@
     },
     {
       "keyword_group": "短剧",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "「红果短剧降智」引发广泛热议，为什么越是剧情粗糙的短剧越让人停不下来？",
@@ -115,6 +115,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时39分 ~ 04时22分]"
+        },
+        {
+          "title": "红果短剧将下线金币功能",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BA%A2%E6%9E%9C%E7%9F%AD%E5%89%A7%E5%B0%86%E4%B8%8B%E7%BA%BF%E9%87%91%E5%B8%81%E5%8A%9F%E8%83%BD%23&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时56分 ~ 17时57分]"
         }
       ]
     }
