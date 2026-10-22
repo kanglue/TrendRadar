@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-22T07:09:06.417595+08:00",
-  "total_titles_processed": 408,
+  "generated_at": "2026-10-22T12:10:47.055053+08:00",
+  "total_titles_processed": 632,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "短剧",
-      "match_count": 3,
+      "match_count": 6,
       "titles": [
         {
           "title": "红果短剧自砍摇钱树",
@@ -17,6 +17,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时15分 ~ 07时09分]"
+        },
+        {
+          "title": "红果短剧宣布将下线金币功能，这一商业决策背后有哪些考虑？是不需要靠「薅羊毛」引流实现增长了吗？",
+          "url": "https://www.zhihu.com/question/2096299255153391558",
+          "source": "知乎",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时10分"
         },
         {
           "title": "红果短剧：预计自2026年11月1日起，不再向新用户提供金币功能；2026年12月底前，全面下线金币功能",
@@ -40,23 +51,91 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时15分 ~ 07时09分]"
+        },
+        {
+          "title": "用短剧打开长征的伟大征途",
+          "url": "https://www.douyin.com/hot/2707405",
+          "source": "抖音",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时10分"
+        },
+        {
+          "title": "红果短剧暂无全面收费计划",
+          "url": "https://s.weibo.com/weibo?q=%E7%BA%A2%E6%9E%9C%E7%9F%AD%E5%89%A7%E6%9A%82%E6%97%A0%E5%85%A8%E9%9D%A2%E6%94%B6%E8%B4%B9%E8%AE%A1%E5%88%92&t=31&band_rank=25&Refer=top",
+          "source": "微博",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时10分"
         }
       ]
     },
     {
       "keyword_group": "Deepseek",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "腾讯姚顺雨想把DeepSeek卷到加班",
           "url": "https://www.toutiao.com/trending/7697961005829668883/",
           "source": "今日头条",
           "ranks": [
-            19
+            19,
+            25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时15分 ~ 07时09分]"
+          "appearance_count": 4,
+          "time_info": "[03时15分 ~ 12时10分]"
+        },
+        {
+          "title": "报道：DeepSeek完成1000亿元融资 宁德时代和腾讯参投",
+          "url": "https://wallstreetcn.com/livenews/3183128",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时10分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "GPT",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "宇树科技王兴兴：AI模型的输入输出和真实机器人的对齐是具身智能迈过ChatGPT时刻最核心挑战",
+          "url": "https://wallstreetcn.com/livenews/3183138",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时10分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "大模型",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "八部门：加强产业基础领域通用大模型和行业大模型研发布局 推动工业机理与智能体决策模型融合",
+          "url": "https://www.cls.cn/detail/2511817",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时10分"
         }
       ]
     }
