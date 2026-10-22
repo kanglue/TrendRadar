@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-22T18:01:24.425834+08:00",
-  "total_titles_processed": 859,
+  "generated_at": "2026-10-22T23:01:58.739652+08:00",
+  "total_titles_processed": 1070,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "短剧",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "红果短剧自砍摇钱树",
@@ -31,6 +31,18 @@
           "time_info": "[12时10分 ~ 18时01分]"
         },
         {
+          "title": "AI短剧走强，制作不再稀缺，钱到底谁赚？券商吵起来了",
+          "url": "https://www.cls.cn/detail/2512263",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时00分 ~ 23时01分]"
+        },
+        {
           "title": "红果短剧：预计自2026年11月1日起，不再向新用户提供金币功能；2026年12月底前，全面下线金币功能",
           "url": "https://www.cls.cn/detail/2511111",
           "source": "财联社热门",
@@ -54,17 +66,6 @@
           "time_info": "[03时15分 ~ 07时09分]"
         },
         {
-          "title": "AI短剧走强，制作不再稀缺，钱到底谁赚？券商吵起来了",
-          "url": "https://www.cls.cn/detail/2512263",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时00分 ~ 18时01分]"
-        },
-        {
           "title": "用短剧打开长征的伟大征途",
           "url": "https://www.douyin.com/hot/2707405",
           "source": "抖音",
@@ -85,12 +86,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时10分"
+        },
+        {
+          "title": "为防沉迷 红果短剧“自砍摇钱树”",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%BA%E9%98%B2%E6%B2%89%E8%BF%B7+%E7%BA%A2%E6%9E%9C%E7%9F%AD%E5%89%A7%E2%80%9C%E8%87%AA%E7%A0%8D%E6%91%87%E9%92%B1%E6%A0%91%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时01分"
         }
       ]
     },
     {
       "keyword_group": "Deepseek",
-      "match_count": 4,
+      "match_count": 7,
       "titles": [
         {
           "title": "“DeepSeek才是真正的OpenAI”",
@@ -102,6 +114,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时00分 ~ 18时01分]"
+        },
+        {
+          "title": "DeepSeek完成1000亿融资",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E5%AE%8C%E6%88%901000%E4%BA%BF%E8%9E%8D%E8%B5%84",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时01分"
+        },
+        {
+          "title": "如何评价 SemiAnalysis 认为 DeepSeek 与华为已形成共生关系？",
+          "url": "https://www.zhihu.com/question/2096603053763846842",
+          "source": "知乎",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时01分"
         },
         {
           "title": "腾讯姚顺雨想把DeepSeek卷到加班",
@@ -125,6 +159,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时00分 ~ 18时01分]"
+        },
+        {
+          "title": "“DeepSeek才是真正的OpenAI”",
+          "url": "https://news.ifeng.com/c/8xQqgcTDXjq",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时01分"
         },
         {
           "title": "报道：DeepSeek完成1000亿元融资 宁德时代和腾讯参投",
