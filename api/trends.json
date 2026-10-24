@@ -1,22 +1,34 @@
 {
-  "generated_at": "2026-10-24T06:02:14.303170+08:00",
-  "total_titles_processed": 405,
+  "generated_at": "2026-10-24T09:27:54.641724+08:00",
+  "total_titles_processed": 565,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "短剧",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "AI短剧公司几乎不需要基础岗",
+          "url": "https://s.weibo.com/weibo?q=AI%E7%9F%AD%E5%89%A7%E5%85%AC%E5%8F%B8%E5%87%A0%E4%B9%8E%E4%B8%8D%E9%9C%80%E8%A6%81%E5%9F%BA%E7%A1%80%E5%B2%97&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时27分"
+        },
         {
           "title": "红果短剧开始“筛人”",
           "url": "https://www.baidu.com/s?wd=%E7%BA%A2%E6%9E%9C%E7%9F%AD%E5%89%A7%E5%BC%80%E5%A7%8B%E2%80%9C%E7%AD%9B%E4%BA%BA%E2%80%9D",
           "source": "百度热搜",
           "ranks": [
-            6
+            6,
+            29
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时47分 ~ 06时02分]"
+          "appearance_count": 4,
+          "time_info": "[03时47分 ~ 09时27分]"
         },
         {
           "title": "房企20万拍短剧 千万流量能换成交吗",
@@ -33,7 +45,7 @@
     },
     {
       "keyword_group": "Deepseek",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "DeepSeek 拟新融资 1000 亿元，腾讯、宁德时代出资最多，这会不会改写国内大模型的竞争格局？",
@@ -51,11 +63,23 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367960&amp;topic_name=%E6%9B%9DDeepSeek%E5%AE%8C%E6%88%90%E5%8D%83%E4%BA%BF%E8%9E%8D%E8%B5%84",
           "source": "贴吧",
           "ranks": [
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时47分 ~ 06时02分]"
+          "appearance_count": 4,
+          "time_info": "[03时47分 ~ 09时27分]"
+        },
+        {
+          "title": "博主：DeepSeek打碎了AI很贵的共识",
+          "url": "https://www.toutiao.com/trending/7699976198847204927/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时27分"
         }
       ]
     }
