@@ -1,8 +1,36 @@
 {
-  "generated_at": "2026-10-25T03:21:47.650231+08:00",
-  "total_titles_processed": 379,
+  "generated_at": "2026-10-25T06:21:31.946038+08:00",
+  "total_titles_processed": 429,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "GPT",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "Kimi最强3万亿级模型来了！编程智能体测评超过GPT-6，3D建模与金融能力升级，11月4日前开放权重",
+          "url": "https://wallstreetcn.com/articles/3784358",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时30分 ~ 00时31分]"
+        },
+        {
+          "title": "为什么 chatgpt 和 claude 防不住蒸馏？",
+          "url": "https://www.zhihu.com/question/2097291551575749628",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时21分"
+        }
+      ]
+    },
     {
       "keyword_group": "Deepseek",
       "match_count": 2,
@@ -16,8 +44,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时30分 ~ 03时21分]"
+          "appearance_count": 4,
+          "time_info": "[00时30分 ~ 06时21分]"
         },
         {
           "title": "曝DeepSeek完成千亿融资",
@@ -27,8 +55,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时30分 ~ 03时21分]"
+          "appearance_count": 4,
+          "time_info": "[00时30分 ~ 06时21分]"
         }
       ]
     },
@@ -44,8 +72,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时31分 ~ 03时21分]"
+          "appearance_count": 3,
+          "time_info": "[00时31分 ~ 06时21分]"
         }
       ]
     },
@@ -61,25 +89,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时30分 ~ 03时21分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "GPT",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "Kimi最强3万亿级模型来了！编程智能体测评超过GPT-6，3D建模与金融能力升级，11月4日前开放权重",
-          "url": "https://wallstreetcn.com/articles/3784358",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时30分 ~ 00时31分]"
+          "appearance_count": 4,
+          "time_info": "[00时30分 ~ 06时21分]"
         }
       ]
     },
@@ -95,8 +106,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时31分 ~ 03时21分]"
+          "appearance_count": 3,
+          "time_info": "[00时31分 ~ 06时21分]"
         }
       ]
     }
