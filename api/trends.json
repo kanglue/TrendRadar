@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-25T00:31:08.918992+08:00",
-  "total_titles_processed": 313,
+  "generated_at": "2026-10-25T03:21:47.650231+08:00",
+  "total_titles_processed": 379,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://wallstreetcn.com/articles/3784386",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时30分 ~ 00时31分]"
+          "appearance_count": 3,
+          "time_info": "[00时30分 ~ 03时21分]"
         },
         {
           "title": "曝DeepSeek完成千亿融资",
@@ -26,8 +27,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时30分 ~ 00时31分]"
+          "appearance_count": 3,
+          "time_info": "[00时30分 ~ 03时21分]"
         }
       ]
     },
@@ -42,9 +43,9 @@
           "ranks": [
             7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时31分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时31分 ~ 03时21分]"
         }
       ]
     },
@@ -60,8 +61,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时30分 ~ 00时31分]"
+          "appearance_count": 3,
+          "time_info": "[00时30分 ~ 03时21分]"
         }
       ]
     },
@@ -93,9 +94,9 @@
           "ranks": [
             26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时31分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时31分 ~ 03时21分]"
         }
       ]
     }
