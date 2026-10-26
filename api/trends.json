@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-26T12:34:58.532692+08:00",
-  "total_titles_processed": 730,
+  "generated_at": "2026-10-26T18:54:51.154314+08:00",
+  "total_titles_processed": 954,
   "failed_sources": [],
   "trends": [
     {
@@ -14,7 +14,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时34分"
         },
@@ -25,7 +25,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时34分"
         },
@@ -36,7 +36,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时34分"
         }
@@ -44,7 +44,7 @@
     },
     {
       "keyword_group": "Deepseek",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "DeepSeek、MiniMax完成AI模型出海登记 合规路径落地提振国内AI“出海”信心",
@@ -71,12 +71,23 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时50分 ~ 08时01分]"
+        },
+        {
+          "title": "DeepSeek把自家“印钞机”开源了",
+          "url": "https://www.toutiao.com/trending/7700884077489950271/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时54分"
         }
       ]
     },
     {
       "keyword_group": "短剧",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "横店微短剧之夜",
@@ -89,6 +100,62 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时50分 ~ 08时01分]"
+        },
+        {
+          "title": "腾讯绿泡泡短剧小程序月活过亿，10月首周周活环比增长44.1%",
+          "url": "https://wallstreetcn.com/livenews/3185904",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时54分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "数字人",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "多所高校将通过数字人民币发工资",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%9A%E6%89%80%E9%AB%98%E6%A0%A1%E5%B0%86%E9%80%9A%E8%BF%87%E6%95%B0%E5%AD%97%E4%BA%BA%E6%B0%91%E5%B8%81%E5%8F%91%E5%B7%A5%E8%B5%84",
+          "source": "百度热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时54分"
+        },
+        {
+          "title": "多所高校将通过数字人民币发工资",
+          "url": "https://www.cls.cn/detail/2515011",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时54分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "字节",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "有传闻称字节跳动Seed团队AI研发核心负责人之一周畅已经提出离职，接近字节跳动的人士回应称，消息不实。",
+          "url": "https://flash.jin10.com/detail/20261026184809264800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时54分"
         }
       ]
     }
