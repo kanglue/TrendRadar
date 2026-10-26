@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-26T05:35:42.378792+08:00",
-  "total_titles_processed": 389,
+  "generated_at": "2026-10-26T08:01:15.536798+08:00",
+  "total_titles_processed": 511,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.cls.cn/detail/2514315",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时50分 ~ 05时35分]"
+          "appearance_count": 4,
+          "time_info": "[02时50分 ~ 08时01分]"
         },
         {
           "title": "DeepSeek到底怎么得罪了美国",
@@ -24,11 +25,13 @@
           "source": "今日头条",
           "ranks": [
             20,
-            19
+            19,
+            25,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时50分 ~ 05时35分]"
+          "appearance_count": 4,
+          "time_info": "[02时50分 ~ 08时01分]"
         }
       ]
     },
@@ -45,8 +48,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时50分 ~ 05时35分]"
+          "appearance_count": 4,
+          "time_info": "[02时50分 ~ 08时01分]"
         }
       ]
     }
