@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-28T04:00:16.012581+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-10-28T07:43:07.404906+08:00",
+  "total_titles_processed": 441,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,29 @@
           "url": "https://www.zhihu.com/question/2097994971261542927",
           "source": "知乎",
           "ranks": [
-            4
+            4,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时59分 ~ 07时43分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "Deepseek",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "DeepSeek七款工具同题实测",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E4%B8%83%E6%AC%BE%E5%B7%A5%E5%85%B7%E5%90%8C%E9%A2%98%E5%AE%9E%E6%B5%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            16
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[03时59分 ~ 04时00分]"
+          "time_info": "[07时42分 ~ 07时43分]"
         }
       ]
     },
@@ -29,11 +47,12 @@
           "url": "https://wallstreetcn.com/articles/3784531",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时59分 ~ 04时00分]"
+          "appearance_count": 4,
+          "time_info": "[03时59分 ~ 07时43分]"
         }
       ]
     }
