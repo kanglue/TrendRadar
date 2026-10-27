@@ -1,228 +1,39 @@
 {
-  "generated_at": "2026-10-27T22:16:31.712317+08:00",
-  "total_titles_processed": 1071,
+  "generated_at": "2026-10-28T04:00:16.012581+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "短剧",
-      "match_count": 3,
+      "match_count": 1,
       "titles": [
         {
           "title": "红果短剧引发年轻人「戒断潮」，如何看待这一现象？短剧为何让人欲罢不能？",
           "url": "https://www.zhihu.com/question/2097994971261542927",
           "source": "知乎",
           "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时16分"
-        },
-        {
-          "title": "AI短剧演技比真人还好",
-          "url": "https://s.weibo.com/weibo?q=AI%E7%9F%AD%E5%89%A7%E6%BC%94%E6%8A%80%E6%AF%94%E7%9C%9F%E4%BA%BA%E8%BF%98%E5%A5%BD&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时37分"
-        },
-        {
-          "title": "红果短剧：将进一步加大对低质和同质化内容的治理力度",
-          "url": "https://wallstreetcn.com/livenews/3186680",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时37分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "Deepseek",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "DeepSeek七款工具同题实测",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E4%B8%83%E6%AC%BE%E5%B7%A5%E5%85%B7%E5%90%8C%E9%A2%98%E5%AE%9E%E6%B5%8B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3,
-            13,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时14分 ~ 10时01分]"
-        },
-        {
-          "title": "DeepSeek 营收只有几亿，却融资上千亿，这种模式合理吗？",
-          "url": "https://www.zhihu.com/question/2095940115537334577",
-          "source": "知乎",
-          "ranks": [
-            6,
             4
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时14分 ~ 06时31分]"
+          "time_info": "[03时59分 ~ 04时00分]"
         }
       ]
     },
     {
       "keyword_group": "智谱",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
         {
           "title": "科创50跌4%，千元股仅剩贵州茅台，工行建行再创新高，30年期国债创年内新高，恒科指跌超1%，智谱涨9%",
           "url": "https://wallstreetcn.com/articles/3784531",
           "source": "华尔街见闻",
           "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时16分"
-        },
-        {
-          "title": "恒指高开0.21%，报23260.14点；恒生科技指数涨0.74%。联想集团涨超5%，药明康德涨近5%，华虹宏力、智谱涨超4%。",
-          "url": "https://wallstreetcn.com/livenews/3186550",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时01分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "算法",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "OpenAI宣布AI取得三项科学突破，涉及数学猜想、计算机算法及千禧年难题",
-          "url": "https://flash.jin10.com/detail/20261027055044639800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时31分"
-        },
-        {
-          "title": "OpenAI宣布AI取得三项科学突破，涉及数学猜想、计算机算法及千禧年难题",
-          "url": "https://wallstreetcn.com/livenews/3186491",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时31分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "数字人",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "江苏多所高校将用数字人民币发工资，数字人民币与银行卡发工资有啥区别？这一举措会带来哪些改变？",
-          "url": "https://www.zhihu.com/question/2098056179788391425",
-          "source": "知乎",
-          "ranks": [
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时00分 ~ 15时37分]"
-        },
-        {
-          "title": "多所高校将通过数字人民币发工资",
-          "url": "https://www.toutiao.com/trending/7700842846840750602/",
-          "source": "今日头条",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时31分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "GPT",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "如何评价 OpenAI 发布的 GPT-6.1 Terra？",
-          "url": "https://www.zhihu.com/question/2098252387312058852",
-          "source": "知乎",
-          "ranks": [
-            12
+            6
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时00分 ~ 10时01分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "Apple",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "苹果回应iPhone Duo内屏开裂：大多数设备不受影响，用户可联系AppleCare换机",
-          "url": "https://www.cls.cn/detail/2515848",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时00分 ~ 10时01分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "MiniMax",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "港股“大模型双雄”双双上涨，智谱(02513.HK)涨超10%，MINIMAX-W(00100.HK)涨超4%。",
-          "url": "https://flash.jin10.com/detail/20261027094828221800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时01分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "大模型",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "谷歌 CEO 称「宁可牺牲云业务利润，也要打赢前沿大模型生死战」，大模型对于谷歌有多重要？",
-          "url": "https://www.zhihu.com/question/2097989360473694568",
-          "source": "知乎",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时37分"
+          "time_info": "[03时59分 ~ 04时00分]"
         }
       ]
     }
