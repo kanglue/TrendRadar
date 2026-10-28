@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-28T13:02:13.968126+08:00",
-  "total_titles_processed": 666,
+  "generated_at": "2026-10-28T20:30:38.745500+08:00",
+  "total_titles_processed": 932,
   "failed_sources": [],
   "trends": [
     {
@@ -72,9 +72,43 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时02分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "GPT",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "31岁女生按ChatGPT指示减药后去世",
+          "url": "https://www.baidu.com/s?wd=31%E5%B2%81%E5%A5%B3%E7%94%9F%E6%8C%89ChatGPT%E6%8C%87%E7%A4%BA%E5%87%8F%E8%8D%AF%E5%90%8E%E5%8E%BB%E4%B8%96",
+          "source": "百度热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时30分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "字节",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "如何评价秦朔发文《可怕的红果与中国互联网的字节时间》？",
+          "url": "https://www.zhihu.com/question/2098759832840794159",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时30分"
         }
       ]
     },
@@ -94,6 +128,23 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[03时59分 ~ 13时02分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "世界模型",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "谷歌推出最强世界模型Genie 4，模拟时长翻倍至2分钟、首次实现音视频同步生成，游戏股再迎AI冲击",
+          "url": "https://wallstreetcn.com/articles/3784604",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时30分"
         }
       ]
     }
