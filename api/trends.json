@@ -1,148 +1,39 @@
 {
-  "generated_at": "2026-10-30T20:32:39.009709+08:00",
-  "total_titles_processed": 895,
+  "generated_at": "2026-10-31T02:31:15.543713+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "短剧",
-      "match_count": 5,
+      "match_count": 1,
       "titles": [
         {
           "title": "如何看待红果短剧跃升为国内第四大app？它瓜分了谁的市场？",
           "url": "https://www.zhihu.com/question/2099125476149274126",
           "source": "知乎",
           "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时14分"
-        },
-        {
-          "title": "短剧绘出普通人的生活群像",
-          "url": "https://www.douyin.com/hot/2719608",
-          "source": "抖音",
-          "ranks": [
-            25,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时11分 ~ 13时14分]"
-        },
-        {
-          "title": "红果短剧凭什么这么红",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%BA%A2%E6%9E%9C%E7%9F%AD%E5%89%A7%E5%87%AD%E4%BB%80%E4%B9%88%E8%BF%99%E4%B9%88%E7%BA%A2%23&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20
+            14
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时11分 ~ 07时12分]"
-        },
+          "time_info": "[02时30分 ~ 02时31分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "Deepseek",
+      "match_count": 1,
+      "titles": [
         {
-          "title": "如何评价 AI 短剧《大明, 李景隆的别样人生》？",
-          "url": "https://www.zhihu.com/question/2060278561760605556",
+          "title": "怎么看 DeepSeek 官网 JS 出现 Cyber 申请，以后开源模型都会削弱网络安全能力吗？",
+          "url": "https://www.zhihu.com/question/2099480874530228121",
           "source": "知乎",
           "ranks": [
-            6
+            18
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时54分"
-        },
-        {
-          "title": "【明日主题前瞻】字节跳动旗下即梦短剧工作室上线，AI短剧行业规模有望延续高速扩容",
-          "url": "https://www.cls.cn/detail/2519325",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时54分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "数字人",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "工资改发数字人民币了有啥变化",
-          "url": "https://www.toutiao.com/trending/7702016939769646619/",
-          "source": "今日头条",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时54分 ~ 13时14分]"
-        },
-        {
-          "title": "工资改发数字人民币有何变化",
-          "url": "https://search.bilibili.com/all?keyword=%E5%B7%A5%E8%B5%84%E6%94%B9%E5%8F%91%E6%95%B0%E5%AD%97%E4%BA%BA%E6%B0%91%E5%B8%81%E6%9C%89%E4%BD%95%E5%8F%98%E5%8C%96",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时54分 ~ 07时12分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "GPT",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "如何评价 Tibo 正式宣布所有 GPT Pro 订阅额度翻倍，撤回原定的 Pro $200 额度下降？",
-          "url": "https://www.zhihu.com/question/2099310539591758326",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时14分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "MiniMax",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "英伟达团队基于MiniMaxH3开源视频增强方案，最高支持4K重生成",
-          "url": "https://wallstreetcn.com/livenews/3191655",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时32分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "大模型",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "谷歌重夺大模型第一 华尔街却不买账",
-          "url": "https://www.baidu.com/s?wd=%E8%B0%B7%E6%AD%8C%E9%87%8D%E5%A4%BA%E5%A4%A7%E6%A8%A1%E5%9E%8B%E7%AC%AC%E4%B8%80+%E5%8D%8E%E5%B0%94%E8%A1%97%E5%8D%B4%E4%B8%8D%E4%B9%B0%E8%B4%A6",
-          "source": "百度热搜",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时14分"
+          "appearance_count": 2,
+          "time_info": "[02时30分 ~ 02时31分]"
         }
       ]
     }
