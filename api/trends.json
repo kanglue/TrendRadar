@@ -1,134 +1,8 @@
 {
-  "generated_at": "2026-11-01T21:02:08.817234+08:00",
-  "total_titles_processed": 820,
+  "generated_at": "2026-11-02T02:24:22.476417+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
-    {
-      "keyword_group": "Deepseek",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "DeepSeek发布全新Agent架构",
-          "url": "https://wallstreetcn.com/livenews/3191994",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时51分 ~ 13时28分]"
-        },
-        {
-          "title": "如何评价 Deepseek Harness 发布的 super-agent 构想？",
-          "url": "https://www.zhihu.com/question/2099984457524572950",
-          "source": "知乎",
-          "ranks": [
-            2,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时28分 ~ 21时02分]"
-        },
-        {
-          "title": "DeepSeek重磅发布：AI开始指挥AI干活",
-          "url": "https://www.baidu.com/s?wd=DeepSeek%E9%87%8D%E7%A3%85%E5%8F%91%E5%B8%83%EF%BC%9AAI%E5%BC%80%E5%A7%8B%E6%8C%87%E6%8C%A5AI%E5%B9%B2%E6%B4%BB",
-          "source": "百度热搜",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时50分 ~ 07时16分]"
-        },
-        {
-          "title": "DeepSeek发布全新Agent架构",
-          "url": "https://www.baidu.com/s?wd=DeepSeek%E5%8F%91%E5%B8%83%E5%85%A8%E6%96%B0Agent%E6%9E%B6%E6%9E%84",
-          "source": "百度热搜",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时50分 ~ 07时16分]"
-        },
-        {
-          "title": "怎么看百度搜索降价千次 4.9 元，这是针对 DeepSeek 搜索的千次 5 元吗？",
-          "url": "https://www.zhihu.com/question/2099967799934313950",
-          "source": "知乎",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时01分 ~ 21时02分]"
-        },
-        {
-          "title": "DeepSeek重磅开源：Agent底座架构！",
-          "url": "https://wallstreetcn.com/livenews/3191979",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时51分 ~ 07时16分]"
-        },
-        {
-          "title": "DeepSeek联手华为能否击穿英伟达CUDA",
-          "url": "https://www.toutiao.com/trending/7702513613042355722/",
-          "source": "今日头条",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时50分 ~ 03时51分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "短剧",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "红果短剧年营收超 150 亿，为什么有创作者称两个月 11 部剧只赚了 9 块 6？",
-          "url": "https://www.zhihu.com/question/2099456582853605372",
-          "source": "知乎",
-          "ranks": [
-            2,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时50分 ~ 07时16分]"
-        },
-        {
-          "title": "短剧《太奶奶5》上线首日热度破亿",
-          "url": "https://www.baidu.com/s?wd=%E7%9F%AD%E5%89%A7%E3%80%8A%E5%A4%AA%E5%A5%B6%E5%A5%B65%E3%80%8B%E4%B8%8A%E7%BA%BF%E9%A6%96%E6%97%A5%E7%83%AD%E5%BA%A6%E7%A0%B4%E4%BA%BF",
-          "source": "百度热搜",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时01分 ~ 21时02分]"
-        },
-        {
-          "title": "白月光短剧太奶家族回归",
-          "url": "https://www.douyin.com/hot/2722576",
-          "source": "抖音",
-          "ranks": [
-            24,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时16分 ~ 13时28分]"
-        }
-      ]
-    },
     {
       "keyword_group": "即梦",
       "match_count": 1,
@@ -138,46 +12,28 @@
           "url": "https://www.douyin.com/hot/2723873",
           "source": "抖音",
           "ranks": [
-            4
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时01分 ~ 21时02分]"
+          "appearance_count": 1,
+          "time_info": "02时24分"
         }
       ]
     },
     {
-      "keyword_group": "Apple",
+      "keyword_group": "Deepseek",
       "match_count": 1,
       "titles": [
         {
-          "title": "阿里宣布与苹果合作，将千问集成至Apple智能",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34374626",
-          "source": "澎湃新闻",
+          "title": "怎么看百度搜索降价千次 4.9 元，这是针对 DeepSeek 搜索的千次 5 元吗？",
+          "url": "https://www.zhihu.com/question/2099967799934313950",
+          "source": "知乎",
           "ranks": [
-            6,
-            9
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时50分 ~ 07时16分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "世界模型",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "西湖大学成立世界模型研究中心",
-          "url": "https://wallstreetcn.com/livenews/3191981",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时51分 ~ 07时16分]"
+          "appearance_count": 1,
+          "time_info": "02时24分"
         }
       ]
     },
@@ -190,11 +46,11 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_34376118",
           "source": "澎湃新闻",
           "ranks": [
-            17
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时01分 ~ 21时02分]"
+          "appearance_count": 1,
+          "time_info": "02时24分"
         }
       ]
     }
