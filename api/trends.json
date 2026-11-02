@@ -1,22 +1,45 @@
 {
-  "generated_at": "2026-11-02T10:16:33.811662+08:00",
-  "total_titles_processed": 573,
+  "generated_at": "2026-11-02T18:49:09.084242+08:00",
+  "total_titles_processed": 839,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "短剧",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "为何 AI 短剧好像放弃了清宫戏，而更倾向于唐 / 宋 / 架空朝代？跟观众偏好、技术、选题、价值观有啥关系吗？",
           "url": "https://www.zhihu.com/question/2100281204884731770",
           "source": "知乎",
           "ranks": [
-            4
+            4,
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时16分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时16分 ~ 18时49分]"
+        },
+        {
+          "title": "红果日活 1.68 亿，AI 短剧一集可能只赚一块钱，对此你怎么看？AI 短剧为何不赚钱？",
+          "url": "https://www.zhihu.com/question/2098854103598239840",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时48分 ~ 18时49分]"
+        },
+        {
+          "title": "35岁中专小伙“手搓”AI短剧走红",
+          "url": "https://www.toutiao.com/trending/7703172995954638890/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时48分 ~ 18时49分]"
         },
         {
           "title": "台媒劝少看红果短剧反被喷",
@@ -25,7 +48,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时16分"
         }
@@ -33,7 +56,7 @@
     },
     {
       "keyword_group": "Deepseek",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "怎么看百度搜索降价千次 4.9 元，这是针对 DeepSeek 搜索的千次 5 元吗？",
@@ -48,15 +71,54 @@
           "time_info": "[02时24分 ~ 06时40分]"
         },
         {
+          "title": "DeepSeek Agent小白教程",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20Agent%E5%B0%8F%E7%99%BD%E6%95%99%E7%A8%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时48分 ~ 18时49分]"
+        },
+        {
           "title": "DeepSeek亮出“超级智能体”架构",
           "url": "https://www.toutiao.com/trending/7703258129567321638/",
           "source": "今日头条",
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时16分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "漫剧",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "【午报】创业板指半日涨超3%，全市场超4700只个股飘红，AI漫剧概念涨幅居前",
+          "url": "https://www.cls.cn/detail/2522235",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时48分 ~ 18时49分]"
+        },
+        {
+          "title": "【每日收评】三大指数均涨超1%，全市场逾百股涨停，AI漫剧概念再度爆发",
+          "url": "https://www.cls.cn/detail/2522567",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时48分 ~ 18时49分]"
         }
       ]
     },
@@ -80,6 +142,40 @@
       ]
     },
     {
+      "keyword_group": "字节",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "人民网评“字节时间”争议",
+          "url": "https://www.baidu.com/s?wd=%E4%BA%BA%E6%B0%91%E7%BD%91%E8%AF%84%E2%80%9C%E5%AD%97%E8%8A%82%E6%97%B6%E9%97%B4%E2%80%9D%E4%BA%89%E8%AE%AE",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时48分 ~ 18时49分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "腾讯",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "腾讯混元发布Hyra 2.0",
+          "url": "https://flash.jin10.com/detail/20261102181524221800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时49分"
+        }
+      ]
+    },
+    {
       "keyword_group": "MiniMax",
       "match_count": 1,
       "titles": [
@@ -90,7 +186,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时16分"
         }
