@@ -1,50 +1,64 @@
 {
-  "generated_at": "2026-11-06T02:39:31.952126+08:00",
-  "total_titles_processed": 312,
+  "generated_at": "2026-11-06T08:01:33.369430+08:00",
+  "total_titles_processed": 457,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "短剧",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
-        {
-          "title": "AI短剧为何几乎没有清宫戏",
-          "url": "https://www.toutiao.com/trending/7704623276374363658/",
-          "source": "今日头条",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时39分"
-        },
         {
           "title": "冯远征认为 AI 短剧里的角色长相完美，却让人看完就忘，「因为角色没有呼吸」，你同意此观点吗？",
           "url": "https://www.zhihu.com/question/2101279300045338395",
           "source": "知乎",
           "ranks": [
-            13
+            13,
+            9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时39分"
+          "appearance_count": 2,
+          "time_info": "[02时39分 ~ 08时01分]"
+        },
+        {
+          "title": "AI短剧为何几乎没有清宫戏",
+          "url": "https://www.toutiao.com/trending/7704623276374363658/",
+          "source": "今日头条",
+          "ranks": [
+            10,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时39分 ~ 08时01分]"
         },
         {
           "title": "全看懂的前途一片短剧",
           "url": "https://www.baidu.com/s?wd=%E5%85%A8%E7%9C%8B%E6%87%82%E7%9A%84%E5%89%8D%E9%80%94%E4%B8%80%E7%89%87%E7%9F%AD%E5%89%A7",
           "source": "百度热搜",
           "ranks": [
-            27
+            27,
+            30
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时39分 ~ 08时01分]"
+        },
+        {
+          "title": "54岁大哥靠AI短剧还清负债",
+          "url": "https://s.weibo.com/weibo?q=%2354%E5%B2%81%E5%A4%A7%E5%93%A5%E9%9D%A0AI%E7%9F%AD%E5%89%A7%E8%BF%98%E6%B8%85%E8%B4%9F%E5%80%BA%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时39分"
+          "time_info": "08时01分"
         }
       ]
     },
     {
       "keyword_group": "GPT",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "OpenAI推出GPT-6 Cyber网络安全模型 漏洞检测能力超越GPT-6 Astra",
@@ -56,6 +70,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时39分"
+        },
+        {
+          "title": "圆桌｜具身智能为何有些场景还“没打穿”？企业何时能赚钱？离“ChatGPT时刻”还差什么？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34412734",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时01分"
         },
         {
           "title": "OpenAI推出GPT-6 Cyber，其网络安全评级为“关键”级",
