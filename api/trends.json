@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-06T08:01:33.369430+08:00",
-  "total_titles_processed": 457,
+  "generated_at": "2026-11-06T14:27:16.120204+08:00",
+  "total_titles_processed": 690,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "短剧",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "冯远征认为 AI 短剧里的角色长相完美，却让人看完就忘，「因为角色没有呼吸」，你同意此观点吗？",
@@ -32,6 +32,17 @@
           "time_info": "[02时39分 ~ 08时01分]"
         },
         {
+          "title": "如何看待当年大陆追台湾偶像剧，到如今台湾追大陆红果短剧的变化？",
+          "url": "https://www.zhihu.com/question/2101429214150910118",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时26分 ~ 14时27分]"
+        },
+        {
           "title": "全看懂的前途一片短剧",
           "url": "https://www.baidu.com/s?wd=%E5%85%A8%E7%9C%8B%E6%87%82%E7%9A%84%E5%89%8D%E9%80%94%E4%B8%80%E7%89%87%E7%9F%AD%E5%89%A7",
           "source": "百度热搜",
@@ -50,7 +61,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时01分"
         }
@@ -60,6 +71,18 @@
       "keyword_group": "GPT",
       "match_count": 3,
       "titles": [
+        {
+          "title": "圆桌｜具身智能为何有些场景还“没打穿”？企业何时能赚钱？离“ChatGPT时刻”还差什么？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34412734",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时01分 ~ 14时27分]"
+        },
         {
           "title": "OpenAI推出GPT-6 Cyber网络安全模型 漏洞检测能力超越GPT-6 Astra",
           "url": "https://flash.jin10.com/detail/20261106015854922800",
@@ -72,17 +95,6 @@
           "time_info": "02时39分"
         },
         {
-          "title": "圆桌｜具身智能为何有些场景还“没打穿”？企业何时能赚钱？离“ChatGPT时刻”还差什么？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34412734",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时01分"
-        },
-        {
           "title": "OpenAI推出GPT-6 Cyber，其网络安全评级为“关键”级",
           "url": "https://wallstreetcn.com/livenews/3195268",
           "source": "华尔街见闻-快讯",
@@ -92,6 +104,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时39分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "Deepseek",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "DeepSeek最新Super Agent实测",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20Super%20Agent",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时26分 ~ 14时27分]"
+        },
+        {
+          "title": "中国模型领跑美国企业开源模型支出 Kimi、DeepSeek分列前二",
+          "url": "https://wallstreetcn.com/livenews/3195594",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时27分"
         }
       ]
     },
