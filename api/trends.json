@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-07T09:08:54.637345+08:00",
-  "total_titles_processed": 488,
+  "generated_at": "2026-11-07T14:58:01.834369+08:00",
+  "total_titles_processed": 706,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "短剧",
-      "match_count": 4,
+      "match_count": 7,
       "titles": [
         {
           "title": "如何看待广电总局重申未来将把重点放在扶持真人短剧，以及规范 AI 短剧？这对短剧行业会带来哪些影响？",
@@ -13,11 +13,45 @@
           "source": "知乎",
           "ranks": [
             5,
-            1
+            1,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[05时37分 ~ 14时58分]"
+        },
+        {
+          "title": "AI短剧迎来“拿到大结果”时刻？券商看好产业链价值重估，平台与IP端有望受益",
+          "url": "https://www.cls.cn/detail/2528002",
+          "source": "财联社热门",
+          "ranks": [
+            7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[05时37分 ~ 09时08分]"
+          "time_info": "[14时57分 ~ 14时58分]"
+        },
+        {
+          "title": "马上评｜看个短剧花了22万，这样收割老人太“烧心”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34420819",
+          "source": "澎湃新闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时57分 ~ 14时58分]"
+        },
+        {
+          "title": "6位草根做AI短剧播放破120亿",
+          "url": "https://www.toutiao.com/trending/7705239290376097307/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时57分 ~ 14时58分]"
         },
         {
           "title": "【图解牛熊股】4只AI短剧概念股周涨幅超50%",
@@ -48,7 +82,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时08分"
         }
@@ -63,11 +97,12 @@
           "url": "https://search.bilibili.com/all?keyword=DeepSeek%20Harness",
           "source": "bilibili 热搜",
           "ranks": [
-            8
+            8,
+            25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时08分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时08分 ~ 14时58分]"
         },
         {
           "title": "Kimi与DeepSeek开始换打法了吗",
@@ -76,9 +111,26 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时08分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "大模型",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "日媒反思为何中国不断诞生AI大模型",
+          "url": "https://www.toutiao.com/trending/7705205880903663658/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时57分 ~ 14时58分]"
         }
       ]
     }
