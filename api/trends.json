@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-10T04:34:49.946243+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-11-10T11:20:46.238873+08:00",
+  "total_titles_processed": 528,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "短剧",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "《持械入宋》总策划：“草台班子”如何做出爆款短剧？",
@@ -19,6 +19,17 @@
           "time_info": "04时34分"
         },
         {
+          "title": "AI 短剧《持械入宋》为什么能火爆出圈？",
+          "url": "https://www.zhihu.com/question/2101701219836060907",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时20分"
+        },
+        {
           "title": "河南大学生用AI做短剧营收超百万",
           "url": "https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%97%E5%A4%A7%E5%AD%A6%E7%94%9F%E7%94%A8AI%E5%81%9A%E7%9F%AD%E5%89%A7%E8%90%A5%E6%94%B6%E8%B6%85%E7%99%BE%E4%B8%87",
           "source": "百度热搜",
@@ -28,6 +39,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时34分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "漫剧",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "A股AI漫剧概念持续拉升，华策影视回封20cm涨停，此前文投控股、慈文传媒、新炬网络、天威视讯、引力传媒等多股涨停，华智数媒、百纳千成涨超10%。",
+          "url": "https://flash.jin10.com/detail/20261110105150446800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时20分"
         }
       ]
     },
@@ -57,11 +85,12 @@
           "url": "https://search.bilibili.com/all?keyword=%E8%AE%A9%E4%B9%9D%E4%B8%AAAI%E5%A4%A7%E6%A8%A1%E5%9E%8B%E7%8E%A9%E9%80%A0%E6%A1%A5",
           "source": "bilibili 热搜",
           "ranks": [
-            14
+            14,
+            25
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时34分"
+          "appearance_count": 2,
+          "time_info": "[04时34分 ~ 11时20分]"
         }
       ]
     }
