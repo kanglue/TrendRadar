@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-12T01:49:27.520121+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-11-12T08:22:31.789622+08:00",
+  "total_titles_processed": 465,
   "failed_sources": [],
   "trends": [
     {
@@ -12,22 +12,24 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_34447459",
           "source": "澎湃新闻",
           "ranks": [
-            4
+            4,
+            8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时49分"
+          "appearance_count": 2,
+          "time_info": "[01时49分 ~ 08时22分]"
         },
         {
           "title": "赵丽颖起诉红果短剧",
           "url": "https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E8%B5%B7%E8%AF%89%E7%BA%A2%E6%9E%9C%E7%9F%AD%E5%89%A7%23&t=31&band_rank=6&Refer=top",
           "source": "微博",
           "ranks": [
-            6
+            6,
+            13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时49分"
+          "appearance_count": 2,
+          "time_info": "[01时49分 ~ 08时22分]"
         },
         {
           "title": "赵丽颖起诉红果短剧侵犯肖像权",
@@ -37,8 +39,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时49分"
+          "appearance_count": 2,
+          "time_info": "[01时49分 ~ 08时22分]"
         },
         {
           "title": "红果公告称严打短剧多人撞脸",
